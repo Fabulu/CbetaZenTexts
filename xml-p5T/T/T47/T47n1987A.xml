@@ -1,0 +1,814 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/cbeta-org/xml-p5/master/schema/cbeta-p5.rnc" type="application/relax-ng-compact-syntax"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:cb="http://www.cbeta.org/ns/1.0" xml:id="T47n1987A">
+<teiHeader>
+	<fileDesc>
+		<titleStmt>
+			<title level="s">Taishō Tripiṭaka</title>
+			<title level="s" xml:lang="zh-Hant">Taishō Revised Buddhist Canon</title>
+			<title level="m" xml:lang="zh-Hant">Recorded Sayings of Chan Master Yuanzheng of Caoshan, Fuzhou</title>
+			<title>Taishō Tripiṭaka, Electronic version, No. 1987A Recorded Sayings of Chan Master Yuanzheng of Caoshan, Fuzhou</title>
+			<title xml:lang="zh-Hant">Taishō Revised Buddhist Canon, Digital Edition, No. 1987A Recorded Sayings of Chan Master Yuanzheng of Caoshan, Fuzhou</title>
+			<author>Japan, collated by Huiyin</author>
+			<respStmt>
+				<resp>Electronic Version by</resp>
+				<name>CBETA</name>
+			</respStmt>
+		</titleStmt>
+		<editionStmt>
+			<edition>XML TEI P5</edition>
+			<respStmt xml:id="resp1"><resp>corrections</resp><name>orig</name></respStmt>
+			<respStmt xml:id="resp2"><resp>corrections</resp><name>Taisho</name></respStmt>
+			<respStmt xml:id="resp3"><resp>corrections</resp><name>CBETA</name></respStmt>
+			<respStmt xml:id="resp4"><resp>corrections</resp><name>CBETA.maha</name></respStmt>
+		</editionStmt>
+		<extent>1 fascicle</extent>
+		<publicationStmt>
+			<idno type="CBETA">
+				<idno type="canon">T</idno>.<idno type="vol">47</idno>.<idno type="no">1987A</idno>
+			</idno>
+			<distributor>
+				<name>Buddhist Electronic Text Association Foundation (CBETA)</name>
+				<address>
+					<addrLine><email>service@cbeta.org</email></addrLine>
+				</address>
+			</distributor>
+			<availability>
+				<p>Available for non-commercial use when distributed with this header intact.</p>
+			</availability>
+			<date>2025-02-03 09:13:42 +0800</date>
+		</publicationStmt>
+		<sourceDesc>
+			<bibl>Taishō Revised Buddhist Canon</bibl>
+		</sourceDesc>
+	</fileDesc>
+	<encodingDesc>
+		<projectDesc>
+			<p xml:lang="en" cb:type="ly">Text as provided by Mr. Hsiao Chen-Kuo, Text as provided by Electronic Buddhadharma Society (EBS), Text as provided by Anonymous from USA</p>
+			<p xml:lang="zh-Hant" cb:type="ly">Provided by Venerable Hsiao Chen-Kuo; provided by the Buddhist Computer Information Database Merit Society; provided by a certain benefactor in North America</p>
+		</projectDesc>
+		<editorialDecl>
+			<punctuation resp="#resp1"><p>Punctuation from the original book</p></punctuation>
+		</editorialDecl>
+		<tagsDecl>
+			<namespace name="http://www.tei-c.org/ns/1.0">
+				<tagUsage gi="rdg">
+					<listWit>
+						<witness xml:id="wit.cbeta">【CB】</witness>
+						<witness xml:id="wit.orig">【Taishō】</witness>
+						<witness xml:id="wit1">【Original】</witness>
+						<witness xml:id="wit2">【A】</witness>
+					</listWit>
+				</tagUsage>
+			</namespace>
+		</tagsDecl>
+		<charDecl>
+			<char xml:id="CB01223">
+				<charName>CBETA CHARACTER CB01223</charName>
+				<charProp>
+					<localName>composition</localName>
+					<value>[口*耶]</value>
+				</charProp>
+				<mapping type="unicode">U+35BF</mapping>
+				<mapping cb:dec="984263" type="PUA">U+F04C7</mapping>
+			</char>
+		</charDecl>
+	</encodingDesc>
+	<profileDesc>
+		<langUsage>
+			<language ident="en">English</language>
+			<language ident="zh-Hant">Chinese (Traditional)</language>
+		</langUsage>
+	</profileDesc>
+	<revisionDesc>
+		<change when="2013-05-20">
+			<name>CW</name><name>Ray Chou 周邦信</name>P4 to P5 conversion by p4top5a.py, intended for publication
+		</change>
+		<change when="2000-08-10T15:07:55">
+			CW (ed.) Created initial TEI XML version with BASICX.BAT (00/01/24)
+		</change>
+	</revisionDesc>
+</teiHeader>
+<text><body>
+<milestone n="1" unit="juan"/>
+<lb n="0526b24" ed="T"/>
+<lb n="0526b25" ed="T"/>
+<lb n="0526b26" ed="T"/><cb:docNumber>No. 1987A</cb:docNumber>
+<lb n="0526b27" ed="T"/><cb:div type="xu"><cb:mulu level="1" type="序">Preface to the Recorded Sayings of Great Master Caoshan</cb:mulu><head><anchor xml:id="nkr_note_orig_0526001" n="0526001"/>Preface to the Recorded Sayings of Great Master Caoshan</head>
+<lb n="0526b28" ed="T"/>
+<lb n="0526b29" ed="T"/><p xml:id="pT47p0526b2901">Chan Master Benji with respect to Dongshan was simply pouring out the bottle, that is all. Once he left, there was no
+<pb n="0526c" xml:id="T47.1987A.0526c" ed="T"/>
+<lb n="0526c01" ed="T"/>place of change or alteration. As for the way of abiding in and upholding the Great Dharma, then he was greatly different from the rest.
+<lb n="0526c02" ed="T"/>Only because of the true proclamation did he cause people to arrive at true realization. Only the true is deep, mysterious, and refined to the essence.
+<lb n="0526c03" ed="T"/>Therefore it is hard to see it all at once. The world takes it to be level and plain, with no living function or heroic strategy. Alas!
+<lb n="0526c04" ed="T"/>How could shallow people know whether, in the times, because of truth and falsity the Way comes to prosperity or decline?
+<lb n="0526c05" ed="T"/>In truth they do not know it, and so there are perverse words. The essentials of the Master's sayings lie in the Three Falls, showing the cultivation and ordering of stages and ranks, communicating across kinds to ordinary and sage, and clarifying the ripeness and unripeness of the Way.
+<lb n="0526c06" ed="T"/>It is what the ancestral master Dongshan spoke of: “the Way accords with people; people accord with the Way; old and not old; the subtlety of the matter and its substance.”
+<lb n="0526c07" ed="T"/>If one knows it, it cannot be concealed; yet today there is only concealment, and much of it. During the Yuanwen era
+<lb n="0526c08" ed="T"/>there were those who circulated it together with the Record of Dongshan, and this too did not suit the crowd’s covering of eyes.
+<lb n="0526c09" ed="T"/>In the autumn of the gengchen year, the assembly of auspicious patched-robes came to me to compile the record.
+<lb n="0526c10" ed="T"/>They carved printing blocks wishing to circulate it together with the Record of the ancestral master Dongshan, in order to correct the times’ delusive errors.
+<lb n="0526c11" ed="T"/>It may be called a good intention, hoping for a good recompense. Moreover they came to ask me to write an introductory passage.
+<lb n="0526c12" ed="T"/>So I have set forth the most essential points in the record, to place at its head. Only because Caoshan’s views show his model of the Way,
+<lb n="0526c13" ed="T"/>it is enough to bring forth that intent, that is all. At that time</p>
+<lb n="0526c15" ed="T"/><p xml:id="pT47p0526c1501" style="margin-left:2em">On the first auspicious day of the first month of the eleventh year of Baoli, xinsi. Yin Zhiyue,
+<lb n="0526c16" ed="T"/>after washing and offering incense, wrote this preface.</p></cb:div>
+<lb n="0526c17" ed="T"/>
+<lb n="0526c18" ed="T"/>
+<lb n="0526c19" ed="T"/><cb:juan n="001" fun="open"><cb:mulu n="1" type="卷"></cb:mulu><cb:jhead>Recorded Sayings of Chan Master Yuanzheng of Caoshan, Fuzhou</cb:jhead></cb:juan>
+<lb n="0526c20" ed="T"/>
+<lb n="0526c21" ed="T"/><byline cb:type="Other">Edited and revised by the distant descendant, the śramaṇa Huiyin</byline>
+<lb n="0526c22" ed="T"/><cb:div type="other"><p xml:id="pT47p0526c2201">The Master’s Dharma name was Benji, a son of the Huang clan of Putian in Quanzhou. In youth he studied Confucian learning. At age nineteen
+<lb n="0526c23" ed="T"/>he went to Lingshi in Fuzhou and left home. At twenty-five he received full ordination. Seeking out, he went to pay respects to Dongshan. The mountain
+<lb n="0526c24" ed="T"/>asked, “Ācārya, what is your name?” The Master said, “Benji.” The mountain said, “Say something further upward.”
+<lb n="0526c25" ed="T"/>The Master said, “I won’t say.” The mountain said, “Why won’t you say?” The Master said, “It is not named Benji.”
+<lb n="0526c26" ed="T"/>The mountain greatly valued him. From then on he entered the inner room and lingered for several years. Then he took leave to depart. The mountain then
+<lb n="0526c27" ed="T"/>secretly transmitted the essential purport of Dongshan’s school, and again asked, “To what place are you going?” The Master said,
+<lb n="0526c28" ed="T"/>“I’m going to the place of no change or alteration.” The mountain said, “Does the place of no change or alteration have any going?” The Master said,
+<lb n="0526c29" ed="T"/>“Going, too, is no change or alteration.” Thereupon he went to Caoxi to pay homage at the Patriarch’s stupa, then returned to Jishui. The community revered
+<pb n="0527a" xml:id="T47.1987A.0527a" ed="T"/>
+<lb n="0527a01" ed="T"/>the Master’s name and requested that he open the Dharma. The Master aspired to the Sixth Patriarch, and so named the mountain Cao. Soon
+<lb n="0527a02" ed="T"/>he encountered bandit turmoil and went to Yihuang. There was a faithful patron, Wang Ruoyi, who donated the He-Wang Monastery
+<lb n="0527a03" ed="T"/>and invited the Master to reside as abbot. The Master renamed He-Wang as Heyu. From this the Dharma seat greatly flourished.
+<lb n="0527a04" ed="T"/>Students gathered like clouds. Dongshan’s school reached its flourishing with the Master.</p>
+<lb n="0527a05" ed="T"/><p xml:id="pT47p0527a0501">Because there was a monk who asked about the essential formula of the Five Ranks of ruler and minister, the Master said: “The rank of the proper is the realm of emptiness;
+<lb n="0527a06" ed="T"/>originally there is not a single thing. The rank of the partial is the realm of form, with the forms of the myriad phenomena. ‘The partial within the proper’ is
+<lb n="0527a07" ed="T"/>turning one’s back on principle and going along with matters. ‘The proper within the partial’ is abandoning matters and entering principle. ‘The combined’ is the dark accordance
+<lb n="0527a08" ed="T"/>with the many conditions, not falling into the various existences—neither tainted nor pure, neither proper nor partial. Therefore it is said: the empty,
+<lb n="0527a09" ed="T"/>mysterious great Way, the true school without attachment. From above, the former worthies have pushed this one rank as the most subtle,
+<lb n="0527a10" ed="T"/>the most mysterious. One should carefully examine and discern it clearly. The ruler is the proper rank; the minister is the partial rank. The minister turning toward
+<lb n="0527a11" ed="T"/>the ruler is ‘the proper within the partial’. The ruler regarding the minister is ‘the partial within the proper’. The ruler and minister’s Way in accord is
+<lb n="0527a12" ed="T"/>the language of the combined.” The monk went on: “What is the ruler?” The Master said: “Wondrous virtue venerates the cosmos;
+<lb n="0527a13" ed="T"/>lofty brightness illumines the great void.” He said: “What is the minister?” The Master said: “Numinous functioning expands the sagely Way;
+<lb n="0527a14" ed="T"/>true wisdom benefits living beings.” He said: “What is the minister turning toward the ruler?” The Master said: “Not falling into the various
+<lb n="0527a15" ed="T"/>different destinies, concentrating the mind and gazing upon the holy countenance.” He said: “What is the ruler regarding the minister?” The Master said: “Wondrous
+<lb n="0527a16" ed="T"/>countenance, though unmoving, its light shines without partiality.” He said: “What is the ruler and minister’s Way in accord?”
+<lb n="0527a17" ed="T"/>The Master said: “Blended so there is no inside or outside; harmonized and fused, above and below are level.” The Master also said: “Speaking of ruler and
+<lb n="0527a18" ed="T"/>minister as partial and proper is because we do not wish to violate the middle; therefore the minister, in calling the ruler, does not dare to speak bluntly—
+<lb n="0527a19" ed="T"/>that is so. This is the essential purport of my Dharma school.” Then he composed a verse saying: “Students must first recognize their own
+<lb n="0527a20" ed="T"/>school; do not mix the true boundary with stubborn emptiness. When the wondrously bright substance is exhausted, it knows what is harmful and what touches;
+<lb n="0527a21" ed="T"/>power lies in meeting conditions without borrowing the middle. When words are uttered, directly teach that fire cannot burn it;
+<lb n="0527a22" ed="T"/>in hidden practice one must be in accord with the ancients. Without body yet with affairs, one transcends the divergent paths;
+<lb n="0527a23" ed="T"/>without affairs and without body, one falls into beginning and end.” Again he composed the five images.</p><p xml:id="pT47p0527a2304" cb:place="inline"><figure><graphic url="../figures/T/T47p0527_01.gif"></graphic></figure></p><p xml:id="pT47p0527a2306" cb:place="inline">Verse says: A white-robed one must bow to the minister.
+This matter is not strange.
+Those who for generations wore hairpins and tassels,
+Do not say it is a time of destitution.</p><p xml:id="pT47p0527a2410" cb:place="inline"><figure><graphic url="../figures/T/T47p0527_02.gif"></graphic></figure></p><p xml:id="pT47p0527a2412" cb:place="inline">Verse says: At the zi hour one should be in the proper rank.
+Clearly the proper lies in ruler and minister.
+Not yet departed from the Tuṣita realm,
+A black rooster walks upon snow.</p><p xml:id="pT47p0527a2516" cb:place="inline"><figure><graphic url="../figures/T/T47p0527_03.gif"></graphic></figure></p><p xml:id="pT47p0527a2518" cb:place="inline">Verse
+<lb n="0527a26" ed="T"/>says: Within flames cold ice congeals.
+Willow floss flies in the ninth month.
+A mud ox bellows on the water’s surface.
+A wooden horse chases the wind and neighs.</p><p xml:id="pT47p0527a2705" cb:place="inline">○</p><p xml:id="pT47p0527a2707" cb:place="inline">Verse says: The day the king’s palace first descended,
+The jade rabbit could not depart.
+Not yet attaining the meaning of no-merit,
+Why are humans and devas so late?</p><p xml:id="pT47p0527a2811" cb:place="inline">●</p><p xml:id="pT47p0527a2813" cb:place="inline">Verse says: Blended, it conceals principle
+<lb n="0527a29" ed="T"/>and matters. Its signs are suddenly hard to make clear.
+King Wei-yin has not yet understood;
+How could Maitreya be so awake?<anchor xml:id="nkr_note_orig_0527001" n="0527001"/>
+<pb n="0527b" xml:id="T47.1987A.0527b" ed="T"/>
+<lb n="0527b01" ed="T"/></p><p xml:id="pT47p0527b0101" cb:place="inline">When the Master was traveling on foot, he asked Chan Master Wushi: “What is the Vairochana teacher’s Dharma-body lord?”
+<lb n="0527b02" ed="T"/>Wushi said: “If I were to tell you, then it would be something else.” The Master raised this to
+<lb n="0527b03" ed="T"/>Dongshan. The mountain said: “A fine topic of conversation, only lacking a follow-up word. Why not ask, ‘Why don’t you say?’” The Master then went back and pressed with a further word.
+<lb n="0527b04" ed="T"/>Wushi said: “If you say I do not speak, you make my mouth mute. If you say I speak, you make my tongue stammer.” The Master returned and raised it
+<lb n="0527b05" ed="T"/>to Dongshan. The mountain said: “An ancient Buddha<anchor xml:id="nkr_note_orig_0527002" n="0527002"/>.”</p>
+<lb n="0527b07" ed="T"/><p xml:id="pT47p0527b0701">Yunmen asked: “What is a śramaṇa’s practice?” The Master said: “One who eats the constant-abiding crops does.”
+<lb n="0527b08" ed="T"/>Yunmen said: “If one goes just like that, how is it?” The Master said: “Can you still keep it?”
+<lb n="0527b09" ed="T"/>Yunmen said: “I can keep it.” The Master said: “How do you keep it?”
+<lb n="0527b10" ed="T"/>Yunmen said: “Putting on clothes and eating food—what difficulty is there?” The Master said: “Why not say, ‘wearing fur and bearing horns’?” Yunmen then
+<lb n="0527b11" ed="T"/>bowed in reverence.</p>
+<lb n="0527b12" ed="T"/><p xml:id="pT47p0527b1201">The Master instructed the assembly, saying: “Everywhere they all grasp at rules. Why not tell him a turning word
+<lb n="0527b13" ed="T"/>so that he can depart without doubt?” Yunmen was in the assembly and came forth to ask: “In the most secret place, why is it not known to exist?”
+<lb n="0527b14" ed="T"/>The Master said: “Just because it is most secret, therefore it is not known to exist.” Yunmen said:
+<lb n="0527b15" ed="T"/>“How should this person be approached?” The Master said: “Do not approach in the most secret place.” Yunmen said:
+<lb n="0527b16" ed="T"/>“If not in the most secret place, then how?” The Master said: “Only then do you understand approaching.” Yunmen said, “Yes,
+<lb n="0527b17" ed="T"/>yes.” Again he asked: “If a person who does not change comes, will the Master receive him?” The Master said: “Caoshan
+<lb n="0527b18" ed="T"/>has no such idle time.”</p>
+<lb n="0527b19" ed="T"/><p xml:id="pT47p0527b1901">When Master Mi arrived, before they had met, Mi sat down on the chan bench. The Master did not
+<lb n="0527b20" ed="T"/>come out. Mi then left. The steward then asked: “Why was the Master’s chan bench sat upon by someone else?”
+<lb n="0527b21" ed="T"/>The Master said: “After going, he will return.” Mi indeed came back and met
+<lb n="0527b22" ed="T"/>the Master.</p>
+<lb n="0527b23" ed="T"/><p xml:id="pT47p0527b2301">Zhiju came to consult and asked: “The ancients supported that person over there; how can the student
+<lb n="0527b24" ed="T"/>fully comprehend?” The Master said: “Step back and turn to yourself; in ten thousand, you won’t miss one.” At these words, Zhiju suddenly
+<lb n="0527b25" ed="T"/>forgot his abstruse understanding.</p>
+<lb n="0527b26" ed="T"/><p xml:id="pT47p0527b2601">Jinfeng Zhi arrived. The Master asked: “What have you come for?” Zhi said: “I’ve come to build a hut.”
+<lb n="0527b27" ed="T"/>The Master said: “Is it finished yet?” Zhi said: “On this side, it is finished.” The Master said: “How about the matter on that side?”
+<lb n="0527b28" ed="T"/>Zhi said: “When the day’s work is done, I’ll tell the Master.” The Master said: “So it is, so it is.”</p>
+<pb n="0527c" xml:id="T47.1987A.0527c" ed="T"/>
+<lb n="0527c01" ed="T"/><p xml:id="pT47p0527c0101">The monk Qingrui asked: “I am solitary and poor. Please, Master, rescue and aid me.” The Master said: “Ācārya Rui,
+<lb n="0527c02" ed="T"/>come closer.” Rui came closer. The Master said: “Three cups of wine from the White House of Quanzhou—after drinking,
+<lb n="0527c03" ed="T"/>you still say it hasn’t even touched your lips.”</p>
+<lb n="0527c04" ed="T"/><p xml:id="pT47p0527c0401">Jingqing asked: “When moss grows on the mind-path, how is it?” The Master said: “Hard to get a guide<note place="inline">pronounced dao</note>.”
+<lb n="0527c05" ed="T"/>Jingqing said: “Where are you going to?” The Master said: “I only see moss growing; I do not know
+<lb n="0527c06" ed="T"/>where I’m going.” Again he asked: “When the principle of clear emptiness ultimately has no body, how is it?”
+<lb n="0527c07" ed="T"/>The Master said: “The principle is just like this. How are the matters?” Jingqing said: “As the principle, so the matters.”
+<lb n="0527c08" ed="T"/>The Master said: “Deceiving Caoshan alone is fine—what about the eyes of all the sages?” Jingqing said:
+<lb n="0527c09" ed="T"/>“If there were no eyes of the sages, how could one illumine that which is not like this?” The Master said: “The officials do not allow
+<lb n="0527c10" ed="T"/>a needle; in private, carts and horses pass through.”</p>
+<lb n="0527c11" ed="T"/><p xml:id="pT47p0527c1101">The Master asked Elder De: “When a bodhisattva in samādhi hears the fragrant elephant ford the river, which
+<lb n="0527c12" ed="T"/>sūtra is recited?” The monk said: “The Nirvāṇa Sūtra is recited.” The Master said: “He hears it before entering samādhi, and hears it after—how is that?” The monk
+<lb n="0527c13" ed="T"/>said: “Master, you’re flowing.” The Master said: “You speak far too much; you’ve only spoken
+<lb n="0527c14" ed="T"/>half.” The monk said: “What about the Master?” The Master said: “Catch it below the ford.” The Master again asked:
+<lb n="0527c15" ed="T"/>“The Buddha’s true Dharma-body is like empty space; responding to things, it manifests forms like the moon in water. How
+<lb n="0527c16" ed="T"/>do you speak the principle of response?” De said: “Like a donkey looking into a well.” The Master said: “You speak far too much—
+<lb n="0527c17" ed="T"/>you’ve only spoken eighty percent.” De said: “What about the Master?” The Master
+<lb n="0527c18" ed="T"/>said: “Like a well looking at a donkey.”</p>
+<lb n="0527c19" ed="T"/><p xml:id="pT47p0527c1901">The “Paper-Robe” adept came to visit. The Master asked: “Are you the Paper-Robe adept?” He said, “I dare not.”
+<lb n="0527c20" ed="T"/>The Master said: “What is the matter beneath the paper robe?” The adept said: “As soon as a single cloak is hung
+<lb n="0527c21" ed="T"/>on the body, the ten thousand dharmas are all thus.” The Master said: “What is the function beneath the paper robe?” The adept
+<lb n="0527c22" ed="T"/>came close, answered “Yes,” and immediately stood and removed it. The Master said: “You only understand how to go like this—why don’t you
+<lb n="0527c23" ed="T"/>understand how to come like this?” The adept suddenly opened his eyes and asked: “When the one numinous true nature does not rely on
+<lb n="0527c24" ed="T"/>womb and birth, how is it?” The Master said: “Not yet subtle.” The adept said: “What is
+<lb n="0527c25" ed="T"/>subtle?” The Master said: “Not borrowing borrowing.” The adept said “Take care,” and then departed. The Master presented a verse, saying:
+<lb n="0527c26" ed="T"/>Awakened nature, perfectly bright, the formless body—
+Do not take knowing and views and wrongly draw near or far.
+With a thought of difference, the mysterious substance is obscured;
+With mind off, one is not a neighbor to the Way.
+Feelings divide the myriad dharmas, sinking into prior objects;
+Conscious discernment in many ways loses the original true.
+If within such lines you fully understand,
+Clearly there is nothing to do—just the person of old.</p>
+<pb n="0528a" xml:id="T47.1987A.0528a" ed="T"/>
+<lb n="0528a01" ed="T"/><p xml:id="pT47p0528a0101">A monk raised: Grand Minister Lu Geng asked Nanquan: “What is your surname?” Nanquan said: “My surname is Wang.” Lu Geng
+<lb n="0528a02" ed="T"/>said: “Does the king still have retinue or not?” Nanquan said: “The four ministers are not deluded.” Lu Geng said:
+<lb n="0528a03" ed="T"/>“In what rank does the king abide?” Nanquan said: “Moss grows in the jade hall.” He asked the Master: “What is the meaning
+<lb n="0528a04" ed="T"/>of ‘moss grows in the jade hall’?” The Master said: “He does not abide in the proper rank.” The monk said: “When the eight directions come to pay court,
+<lb n="0528a05" ed="T"/>how is it?” The Master said: “He does not receive their prostrations.” The monk said: “What use is there in coming to court?” The Master said:
+<lb n="0528a06" ed="T"/>“To violate it is to be beheaded.” The monk said: “Violation belongs to the minister’s duty; I wonder what the ruler’s intent is?” The Master
+<lb n="0528a07" ed="T"/>said: “The Privy Council does not obtain the directive.” The monk said: “So then the merit of governing and ordering
+<lb n="0528a08" ed="T"/>entirely returns to the minister?” The Master said: “Do you yet know the ruler’s intent?” The monk said: “We from outside do not dare
+<lb n="0528a09" ed="T"/>to discuss or measure.” The Master said: “So it is, so it is.”</p>
+<lb n="0528a10" ed="T"/><p xml:id="pT47p0528a1001">A monk asked: “This student’s whole body is sickness. Please, Master, cure me.” The Master said: “I won’t cure you.” The monk
+<lb n="0528a11" ed="T"/>said: “Why won’t you cure me?” The Master said: “So that I teach you to seek life and not obtain it, seek death and not
+<lb n="0528a12" ed="T"/>obtain it.”</p>
+<lb n="0528a13" ed="T"/><p xml:id="pT47p0528a1301">A monk asked: “The ancients said: ‘I have a great sickness, not cured by the world.’ I wonder what
+<lb n="0528a14" ed="T"/>sickness it is.” The Master said: “The sickness that cannot be gathered up.” The monk said: “Do all living beings still
+<lb n="0528a15" ed="T"/>have this sickness or not?” The Master said: “Everyone has it.” The monk said: “Does the Master still have
+<lb n="0528a16" ed="T"/>this sickness or not?” The Master said: “This cannot be found at the place where it arises.” The monk said: “Why do all living
+<lb n="0528a17" ed="T"/>beings not get sick?” The Master said: “If all living beings were sick, they would not be living
+<lb n="0528a18" ed="T"/>beings.” The monk said: “I wonder whether the buddhas still have this sickness or not.” The Master said: “They do.” The monk
+<lb n="0528a19" ed="T"/>said: “Since they have it, why are they not sick?” The Master said: “Because they are awake.”</p>
+<lb n="0528a20" ed="T"/><p xml:id="pT47p0528a2001">A monk asked: “Isn’t a śramaṇa a person endowed with great compassion?” The Master said: “Yes.” The monk
+<lb n="0528a21" ed="T"/>said: “If one suddenly encounters the six bandits, what then?” The Master said: “One must also possess great compassion.”
+<lb n="0528a22" ed="T"/>The monk said: “How does one possess great compassion?” The Master said: “With one sword-swing, all is ended.” The monk said:
+<lb n="0528a23" ed="T"/>“After it is ended, what then?” The Master said: “Only then is harmony attained.”</p>
+<lb n="0528a24" ed="T"/><p xml:id="pT47p0528a2401">A monk asked: “Do the eyebrows and the eyes still recognize each other or not?” The Master said: “They do not recognize each other.” The monk
+<lb n="0528a25" ed="T"/>said: “Why do they not recognize each other?” The Master said: “Because they are together in one place.” The monk said:
+<lb n="0528a26" ed="T"/>“So then they are not distinguished.” The Master said: “The eyebrows are not the eyes; the eyes are not
+<lb n="0528a27" ed="T"/>the eyebrows.” The monk said: “What are the eyes?” The Master said: “Go straight to it.” The monk said:
+<lb n="0528a28" ed="T"/>“What are the eyebrows?” The Master said: “Caoshan, instead, doubts.” The monk said: “Why does the Master instead
+<lb n="0528a29" ed="T"/>doubt?” The Master said: “If I did not doubt, I would go straight to it.”</p>
+<pb n="0528b" xml:id="T47.1987A.0528b" ed="T"/>
+<lb n="0528b01" ed="T"/><p xml:id="pT47p0528b0101">A monk asked: “When the five ranks face the guest, how is it?” The Master said: “Which
+<lb n="0528b02" ed="T"/>rank are you asking right now?” The monk said: “I come from within the partial rank. Please, Master, receive me within the proper rank.”
+<lb n="0528b03" ed="T"/>The Master said: “I won’t receive you.” The monk said: “Why won’t you receive me?” The Master said: “I fear you’ll fall back into the partial rank
+<lb n="0528b04" ed="T"/>again.” The Master then asked the monk: “Just as I do not receive you, is that facing the guest or not facing the guest?”
+<lb n="0528b05" ed="T"/>The monk said: “It already is facing the guest.” The Master said: “So it is, so it is.”</p>
+<lb n="0528b06" ed="T"/><p xml:id="pT47p0528b0601">A monk asked: “From what do the myriad dharmas arise?” The Master said: “They arise from inversion.” The monk said:
+<lb n="0528b07" ed="T"/>“When there is no inversion, where are the myriad dharmas?” The Master said: “They are there.” The monk said: “Where are they?”
+<lb n="0528b08" ed="T"/>The Master said: “What about inversion?”</p>
+<lb n="0528b09" ed="T"/><p xml:id="pT47p0528b0901">A monk asked: “Why can the unbudding grass hide the fragrant elephant?” The Master said: <anchor xml:id="nkr_note_add_0528b0901" n="0528b0901"/><anchor xml:id="beg0528b0901" n="0528b0901"/>Ācārya<anchor xml:id="end0528b0901"/>,
+<lb n="0528b10" ed="T"/>fortunately you are an expert. Again he asked: “What about Caoshan?”</p>
+<lb n="0528b11" ed="T"/><p xml:id="pT47p0528b1101">A monk asked: “The three realms are in tumult, the six destinies in darkness—how does one distinguish colors?” The Master said: “One does not
+<lb n="0528b12" ed="T"/>distinguish colors.” The monk said: “Why not distinguish colors?” The Master said: “If you distinguish colors, then it is dark
+<lb n="0528b13" ed="T"/>indeed.”</p>
+<lb n="0528b14" ed="T"/><p xml:id="pT47p0528b1401">Hearing the sound of the bell, the Master said: “Ah<g ref="#CB01223">㖿</g>, ah<g ref="#CB01223">㖿</g>.” A monk asked: “Master, what are you doing?”
+<lb n="0528b15" ed="T"/>The Master said: “It struck my heart.” The monk had no reply.</p>
+<lb n="0528b16" ed="T"/><p xml:id="pT47p0528b1601">The Master asked the weina: “Where have you come from?” He said: “I went to lead the vinegar trough.” The Master said: “If you
+<lb n="0528b17" ed="T"/>came to a dangerous place, how would you lead it?” The weina had no reply.</p>
+<lb n="0528b18" ed="T"/><p xml:id="pT47p0528b1801">One day the Master entered the monks’ hall and faced the fire. A monk said: “Today it is very cold.” The Master said:
+<lb n="0528b19" ed="T"/>“You must know there is one who is not cold.” The monk said: “Who is the one who is not cold?” The Master poked the fire and showed
+<lb n="0528b20" ed="T"/>him. The monk said: “Do not say there is no one good.” The Master tossed down the fire. The monk said: “I
+<lb n="0528b21" ed="T"/>do not understand at this point.” The Master said: “The sun shines on a cold pool—bright and brighter.”</p>
+<lb n="0528b22" ed="T"/><p xml:id="pT47p0528b2201">A monk asked: “Who is the person who is not a companion to the myriad dharmas?” The Master said: “You tell me—
+<lb n="0528b23" ed="T"/>so many people in Hongzhou city, where have they gone?”</p>
+<lb n="0528b24" ed="T"/><p xml:id="pT47p0528b2401">A monk asked: “What is the sword without a blade?” The Master said: “Not made by quenching and forging.” The monk
+<lb n="0528b25" ed="T"/>said: “How is it for one who uses it?” The Master said: “Those who meet it all perish.” The monk said: “How about those who do not meet it?”
+<lb n="0528b26" ed="T"/>The Master said: “They too must have their heads fall.” The monk said: “Those who meet it all perish—indeed
+<lb n="0528b27" ed="T"/>so. But why do those who do not meet it have their heads fall?” The Master said: “Haven’t you seen it said: it can exhaust all
+<lb n="0528b28" ed="T"/>things.” The monk said: “After exhausting, what then?” The Master said: “Only then do you know there is this sword.”</p>
+<lb n="0528b29" ed="T"/><p xml:id="pT47p0528b2901">A monk asked: “Within appearances, what is true?” The Master said: “The very appearance is the very true.” The monk said: “How should it
+<pb n="0528c" xml:id="T47.1987A.0528c" ed="T"/>
+<lb n="0528c01" ed="T"/>be shown?” The Master raised the support.</p>
+<lb n="0528c02" ed="T"/><p xml:id="pT47p0528c0201">A monk asked: “In illusion, what is true?” The Master said: “Illusion is originally true.” The monk said: “How should the illusion
+<lb n="0528c03" ed="T"/>be made manifest?” The Master said: “The very illusion is the very manifestation.” The monk said: “So then from beginning to end one does not depart
+<lb n="0528c04" ed="T"/>from illusion.” The Master said: “Seek the marks of illusion and they cannot be found.”</p>
+<lb n="0528c05" ed="T"/><p xml:id="pT47p0528c0501">A monk asked: “I do not ask about ‘mind is Buddha.’ What is ‘not mind, not Buddha’?” The Master
+<lb n="0528c06" ed="T"/>said: “Rabbit horns do not need ‘nonbeing.’ Ox horns do not need ‘being.’”</p>
+<lb n="0528c07" ed="T"/><p xml:id="pT47p0528c0701">Asked: “Who is the person who is always present?” The Master said: “Just when Caoshan temporarily goes out, he says,
+<lb n="0528c08" ed="T"/>‘Who is the person who is always not present?’” The Master said: “Hard to get.”</p>
+<lb n="0528c09" ed="T"/><p xml:id="pT47p0528c0901">A monk asked: “Isn’t intending just a kind?” The Master said: “It is precisely that even not intending is also a kind.” The monk
+<lb n="0528c10" ed="T"/>said: “What is different?” The Master said: “Do you not recognize pain and itch?”</p>
+<lb n="0528c11" ed="T"/><p xml:id="pT47p0528c1101">Someone asked: “The ancients said: ‘Everyone has it.’ I, a disciple, am covered by worldly dust—do I still
+<lb n="0528c12" ed="T"/>have it or not?” The Master said: “Bring your hand over.” The monk brought his hand over. Then he tapped his fingers and said: “One two three
+<lb n="0528c13" ed="T"/>four five—enough.”</p>
+<lb n="0528c14" ed="T"/><p xml:id="pT47p0528c1401">A monk asked: “Lu Zu faced the wall—what did he use it to express?” The Master covered his ears with his hand.</p>
+<lb n="0528c15" ed="T"/><p xml:id="pT47p0528c1501">A monk asked: “It is said of old that not a single person falls to the ground without rising because of the ground.
+<lb n="0528c16" ed="T"/>What is falling?” The Master said: “If you assent, that is it.” The monk said: “What is rising?” The Master
+<lb n="0528c17" ed="T"/>said: “Rising too.”</p>
+<lb n="0528c18" ed="T"/><p xml:id="pT47p0528c1801">A monk asked: “The child returns and relies on the father—why does the father not look after him at all?” The Master said: “It is
+<lb n="0528c19" ed="T"/>fitting that it be so.” The monk said: “Where is the kindness of father and child?” The Master said: “Only then is the kindness of father and child
+<lb n="0528c20" ed="T"/>fulfilled.” The monk said: “What is the kindness of father and child?” The Master said: “Axes and adzes cannot split it.”</p>
+<lb n="0528c21" ed="T"/><p xml:id="pT47p0528c2101">Asked: “When the spiritual robe is not hung, how is it?” The Master said: “Caoshan’s filial piety is fulfilled.” He said: “After filial piety is fulfilled,
+<lb n="0528c22" ed="T"/>how is it?” The Master said: “Caoshan<anchor xml:id="nkr_note_orig_0528001" n="0528001"/><anchor xml:id="nkr_note_mod_0528001" n="0528001"/><anchor xml:id="beg0528001" n="0528001"/>loves<anchor xml:id="end0528001"/> topsy-turvy wine.”</p>
+<lb n="0528c23" ed="T"/><p xml:id="pT47p0528c2301">Asked: “In the teachings it is said: the great sea does not lodge dead corpses. What is the sea?” The Master said:
+<lb n="0528c24" ed="T"/>“It contains all things.” The monk said: “Why does it not lodge dead corpses?” The Master said: “Those whose breath is cut off do not cling.”
+<lb n="0528c25" ed="T"/>The monk said: “Since it contains all things, why do those whose breath is cut off not cling?” The Master said: “All things are not its
+<lb n="0528c26" ed="T"/>merit; those whose breath is cut off have its virtue.” The monk said: “Above that, is there still a matter or not?” The Master said: “To say there is,
+<lb n="0528c27" ed="T"/>to say there is not—either is fine. But what about the Dragon King pressing his sword?”</p>
+<lb n="0528c29" ed="T"/><p xml:id="pT47p0528c2901">Asked: “With what understanding can one well respond to the assembly’s questions and challenges?” The Master said: “I do not present a line.” The monk
+<pb n="0529a" xml:id="T47.1987A.0529a" ed="T"/>
+<lb n="0529a01" ed="T"/>said: “Challenge what?” The Master said: “Axes and adzes cannot cut into it.” The monk said: “Able to challenge like that—are there still
+<lb n="0529a02" ed="T"/>those who do not assent or not?” The Master said: “There are.” The monk said: “Who is that person?” The Master said: “Caoshan.”</p>
+<lb n="0529a04" ed="T"/><p xml:id="pT47p0529a0401">A monk asked: “In the world, what thing is most precious?” The Master said: “A dead kitten’s head is most precious.”
+<lb n="0529a05" ed="T"/>The monk said: “Why is a dead kitten’s head most precious?” The Master said: “No one sets
+<lb n="0529a06" ed="T"/>a price on it.”</p>
+<lb n="0529a07" ed="T"/><p xml:id="pT47p0529a0701">A monk asked: “How does the wordless manifest?” The Master said: “Do not manifest it here.” The monk said:
+<lb n="0529a08" ed="T"/>“Where should it be manifested?” The Master said: “Last night at the head of the bed I lost three cash coins.”</p>
+<lb n="0529a09" ed="T"/><p xml:id="pT47p0529a0901">A monk asked: “How is it when the sun has not yet risen?” The Master said: <anchor xml:id="nkr_note_orig_0529001" n="0529001"/>“Caoshan has also
+<lb n="0529a10" ed="T"/>come like that.” The monk said: “How is it after the sun rises?” The Master said: “Still short of Caoshan by half a month’s
+<lb n="0529a11" ed="T"/>journey.”</p>
+<lb n="0529a12" ed="T"/><p xml:id="pT47p0529a1201">The Master asked a monk: “What are you doing?” The monk said: “Sweeping the ground.” The Master said: “Sweeping before the Buddha or sweeping after the Buddha?”
+<lb n="0529a13" ed="T"/>The monk said: “Sweeping front and back at the same time.” The Master said: “Bring Caoshan his overshoes
+<lb n="0529a14" ed="T"/>here.”</p>
+<lb n="0529a15" ed="T"/><p xml:id="pT47p0529a1501">A monk asked。Holding an uncut jade, I submit it to the Master。Please carve and polish it。The Master said。I will not carve and polish。The monk
+<lb n="0529a16" ed="T"/>said。Why will you not carve and polish。The Master said。You must know Caoshan has a good hand。</p>
+<lb n="0529a17" ed="T"/><p xml:id="pT47p0529a1701">A monk asked。What are Caoshan’s retinue。The Master said。White hair worn together over the head。On the crown
+<lb n="0529a18" ed="T"/>a single branch of flowers。</p>
+<lb n="0529a19" ed="T"/><p xml:id="pT47p0529a1901">A monk asked。An ancient worthy said。Throughout the great earth there is only this one person。I wonder what person
+<lb n="0529a20" ed="T"/>this is。The Master said。There must not be a second moon。The monk said。What is the second
+<lb n="0529a21" ed="T"/>moon。The Master said。It also requires you, elder brother, to decide it for sure。The monk said。How is the first
+<lb n="0529a22" ed="T"/>moon。The Master said。Perilous。</p>
+<lb n="0529a23" ed="T"/><p xml:id="pT47p0529a2301">A monk asked。How should a student maintain it within the twelve hours。The Master said。Like passing through a land of
+<lb n="0529a24" ed="T"/>gu-poison, not a single drop of water may touch you。</p>
+<lb n="0529a25" ed="T"/><p xml:id="pT47p0529a2501">A monk asked。What is the lord of the Dharma-body。The Master said。They say Qin has no one。The monk said。
+<lb n="0529a26" ed="T"/>Could this then be it or not。The Master said。Behead。</p>
+<lb n="0529a27" ed="T"/><p xml:id="pT47p0529a2701">A monk asked。With what Dharma-companion should one be close, to constantly hear what has not yet been heard。The Master said。Sharing
+<lb n="0529a28" ed="T"/>one quilt-cover。The monk said。This is still the Master who gets to hear。How is it to constantly hear
+<lb n="0529a29" ed="T"/>the unheard。The Master said。Not the same as wood and stone。The monk said。Which is first, which
+<pb n="0529b" xml:id="T47.1987A.0529b" ed="T"/>
+<lb n="0529b01" ed="T"/>is later。The Master said。Do you not see it said, constantly hear the unheard。</p>
+<lb n="0529b02" ed="T"/><p xml:id="pT47p0529b0201">A monk asked。Who is the one within the realm who presses a hand on the sword。The Master said。Caoshan。The monk said。Who do you
+<lb n="0529b03" ed="T"/>intend to kill。The Master said。So long as there is anything at all, kill it all。The monk said。If you suddenly meet your true father and mother
+<lb n="0529b04" ed="T"/>then what。The Master said。Why choose anything。The monk said。Then what about yourself。The Master said。Who can do anything to me。The monk said。Why not kill。
+<lb n="0529b05" ed="T"/>The Master said。There is nowhere to lay a hand。</p>
+<lb n="0529b07" ed="T"/><p xml:id="pT47p0529b0701">The Master asked a monk。The season is so hot。Where will you go to avoid it。The monk said。I will avoid it in the cauldron-top,
+<lb n="0529b08" ed="T"/>in the furnace coals。The Master said。There, how will you avoid it。The monk said。The many sufferings cannot reach。
+<lb n="0529b09" ed="T"/>The Master silently let it be。</p>
+<lb n="0529b10" ed="T"/><p xml:id="pT47p0529b1001">A monk asked。When the household is poor and meets a robbery, what then。The Master said。You cannot go all the way to the end。The monk
+<lb n="0529b11" ed="T"/>said。Why can you not go all the way to the end。The Master said。The thief is family kin<anchor xml:id="nkr_note_orig_0529002" n="0529002"/>。</p>
+<lb n="0529b12" ed="T"/><p xml:id="pT47p0529b1201">A monk asked。When one ox drinks water and five horses do not neigh, what then。The Master said。Caoshan knows how to abstain from his mouth。He also said otherwise。Caoshan’s filial piety is fulfilled。</p>
+<lb n="0529b14" ed="T"/><p xml:id="pT47p0529b1401">A monk asked。Who is it that is always sinking and drowning in the sea of birth and death。The Master said。
+<lb n="0529b15" ed="T"/>The second moon。The monk said。Does he still seek liberation or not。The Master said。He also seeks liberation。It is only that there is no road。The monk said。When he is liberated, who can receive him。
+<lb n="0529b16" ed="T"/>The Master said。One who carries an iron cangue。</p>
+<lb n="0529b18" ed="T"/><p xml:id="pT47p0529b1801">A monk asked。Snow covers a thousand mountains。Why is the lone peak not white。The Master said。You must know there is a different within the different。The monk said。What is the different within the different。The Master said。It does not fall into the colors of the various mountains。</p>
+<lb n="0529b21" ed="T"/><p xml:id="pT47p0529b2101">A monk cited。Yaoshan asked a monk。How old are you。He said seventy-two。Yaoshan said。Is it seventy-two。He said it is。Yaoshan then struck him。What does this mean。The Master said。The first arrow still seems acceptable。The second arrow shoots a person deep。The monk said。How can one avoid this staff。The Master said。Once the king’s edict is in force, the feudal lords yield the road。</p>
+<lb n="0529b25" ed="T"/><p xml:id="pT47p0529b2501">A monk asked Xiangyan。What is the Way。Xiangyan said。A dragon吟 within a withered tree。The monk
+<lb n="0529b26" ed="T"/>said。What is a person within the Way。Xiangyan said。Eyes within a skull。The monk did not
+<lb n="0529b27" ed="T"/>understand。So he asked Shishuang。What is a dragon吟 within a withered tree。Shishuang said。Joy is still carried along。The monk said。What is eyes within a skull。Shishuang said。Discernment is still carried along。Again he did not understand。So he raised it to the Master。The Master said。Old Shishuang, a śrāvaka,
+<pb n="0529c" xml:id="T47.1987A.0529c" ed="T"/>
+<lb n="0529c01" ed="T"/>makes this kind of understanding here。Because of this he presented a verse, saying。A withered tree’s dragon吟 truly sees the Way。A skull without discernment, the eye first brightens。When joy and discernment are exhausted, the news is exhausted。How can the person distinguish clear within the turbid。The monk then again asked the Master。What is a dragon吟 within a withered tree。The Master said。The blood-vessels are unbroken。He said。What is eyes within a skull。The Master said。Dryness is not exhausted。He said。Is there still one who can hear it。The Master said。Across the great earth there is not a single person who does not hear it。He said。What chapter and phrase is the dragon吟 within a withered tree。The Master said。I do not know what chapter and phrase。All who hear it perish。</p>
+<lb n="0529c08" ed="T"/><p xml:id="pT47p0529c0801">A monk asked。What is the great meaning of the Buddha-Dharma。The Master said。Fill ditches and block ravines。</p>
+<lb n="0529c09" ed="T"/><p xml:id="pT47p0529c0901">A monk asked。What is a lion。The Master said。The multitude of beasts cannot approach。The monk said。
+<lb n="0529c10" ed="T"/>What is a lion cub。The Master said。One who can swallow father and mother。The monk said。Since it is that the multitude of beasts cannot approach, why is it instead swallowed by the cub。The Master said。Have you not seen it said。If the child roars, ancestors and forebears are all exhausted。The monk said。After they are exhausted, what then。The Master
+<lb n="0529c13" ed="T"/>said。The whole body returns to the father。The monk said。When the ancestors are exhausted, where does the father return to。The Master said。That place too is exhausted。The monk said。Earlier, why did you say the whole body returns to the father。The Master said。For example, a king’s son can accomplish the affairs of a whole kingdom。He also said。Ācārya, in this matter you must not be isolated and stuck。You must directly rub a few more blossoms onto the withered tree。</p>
+<lb n="0529c17" ed="T"/><p xml:id="pT47p0529c1701">A monk asked。When there is just a little right and wrong and the mind is in confusion and lost, what then。The Master said。Behead, behead。</p>
+<lb n="0529c18" ed="T"/><p xml:id="pT47p0529c1801">The Master read the Dharma-body verse composed by Layman Fu Dushun and said。My intent does
+<lb n="0529c19" ed="T"/>not wish to speak like that。The disciples asked him to compose another。Once he composed a verse, he also annotated and explained
+<lb n="0529c20" ed="T"/>it。Its words said。He originally is not me<note place="inline">not me</note>。I originally am not him<note place="inline">not him</note>。If he has no me, he dies<note place="inline">I look to you to take life</note>。If I have no him, then<anchor xml:id="nkr_note_orig_0529003" n="0529003"/><anchor xml:id="nkr_note_mod_0529003" n="0529003"/><anchor xml:id="beg0529003" n="0529003"/>remaining<anchor xml:id="end0529003"/><note place="inline">not separately existing</note>。If he were like me, he would be a Buddha
+<lb n="0529c22" ed="T"/><note place="inline">but in the end he is not a Buddha</note>。If I were like him, I would be a donkey<note place="inline">neither is established</note>。Do not eat the Empty King’s salary<note place="inline">if you meet the imperial meal, you must spit it out</note>。Why
+<lb n="0529c23" ed="T"/>borrow geese to carry letters<note place="inline">no communication</note>。I say, lie crosswise and sing<note place="inline">sing as proof</note>。You look at the hair on the back<note place="inline">not
+<lb n="0529c24" ed="T"/> like you</note>。Suddenly like singing “White Snow”<note place="inline">taking it to be “White Snow”</note>。Yet fear it is a Ba song<note place="inline">this line is transmitted without annotation</note>。</p>
+<lb n="0529c25" ed="T"/><p xml:id="pT47p0529c2501">The Master let fall a saying, saying。There is one person。From the top of a ten-thousand-zhang cliff he leaps straight down。What person
+<lb n="0529c26" ed="T"/>is this。The assembly had no reply。Daoyan came forth and said “not abiding”。The Master said。Not abiding in what。Daoyan said。Only then can he crash without shattering。The Master deeply approved of it。</p>
+<lb n="0529c28" ed="T"/><p xml:id="pT47p0529c2801">A monk cited。Xiyuan one day burned the bathwood himself。A monk asked。Why not have the novice do it。Xiyuan clapped his hands three times。He asked the Master。The Master said。All the same it is clapping and patting the palms。
+<pb n="0530a" xml:id="T47.1987A.0530a" ed="T"/>
+<lb n="0530a01" ed="T"/>Among them, Xiyuan is strange indeed。Juzhi’s one-finger Chan is because his承當 place was not exact。The monk then asked the Master。Is Xiyuan’s patting palms not a matter on the side of servants and maids。The Master said it is。He said。Is there still something further upward or not。The Master said there is。He said。What is the further-up matter。The Master shouted, saying。This servant and maid。</p>
+<lb n="0530a05" ed="T"/><p xml:id="pT47p0530a0501">The governor of Nanzhou, King Zhong of Nanping, Ya heard that the Master had the Way。He showed full礼 and invited him, but he
+<lb n="0530a06" ed="T"/>did not go。He only wrote the Great-Plum verse, saying。Crushing and crippling the withered tree leaning on the cold forest。How many times meeting spring, the mind does not change。Woodcutters see it and still do not look back。How could a man of Ying painfully chase and seek。He sent it attached by messenger and did not go。</p>
+<lb n="0530a09" ed="T"/><p xml:id="pT47p0530a0901">The Master composed the four prohibitions verse, saying。Do not walk the road where the mind is。Do not hang the originally-there robe。Why
+<lb n="0530a10" ed="T"/> must it be exactly so。Most taboo is “before birth”。</p>
+<lb n="0530a11" ed="T"/><p xml:id="pT47p0530a1101">He instructed students with a verse, saying。Gaining recommendation from conditions, correspondence is swift。Settling by the body itself, the power is slow。A sudden flash arises—originally there is nowhere at all。My Master briefly speaks the inconceivable。</p>
+<lb n="0530a13" ed="T"/><p xml:id="pT47p0530a1301">He addressed the assembly, saying。Monastics are here under these robe-threads。In principle you must comprehend and penetrate the further-up
+<lb n="0530a14" ed="T"/> matter。Do not make it so idle<anchor xml:id="nkr_note_add_0530a1401" n="0530a1401"/><anchor xml:id="beg0530a1401" n="0530a1401"/>idle<anchor xml:id="end0530a1401"/>。If, at the place of承當, it is clearly distinct, then you can turn all the sages
+<lb n="0530a15" ed="T"/> behind your own back and only then attain freedom。If you cannot turn them, then even if you
+<lb n="0530a16" ed="T"/> learn it to ten parts complete, you still must stand behind them with hands folded。What big talk is that。If you
+<lb n="0530a17" ed="T"/> can turn yourself, then when any coarse and heavy circumstances come, you can be master over them all。For example,
+<lb n="0530a18" ed="T"/> if you fall to the ground in mud, you can still be master。As when a monk asked Yaoshan曰。
+<lb n="0530a19" ed="T"/>In the teachings of the three vehicles, is there still the patriarch’s intent or not。He answered曰 there is。The monk said。Since there is,
+<lb n="0530a20" ed="T"/> why did Bodhidharma come again。Yaoshan said。Precisely because there is, he came。Is this not
+<lb n="0530a21" ed="T"/> being able to be master and turn it back to oneself。As the sutra says。Mahābhijñā-jñānābhibhū Buddha sat at the bodhimanda for ten kalpas。
+<lb n="0530a22" ed="T"/> The Buddha-dharma did not appear before him, and he could not accomplish Buddhahood。“Kalpa” means obstruction。It is called ten completions and is also called cutting off seepage and leakage。It is only that the ten road-heads are cut off। Not forgetting the great fruition, therefore it says “guarding and abiding, clinging to the name is called taking the next”。承當 does not distinguish noble and base。I often see monasteries fond of discussing “one kind, two kinds”。Can they still establish the matter。These are all only speaking outward-going matters, exposed and spread out。Do you not see Nanquan曰 even if you have ten completions, you still lag one thread behind Teacher Wang। When the great difficult matter reaches here, you must carefully attain clarity and自在。Not discussing heavens and hells, hungry ghosts and animals, but in every place not shifting and changing。Originally it is the old-time person。It is only that he does not walk the old-time road。If there is a delighted mind, it becomes clinging obstruction。If you can脱 it, why choose anything。An ancient worthy said。Only fear you cannot get reincarnation。You say, how is it。Only people today, when they speak of some pure and clean place, love to speak of outward-going matters。This illness is hardest to cure。If it is worldly coarse and heavy matters, those are light。The pure-and-clean illness is heavy。As for Buddha-flavor and patriarch-flavor, all are clinging obstruction。The former teacher said。To set the mind is to violate the precepts。If you get a flavor, it is to break the fast。And what is called flavor。It is only Buddha-flavor, patriarch-flavor。As soon as there is a delighted mind, that is violating the precepts。If now we speak of breaking fast and breaking precepts, then at this very moment, at the time of the three karman rites, it was already broken。If it is coarse and heavy greed, anger, and delusion, though hard to cut off, it is light。If it is无为,无事, pure and clean, this is heavy beyond anything。The patriarchs appeared in the world only for this matter, and not solely for you。Now do not make it so idle。Dark slaves and white oxen cultivate quickly—not because they have Chan and have the Way।If you chase and seek in all kinds of ways, seeking Buddha, seeking patriarch, up to bodhi and nirvana, when will you rest and accomplish it。All are minds of arising and ceasing, therefore not as good as the dark slave and white ox, dull and unknowing, not knowing Buddha, not knowing patriarch, up to bodhi and nirvana and also good and evil cause and effect।Only when hungry they eat grass, when thirsty they drink water。If you can be like this, you need not worry about not accomplishing it。Do you not see it said。Calculation cannot be completed, therefore one knows there is।Then one can wear fur and bear horns, leading the plow and dragging along。Getting this advantage, only then is it somewhat better。Do you not see Maitreya, Akṣobhya, and the various Abhirati and other worlds, being called by those further-up people as shame-less, lazy bodhisattvas, also called “changed birth-and-death”。Still fearing it is a small laziness。In the matter of one’s proper-duty, what should be done。You must be careful indeed to attain it。Everyone has one sitting-mat ground。Even if the Buddha appears in the world, he cannot encroach on it。Comprehend and cultivate like this。Do not chase quick profit。If you want to know this matter, even if you become Buddha, become patriarch, still just this is falling into the three bad destinies, hells and the six paths。Just this, although it has no use-place, in the end you cannot separate from it。You must be its master only then is it enough。If you can be master, then it is unchanging。If you cannot be master, then it is changing。Do you not see Yongjia saying。Vast and heedless invites calamity and misfortune。Asked。What is “vast and heedless invites calamity and misfortune”。He said。Just this, all of it is。He said。How can one avoid it。He said。Knowing there is is enough。What need is there to avoid it。
+<pb n="0530b" xml:id="T47.1987A.0530b" ed="T"/>
+<lb n="0530b01" ed="T"/>All of bodhi, nirvana, afflictions, ignorance and so on are all just this。Do not avoid them。Up to worldly coarse and heavy matters—only know there is and it is enough。Do not avoid them。If you avoid them, then you go together with changing。Up to becoming Buddha, becoming patriarch, bodhi, nirvana—these calamities and misfortunes are not small。Why is it like this。Only because of changing。If you do not change, you must directly be free wherever you touch, only then is it attained。</p>
+<lb n="0530c06" ed="T"/><p xml:id="pT47p0530c0601">In the hall a monk asked。What is a great icchantika person。The Master said。Not fearing karma。The monk
+<lb n="0530c07" ed="T"/>said。What is an ignorant person。The Master said。From beginning to end not awakening。The monk said。
+<lb n="0530c08" ed="T"/>Which of these two is first。The Master said。The ignorant one。The monk said。Why is the icchantika person later。The Master said。The one who goes outward。The monk said。Then the ignorant one does not leave today。The Master said yes。The monk said。Since he does not leave today, from where does ignorance come。The Master said。He does not dare enter where there is light。The monk said。Is it not that it is neither bright nor dark。The Master said yes。The monk said。At exactly such a time, how is it。The Master said。He does not accept contact。The Master again said。There are many kinds of icchantika。One kind is killing father, killing mother, drawing blood from the Buddha’s body, breaking the harmony of the sangha, destroying monasteries。This certainly receives various sufferings as a real retribution。One kind also does what is done as before; this then is killing the ignorance-father and the craving-mother, not believing there are Buddha, Dharma, Sangha to break, monasteries to destroy; calculating it as obtained by a karma-mind, therefore falling and also receiving various false fruit-retributions as before; rising and falling are not the same。One kind knows there is one’s own originally-there matter, calling it father and mother, not obtained from outside; no cultivation, no realization; neither cause nor fruit; not received from a teacher, not obtained from realization-practice; not raising a father-view is called killing; not raising a mother-view is called harming; that is, in all one’s proper-duty matters, one does not dare not abide; therefore it is called killing and harming。As soon as there is the slightest offering of重 or gaining of flavor, it is not accomplishing the knowing-there of one’s own matter; therefore it is called great icchantika。By this, it stirs and overturns the marvelous power; that is, the household of comprehending the family matter of the vehicle from above and承當 it, wanting to cut off the mysterious Way and break all circuitousness; it is just as the old man of Xinfeng mysteriously pointed out。</p>
+<lb n="0530c26" ed="T"/><p xml:id="pT47p0530c2601">National Teacher Zhong abruptly called the attendant。The attendant came and stood。The National Teacher lowered his head。The attendant
+<lb n="0530c27" ed="T"/>stood a long time and went out。The National Teacher called the attendant again。After doing so three times, he said。I thought I was letting you down, but you are instead letting me down。Baizhang raised it and asked Zhaozhou。What is the intent of the National Teacher calling the attendant three times。Zhou said。Like a person writing characters in the dark。
+<pb n="0531a" xml:id="T47.1987A.0531a" ed="T"/>
+<lb n="0531a01" ed="T"/>Though the characters are not completed, the pattern and colors are already manifest。Later someone raised it and asked the Master。What is the intent of the National Teacher calling the attendant three times。The Master said。When the attendant came back the second time, he said “I do not believe the和尚 called”。</p>
+<lb n="0531a04" ed="T"/><p xml:id="pT47p0531a0401">Nanquan said。Before the embryo is formed, are there words or not。Someone raised it and asked Yunfeng。Feng said。To say there are or there are not, then eat thirty blows。He also asked Zhaoqing。Qing said。Let him speak it himself。He again raised it and asked the Master。The Master said there are。He said。Please,和尚, glance aside。The Master said。With what thing do you hear。He said。Do the deaf still hear or not。The Master said。If the deaf could hear, then they would possess ears and eyes。He said。What person can hear。The Master said。One before the embryo is formed。</p>
+<lb n="0531a10" ed="T"/><p xml:id="pT47p0531a1001">A monk asked the Master。The teaching says。One phrase can swallow hundreds of thousands of meanings。What is the one
+<lb n="0531a11" ed="T"/>phrase。The Master said。A needle cannot pierce in<anchor xml:id="nkr_note_orig_0531001" n="0531001"/>。</p>
+<lb n="0531a12" ed="T"/><p xml:id="pT47p0531a1201">A座主 took leave of Nanquan。Nanquan asked。Where are you going。He replied。Going down the mountain。Nanquan said。First, you must not slander Teacher Wang。He replied。How would I dare slander the和尚。Nanquan spat water and said。How many。The座主 then went out。The Master said。Serves you right。</p>
+<lb n="0531a15" ed="T"/><p xml:id="pT47p0531a1501">Weishan one day called the院主。The院主 came。Weishan said。I call “院主”。Why do you
+<lb n="0531a16" ed="T"/>come。The院主 had no reply。The Master on his behalf said。He also knows the和尚 did not call “this one”。Weishan then had the attendant call the first seat。The first seat came。Weishan said。I call “first seat”。Why do you come。The Master on his behalf said。If you had the attendant call, I fear he would not come。</p>
+<lb n="0531a20" ed="T"/><p xml:id="pT47p0531a2001">The Master raised。A monk took leave of Yaoshan to return to his乡。Yaoshan said。There is one person, his whole
+<lb n="0531a21" ed="T"/> body red and raw, lying amid thorns。The monk said。Then the student will not
+<lb n="0531a22" ed="T"/> return。Yaoshan said。Only know to return; I will give you a rest-from-grain prescription。He said。What is the rest-from-grain prescription。Yaoshan said。Every day on the platform, not biting through a single grain of rice。The Master said。Just as there is an ancient Buddha who said “the person whose whole body is red and raw”—he is only an ugly, base person。No one can approach him; there is no place to pick up and gather।Yet he says “lying amid thorns”。He only says it is in today’s daily use。There is also no matter on the side of maintaining and preserving, no place to pick up and gather।At that time a monk asked。When the whole body is red and raw, how is it。The Master said。Carrying the load。He said。Carrying whose load。The Master said。Do not let it be red and raw up to the ācārya。He also asked。Between the ugly person and the person whose whole body is red and raw, which is heavier。
+<pb n="0531b" xml:id="T47.1987A.0531b" ed="T"/>
+<lb n="0531b01" ed="T"/>The Master said。The greatly ugly person is heavier。The Master again raised and asked a monk。What does the greatly-maintaining person maintain。The monk had no reply。The Master himself on his behalf said。All day behind the back; never once glimpsed it。</p>
+<lb n="0531b04" ed="T"/><p xml:id="pT47p0531b0401">Monk Juzhi, whenever there was a challenge-question, only raised one finger。Later there was a boy。Because an outsider asked。What Dharma essential does the和尚 teach。The boy also raised one finger。Juzhi heard and then used a blade to cut off his finger。The boy, bearing the pain, cried loudly and went away。Juzhi again called him。The boy turned his head。Juzhi then raised a finger。The boy suddenly understood。When Juzhi was about to pass on, he told the assembly, saying。I obtained Tianlong’s one-finger Chan; for a whole lifetime I cannot use it up。When the words ended, he died in stillness。The Master said。Juzhi’s承當 place was reckless; he only recognized one mechanism and one境。</p>
+<lb n="0531b11" ed="T"/><p xml:id="pT47p0531b1101">A monk asked。Vimalakīrti was silent; Mañjuśrī praised it as good。I wonder whether it can still be said to match Vimalakīrti’s intent。The Master said。Can you bind empty space。The monk said。Then it does not match Vimalakīrti’s intent。The Master said。How would he ever agree。The monk said。In the end, where is there to return。The Master said。If there is some place to return, then it is the same as those two elders。The monk said。Then how does the和尚 do it。The Master said。Wait until you suffer Vimalakīrti’s illness, only then is it attained<anchor xml:id="nkr_note_orig_0531002" n="0531002"/>。</p>
+<lb n="0531b16" ed="T"/><p xml:id="pT47p0531b1601">In the Tianfu xinyou summer night, the Master asked the director of affairs, saying。What day and month is it today。He replied。The fifteenth day of the sixth month。The Master said。All my life, Caoshan has traveled on foot; wherever I go, I only take ninety days as one summer retreat。Tomorrow at辰 hour I will travel on foot and leave。In time he burned incense, sat in meditation, and transformed。He lived through the world sixty-two years; monastic age thirty-seven。They buried the whole body on the western slope of the mountain。He was given the posthumous title Chan Master Yuanzheng。The stupa was called Fuyuan。</p></cb:div>
+<lb n="0531b21" ed="T"/>
+<lb n="0531b22" ed="T"/><cb:div type="other"><cb:mulu level="1" type="其他">Explaining Dongshan’s Five Positions Manifest Instructions</cb:mulu><head>Explaining Dongshan’s Five Positions Manifest Instructions<note place="inline">Various selections, unified synthesis</note></head><byline>Recompiled below by Benguang</byline>
+<lb n="0531b23" ed="T"/><p xml:id="pT47p0531b2301">In the separate-time selection it says。As for what the former teacher made clear—bias and correctness and the accompanying-in-one—each uses the former teacher’s original intent, not in order to clarify功 and advance the positions of cultivation, nor to mix into the doctrinal phrases; it is directly an extraordinary mysterious discourse, essential to the ultimate marvelous intent。It only clarifies that the thing-body from above is present, silently matching the Way of the ancient sages。Now I see various scholars interpreting and selecting the former person’s intent-measure; it seems there is mistaken manifestation<note place="inline">pronounced “obstruction”</note>。I cannot help but briefly narrate its discrepancy; I should be ashamed<note place="inline">pronounced “esteemed”</note> that I do not confuse their功。Within this, there may be borrowing a position to clarify功, borrowing功 to clarify a position; the threads of conditions are many and varied。功 is in the moment; watch the momentum of words as they come; do not fail the incoming機。The marvel is in its fine completion
+<pb n="0531c" xml:id="T47.1987A.0531c" ed="T"/>
+<lb n="0531c01" ed="T"/>。</p>
+<lb n="0531c02" ed="T"/><p xml:id="pT47p0531c0201">The correct position turns back to bias。From bias,辨得 two intentions: “round”　From each position, selecting it out
+<lb n="0531c03" ed="T"/>it says。“The correct position turns back to bias” means not facing things; though not facing things, it nonetheless具
+<lb n="0531c04" ed="T"/>　In the separate selection it says。The correct position turns back to bias。In the correct, no use is bias; full use is round。
+<lb n="0531c05" ed="T"/>These are two intentions。Asked what is “full”。He said。It is the person the un-stubborn attain<anchor xml:id="nkr_note_orig_0531003" n="0531003"/>。This position is not made clear by coming。If a Buddha appears in the world, it is also like this。If a Buddha does not appear in the world, it is also like this。Therefore a thousand sages, ten thousand sages all归 to the correct position and承當　In the separate-time selection it says。In the correct, bias nevertheless具。In this one position, first you must not touch it。</p>
+<lb n="0531c10" ed="T"/><p xml:id="pT47p0531c1001">The biased position, though biased, is also round—two intentions。Within conditions,辨得 it is “within words, no words”　From each position, selecting it says。“The biased position, though biased, is also round—two intentions” means that at the place of use it does not set a fixed “exactly so”; if “exactly so”, then the true is not commonly used　In the separate selection it says。The biased position, though biased, is also round means that within use there is no thing, no contact。These are two intentions; though made clear within use, within words it is not harmed。This is “all day speaking as if not speaking”　In the separate-time selection it says。The biased position turns back to round, also具 “within conditions, not touching”。</p>
+<lb n="0531c16" ed="T"/><p xml:id="pT47p0531c1601">There may be one who comes from within the correct position。This is “within no-words, there are words”　From each position, selecting
+<lb n="0531c17" ed="T"/>it says。One who comes from the correct position does not accompany conditions。As Yaoshan said。I have one phrase that I have never spoken to anyone。Daowu said。Follow along and come。This is his marvelous understanding attained。As in the Hunan<anchor xml:id="nkr_note_orig_0531004" n="0531004"/><anchor xml:id="nkr_note_mod_0531004" n="0531004"/><anchor xml:id="beg0531004" n="0531004"/>inspecting<anchor xml:id="end0531004"/> commissioner’s saying—there are many examples like this。One must fit it out and not mix up honor and lowliness; it is called “within no-words, there are words”　In the separate selection it says。One who comes from within the correct position—phrase after phrase has no words; not establishing尊貴; not falling left or right; therefore it says “coming within the correct”。It also cites examples of “coming within the correct” as when asked “when the black bean has not yet sprouted, how is it”。It also cites “I have one phrase I have never spoken to anyone”。Also as “there is one person with no in-breath or out-breath”。Also as “before the embryo is formed, are there words or phrases or not”。There are also many such examples; they are called “within no-words, there are words”　In the separate-time selection it says。The correct position comes—clarifying the correct position does not涉 conditions。There is also “coming within the correct position”—within no-words, there are words, as when asked “when the black bean has not yet sprouted”。The place where the buddhas of the ten directions come forth。Also “I have one phrase I have never spoken to anyone”。For this phrase, the answering person must fit it out and must not deviate角; if deviating角, then one does not know there is, therefore。</p>
+<pb n="0532a" xml:id="T47.1987A.0532a" ed="T"/>
+<lb n="0532a01" ed="T"/><p xml:id="pT47p0532a0101">There may be one who comes from within the biased position。This is “within words, no words”　From each position, selecting
+<lb n="0532a02" ed="T"/>it says。One who comes within the biased then also accompanies conditions。As when one says “what is it that now comes and goes, call it what to be right”。Dongshan said “no, no”。There are also many examples like this; it is called “within words, no words”　In the separate selection it says。One who comes from within the biased position—words come from the four elements’ sounds and forms; not in places of right and wrong; therefore it says “within conditions,辨得 it is coming within the biased position”。It also cites examples of “coming within the biased position” as “what thing comes thus”。Also “light and境 both forgotten—again what thing”。Also “samādhi and prajñā equally studied, clearly seeing buddha-nature”。There are also many such examples; they are called “within words, no words”。There is further the carrying of功 to the extreme of rules, called “coming within the biased position”。This is hard to辨; one must select it out　In the separate-time selection it says。The biased position comes—clarifying the biased position涉 conditions。The nature of conditions has no body; all are the same as the correct position。One who comes from within the biased position clarifies the body by way of things, as “what thing comes thus”。Also “light and境 both forgotten—again what thing”。This one example’s words lodge功 to clarify a position; I previously raised it。Also “what thing comes thus”—this one example’s words, though attained within conditions, are not the same as outward-going。Also “samādhi and prajñā equally studied, clearly seeing buddha-nature”—this one example’s words I also first raised as an example。Also “light and境 both forgotten” is a doctrinal rule and not the same as mysterious learning。It is only that from doctrinal rules one extracts the school-gate’s mysterious learning and outside matters。As for “out-breath does not rely on the many conditions; in-breath does not dwell in the aggregates’ realm and yet abides”—these words are entirely功 and not recognized within conditions; this too is my old example。It is also the host’s drawing into the correct position, saying “there is one person with no in-breath or out-breath”, making him know there is the correct position。There is also borrowing matters for “coming within the correct position”—for this one position, the answering person must clarify its thing-body within the biased position; one must not enter the correct position to clarify it。This one phrase must be like the former teacher asking a Silla monk “before crossing the sea, where were you”。No reply。He himself on his behalf said “right now, even crossing the sea—where is it”。Also like the former teacher on behalf of Elder Shenwei’s staff-words said “right now, as it comes out, is there someone who can辨 it”。These examples, though recognized within conditions, are not the same as outward-going。If one cannot辨 it, fear later people will gather it as功勳 and take it to be a further-up matter。</p>
+<lb n="0532a28" ed="T"/><p xml:id="pT47p0532a2801">There may be one who comes as mutually accompanying-in-one。Here it does not speak of words or no words。Within words
+<lb n="0532a29" ed="T"/>one must directly go straight on the front side。Here it cannot but turn roundly。Matters must turn roundly。
+<pb n="0532b" xml:id="T47.1987A.0532b" ed="T"/>
+<lb n="0532b01" ed="T"/>Yet words on the road are all sickness。As for the person at hand, first he must辨 the front side of words and phrases and go straight on。With words is coming thus; no words is going thus。Among masters there are not no words and phrases; it does not涉 words or no words。This is called accompanying-in-one words。Entirely there is no fixed “exactly so”。That Elder Zhi, at the time of moving toward transformation, told people。Yunyan did not know there is; I regret that at the time I did not speak to him。Although so, still it does not violate Yaoshan’s Cai-zi。Look at how Elder Zhi should be an old woman then。Nanquan called it “walking among different kinds”。And as for Mi ācārya, he does not know　From each position, selecting it says。Those who come as mutually accompanying-in-one are because the momentum of words is neither biased nor correct, neither being nor nonbeing。As “fully not full, seems lacking not lacking”—only obtain going straight on the front side。The fixed “exactly so” is not established; if the fixed “exactly so” is not established, then it is words of the ultimate marvel; the境 is not the matter of round-turning ordinary情。As when the former teacher replied to Mañjuśrī’s “drink tea” words, saying “borrow this and see if you can see it”。Also like Cuiwei saying “each day, what do you chew”。There is also accompanying-in-one within功勳, seeming like a further-up matter; at the moment one must辨 it and take it。If it falls into the pure and marvelous place, then one must know there is a matter present。Want to go then go; want to stop then stop。Never, ever turn roundly and be reckless。As for the person of great ignorance, it is the whole body, not the same as icchantika。Icchantika is knowing there is a matter yet concealing it; though concealing it, it becomes filial nourishing。Those who conceal do not abide patriarch-buddhas and one’s own proper-duty father and mother。The person red and raw is because he does not return in full to carry the load, not establishing the utmost honored。The greatly maintaining person is because he thrusts the foot into mud; not small, small guarding and holding　In the separate selection it says。Those who come as mutually accompanying-in-one do not fall into words or no words。As Yaoshan’s “carrying a knife” words—this is accompanying-in-one words。At the moment, watch the momentum of words as they come。Sometimes go straight on the front side at the head; sometimes different-within, empty<note place="inline">phrase</note> this<note place="inline">phrase</note>—if you do not marvelously understand, then a thousand miles, ten thousand miles。It also cites examples of mutually accompanying-in-one words, such as Mañjuśrī’s “drink tea” words, and also “where does this person go”。Yunyan said “how, how”。Also “right now, how is it”。There are many such examples　In the separate-time selection it says。Mutual accompanying does not涉 the two paths of bias and correctness。This one position is equally cut off; marvelous intent hard to辨; it is called accompanying-in-one。All are in order to clarify this one segment of matter, moreover the correct position is not the same　The scholars’ selection says。Asked the patriarch’s intent; answered “when a special ox gives birth to a child, then I will tell you”。The selection says this is “coming within the correct position”。This one example’s words absolutely must not be called “coming within the correct position”； it can be called question-and-answer on the road of mysterious learning, both so。It is another road altogether。Nor may it be called mutually accompanying-in-one, for the sake of making it manifest。Even if host and guest turn互, it can only be called “sick accompanying-in-one”。Again, asked the mysterious intent; answered “like a dead man’s tongue”。Also, as when asked “within the twelve hours, what will you offer” and answered “nothing”—these two example words must not be called “coming within the biased position”； each must be separately selected。If it is one example of mysterious intent, it may be the same as the patriarch’s intent。Also, as “within the twelve hours, what will you offer” answering “nothing”—this one example may be the same as功勳。These two example words likewise must not be called biased position nor accompanying-in-one。It was already clearly broken before。It is borrowing功 to clarify a position, borrowing a position to clarify功, the same as this。Also, uniquely脱 beyond things, rising before the multitude of sages—saying it is “the correct position turns back to round”； in truth it bends the correct position。This example is “the ancient spoke past it, traces still remain”； it has still not attained “within words, no words”。This again is called not the correct position, because within words there are words。This can be called “sick accompanying-in-one”, because within words there are words。It must not be called “coming as mutually accompanying-in-one”。As for those who come as mutually accompanying-in-one, it must directly be like Mañjuśrī’s “drink tea” words, and the former teacher’s reply to Yunyan’s “hoe ginger” words, and An Heshang’s “Dharma-hall” words, and Yaoshan’s “cloth-patch washes Buddha” words。Among them, the most marvelous accompanying-in-one is none other than Yaoshan’s reply to Yunyan’s “carrying a knife” words, and also when Baizhang descended the hall and the great assembly wished to disperse but had not dispersed, Suo said “what is this”。Yaoshan, hearing these words from afar, said “here”。He then said “dark-head accompanying-in-one”。Borrowing功 to clarify things, borrowing things to clarify功, borrowing passing to clarify功, borrowing功 to clarify passing, and so on, come。If it is what Yaoshan and Xinfeng and the former worthies produced, surpassing and entering the correct position, it is already a strange and special phrase of mysterious discourse。Next, when arriving at those with small, small得力, then draw them into the correct position—this example I often use。Because I, by conditions, have many threads of住持, I cannot be细; briefly I clarify a small part。You people must not easily take it lightly and disdain it。If you still have doubts about accompanying, then promptly it will be decided。You must directly exert effort in cultivation so that it is not cut off to the future limit。This matter must not be carelessly leaked。If you meet one of pure measure, he is a strange vessel, and it also must not be hidden from the ear<anchor xml:id="nkr_note_orig_0532001" n="0532001"/>。</p></cb:div>
+<lb n="0532c27" ed="T"/><cb:div type="other"><cb:mulu level="1" type="其他">Verses for Each Position with Notes and Separate Selections</cb:mulu><head>Verses for Each Position with Notes and Separate Selections</head>
+<lb n="0532c28" ed="T"/><p xml:id="pT47p0532c2801">Within the correct, bias　Selection says。A crafty head in the dark。</p>
+<lb n="0532c29" ed="T"/><p xml:id="pT47p0532c2901">At the start of the night in the third watch, before the moon is bright　Selection says。Discern it when black and white have not yet mingled。
+<pb n="0533a" xml:id="T47.1987A.0533a" ed="T"/>
+<lb n="0533a01" ed="T"/>He also says。When the芽 has not yet sprouted。Another separate selection says。Right now, what time is it。He also says。Here there are no sun and moon; do not speak of before and after going。</p>
+<lb n="0533a03" ed="T"/><p xml:id="pT47p0533a0301">Do not blame meeting and not recognizing　Selection says。Forgotten it。He also says。Arrived at it。Another separate selection says。In what kalpa did you come violating and turning away。Then fold your hands and go。</p>
+<lb n="0533a05" ed="T"/><p xml:id="pT47p0533a0501">Faintly, still cherishing the old-day beauty　Selection says。These two lines are one intention and in the end are not alike。He also says。Even if round, you cannot deceive yourself。Another separate selection says。What is it that is heavy today。He also says。Thus。</p>
+<lb n="0533a08" ed="T"/><p xml:id="pT47p0533a0801">Within bias, correctness　Selection says。Under conditions, understand it。</p>
+<lb n="0533a09" ed="T"/><p xml:id="pT47p0533a0901">An old woman who has lost dawn meets an ancient mirror　Selection says。Revealed。Just now, again remembered。Another separate selection says。What appearance is it。He also says。Then do not present another color。</p>
+<lb n="0533a12" ed="T"/><p xml:id="pT47p0533a1201">Dividing the moon, face to face—there is no other true　Selection says。Understand it right now。He also says。Just this is it。Another separate selection says “lost”。He also says。Then when there has not yet been true, it is somewhat better。</p>
+<lb n="0533a15" ed="T"/><p xml:id="pT47p0533a1501">Stop further being confused about the head and instead recognizing the shadow　Selection says。It is not the original head。He also says。Do not recognize the shadow, that is it。Another separate selection says。In the end, not remembering。He also says。Then it cannot be changed。</p>
+<lb n="0533a18" ed="T"/><p xml:id="pT47p0533a1801">Coming within the correct　Selection says。Exceeded。</p>
+<lb n="0533a19" ed="T"/><p xml:id="pT47p0533a1901">Within nothing, there is a road; it blocks dust and grime　Selection says。Within no-phrases, there are phrases。He also says。Follow along and come。Another separate selection says。How are matters from the beginning。He also says。Then they do not borrow from each other。</p>
+<lb n="0533a22" ed="T"/><p xml:id="pT47p0533a2201">Only be able not to touch the present taboo　Selection says。Beside this。He also says。Already it is beside。He also says。Then across the great earth there is no second person。</p>
+<lb n="0533a24" ed="T"/><p xml:id="pT47p0533a2401">It also surpasses the former dynasty’s cut-tongue talent　Selection says not silent。He also says。Even more urgent than this。Another separate selection says。In the end, not grinding teeth。He also says。Then such repeated warning is not to be obtained。</p>
+<lb n="0533a27" ed="T"/><p xml:id="pT47p0533a2701">Within bias, the utmost　Selection says。Coming within phrases。</p>
+<lb n="0533a28" ed="T"/><p xml:id="pT47p0533a2801">Two blades cross, not avoiding each other　Selection says。Host and guest do not touch each other。He also says。Each each does not harm。Arrow after arrow props; pulse after pulse unbroken。Another separate selection says。
+<pb n="0533b" xml:id="T47.1987A.0533b" ed="T"/>
+<lb n="0533b01" ed="T"/>Those not opposing each other。He also says。Then instead they do not manage each other。</p>
+<lb n="0533b02" ed="T"/><p xml:id="pT47p0533b0201">A good hand is like a lotus within fire　Selection says。It cannot be ruined。He also says。Who is the one who gets the advantage。Another separate selection says。Weaker than whom。He also says。Then in the end he does not make a second person。</p>
+<lb n="0533b05" ed="T"/><p xml:id="pT47p0533b0501">Clearly there is an air that冲s to the sky　Selection says。Not obtained from others。He also says。Then it does not borrow。Another separate selection says。Not originally there。He also says。Then self too is not preserved。He also says。Not one’s own。</p>
+<lb n="0533b08" ed="T"/><p xml:id="pT47p0533b0801">Arriving within the accompanying　Selection says。Marvelous carrying。</p>
+<lb n="0533b09" ed="T"/><p xml:id="pT47p0533b0901">Not falling into being and nonbeing, who dares respond in harmony　Selection says。Not at the head-on point。He also says。He is a master。Another separate selection says。Exactly good。To deliberate—what is it called deliberation。Speak it. He said “ask”。</p>
+<lb n="0533b12" ed="T"/><p xml:id="pT47p0533b1201">Everyone wants to leave the constant stream　Selection says。All want to go beyond their kind。He also says。What place is there to break out the head。Another separate selection says。Move and you die。He also says。Then everywhere is快活。</p>
+<lb n="0533b15" ed="T"/><p xml:id="pT47p0533b1501">Folded together, return<anchor xml:id="nkr_note_orig_0533001" n="0533001"/><anchor xml:id="nkr_note_mod_0533001" n="0533001"/><anchor xml:id="beg0533001" n="0533001"/>return<anchor xml:id="end0533001"/> to sit within the coals　Selection says。Then one can know。Also will know。How should it be。Another separate selection says。You cannot deceive him。He also says。Then it is thanks to this one。</p></cb:div>
+<lb n="0533b18" ed="T"/><cb:div type="other"><cb:mulu level="1" type="其他">Essential Instructions of the Five Positions</cb:mulu><head>Essential Instructions of the Five Positions</head>
+<lb n="0533b19" ed="T"/><p xml:id="pT47p0533b1901">Coming within the correct is excessive。The whole body stands revealed alone。The root-source of the myriad dharmas。No blame
+<lb n="0533b20" ed="T"/> and no praise。Within bias, the utmost is inner trust。Following things without obstruction。A wooden boat—hollow within
+<lb n="0533b21" ed="T"/>。Hollow passage,自在。Within the correct, bias is gentle compliance。Empty space shattered fragments。Everywhere
+<lb n="0533b22" ed="T"/> roundly penetrating。Root and dust are silent thus。Within bias, correctness is delight。Images of water-moon and mirror
+<lb n="0533b23" ed="T"/>。Originally no arising and ceasing。How could there be traces。Arriving within the accompanying is double brightness。The correct need not be empty。The biased need not be solid。No turning-away, no turning-toward。It also says。The mind-mechanism is extinguished and cut off。Form and emptiness both forgotten<note place="inline">this is called correct</note>。At the end, no taboo。Never any change or movement<note place="inline">this is called middle</note>。Again
+<lb n="0533b26" ed="T"/> no covering and hiding。The whole body revealed and manifest<note place="inline">this is called biased</note>。This is called “within the correct, bias”。Mountain is mountain。
+<lb n="0533b27" ed="T"/>Water is water。No one settles a name。No thing can be compared。This is called “within bias, correctness”。Pure and naked, bare and bright。Countenance堂堂。Exhausting heaven, exhausting earth。Solely honored, without second。This is called “coming within the correct”。Exactly like the Son of Heaven within the realm。Not borrowing Yu and Tang
+<pb n="0533c" xml:id="T47.1987A.0533c" ed="T"/>
+<lb n="0533c01" ed="T"/>The ordinances of Yao and Shun. What the eyes see and the ears hear. In the end, it does not borrow another’s power. The ear does not enter within sound
+<lb n="0533c02" ed="T"/>. Sound does not block the root of the ear. Inside, only then does one turn the body. Amid the dust, no name is yet carried.
+<lb n="0533c03" ed="T"/>This is called arriving within the partial. It is not mind. It is not realm. It is not matter. It is not
+<lb n="0533c04" ed="T"/>principle. From the beginning it is apart from names and forms. The natural and true forgets nature and characteristics. This is called arriving in the inclusive.</p></cb:div>
+<lb n="0533c05" ed="T"/><cb:div type="other"><cb:mulu level="1" type="其他">Three Kinds of Falling</cb:mulu><head>Three Kinds of Falling</head>
+<lb n="0533c06" ed="T"/><p xml:id="pT47p0533c0601">The Master said. Ordinary feelings and saintly views are the mysterious road where gold is dissolved. One must directly engage in mutual interchange. As for those who take
+<lb n="0533c07" ed="T"/>the food of right livelihood, they must possess three kinds of falling. Water-buffalo ox. Not accepting food. Not cutting off
+<lb n="0533c08" ed="T"/>forms and sounds<note place="inline">Editor's note</note>—only fall away. Whose affair is this?  Selection says. If you
+<lb n="0533c09" ed="T"/>wish to know, it is entering among the different kinds, not recognizing matters on the śramaṇa side. Therefore the ancients
+<lb n="0533c10" ed="T"/>provisionally borrowed the water-buffalo ox as a different kind. It is only a different kind in terms of affairs, not within words.
+<lb n="0533c11" ed="T"/>A different kind within words<note place="inline">One must look to the four kinds of different kinds within</note>.</p>
+<lb n="0533c12" ed="T"/><p xml:id="pT47p0533c1201">At the time, Chou Bu-na asked. “What falling is the water-buffalo ox?” He said, “Wearing fur and bearing horns
+<lb n="0533c13" ed="T"/>is the śramaṇa-falling.” “Not accepting food—what falling is that?” He said, “It is the noble-falling.” “Not
+<lb n="0533c14" ed="T"/>cutting off forms and sounds—what falling is that?” He said, “It is the falling along with kind.” The Master also said. If it is
+<lb n="0533c15" ed="T"/>a different kind within words, then coming and going words are all kinds. Therefore Nan
+<lb n="0533c16" ed="T"/>quan said. Where wisdom does not reach, strictly avoid speaking of it. If you speak of it, horns grow on your head. Calling
+<lb n="0533c17" ed="T"/>it “thusness” is already a change. You must directly practice within the different. Now you must within
+<lb n="0533c18" ed="T"/>the different speak of the matters within the different. Only when there are no words within words does it begin to be so. Nan
+<lb n="0533c19" ed="T"/>quan, when ill, someone asked. “After the和尚’s hundred years, where will you go?” Quan
+<lb n="0533c20" ed="T"/>said. “I will go to the donor’s house below the mountain and become a water-buffalo ox.” This person
+<lb n="0533c21" ed="T"/>intends to follow the和尚—may I?” Quan said. “If you follow me, bring a single stalk of grass
+<lb n="0533c22" ed="T"/>in your mouth.”  Selection says. This is the śramaṇa’s turning-body speech. Therefore it is said. You intend
+<lb n="0533c23" ed="T"/>to come near—bring a single stalk of grass in your mouth to draw near him. This is called the leakless; only then are you fit to make offerings
+<lb n="0533c24" ed="T"/>to him.</p>
+<lb n="0533c25" ed="T"/><p xml:id="pT47p0533c2501">He also said. As for the falling along with kind: right now, on all forms and sounds, on each and every thing, turn
+<lb n="0533c26" ed="T"/>the body and do not fall into ranks—this is called falling along with kind. He also said. As for the noble-falling:
+<lb n="0533c27" ed="T"/>the dharma-body and dharma-nature are matters on the noble side, and one must also turn them away—this is the noble-falling.
+<lb n="0533c28" ed="T"/>Just like the white ox in the open ground: it is the utmost of the dharma-body, yet one must also turn it away to avoid his
+<lb n="0533c29" ed="T"/>sitting in a single-colored place with no discrimination. Both<note place="inline">dharma-body white ox</note> are called matters on the side of cutting off offerings. If you wish
+<pb n="0534a" xml:id="T47.1987A.0534a" ed="T"/>
+<lb n="0534a01" ed="T"/>to make offerings, you must obtain this food. Therefore the flavor of no-flavor is also called: the leakless is
+<lb n="0534a02" ed="T"/>fit for offering. And the rest—foods tainted by contact—are not the food of leakless liberation.
+<lb n="0534a03" ed="T"/>Someone asked Baizhang: “By what do you take food?” He said: “By the leakless as food.” Yunyan said:
+<lb n="0534a04" ed="T"/>“Do not take taste as an offering.” Daowu said: “Where one knows and maintains is entirely
+<lb n="0534a05" ed="T"/>offering.”</p>
+<lb n="0534a06" ed="T"/><p xml:id="pT47p0534a0601">He also said. As for the noble-falling of not accepting food: “food” is the fundamental matter. Knowing there is,
+<lb n="0534a07" ed="T"/>one does not take it—therefore it is called noble-falling. As for the śramaṇa-falling of wearing fur and bearing horns: one does not cling to
+<lb n="0534a08" ed="T"/>matters on the śramaṇa side and to the recompense-positions of all<anchor xml:id="nkr_note_orig_0534001" n="0534001"/><anchor xml:id="nkr_note_mod_0534001" n="0534001"/><anchor xml:id="beg0534001" n="0534001"/>saints<anchor xml:id="end0534001"/> as well<note place="inline">One must look at the “different kind” instruction</note>. As for the falling along with kind of not cutting off forms and sounds:
+<lb n="0534a09" ed="T"/>for a beginner, knowing there is his own fundamental matter—when he turns the light back,
+<lb n="0534a10" ed="T"/>he expels form, sound, smell, taste, touch, and dharmas, and attains tranquility. Then, after achieving merit,
+<lb n="0534a11" ed="T"/>he no longer clings to the six dusts; falling yet not deluded, letting it be without obstruction. Therefore it is said: the six
+<lb n="0534a12" ed="T"/>non-Buddhist teachers are your teachers; what those teachers fall into, you also fall into along with them—then you may take food.
+<lb n="0534a13" ed="T"/>This taking of food is the food of right livelihood; it is also the fundamental matter. It is just that at the gate of the six
+<lb n="0534a14" ed="T"/>sense-roots, seeing, hearing, awareness, and knowing are not stained by it—this is called “falling,” unlike
+<lb n="0534a15" ed="T"/>before, fearing<anchor xml:id="nkr_note_orig_0534002" n="0534002"/><anchor xml:id="nkr_note_mod_0534002" n="0534002"/><anchor xml:id="beg0534002" n="0534002"/>it<anchor xml:id="end0534002"/>. One does not even take the fundamental matter—how much less the rest. <anchor xml:id="nkr_note_orig_0534003" n="0534003"/><anchor xml:id="nkr_note_mod_0534003" n="0534003"/><anchor xml:id="beg0534003" n="0534003"/>Therefore it is said: be
+<lb n="0534a16" ed="T"/>careful, be careful<anchor xml:id="end0534003"/>.  Selection says. “Becoming a water-buffalo ox”—what falling is that? On behalf, he said. Not
+<lb n="0534a17" ed="T"/>dwelling in the correct position, not selecting one’s body—only then is it called śramaṇa-falling. “Not cutting off forms and sounds”
+<lb n="0534a18" ed="T"/>—what falling is that? On behalf, he said. When ordinary feelings are exhausted and saintly measures are also forgotten, within the dust of forms and sounds
+<lb n="0534a19" ed="T"/>one should no longer cut off; then one may take food—this is the falling along with kind. “Not accepting food”
+<lb n="0534a20" ed="T"/>—what falling is that? On behalf, he said. Clearly comprehending the correct cause, not retaining superior understanding; therefore it is called
+<lb n="0534a21" ed="T"/>noble-falling. He also said. As for śramaṇa-falling, it is not without its practice, and it is not without
+<lb n="0534a22" ed="T"/>its leisure. Though it has its leisure, it is always without its leisure; though it has its practice, it is always without
+<lb n="0534a23" ed="T"/>its practice. In this matter you must know the proper season—do not go east or west.</p>
+<lb n="0534a24" ed="T"/><p xml:id="pT47p0534a2401">Question: What is the falling along with kind? He said: Not cutting off forms and sounds, and also not losing fragrance and taste.
+<lb n="0534a25" ed="T"/>What are “those teachers”? He said: The six places. What is what those teachers fall into? He said: Fields and
+<lb n="0534a26" ed="T"/>cottages—an<anchor xml:id="nkr_note_orig_0534004" n="0534004"/><anchor xml:id="nkr_note_mod_0534004" n="0534004"/><anchor xml:id="beg0534004" n="0534004"/>old<anchor xml:id="end0534004"/> man enters the marketplace; eyes, ears, nose, and tongue all are lost. What is “you
+<lb n="0534a27" ed="T"/>also fall along with”? He said: “Preserve.” Preserve what? He said: Do not let it be touched; and also do not depart from
+<lb n="0534a28" ed="T"/>forms and sounds. Also Weishan said: “After my hundred years I will become a water-buffalo ox; on my left
+<lb n="0534a29" ed="T"/>flank will be written a line of characters: ‘Weishan monk so-and-so.’ When you see it, what will you call it?”
+<pb n="0534b" xml:id="T47.1987A.0534b" ed="T"/>
+<lb n="0534b01" ed="T"/>There was no reply. Later Caoshan spoke on his behalf: “Call it a water-buffalo ox.” Question:
+<lb n="0534b02" ed="T"/>May I ask, is this water-buffalo ox still able to plow and till? He said: Certainly. What kind is it?
+<lb n="0534b03" ed="T"/>He said: One who wears fur and bears horns. In the four seasons, what water and grass does it eat? He said: One who does not put it in the mouth.
+<lb n="0534b04" ed="T"/>What is the water-buffalo ox? He said: Not realizing the holy. What is “holding a single stalk of
+<lb n="0534b05" ed="T"/>grass in the mouth”? He said: Like the roots of fur and feathers departing. Is it transcending the holy, or transcending the kinds? He said: It is transcending the holy.
+<lb n="0534b06" ed="T"/>Question: What is the water-buffalo ox? He said: Dark, dim, and muddled. What is “bringing a
+<lb n="0534b07" ed="T"/>single stalk of grass in the mouth”? He said: The ancients have already said it—fur and feathers resemble it and depart<note place="inline">He Yu should answer the ancients’ words himself—what then
+<lb n="0534b08" ed="T"/>?</note> He also said: “A single stalk” is just clearly understanding non-change. <anchor xml:id="nkr_note_orig_0534005" n="0534005"/><anchor xml:id="nkr_note_mod_0534005" n="0534005"/><anchor xml:id="beg0534005" n="0534005"/>He also<anchor xml:id="end0534005"/> said: The patriarchs and
+<lb n="0534b09" ed="T"/>buddhas do not know there is. The civet-slave and white ox do know there is. Why do the civet-slave and white
+<lb n="0534b10" ed="T"/>ox know there is? He said: It is just that they understand nothing at all. Why do the patriarchs and buddhas
+<lb n="0534b11" ed="T"/>not know there is? He said: The patriarch clings to the seal; the buddha resembles it. As for the civet-slave
+<lb n="0534b12" ed="T"/>and white ox, what do they know there is? He said: They only know there is the civet-slave and white ox. How
+<lb n="0534b13" ed="T"/>is the matter of the civet-slave and white ox knowing there is? He said: It does not come from<anchor xml:id="nkr_note_orig_0534006" n="0534006"/><anchor xml:id="nkr_note_mod_0534006" n="0534006"/><anchor xml:id="beg0534006" n="0534006"/>east or west<anchor xml:id="end0534006"/>. It does not come from
+<lb n="0534b14" ed="T"/>the thirty-two marks. What is the patriarch? He said: “Above, there is.” What is the buddha? He said:
+<lb n="0534b15" ed="T"/>It resembles it and departs.</p></cb:div>
+<lb n="0534b16" ed="T"/><cb:div type="other"><cb:mulu level="1" type="其他">Four Kinds of Different Kinds</cb:mulu><head>Four Kinds of Different Kinds</head>
+<lb n="0534b17" ed="T"/><p xml:id="pT47p0534b1701">First: the different kind of coming and going. <anchor xml:id="nkr_note_orig_0534007" n="0534007"/><anchor xml:id="nkr_note_mod_0534007" n="0534007"/><anchor xml:id="beg0534007" n="0534007"/>That is,<anchor xml:id="end0534007"/> right now, all forms and sounds, words, ranks
+<lb n="0534b18" ed="T"/>stages, and positions—abandoning the father and fleeing away—entirely<anchor xml:id="nkr_note_orig_0534008" n="0534008"/> all turn back upward to the ancestral<anchor xml:id="nkr_note_orig_0534009" n="0534009"/><anchor xml:id="nkr_note_mod_0534009" n="0534009"/><anchor xml:id="beg0534009" n="0534009"/>father<anchor xml:id="end0534009"/> to become different
+<lb n="0534b19" ed="T"/>kinds. Also heaven, hell, hungry ghosts, animals, asuras, and so on are all different kinds.</p>
+<lb n="0534b20" ed="T"/><p xml:id="pT47p0534b2001">Second: the bodhisattva’s “together with different kinds.” This means losing clarity about oneself. Then entering the different kinds of birth-
+<lb n="0534b21" ed="T"/>and-death to gather in others. Having already realized the fruit of nirvana, one does not abandon the kind of birth-and-death.
+<lb n="0534b22" ed="T"/>Benefiting oneself and benefiting others, vowing that all beings shall all become buddhas<anchor xml:id="nkr_note_orig_0534010" n="0534010"/><anchor xml:id="nkr_note_mod_0534010" n="0534010"/><anchor xml:id="beg0534010" n="0534010"/>I<anchor xml:id="end0534010"/> will become a buddha last.
+<lb n="0534b23" ed="T"/>Therefore, if the great-power bodhisattva does not first transform beings, his own matter
+<lb n="0534b24" ed="T"/>has no way to be completed. Hence Nanquan said: First cross to the other side and know there is, then come
+<lb n="0534b25" ed="T"/>back to this side and travel. He also said: The bodhisattva possesses the six perfections and the ten-thousand practices. The teaching says: If there is
+<lb n="0534b26" ed="T"/>a single being not yet ferried across, I will never attain perfect awakening. The vows are boundless; beings
+<lb n="0534b27" ed="T"/>are boundless. Because of such<anchor xml:id="nkr_note_orig_0534011" n="0534011"/><anchor xml:id="nkr_note_mod_0534011" n="0534011"/><anchor xml:id="beg0534011" n="0534011"/>practice and sustaining<anchor xml:id="end0534011"/> it is called the bodhisattva’s “together with different kinds”<note place="inline">Below it says: “different kind within the same” is the same</note>.</p>
+<lb n="0534b28" ed="T"/><p xml:id="pT47p0534b2801">Third: the śramaṇa different kind<note place="inline">Below it says: wearing fur, cutting off horns</note><anchor xml:id="beg_1" type="star"/>That is,<anchor xml:id="end_1"/> first knowing there is the fundamental matter.
+<lb n="0534b29" ed="T"/>Exhausting all present-time ordinary and saintly causes and effects, virtues and practices. Only then does one attain an all-of-a-piece in accordance with the substance,
+<pb n="0534c" xml:id="T47.1987A.0534c" ed="T"/>
+<lb n="0534c01" ed="T"/>called a person who stands alone; also called the śramaṇa’s matter of cutting off. Only then does one attain inner
+<lb n="0534c02" ed="T"/>and outer feelings forgotten, the matters of the three times exhausted, attaining no leakage, attaining the name “matters on the buddha side.” It is also
+<lb n="0534c03" ed="T"/>said: with one hand pointing to heaven and earth; also said: possessing the great śramaṇa. Turning away the śramaṇa’s
+<lb n="0534c04" ed="T"/>matter of cutting off, not entering the recompense-positions of all<anchor xml:id="nkr_note_orig_0534012" n="0534012"/><anchor xml:id="nkr_note_mod_0534012" n="0534012"/><anchor xml:id="beg0534012" n="0534012"/>excellent<anchor xml:id="end0534012"/> results—only then is it called śramaṇa practice.
+<lb n="0534c05" ed="T"/>It is also said: the śramaṇa turns the body; also said: wearing fur and bearing horns; also called a water-buffalo
+<lb n="0534c06" ed="T"/>ox. At such a season only then may one enter among the different kinds; it is also said to be a matter on the side of form-kinds. Therefore
+<lb n="0534c07" ed="T"/>the ancients said: The head is three chi long and the neck is two cun short<note place="inline">In the hand-traces of Auspicious Lineage Ancestor it does not say “long”</note>. It is only
+<lb n="0534c08" ed="T"/>this principle—do not understand it otherwise.</p>
+<lb n="0534c09" ed="T"/><p xml:id="pT47p0534c0901">Fourth: the different kind within the school-gate<anchor xml:id="beg_2" type="star"/>That is,<anchor xml:id="end_2"/> as Nanquan said: Where wisdom does not reach, strictly
+<lb n="0534c10" ed="T"/>avoid speaking of it. If you speak of it, horns grow on your head. Calling it “thusness” is already a change.
+<lb n="0534c11" ed="T"/>You must directly practice within the different kinds and speak the matters within the different kinds. Dongshan said: This
+<lb n="0534c12" ed="T"/>matter must directly be met subtly. The matter lies in its subtlety; the substance lies in the subtle place. <anchor xml:id="nkr_note_orig_0534013" n="0534013"/><anchor xml:id="nkr_note_mod_0534013" n="0534013"/><anchor xml:id="beg0534013" n="0534013"/>Caoshan<anchor xml:id="end0534013"/> himself
+<lb n="0534c13" ed="T"/>said: In this matter one must empty one position—completely without anything definite. Only when face-to-face inclusion is
+<lb n="0534c14" ed="T"/>attained is it so. In the speech of a master, it is not partial, not correct, not having, not not-having. This is called
+<lb n="0534c15" ed="T"/>emptiness within the different<anchor xml:id="nkr_note_orig_0534014" n="0534014"/><anchor xml:id="nkr_note_mod_0534014" n="0534014"/><anchor xml:id="beg0534014" n="0534014"/>kinds<anchor xml:id="end0534014"/>. In this matter one must directly have the master’s horizontal body. Meeting wood, attach to wood.
+<lb n="0534c16" ed="T"/>Meeting bamboo, attach to bamboo. You must guard against offenses by contact. Entrusting, entrusting, entrusting, entrusting. A monk asked<note place="inline">From here the questions and answers all use “speech without tongue”
+<lb n="0534c17" ed="T"/>as the middle/lower way to speak of the above four different kinds</note> “What is ‘different’?” I said: If I were to tell you, in a donkey’s year
+<lb n="0534c18" ed="T"/>would you get ‘different’<anchor xml:id="nkr_note_orig_0534015" n="0534015"/><anchor xml:id="nkr_note_mod_0534015" n="0534015"/><anchor xml:id="beg0534015" n="0534015"/>?”<anchor xml:id="end0534015"/> Therefore someone asked Nanquan<anchor xml:id="nkr_note_orig_0534016" n="0534016"/><anchor xml:id="nkr_note_mod_0534016" n="0534016"/><anchor xml:id="beg0534016" n="0534016"/>和尚<anchor xml:id="end0534016"/>. After a hundred years,
+<lb n="0534c19" ed="T"/>where will you go? Quan<anchor xml:id="nkr_note_orig_0534017" n="0534017"/> said: To the donor’s house below the mountain, to become a water-buffalo
+<lb n="0534c20" ed="T"/>ox. He said: May I follow the和尚?<note place="inline">Their texts differ; how could the schools have ‘difference’</note> Quan said: You,
+<lb n="0534c21" ed="T"/>if you follow me, bring a single stalk of grass in your mouth. <anchor xml:id="nkr_note_orig_0534018" n="0534018"/><anchor xml:id="nkr_note_mod_0534018" n="0534018"/><anchor xml:id="beg0534018" n="0534018"/>I<anchor xml:id="end0534018"/> said: This water-buffalo ox is not the same as the
+<lb n="0534c22" ed="T"/>śramaṇa water-buffalo ox. You must be careful, only then will you not be confused about the season.</p>
+<lb n="0534c23" ed="T"/><p xml:id="pT47p0534c2301">Question: What is the different kind of coming and going? I said: Not yet knowing there is oneself. I also said:
+<lb n="0534c24" ed="T"/>All words, forms and sounds, right and wrong are altogether the different kind of coming and going. What is the
+<lb n="0534c25" ed="T"/><note place="inline">bodhisattva</note> different kind within the same? I said: Not selecting one’s body. What is the wearing-fur-bearing-horns
+<lb n="0534c26" ed="T"/>different kind<note place="inline">śramaṇa</note>? I said: Not establishing pure contact. And I answered out of season<note place="inline">That fits</note>: Contact is
+<lb n="0534c27" ed="T"/>contact; purity is purity. What is the different kind within the school-gate? I said: If you want the head,
+<lb n="0534c28" ed="T"/>then<anchor xml:id="nkr_note_orig_0534019" n="0534019"/><anchor xml:id="nkr_note_mod_0534019" n="0534019"/><anchor xml:id="beg0534019" n="0534019"/>grind it away<anchor xml:id="end0534019"/>.</p>
+<lb n="0534c29" ed="T"/><p xml:id="pT47p0534c2901">A monk raised this. Great Master Dongshan, because a monk asked about śramaṇa practice. The Great Master said: “The head
+<pb n="0535a" xml:id="T47.1987A.0535a" ed="T"/>
+<lb n="0535a01" ed="T"/>Head three chi long, neck two cun short. What does this mean<note place="inline">The new and old editions have no differences</note>I said. Supreme
+<lb n="0535a02" ed="T"/>phrases, wondrous phrases. What is called “supreme phrases, wondrous phrases”? I said. “Supreme phrases, wondrous phrases”
+<lb n="0535a03" ed="T"/>come in three kinds. First, when the World-Honored One appeared in the world, for forty-nine years he established skillful means.
+<lb n="0535a04" ed="T"/>The twelve divisions of teaching, the hundred thousand samadhis and wondrous gates—gate after gate penetrates <anchor xml:id="nkr_note_orig_0535001" n="0535001"/><anchor xml:id="nkr_note_mod_0535001" n="0535001"/><anchor xml:id="beg0535001" n="0535001"/>through to the end<anchor xml:id="end0535001"/>. All of it is
+<lb n="0535a05" ed="T"/>supreme phrases, wondrous phrases. This is discourse on the “beyond the world” side. Second, entering sagehood from the ordinary. Penetrating
+<lb n="0535a06" ed="T"/>through oneself, no different from the Buddha, attaining no leakage, only then attaining the whole body. Only then is it called
+<lb n="0535a07" ed="T"/>one mote of dust, one thought: the ten directions’ Bhagavan, a single road, the nirvana gate. When it comes to such
+<lb n="0535a08" ed="T"/>a time, one does not abide in the correct position, does not choose one’s body, but instead enters among the different kinds. Fur-clad,
+<lb n="0535a09" ed="T"/>horned, with no other thought. Therefore it is said: no kind of thing can be compared or likened. All
+<lb n="0535a10" ed="T"/>Buddhas and all Patriarchs cannot calculate it. Therefore the ancients said that the shramana’s <anchor xml:id="nkr_note_orig_0535002" n="0535002"/><anchor xml:id="nkr_note_mod_0535002" n="0535002"/><anchor xml:id="beg0535002" n="0535002"/>words<anchor xml:id="end0535002"/> must not
+<lb n="0535a11" ed="T"/>use words of measurement to speak to people. Therefore it is called supreme phrases, wondrous phrases. This is speech on the “form-kind”
+<lb n="0535a12" ed="T"/>side. Third, none of everything that exists can be compared; only then is it called
+<lb n="0535a13" ed="T"/>supreme phrases, wondrous phrases. Therefore the ancients said: a thousand kinds cannot be compared; ten thousand things’ analogies do not
+<lb n="0535a14" ed="T"/>succeed. The wise cannot know it; those of highest capacity also do not recognize it. It is also said <anchor xml:id="nkr_note_orig_0535003" n="0535003"/><anchor xml:id="nkr_note_mod_0535003" n="0535003"/><anchor xml:id="beg0535003" n="0535003"/>originally<anchor xml:id="end0535003"/> there is no
+<lb n="0535a15" ed="T"/>resemblance. Therefore: supreme phrases, wondrous phrases. Supreme phrases, wondrous phrases are matters that cannot be measured
+<lb n="0535a16" ed="T"/>in heaven or among humans. Therefore the ancients said it is called the phrase that transcends beginning and end. Borrowing this,
+<lb n="0535a17" ed="T"/>it is taken as speech on the “language-kind” side of talk and conduct<note place="inline">Below it is explained in even more detail</note>Chou the patch-robed asked: What is the form-kind?
+<lb n="0535a18" ed="T"/>I said: Fur-clad and horned. What is the language-kind? He said: Caoshan has only a
+<lb n="0535a19" ed="T"/>pair of eyebrows. <anchor xml:id="nkr_note_orig_0535004" n="0535004"/><anchor xml:id="nkr_note_mod_0535004" n="0535004"/><anchor xml:id="beg0535004" n="0535004"/>How<anchor xml:id="end0535004"/> is the water-buffalo? He said: dim and dull, bleary-eyed. What does this mean?
+<lb n="0535a20" ed="T"/>He said: not knowing there are heaven and earth.</p>
+<lb n="0535a21" ed="T"/><p xml:id="pT47p0535a2101"><anchor xml:id="nkr_note_orig_0535005" n="0535005"/><anchor xml:id="nkr_note_mod_0535005" n="0535005"/><anchor xml:id="beg0535005" n="0535005"/>Chou also raised<anchor xml:id="end0535005"/> it: The senior monk asked Yunju. <anchor xml:id="nkr_note_orig_0535006" n="0535006"/><anchor xml:id="nkr_note_mod_0535006" n="0535006"/><anchor xml:id="beg0535006" n="0535006"/>Dongshan, the ancient Buddha,<anchor xml:id="end0535006"/> has a saying: From a young age
+<lb n="0535a22" ed="T"/>I have raised <anchor xml:id="nkr_note_orig_0535007" n="0535007"/><anchor xml:id="nkr_note_mod_0535007" n="0535007"/><anchor xml:id="beg0535007" n="0535007"/>and obtained<anchor xml:id="end0535007"/> a son. His head is three chi long and his neck two cun short. <anchor xml:id="nkr_note_orig_0535008" n="0535008"/><anchor xml:id="nkr_note_mod_0535008" n="0535008"/><anchor xml:id="beg0535008" n="0535008"/>Right up to
+<lb n="0535a23" ed="T"/>today there is nothing to be done<anchor xml:id="end0535008"/>. What is this <anchor xml:id="nkr_note_orig_0535009" n="0535009"/><anchor xml:id="nkr_note_mod_0535009" n="0535009"/><anchor xml:id="beg0535009" n="0535009"/>from a young age<anchor xml:id="end0535009"/> raised-and-obtained son? Yunju said.
+<lb n="0535a24" ed="T"/>Daily provision is hard to forget. What is “head three chi long”? He said: there is nothing to be done. What is
+<lb n="0535a25" ed="T"/>“neck two cun short”? He said: Up to now, can anything be done about it? The question<note place="inline">One edition reads: afterward he raised it and asked the master. One
+<lb n="0535a26" ed="T"/>edition connects it with what precedes, still taking it as Yunju’s words</note>What is “daily provision is hard to forget”? I said: Being constantly present is it. What
+<lb n="0535a27" ed="T"/>is “constantly present”? He said: Not going against it is it. What is “nothing to be done”? He said:
+<lb n="0535a28" ed="T"/>At such a time, what person could do anything about it? Up to now, can anything be done about it?
+<lb n="0535a29" ed="T"/>What does this mean? He said: The Buddhas of the three times can do nothing about it<note place="inline">One edition up to here is Yunju’s words</note>How
+<pb n="0535b" xml:id="T47.1987A.0535b" ed="T"/>
+<lb n="0535b01" ed="T"/>is “head three chi long, neck two cun short”? He said: It is not something from the beginning. What
+<lb n="0535b02" ed="T"/>is “something from the beginning”? He said: What do you call it?</p>
+<lb n="0535b03" ed="T"/><p xml:id="pT47p0535b0301">He asked: In the shramana conduct, what conduct is it? He said: the conduct of animals. What is the conduct of animals?
+<lb n="0535b04" ed="T"/>He said: Fur-clad and horned. What is the shramana conduct of <note place="inline">fur-clad and horned</note>? He said: Thing after thing
+<lb n="0535b05" ed="T"/>is not interrupted. What is the matter of “not interrupted”? He said: only then is it conduct. What is
+<lb n="0535b06" ed="T"/>a person who is fur-clad and horned? He said: not fearing karma. Why does it come to such a place?
+<lb n="0535b07" ed="T"/>He said: If one does not fear karma, what place could one not reach?</p>
+<lb n="0535b08" ed="T"/><p xml:id="pT47p0535b0801">He asked: Entering sagehood from the ordinary, I will not ask. When entering the ordinary from the sage, how is it? He said: a
+<lb n="0535b09" ed="T"/>water-buffalo. What is the water-buffalo? He said: dim and dull, bleary-eyed. What does this mean?
+<lb n="0535b10" ed="T"/>He said: only thinking of water and grass, knowing nothing else. What side-matter does that make? He said:
+<lb n="0535b11" ed="T"/>Just when meeting grass, eat grass; when meeting water, drink water. The master also said: These words have
+<lb n="0535b12" ed="T"/>power. If you want to know their power: this person does not cling to shramana-side matters, nor does he enter the
+<lb n="0535b13" ed="T"/>reward-rank of the sages. That is precisely entering among the different kinds. This “different kind” is fur-clad and horned, called
+<lb n="0535b14" ed="T"/>shramana conduct. It is also called the place of the shramana’s travel provisions. It is also called “head three chi long,
+<lb n="0535b15" ed="T"/>neck two cun short.” If you want to know this meaning: when it comes to shramana conduct, one does not wish
+<lb n="0535b16" ed="T"/>to use measurements to distinguish intimacy and distance; one must not speak of Zhang San and Li Si. Moreover, “head three
+<lb n="0535b17" ed="T"/>chi long” means only that from small to great, today the work is completed; when it arrives at such a time,
+<lb n="0535b18" ed="T"/>it is called supreme phrases, wondrous phrases. “Neck two cun short” means not sitting in the shramana rank,
+<lb n="0535b19" ed="T"/>nor abiding in the sages’ reward <anchor xml:id="nkr_note_orig_0535010" n="0535010"/><anchor xml:id="nkr_note_mod_0535010" n="0535010"/><anchor xml:id="beg0535010" n="0535010"/>rank<anchor xml:id="end0535010"/>. Therefore it is “neck two cun short.” At such a time one
+<lb n="0535b20" ed="T"/>must not speak of fitting or not fitting. Therefore it is said: do not bring measurements here
+<lb n="0535b21" ed="T"/>to think it over. Even so, this is still a matter on the “kind” side. You must know there are matters within the different
+<lb n="0535b22" ed="T"/>kind. Do you not see it said: Where wisdom does not reach, one must not speak of it. If you speak of it,
+<lb n="0535b23" ed="T"/>horns and a head arise. It is called thusness; that is already a change. One must proceed within the different kind.
+<lb n="0535b24" ed="T"/>It is called “emptying one position.” It is called “face-to-face, with inclusion.” Completely without any “this.” <anchor xml:id="nkr_note_orig_0535011" n="0535011"/><anchor xml:id="nkr_note_mod_0535011" n="0535011"/><anchor xml:id="beg0535011" n="0535011"/>Indeed<anchor xml:id="end0535011"/>.
+<lb n="0535b25" ed="T"/>He asked: What is “kind”? He said: Fur-clad and horned. What is “different”? He said: How, how.
+<lb n="0535b26" ed="T"/>What is “conduct”? He said: If you want the head, then chop it off. Just so: what side-matter does the different kind
+<lb n="0535b27" ed="T"/>make? He said: In this matter there are two kinds of “different kind.” One is
+<lb n="0535b28" ed="T"/>the shramana different kind; the second is the “different kind in affairs.” The “different kind in affairs” is the civet-cat slave
+<lb n="0535b29" ed="T"/>and the white ox. The shramana different kind is: wherever one touches, one attains freedom; only then does one attain not
+<pb n="0535c" xml:id="T47.1987A.0535c" ed="T"/>
+<lb n="0535c01" ed="T"/>changing. It is not like that one. The former master asked me: Where are you going? I said: To the place of not changing.
+<lb n="0535c02" ed="T"/><anchor xml:id="nkr_note_orig_0535012" n="0535012"/><anchor xml:id="nkr_note_mod_0535012" n="0535012"/><anchor xml:id="beg0535012" n="0535012"/>He also said<anchor xml:id="end0535012"/>: This matter of not changing has two kinds. One is that each
+<lb n="0535c03" ed="T"/>and every person fully has their own original matter. The second is that those who know there is such a thing do not abandon any
+<lb n="0535c04" ed="T"/>sounds and forms, right and wrong; in all things and every thing they do not stick. It is called “in every place, not
+<lb n="0535c05" ed="T"/>changing.” <note place="inline">“Gai” goes with the departing tone; the sounds differ</note>It is also called fur-clad and horned; it is also called entering mud and entering water.
+<lb n="0535c06" ed="T"/>It is also called the fellow with travel provisions. He asked: What is entering mud and entering water? He said: not
+<lb n="0535c07" ed="T"/>changing. Does it turn around or not? He said: It does not turn around. How are this person’s household matters?
+<lb n="0535c08" ed="T"/>He said: The sages cannot measure it. Why can they not measure it? He said: Because he is not the same as
+<lb n="0535c09" ed="T"/>the sages. This is still a matter on the “kind” side—are there still matters above it or not? He said: There are. Thus,
+<lb n="0535c10" ed="T"/>what are the matters above? He said: If I tell you, I fear it will fall onto the “kind” side.</p></cb:div>
+<lb n="0535c11" ed="T"/><cb:div type="other"><cb:mulu level="1" type="其他">Three Lamps</cb:mulu><head>Three Lamps<note place="inline">Before and after, exactly three</note></head>
+<lb n="0535c12" ed="T"/><p xml:id="pT47p0535c1201">The master said: What is called “before the lamp is lit” has two kinds. One: not yet knowing there is such a thing—like the milk
+<lb n="0535c13" ed="T"/>of the same kind of blood. Two: knowing there is such a thing—like obtaining the original thing before intention has sprouted. This is called “before the
+<lb n="0535c14" ed="T"/>lamp is lit.” One kind of knowing there is such a thing: coming and going in words, sounds and forms, right and wrong—also not belonging to
+<lb n="0535c15" ed="T"/>correct illuminating function, also not receiving prediction—like the milk of the same kind of blood; this is a matter on the side of leakage and loss.
+<lb n="0535c16" ed="T"/>This is called “after the lamp is lit.” Straight on, the affairs of the three times are exhausted; inner and outer feelings are forgotten; attaining no
+<lb n="0535c17" ed="T"/>interruption—only then is it called the correct lighting of the lamp; then it is said one receives prediction.</p></cb:div>
+<lb n="0535c18" ed="T"/><cb:juan n="001" fun="close"><cb:jhead>Recorded Sayings of Chan Master Caoshan Yuanzheng of Fuzhou<note place="inline">End</note></cb:jhead></cb:juan>
+</body>
+<back>
+<cb:div type="apparatus">
+<head>Collation Notes</head>
+<p>
+<app from="#beg0528b0901" to="#end0528b0901"><lem wit="#wit.cbeta" resp="#resp4">She<note type="cf1">T47n1987Bp0538a25</note><note type="cf2">X66n1297_p0659c10</note></lem><rdg wit="#wit.orig">Dark</rdg></app>
+<app from="#beg0528001" to="#end0528001"><lem wit="#wit.orig">Good</lem><rdg resp="#resp2" wit="#wit1" type="variantRemark">Love</rdg></app>
+<app from="#beg0529003" to="#end0529003"><lem resp="#resp2" wit="#wit.orig">I</lem><rdg resp="#resp2" wit="#wit1" type="correctionRemark">Remaining</rdg></app>
+<app from="#beg0530a1401" to="#end0530a1401"><lem wit="#wit.cbeta" resp="#resp4">Leisure</lem><rdg wit="#wit.orig">Between</rdg></app>
+<app from="#beg0531004" to="#end0531004"><lem wit="#wit.orig">Observe</lem><rdg resp="#resp2" wit="#wit1" type="variantRemark">Official</rdg></app>
+<app from="#beg0533001" to="#end0533001"><lem wit="#wit.orig">Return</lem><rdg resp="#resp2" wit="#wit1" type="variantRemark">Come</rdg></app>
+<app from="#beg0534001" to="#end0534001"><lem wit="#wit.orig">Sage</lem><rdg resp="#resp2" wit="#wit1" type="variantRemark">Superior</rdg></app>
+<app from="#beg0534002" to="#end0534002"><lem wit="#wit.orig">Him</lem><rdg resp="#resp2" wit="#wit1" type="variantRemark">Also</rdg></app>
+<app from="#beg0534003" to="#end0534003"><lem wit="#wit.orig">Therefore it is said. Carefully, carefully<lb n="0534a16" ed="T"/>Carefully, carefully</lem><rdg resp="#resp2" wit="#wit1" type="variantRemark"><space quantity="0"/></rdg></app>
+<app from="#beg0534004" to="#end0534004"><lem wit="#wit.orig">Old</lem><rdg resp="#resp2" wit="#wit1" type="variantRemark"><space quantity="0"/></rdg></app>
+<app from="#beg0534005" to="#end0534005"><lem wit="#wit.orig">Again</lem><rdg resp="#resp2" wit="#wit1" type="variantRemark">I</rdg></app>
+<app from="#beg0534006" to="#end0534006"><lem wit="#wit.orig">West-East</lem><rdg resp="#resp2" wit="#wit1" type="variantRemark">East-West</rdg></app>
+<app from="#beg0534007" to="#end0534007"><lem wit="#wit.orig">That is</lem><rdg resp="#resp2" wit="#wit1" type="variantRemark">Those</rdg></app>
+<app from="#beg0534009" to="#end0534009"><lem wit="#wit.orig">Father</lem><rdg resp="#resp2" wit="#wit1" type="variantRemark">Again</rdg></app>
+<app from="#beg0534010" to="#end0534010"><lem wit="#wit.orig">I</lem><rdg resp="#resp2" wit="#wit1" type="variantRemark"><space quantity="0"/></rdg></app>
+<app from="#beg0534011" to="#end0534011"><lem wit="#wit.orig">Practice and uphold</lem><rdg resp="#resp2" wit="#wit1" type="variantRemark">Vows</rdg></app>
+<app from="#beg_1" to="#end_1" corresp="#0534007"><lem wit="#wit.orig">That is</lem><rdg resp="#resp2" wit="#wit1" type="variantRemark">Those</rdg></app>
+<app from="#beg0534012" to="#end0534012"><lem wit="#wit.orig">Superior</lem><rdg resp="#resp2" wit="#wit1" type="variantRemark">Sage</rdg></app>
+<app from="#beg_2" to="#end_2" corresp="#0534007"><lem wit="#wit.orig">That is</lem><rdg resp="#resp2" wit="#wit1" type="variantRemark">Those</rdg></app>
+<app from="#beg0534013" to="#end0534013"><lem wit="#wit.orig">Caoshan</lem><rdg resp="#resp2" wit="#wit1" type="variantRemark">I</rdg></app>
+<app from="#beg0534014" to="#end0534014"><lem wit="#wit.orig">Kind</lem><rdg resp="#resp2" wit="#wit2" type="variantRemark"><space quantity="0"/></rdg></app>
+<app from="#beg0534015" to="#end0534015"><lem wit="#wit.orig">How</lem><rdg resp="#resp2" wit="#wit1" type="variantRemark">No</rdg></app>
+<app from="#beg0534016" to="#end0534016"><lem wit="#wit.orig">Monk</lem><rdg resp="#resp2" wit="#wit1" type="variantRemark"><space quantity="0"/></rdg></app>
+<app from="#beg0534018" to="#end0534018"><lem wit="#wit.orig">I</lem><rdg resp="#resp2" wit="#wit1" type="variantRemark">Master</rdg></app>
+<app from="#beg0534019" to="#end0534019"><lem wit="#wit.orig">Grind</lem><rdg resp="#resp2" wit="#wit1" type="variantRemark">Chop</rdg></app>
+<app from="#beg0535001" to="#end0535001"><lem wit="#wit.orig">End</lem><rdg resp="#resp2" wit="#wit1" type="variantRemark">Cave</rdg></app>
+<app from="#beg0535002" to="#end0535002"><lem wit="#wit.orig">Words</lem><rdg resp="#resp2" wit="#wit1" type="variantRemark">Side-words</rdg></app>
+<app from="#beg0535003" to="#end0535003"><lem wit="#wit.orig">Originally</lem><rdg resp="#resp2" wit="#wit1" type="variantRemark"><space quantity="0"/></rdg></app>
+<app from="#beg0535004" to="#end0535004"><lem wit="#wit.orig">How</lem><rdg resp="#resp2" wit="#wit1" type="variantRemark">Asked how</rdg></app>
+<app from="#beg0535005" to="#end0535005"><lem wit="#wit.orig">Chou also raised</lem><rdg resp="#resp2" wit="#wit1" type="variantRemark"><space quantity="0"/></rdg></app>
+<app from="#beg0535006" to="#end0535006"><lem wit="#wit.orig">Dongshan, the ancient Buddha</lem><rdg resp="#resp2" wit="#wit1" type="variantRemark">Former master</rdg></app>
+<app from="#beg0535007" to="#end0535007"><lem wit="#wit.orig">Obtain</lem><rdg resp="#resp2" wit="#wit1" type="variantRemark"><space quantity="0"/></rdg></app>
+<app from="#beg0535008" to="#end0535008"><lem wit="#wit.orig">Right up to<lb n="0535a23" ed="T"/>today there is nothing to be done</lem><rdg resp="#resp2" wit="#wit1" type="variantRemark"><space quantity="0"/></rdg></app>
+<app from="#beg0535009" to="#end0535009"><lem wit="#wit.orig">From a young age</lem><rdg resp="#resp2" wit="#wit1" type="variantRemark"><space quantity="0"/></rdg></app>
+<app from="#beg0535010" to="#end0535010"><lem wit="#wit.orig">Rank</lem><rdg resp="#resp2" wit="#wit1" type="variantRemark"><space quantity="0"/></rdg></app>
+<app from="#beg0535011" to="#end0535011"><lem wit="#wit.orig">Indeed</lem><rdg resp="#resp2" wit="#wit1" type="variantRemark"><space quantity="0"/></rdg></app>
+<app from="#beg0535012" to="#end0535012"><lem wit="#wit.orig">He also said</lem><rdg resp="#resp2" wit="#wit1" type="variantRemark"><space quantity="0"/></rdg><rdg resp="#resp2" wit="#wit1" type="variantRemark">The master said</rdg></app>
+</p>
+</cb:div>
+<cb:div type="cbeta-notes">
+<head>CBETA Collation Notes</head>
+<p>
+<note n="0528001" resp="#resp3" type="mod" target="#nkr_note_mod_0528001">Good【D】, Love【Variant - Original】</note>
+<note n="0529003" resp="#resp3" type="mod" target="#nkr_note_mod_0529003">I【D】, Remaining【Spurious - Original】</note>
+<note n="0531004" resp="#resp3" type="mod" target="#nkr_note_mod_0531004">Observe【D】, Official【Variant - Original】</note>
+<note n="0533001" resp="#resp3" type="mod" target="#nkr_note_mod_0533001">Return【D】, Come【Variant - Original】</note>
+<note n="0534001" resp="#resp3" type="mod" target="#nkr_note_mod_0534001">Sage【D】, Superior【Variant - Original】</note>
+<note n="0534002" resp="#resp3" type="mod" target="#nkr_note_mod_0534002">Him【D】, Also【Variant - Original】</note>
+<note n="0534003" resp="#resp3" type="mod" target="#nkr_note_mod_0534003">Therefore it is said “carefully, carefully”【D】, 〔—〕【Variant - Original】</note>
+<note n="0534004" resp="#resp3" type="mod" target="#nkr_note_mod_0534004">Old【D】, 〔—〕【Variant - Original】</note>
+<note n="0534005" resp="#resp3" type="mod" target="#nkr_note_mod_0534005">Again【D】, I【Variant - Original】</note>
+<note n="0534006" resp="#resp3" type="mod" target="#nkr_note_mod_0534006">West-East【D】, East-West【Variant - Original】</note>
+<note n="0534007" resp="#resp3" type="mod" target="#nkr_note_mod_0534007">That is【D】＊, Those【Variant - Original】＊</note>
+<note n="0534009" resp="#resp3" type="mod" target="#nkr_note_mod_0534009">Father【D】, Again【Variant - Original】</note>
+<note n="0534010" resp="#resp3" type="mod" target="#nkr_note_mod_0534010">I【D】, 〔—〕【Variant - Original】</note>
+<note n="0534011" resp="#resp3" type="mod" target="#nkr_note_mod_0534011">Practice and uphold【D】, Vows【Variant - Original】</note>
+<note n="0534012" resp="#resp3" type="mod" target="#nkr_note_mod_0534012">Superior【D】, Sage【Variant - Original】</note>
+<note n="0534013" resp="#resp3" type="mod" target="#nkr_note_mod_0534013">Caoshan【D】, I【Variant - Original】</note>
+<note n="0534014" resp="#resp3" type="mod" target="#nkr_note_mod_0534014">Kind【D】, 〔—〕【Variant - Jia】</note>
+<note n="0534015" resp="#resp3" type="mod" target="#nkr_note_mod_0534015">How【D】, No【Variant - Original】</note>
+<note n="0534016" resp="#resp3" type="mod" target="#nkr_note_mod_0534016">Monk【D】, 〔—〕【Variant - Original】</note>
+<note n="0534018" resp="#resp3" type="mod" target="#nkr_note_mod_0534018">I【D】, Master【Variant - Original】</note>
+<note n="0534019" resp="#resp3" type="mod" target="#nkr_note_mod_0534019">Grind【D】, Chop【Variant - Original】</note>
+<note n="0535001" resp="#resp3" type="mod" target="#nkr_note_mod_0535001">End【D】, Cave【Variant - Original】</note>
+<note n="0535002" resp="#resp3" type="mod" target="#nkr_note_mod_0535002">Words【D】, Side-words【Variant - Original】</note>
+<note n="0535003" resp="#resp3" type="mod" target="#nkr_note_mod_0535003">Originally【D】, 〔—〕【Variant - Original】</note>
+<note n="0535004" resp="#resp3" type="mod" target="#nkr_note_mod_0535004">How【D】, Asked how【Variant - Original】</note>
+<note n="0535005" resp="#resp3" type="mod" target="#nkr_note_mod_0535005">Chou also raised【D】, 〔—〕【Variant - Original】</note>
+<note n="0535006" resp="#resp3" type="mod" target="#nkr_note_mod_0535006">Dongshan, the ancient Buddha【D】, Former master【Variant - Original】</note>
+<note n="0535007" resp="#resp3" type="mod" target="#nkr_note_mod_0535007">Obtain【D】, 〔—〕【Variant - Original】</note>
+<note n="0535008" resp="#resp3" type="mod" target="#nkr_note_mod_0535008">Right up to today there is nothing to be done【D】, 〔—〕【Variant - Original】</note>
+<note n="0535009" resp="#resp3" type="mod" target="#nkr_note_mod_0535009">From a young age【D】, 〔—〕【Variant - Original】</note>
+<note n="0535010" resp="#resp3" type="mod" target="#nkr_note_mod_0535010">Rank【D】, 〔—〕【Variant - Original】</note>
+<note n="0535011" resp="#resp3" type="mod" target="#nkr_note_mod_0535011">Indeed【D】, 〔—〕【Variant - Original】</note>
+<note n="0535012" resp="#resp3" type="mod" target="#nkr_note_mod_0535012">He also said【D】, 〔—〕【Variant - Original】, The master said【Variant - Original】</note>
+</p>
+</cb:div>
+<cb:div type="taisho-notes">
+<head>Taishō Canon Collation Notes</head>
+<p>
+<note n="0526001" resp="#resp2" place="foot text" type="orig" target="#nkr_note_orig_0526001">【Original】Meiwa 3 (1766) printed edition, Komazawa University collection</note>
+<note n="0527001" resp="#resp2" place="foot text" type="orig" target="#nkr_note_orig_0527001">The original note says: “Such as the ‘Ruler and Minister Five-Aspect Verses,’ though they could be compiled at the end, I have followed the old carving.”</note>
+<note n="0527002" resp="#resp2" place="foot text" type="orig" target="#nkr_note_orig_0527002">The original note says: “This saying already appears in the Dongshan Record.”</note>
+<note n="0528001" resp="#resp2" place="foot text" type="orig" target="#nkr_note_orig_0528001">Good = Love (variant)【Original】</note>
+<note n="0529001" resp="#resp2" place="foot text" type="orig" target="#nkr_note_orig_0529001">The original note says: “In the ‘Caoshang Category Collection,’ the four characters ‘stored thirty years before’ remain.”</note>
+<note n="0529002" resp="#resp2" place="foot text" type="orig" target="#nkr_note_orig_0529002">The original note says: “This is a topic of discourse; by chance it resembles Qingxi’s words.”</note>
+<note n="0529003" resp="#resp2" place="foot text" type="orig" target="#nkr_note_orig_0529003">I = Remaining (variant)【Original】</note>
+<note n="0531001" resp="#resp2" place="foot text" type="orig" target="#nkr_note_orig_0531001">The original note says: “‘Zha’ should be written ‘Zha’; its sound is ‘ya’; it is a省-form of ‘pull out,’ etc., etc.”</note>
+<note n="0531002" resp="#resp2" place="foot text" type="orig" target="#nkr_note_orig_0531002">The original note says: “From below, the master takes up Dongshan’s old cases; since they are already recorded in the Xinfeng Record, they are not recorded here.”</note>
+<note n="0531003" resp="#resp2" place="foot text" type="orig" target="#nkr_note_orig_0531003">The original note says: “In Wan Guanghui’s annotated edition it is written ‘Gu.’”</note>
+<note n="0531004" resp="#resp2" place="foot text" type="orig" target="#nkr_note_orig_0531004">Observe = Official (variant)【Original】</note>
+<note n="0532001" resp="#resp2" place="foot text" type="orig" target="#nkr_note_orig_0532001">The original note says: “Elder Tianzhen’s selecting words are now略 and are not recorded.”</note>
+<note n="0533001" resp="#resp2" place="foot text" type="orig" target="#nkr_note_orig_0533001">Return = Come (variant)【Original】</note>
+<note n="0534001" resp="#resp2" place="foot text" type="orig" target="#nkr_note_orig_0534001">Sage = Superior (variant)【Original】</note>
+<note n="0534002" resp="#resp2" place="foot text" type="orig" target="#nkr_note_orig_0534002">Him = Also (variant)【Original】</note>
+<note n="0534003" resp="#resp2" place="foot text" type="orig" target="#nkr_note_orig_0534003">〔Therefore it is said “carefully, carefully”〕 omitted【Original】</note>
+<note n="0534004" resp="#resp2" place="foot text" type="orig" target="#nkr_note_orig_0534004">〔Old〕 omitted【Original】</note>
+<note n="0534005" resp="#resp2" place="foot text" type="orig" target="#nkr_note_orig_0534005">Again = I (variant)【Original】</note>
+<note n="0534006" resp="#resp2" place="foot text" type="orig" target="#nkr_note_orig_0534006">West-East = East-West (variant)【Original】</note>
+<note n="0534007" resp="#resp2" place="foot text" type="orig" target="#nkr_note_orig_0534007">That is = Those (variant)【Original】＊</note>
+<note n="0534008" resp="#resp2" place="foot text" type="orig" target="#nkr_note_orig_0534008">The original note says: “In various editions the character ‘jie’ is written ‘bei’; according to the old oral instructions it should be ‘jie’.”</note>
+<note n="0534009" resp="#resp2" place="foot text" type="orig" target="#nkr_note_orig_0534009">Father = Again (variant)【Original】</note>
+<note n="0534010" resp="#resp2" place="foot text" type="orig" target="#nkr_note_orig_0534010">〔I〕 omitted【Original】</note>
+<note n="0534011" resp="#resp2" place="foot text" type="orig" target="#nkr_note_orig_0534011">Practice and uphold = Vows (variant)【Original】</note>
+<note n="0534012" resp="#resp2" place="foot text" type="orig" target="#nkr_note_orig_0534012">Superior = Sage (variant)【Original】</note>
+<note n="0534013" resp="#resp2" place="foot text" type="orig" target="#nkr_note_orig_0534013">Caoshan = I (variant)【Original】</note>
+<note n="0534014" resp="#resp2" place="foot text" type="orig" target="#nkr_note_orig_0534014">〔Kind〕 omitted【Jia】</note>
+<note n="0534015" resp="#resp2" place="foot text" type="orig" target="#nkr_note_orig_0534015">How = No (variant)【Original】</note>
+<note n="0534016" resp="#resp2" place="foot text" type="orig" target="#nkr_note_orig_0534016">〔Monk〕 omitted【Original】</note>
+<note n="0534017" resp="#resp2" place="foot text" type="orig" target="#nkr_note_orig_0534017">The original note says: “Among the three falls, here there is the phrase ‘I go toward’.”</note>
+<note n="0534018" resp="#resp2" place="foot text" type="orig" target="#nkr_note_orig_0534018">I = Master (variant)【Original】</note>
+<note n="0534019" resp="#resp2" place="foot text" type="orig" target="#nkr_note_orig_0534019">Grind = Chop (variant)【Original】</note>
+<note n="0535001" resp="#resp2" place="foot text" type="orig" target="#nkr_note_orig_0535001">End = Cave (variant)【Original】</note>
+<note n="0535002" resp="#resp2" place="foot text" type="orig" target="#nkr_note_orig_0535002">(Side) + Words【Original】</note>
+<note n="0535003" resp="#resp2" place="foot text" type="orig" target="#nkr_note_orig_0535003">〔Originally〕 omitted【Original】</note>
+<note n="0535004" resp="#resp2" place="foot text" type="orig" target="#nkr_note_orig_0535004">(Asked) + How【Original】</note>
+<note n="0535005" resp="#resp2" place="foot text" type="orig" target="#nkr_note_orig_0535005">〔Chou also raised〕 omitted【Original】</note>
+<note n="0535006" resp="#resp2" place="foot text" type="orig" target="#nkr_note_orig_0535006">Dongshan, the ancient Buddha = Former master (variant)【Original】</note>
+<note n="0535007" resp="#resp2" place="foot text" type="orig" target="#nkr_note_orig_0535007">〔Obtain〕 omitted【Original】</note>
+<note n="0535008" resp="#resp2" place="foot text" type="orig" target="#nkr_note_orig_0535008">〔Right up to today there is nothing to be done〕 omitted【Original】</note>
+<note n="0535009" resp="#resp2" place="foot text" type="orig" target="#nkr_note_orig_0535009">〔From a young age〕 omitted【Original】</note>
+<note n="0535010" resp="#resp2" place="foot text" type="orig" target="#nkr_note_orig_0535010">〔Rank〕 omitted【Original】</note>
+<note n="0535011" resp="#resp2" place="foot text" type="orig" target="#nkr_note_orig_0535011">〔Indeed〕 omitted【Original】</note>
+<note n="0535012" resp="#resp2" place="foot text" type="orig" target="#nkr_note_orig_0535012">Also = Master (variant)【Original】, 〔He also said〕 omitted【Original】</note>
+</p>
+</cb:div>
+<cb:div type="add-notes">
+<head>Added Collation Notes</head>
+<p>
+<note n="0528b0901" resp="#resp3" type="add" target="#nkr_note_add_0528b0901">She【CB】, Dark【D】</note>
+<note n="0530a1401" resp="#resp3" type="add" target="#nkr_note_add_0530a1401">Leisure【CB】, Between【D】</note>
+</p>
+</cb:div>
+</back></text></TEI>

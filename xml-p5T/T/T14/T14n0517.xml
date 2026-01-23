@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/cbeta-org/xml-p5/master/schema/cbeta-p5.rnc" type="application/relax-ng-compact-syntax"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:cb="http://www.cbeta.org/ns/1.0" xml:id="T14n0517">
+<teiHeader>
+	<fileDesc>
+		<titleStmt>
+			<title level="s">Taishō Tripiṭaka</title>
+			<title level="s" xml:lang="zh-Hant">大正新脩大藏經</title>
+			<title level="m" xml:lang="zh-Hant">佛說末羅王經</title>
+			<title>Taishō Tripiṭaka, Electronic version, No. 517 佛說末羅王經</title>
+			<title xml:lang="zh-Hant">大正新脩大藏經數位版, No. 517 佛說末羅王經</title>
+			<author>劉宋 沮渠京聲譯</author>
+			<respStmt>
+				<resp>Electronic Version by</resp>
+				<name>CBETA</name>
+			</respStmt>
+		</titleStmt>
+		<editionStmt>
+			<edition>XML TEI P5</edition>
+			<respStmt xml:id="resp1"><resp>corrections</resp><name>CBETA</name></respStmt>
+			<respStmt xml:id="resp2"><resp>corrections</resp><name>Taisho</name></respStmt>
+			<respStmt xml:id="resp3"><resp>corrections</resp><name>CBETA.maha</name></respStmt>
+			<respStmt xml:id="resp4"><resp>corrections</resp><name>CBETA.say</name></respStmt>
+		</editionStmt>
+		<extent>1卷</extent>
+		<publicationStmt>
+			<idno type="CBETA">
+				<idno type="canon">T</idno>.<idno type="vol">14</idno>.<idno type="no">517</idno>
+			</idno>
+			<distributor>
+				<name>財團法人佛教電子佛典基金會 (CBETA)</name>
+				<address>
+					<addrLine><email>service@cbeta.org</email></addrLine>
+				</address>
+			</distributor>
+			<availability>
+				<p>Available for non-commercial use when distributed with this header intact.</p>
+			</availability>
+			<date>2025-01-30 01:37:50 +0800</date>
+		</publicationStmt>
+		<sourceDesc>
+			<bibl>大正新脩大藏經</bibl>
+		</sourceDesc>
+	</fileDesc>
+	<encodingDesc>
+		<projectDesc>
+			<p cb:type="ly" xml:lang="en">Text as provided by Mr. Hsiao Chen-Kuo, Tripitaka Koreana as provided by Mr. Christian Wittern, Text as inputted by Mr. Yan Hsue-Hsin / proofread by Mr. Shen Jie-Pan, Text as provided by Anonymous from USA, Punctuated text as provided by Jasmine, Re-proofing punctuated text as provided by Mr. Zhang Ge-Feng</p>
+			<p xml:lang="zh-Hant" cb:type="ly">蕭鎮國大德提供，維習安大德提供之高麗藏 CD 經文，閻學新大德輸入／沈介磐大德校對，北美某大德提供，Jasmine 提供新式標點，張革豐大德提供新式標點重校</p>
+		</projectDesc>
+		<editorialDecl>
+			<punctuation resp="#resp1"><p>新式標點</p></punctuation>
+		</editorialDecl>
+		<tagsDecl>
+			<namespace name="http://www.tei-c.org/ns/1.0">
+				<tagUsage gi="rdg">
+					<listWit>
+						<witness xml:id="wit.cbeta">【CB】</witness>
+						<witness xml:id="wit.orig">【大】</witness>
+						<witness xml:id="wit1">【明】</witness>
+						<witness xml:id="wit2">【宋】</witness>
+						<witness xml:id="wit3">【元】</witness>
+						<witness xml:id="wit4">【宮】</witness>
+						<witness xml:id="wit5">【麗-CB】</witness>
+					</listWit>
+				</tagUsage>
+			</namespace>
+		</tagsDecl>
+		</encodingDesc>
+	<profileDesc>
+		<langUsage>
+			<language ident="en">English</language>
+			<language ident="zh-Hant">Chinese (Traditional)</language>
+		</langUsage>
+	</profileDesc>
+	<revisionDesc>
+		<change when="2013-05-20">
+			<name>CW</name><name>Ray Chou 周邦信</name>P4 to P5 conversion by p4top5a.py, intended for publication
+		</change>
+		<change when="1999-10-12T08:43:14">
+			CW (ed.) Created initial TEI XML version with BASICX.BAT (99/10/12)
+		</change>
+	</revisionDesc>
+</teiHeader>
+<text><body>
+<milestone unit="juan" n="1"/>
+<lb n="0791a19" ed="T"/>
+<lb ed="T" n="0791a20"/>
+<lb ed="T" n="0791a21"/><cb:docNumber>No. 517</cb:docNumber>
+<lb ed="T" n="0791a22"/><cb:juan fun="open" n="001"><cb:mulu type="卷" n="001"></cb:mulu><cb:jhead>佛說末羅王經</cb:jhead></cb:juan>
+<lb ed="T" n="0791a23"/>
+<lb ed="T" n="0791a24"/><byline cb:type="Translator">宋居士沮渠京聲譯</byline>
+<lb ed="T" n="0791a25"/><cb:div type="jing"><p xml:id="pT14p0791a2501">聞如是：</p><p xml:id="pT14p0791a2504" cb:place="inline">一時，佛在舍衛國祇樹給孤獨園，與
+<lb ed="T" n="0791a26"/>千二百五十比丘俱。</p><p xml:id="pT14p0791a2609" cb:place="inline">時有國王，號曰末羅，土
+<lb ed="T" n="0791a27"/>地豐沃，士民壯勇。其國中有方石，周旋數
+<lb n="0791a28" ed="T"/>十里，當於王道。群臣共議，啟王徙石。王便
+<lb ed="T" n="0791a29"/>料選國內，凡得九億人，令掘徙石。乃歷年
+<pb n="0791b" ed="T" xml:id="T14.0517.0791b"/>
+<lb n="0791b01" ed="T"/>月，<anchor xml:id="nkr_note_orig_0791001" n="0791001"/><anchor xml:id="nkr_note_mod_0791001" n="0791001"/><anchor xml:id="beg0791001" n="0791001"/>士<anchor xml:id="end0791001"/>民疲極，不能動石。</p><p xml:id="pT14p0791b0110" cb:place="inline">佛念人民愚癡，空
+<lb ed="T" n="0791b02"/>自勤苦而石不移，即呼阿難：「<anchor xml:id="nkr_note_orig_0791002" n="0791002"/><anchor xml:id="nkr_note_mod_0791002" n="0791002"/><anchor xml:id="beg0791002" n="0791002"/>與<anchor xml:id="end0791002"/>汝俱往。」如
+<lb ed="T" n="0791b03"/>彈指頃，便到其國。</p><p xml:id="pT14p0791b0308" cb:place="inline">佛時作沙門，被服住<anchor xml:id="nkr_note_orig_0791003" n="0791003"/><anchor xml:id="nkr_note_mod_0791003" n="0791003"/><anchor xml:id="beg0791003" n="0791003"/>在<anchor xml:id="end0791003"/>
+<lb ed="T" n="0791b04"/>石邊，謂人民言：「用何故掘徙此石？」初無應
+<lb n="0791b05" ed="T"/>者，如是至三，人民恚言：「我掘此石勤苦<anchor xml:id="nkr_note_orig_0791004" n="0791004"/><anchor xml:id="nkr_note_mod_0791004" n="0791004"/><anchor xml:id="beg0791004" n="0791004"/>經<anchor xml:id="end0791004"/>
+<lb ed="T" n="0791b06"/>年，卿何等人，反來問我？」各自委去。</p><p xml:id="pT14p0791b0614" cb:place="inline">佛即時
+<lb ed="T" n="0791b07"/>笑，以足指挑石，手受之，<anchor xml:id="nkr_note_orig_0791005" n="0791005"/><anchor xml:id="nkr_note_mod_0791005" n="0791005"/><anchor xml:id="beg0791005" n="0791005"/>擲<anchor xml:id="end0791005"/>置空中，復以手
+<lb ed="T" n="0791b08"/>受，住之於地。佛便放光明、現相好，九億人見
+<lb ed="T" n="0791b09"/>佛威神，莫不震<anchor xml:id="nkr_note_orig_0791006" n="0791006"/><anchor xml:id="nkr_note_mod_0791006" n="0791006"/><anchor xml:id="beg0791006" n="0791006"/>聳<anchor xml:id="end0791006"/>，皆叩頭言：「吾等愚癡，不
+<lb n="0791b10" ed="T"/>別真偽，將何神天？」</p><p xml:id="pT14p0791b1008" cb:place="inline">佛言：「我是佛也。」</p><p xml:id="pT14p0791b1014" cb:place="inline">人民問
+<lb n="0791b11" ed="T"/>言：「佛用何等力能舉此石？」答言：「我<anchor xml:id="nkr_note_orig_0791007" n="0791007"/><anchor xml:id="nkr_note_mod_0791007" n="0791007"/><anchor xml:id="beg0791007" n="0791007"/>有<anchor xml:id="end0791007"/>四<anchor xml:id="nkr_note_orig_0791008" n="0791008"/><anchor xml:id="nkr_note_mod_0791008" n="0791008"/><anchor xml:id="beg0791008" n="0791008"/>力<anchor xml:id="end0791008"/>。
+<lb n="0791b12" ed="T"/>何等為四？一、為精進力，二、為忍辱力，三、為
+<lb n="0791b13" ed="T"/>布施力，四、為父母力。</p><p xml:id="pT14p0791b1309" cb:place="inline">「何等為精進力？謂不
+<lb n="0791b14" ed="T"/>殺、盜、婬、欺，廣陳經法，開導人物，未曾懈怠，
+<lb ed="T" n="0791b15"/>是為精進力。</p><p xml:id="pT14p0791b1506" cb:place="inline">「何等為忍辱力？敢有殘、害、毀、辱，
+<lb ed="T" n="0791b16"/>加惡於我，我心如地，無所不受，是為忍辱
+<lb n="0791b17" ed="T"/>力。</p><p xml:id="pT14p0791b1702" cb:place="inline">「何等為布施力？謂以國土、珍寶、妻、子、頭、眼，
+<lb n="0791b18" ed="T"/>悉以施人，意無恨悔，是為布施力。</p><p xml:id="pT14p0791b1814" cb:place="inline">「何等為
+<lb n="0791b19" ed="T"/>父母力？謂受父母身體哺乳、育養之恩，或從
+<lb n="0791b20" ed="T"/>地積珍寶，上至二十八天，悉以施人，不如
+<lb ed="T" n="0791b21"/>供養父母，是為父母力。」</p><p xml:id="pT14p0791b2110" cb:place="inline">人民復問言：「盡復
+<lb n="0791b22" ed="T"/>有何等力？」</p><p xml:id="pT14p0791b2205" cb:place="inline">佛言：「復有四力。何等為四？謂生、
+<lb ed="T" n="0791b23"/>老、病、死是為四力。」</p><p xml:id="pT14p0791b2308" cb:place="inline">復問言：「佛當常住於世
+<lb ed="T" n="0791b24"/>不？」</p><p xml:id="pT14p0791b2402" cb:place="inline">佛言：「我亦當般泥洹。」</p><p xml:id="pT14p0791b2410" cb:place="inline">人民言：「佛乃神聖，
+<lb ed="T" n="0791b25"/>相好金色，當世希有，猶尚般泥洹，何況我
+<lb n="0791b26" ed="T"/>曹？」王及臣民九億人同時意解，乞受五戒十
+<lb n="0791b27" ed="T"/>善，歸命三尊，結解垢除，即得須陀洹道。</p><p xml:id="pT14p0791b2716" cb:place="inline">阿
+<lb n="0791b28" ed="T"/>難<anchor xml:id="nkr_note_orig_0791009" n="0791009"/><anchor xml:id="nkr_note_mod_0791009" n="0791009"/><anchor xml:id="beg0791009" n="0791009"/>正<anchor xml:id="end0791009"/>衣服，為佛作禮白言：「是王及與九億
+<lb ed="T" n="0791b29"/>人皆有何功德，今聞經即得解疾？」</p><p xml:id="pT14p0791b2914" cb:place="inline">佛言：「乃
+<pb ed="T" xml:id="T14.0517.0791c" n="0791c"/>
+<lb n="0791c01" ed="T"/>昔俱留<anchor xml:id="nkr_note_orig_0791010" n="0791010"/><anchor xml:id="nkr_note_mod_0791010" n="0791010"/><anchor xml:id="beg0791010" n="0791010"/>秦<anchor xml:id="end0791010"/>佛時，王及國中九億人同時立
+<lb n="0791c02" ed="T"/>志，或受五戒十善者，或持齋者，或然燈者，或
+<lb n="0791c03" ed="T"/>燒香散華者，或諷誦經者<anchor xml:id="nkr_note_orig_0791011" n="0791011"/><anchor xml:id="nkr_note_mod_0791011" n="0791011"/><anchor xml:id="beg0791011" n="0791011"/>或<anchor xml:id="end0791011"/>聽經者，今故來
+<lb ed="T" n="0791c04"/>會，聞經即解。」</p><p xml:id="pT14p0791c0406" cb:place="inline">諸比丘歡喜，前為佛作禮。</p></cb:div>
+<lb ed="T" n="0791c05"/><cb:juan n="001" fun="close"><cb:jhead>佛說末羅王經</cb:jhead></cb:juan>
+</body>
+<back>
+<cb:div type="apparatus">
+<head>校注</head>
+<p>
+<app from="#beg0791001" to="#end0791001"><lem wit="#wit.orig">士</lem><rdg wit="#wit1" resp="#resp2">人</rdg></app>
+<app from="#beg0791002" to="#end0791002"><lem wit="#wit.orig">與</lem><rdg wit="#wit2 #wit3 #wit1 #wit4" resp="#resp2"><space quantity="0"/></rdg></app>
+<app from="#beg0791003" to="#end0791003"><lem wit="#wit.orig">在</lem><rdg resp="#resp2" wit="#wit2 #wit3 #wit1 #wit4">於</rdg></app>
+<app from="#beg0791004" to="#end0791004"><lem wit="#wit.cbeta #wit5" resp="#resp3 #resp4">經<note type="cf1">K20n0848_p1193a14</note><note type="cf2">T14n0517_p0791a29</note></lem><rdg wit="#wit.orig">輕</rdg><rdg resp="#resp2" wit="#wit4">經</rdg></app>
+<app from="#beg0791005" to="#end0791005"><lem wit="#wit.orig">擲</lem><rdg resp="#resp2" wit="#wit2 #wit3 #wit1 #wit4">挑</rdg></app>
+<app from="#beg0791006" to="#end0791006"><lem wit="#wit.orig">聳</lem><rdg wit="#wit2 #wit3 #wit1 #wit4" resp="#resp2">悚</rdg></app>
+<app from="#beg0791007" to="#end0791007"><lem wit="#wit.orig">有</lem><rdg resp="#resp2" wit="#wit2 #wit3 #wit1 #wit4">以</rdg></app>
+<app from="#beg0791008" to="#end0791008"><lem wit="#wit.orig">力</lem><rdg wit="#wit2 #wit3 #wit1 #wit4" resp="#resp2">力舉此石</rdg></app>
+<app from="#beg0791009" to="#end0791009"><lem wit="#wit.orig">正</lem><rdg wit="#wit1" resp="#resp2">整</rdg></app>
+<app from="#beg0791010" to="#end0791010"><lem wit="#wit.orig">秦</lem><rdg resp="#resp2" wit="#wit2 #wit3 #wit1 #wit4">先</rdg></app>
+<app from="#beg0791011" to="#end0791011"><lem wit="#wit.orig">或</lem><rdg resp="#resp2" wit="#wit4"><space quantity="0"/></rdg></app>
+</p>
+</cb:div>
+<cb:div type="cbeta-notes">
+<head>CBETA 校注</head>
+<p>
+<note type="mod" resp="#resp1" n="0791001" target="#nkr_note_mod_0791001">士【大】，人【明】</note>
+<note n="0791002" type="mod" resp="#resp1" target="#nkr_note_mod_0791002">與【大】，〔－〕【宋】【元】【明】【宮】</note>
+<note n="0791003" resp="#resp1" type="mod" target="#nkr_note_mod_0791003">在【大】，於【宋】【元】【明】【宮】</note>
+<note resp="#resp1" type="mod" n="0791004" target="#nkr_note_mod_0791004">經【CB】【麗-CB】【宮】，輕【大】</note>
+<note type="mod" resp="#resp1" n="0791005" target="#nkr_note_mod_0791005">擲【大】，挑【宋】【元】【明】【宮】</note>
+<note type="mod" resp="#resp1" n="0791006" target="#nkr_note_mod_0791006">聳【大】，悚【宋】【元】【明】【宮】</note>
+<note resp="#resp1" type="mod" n="0791007" target="#nkr_note_mod_0791007">有【大】，以【宋】【元】【明】【宮】</note>
+<note n="0791008" type="mod" resp="#resp1" target="#nkr_note_mod_0791008">力【大】，力舉此石【宋】【元】【明】【宮】</note>
+<note type="mod" resp="#resp1" n="0791009" target="#nkr_note_mod_0791009">正【大】，整【明】</note>
+<note n="0791010" type="mod" resp="#resp1" target="#nkr_note_mod_0791010">秦【大】，先【宋】【元】【明】【宮】</note>
+<note type="mod" resp="#resp1" n="0791011" target="#nkr_note_mod_0791011">或【大】，〔－〕【宮】</note>
+</p>
+</cb:div>
+<cb:div type="taisho-notes">
+<head>大正藏 校注</head>
+<p>
+<note type="orig" resp="#resp2" place="foot text" n="0791001" target="#nkr_note_orig_0791001">士＝人【明】</note>
+<note place="foot text" n="0791002" type="orig" resp="#resp2" target="#nkr_note_orig_0791002">〔與〕－【三】【宮】</note>
+<note type="orig" resp="#resp2" place="foot text" n="0791003" target="#nkr_note_orig_0791003">在＝於【三】【宮】</note>
+<note n="0791004" place="foot text" resp="#resp2" type="orig" target="#nkr_note_orig_0791004">輕＝經【宮】</note>
+<note resp="#resp2" type="orig" n="0791005" place="foot text" target="#nkr_note_orig_0791005">擲＝挑【三】【宮】</note>
+<note resp="#resp2" type="orig" n="0791006" place="foot text" target="#nkr_note_orig_0791006">聳＝悚【三】【宮】</note>
+<note type="orig" resp="#resp2" place="foot text" n="0791007" target="#nkr_note_orig_0791007">有＝以【三】【宮】</note>
+<note resp="#resp2" type="orig" n="0791008" place="foot text" target="#nkr_note_orig_0791008">力＋（舉此石）【三】【宮】</note>
+<note type="orig" resp="#resp2" place="foot text" n="0791009" target="#nkr_note_orig_0791009">正＝整【明】</note>
+<note place="foot text" n="0791010" type="orig" resp="#resp2" target="#nkr_note_orig_0791010">秦＝先【三】【宮】</note>
+<note type="orig" resp="#resp2" place="foot text" n="0791011" target="#nkr_note_orig_0791011">〔或〕－【宮】</note>
+</p>
+</cb:div>
+</back></text></TEI>

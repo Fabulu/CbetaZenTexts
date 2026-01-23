@@ -1,0 +1,544 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/cbeta-org/xml-p5/master/schema/cbeta-p5.rnc" type="application/relax-ng-compact-syntax"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:cb="http://www.cbeta.org/ns/1.0" xml:id="J39nB457">
+<teiHeader>
+	<fileDesc>
+		<titleStmt>
+			<title level="s">Jiaxing Canon (Shinwenfeng Edition)</title>
+			<title level="s" xml:lang="zh-Hant">嘉興大藏經（新文豐版）</title>
+			<title level="m" xml:lang="zh-Hant">白雲象林本真禪師語錄</title>
+			<title>Jiaxing Canon (Shinwenfeng Edition), Electronic version, No. B457 白雲象林本真禪師語錄</title>
+			<title xml:lang="zh-Hant">嘉興大藏經（新文豐版）數位版, No. B457 白雲象林本真禪師語錄</title>
+			<author>清 本真說　照水重梓　妙心序　有行實（依駒本印）</author>
+			<respStmt>
+				<resp>Electronic Version by</resp>
+				<name>CBETA</name>
+			</respStmt>
+		</titleStmt>
+		<editionStmt>
+			<edition>XML TEI P5</edition>
+			<respStmt xml:id="resp1"><resp>corrections</resp><name>CBETA</name></respStmt>
+			<respStmt xml:id="resp2"><resp>corrections</resp><name>CBETA.maha</name></respStmt>
+		</editionStmt>
+		<extent>1卷</extent>
+		<publicationStmt>
+			<idno type="CBETA">
+				<idno type="canon">J</idno>.<idno type="vol">39</idno>.<idno type="no">B457</idno>
+			</idno>
+			<distributor>
+				<name>財團法人佛教電子佛典基金會 (CBETA)</name>
+				<address>
+					<addrLine><email>service@cbeta.org</email></addrLine>
+				</address>
+			</distributor>
+			<availability>
+				<p>Available for non-commercial use when distributed with this header intact.</p>
+			</availability>
+			<date>2025-04-21 15:07:31 +0800</date>
+		</publicationStmt>
+		<sourceDesc>
+			<bibl>嘉興大藏經（新文豐版）</bibl>
+		</sourceDesc>
+	</fileDesc>
+	<encodingDesc>
+		<projectDesc>
+			<p xml:lang="en" cb:type="ly">Input by CBETA(first version), Text as provided by LINDEN, Punctuated text as provided by Mr. Gao-Meng</p>
+			<p xml:lang="zh-Hant" cb:type="ly">CBETA 人工輸入（版本一），LINDEN 大德提供，高萌大德提供新式標點</p>
+		</projectDesc>
+		<editorialDecl>
+			<punctuation resp="#resp1"><p>新式標點</p></punctuation>
+		</editorialDecl>
+		<tagsDecl>
+			<namespace name="http://www.tei-c.org/ns/1.0">
+				<tagUsage gi="rdg">
+					<listWit>
+						<witness xml:id="wit.cbeta">【CB】</witness>
+						<witness xml:id="wit.orig">【嘉興】</witness>
+					</listWit>
+				</tagUsage>
+			</namespace>
+		</tagsDecl>
+		</encodingDesc>
+	<profileDesc>
+		<langUsage>
+			<language ident="en">English</language>
+			<language ident="zh-Hant">Chinese (Traditional)</language>
+		</langUsage>
+	</profileDesc>
+	<revisionDesc>
+		<change when="2013-05-20">
+			<name>CW</name><name>Ray Chou 周邦信</name>P4 to P5 conversion by p4top5a.py, intended for publication
+		</change>
+		<change when="2009-03-03T10:06:41">
+			Zhou Bang-Xin (ed.) Created initial TEI XML version with BASICX.BAT
+		</change>
+	</revisionDesc>
+</teiHeader>
+<text><body>
+<milestone n="1" unit="juan"/>
+<pb n="0699a" ed="J" xml:id="J39.B457.0699a"/>
+<lb n="0699a01" ed="J"/><cb:div type="xu"><cb:mulu level="1" type="序">序</cb:mulu><head>序</head>
+<lb n="0699a02" ed="J"/><p xml:id="pJ39p0699a0201">心印眼藏，微妙大法。幾千百載，愈見闊
+<lb n="0699a03" ed="J"/>盛。始自文佛，傳至達磨，師師授受，迄今
+<lb n="0699a04" ed="J"/>象大師<anchor xml:id="nkr_note_add_0699a0401" n="0699a0401"/><anchor xml:id="beg0699a0401" n="0699a0401"/>已<anchor xml:id="end0699a0401"/>七十代矣。豈等閒哉！師法紹
+<lb n="0699a05" ed="J"/>芙蓉，錫駐白雲。一切上堂、小參、拈頌、機
+<lb n="0699a06" ed="J"/>緣，言言越聖，句句超凡。單單鉗錘本分，
+<lb n="0699a07" ed="J"/>一味痛快指南。誠人天慧鑑，學者依端。
+<lb n="0699a08" ed="J"/>海內禪眾，欲觀此錄，須得出回白汗，方
+<lb n="0699a09" ed="J"/>能體旨窮玄。立身如未周正，抬頭天地
+<lb n="0699a10" ed="J"/>相懸。更將情識量測，則無有是處焉。</p>
+<lb n="0699a11" ed="J"/><p xml:id="pJ39p0699a1101" style="margin-left:1em;text-indent:0em">順治<anchor xml:id="nkr_note_add_0699a1101" n="0699a1101"/><anchor xml:id="beg0699a1101" n="0699a1101"/>己<anchor xml:id="end0699a1101"/>亥歲佛歡喜日，弟子妙心沐浴
+<lb n="0699a12" ed="J"/>焚香稽首撰。</p></cb:div>
+<lb n="0699a13" ed="J"/>
+<lb n="0699a14" ed="J"/>
+<lb n="0699a15" ed="J"/>
+<lb n="0699a16" ed="J"/>
+<lb n="0699a17" ed="J"/>
+<lb n="0699a18" ed="J"/>
+<lb n="0699a19" ed="J"/>
+<lb n="0699a20" ed="J"/>
+<lb n="0699a21" ed="J"/>
+<pb n="0699b" ed="J" xml:id="J39.B457.0699b"/>
+<lb n="0699b01" ed="J"/><cb:juan n="1" fun="open"><cb:mulu n="1" type="卷"></cb:mulu><cb:jhead>象林本真禪師語錄卷一</cb:jhead></cb:juan>
+<lb n="0699b02" ed="J"/><byline cb:type="other">門人照永重梓</byline>
+<lb n="0699b03" ed="J"/><cb:div type="other"><cb:mulu level="1" type="其他">住蘄州紫雲山白雲禪寺</cb:mulu><p xml:id="pJ39p0699b0301">順治甲午年師住蘄州紫雲山白雲禪寺，於仲冬初
+<lb n="0699b04" ed="J"/>九日入院。至
+<lb n="0699b05" ed="J" type="honorific"/>山門云：「以無門為法門，因心宗乃建立。欲登正覺之
+<lb n="0699b06" ed="J"/>場，必從此門而入。」喝一喝，便進。
+<lb n="0699b07" ed="J" type="honorific"/>佛殿。云：「乾坤蓋載無私，日月光輝碧空。山僧既到者
+<lb n="0699b08" ed="J"/>裡，展開八面威風。」遂展具作禮。</p>
+<lb n="0699b09" ed="J"/><p xml:id="pJ39p0699b0901">伽藍。香云：「伽藍之心，本無曲直，好醜行藏，威神證質。
+<lb n="0699b10" ed="J"/>我來此地立宗標，全仗諸君齊著力。」</p>
+<lb n="0699b11" ed="J"/><p xml:id="pJ39p0699b1101">祖師。香云：「拈花微笑，流傳綿遠、紹隆一派，者隊老凍
+<lb n="0699b12" ed="J"/>膿總被新白雲捉敗，且道有何憑據？」插香，云：「一彩兩
+<lb n="0699b13" ed="J"/>賽。」</p>
+<lb n="0699b14" ed="J"/><p xml:id="pJ39p0699b1401">方丈。據座，云：「張布幔天羅網，全提向上綱宗，任是銕
+<lb n="0699b15" ed="J"/>額金睛衲子，吞龍劈海鯤鵬，到者裏一一坐按過，謾
+<lb n="0699b16" ed="J"/>道山僧手段辣，應知法令不輕容。」卓拄杖一下。</p>
+<lb n="0699b17" ed="J"/><p xml:id="pJ39p0699b1701">丙申歲臘八日，護檀耆宿等請
+<lb n="0699b18" ed="J" type="honorific"/>上堂。拈疏示眾云：「點畫<anchor xml:id="nkr_note_add_0699b1801" n="0699b1801"/><anchor xml:id="beg0699b1801" n="0699b1801"/>已<anchor xml:id="end0699b1801"/>露，文彩分明，盡從檀護信
+<lb n="0699b19" ed="J"/>地發生，<anchor xml:id="nkr_note_add_0699b1901" n="0699b1901"/><anchor xml:id="beg0699b1901" n="0699b1901"/>已<anchor xml:id="end0699b1901"/>知者自然肯首，未知者諦聽諦聽。」度與維
+<lb n="0699b20" ed="J"/>那宣讀畢。</p>
+<lb n="0699b21" ed="J"/><p xml:id="pJ39p0699b2101">指法座，云：「諸佛諸祖俱向者座子上現大人相，似鏡
+<lb n="0699b22" ed="J"/>照臨，令瞻仰者徹證無生。且道真上座又如何示呈？
+<lb n="0699b23" ed="J"/>只將這隻窮相手，撥轉如來正法輪。」遂陞座。拈香，云：
+<lb n="0699b24" ed="J"/>「此一瓣香，名狀不得、至貴至尊，奉為
+<lb n="0699b25" ed="J" type="honorific"/>今上皇帝祝延聖壽，萬歲！萬歲！萬萬歲！伏願龍圖永
+<lb n="0699b26" ed="J"/>固，齊壽算於芥子之城；鳳曆長春，扇皇風於拂石之
+<lb n="0699b27" ed="J"/>劫。」次拈香，云：「者瓣香，吉慶天地，增輝有情，奉為滿朝
+<lb n="0699b28" ed="J"/>文武、闔國公卿及蘄黃宰官衿士、諸山耆宿、現前大
+<lb n="0699b29" ed="J"/>眾，伏願發廣大志，生般若心，同明本有風光，共證無
+<lb n="0699b30" ed="J"/>上妙道。」又拈香，云：「者一瓣香，一十餘年遊歷吳越，受
+<pb n="0699c" ed="J" xml:id="J39.B457.0699c"/>
+<lb n="0699c01" ed="J"/>盡辛勤，撞著個惡辣老漢，不順人情，驀頭一拶，直得
+<lb n="0699c02" ed="J"/>淨裸裸、絕遮攔。今朝對眾拈出，爇向爐中，供養江南
+<lb n="0699c03" ed="J"/>常州府宜興縣荊溪芙蓉堂上傳臨濟正宗第三十
+<lb n="0699c04" ed="J"/>二代本師銕關能大和尚，以酬法乳。」攝衣敷坐。維那
+<lb n="0699c05" ed="J"/>白椎，云：「法筵龍象眾，當觀第一義。」師召眾，云：「欲識第
+<lb n="0699c06" ed="J"/>一義，未白椎前薦取；若有證據者，請出來相見。」僧問：
+<lb n="0699c07" ed="J"/>「古今大道即不問，向上端的事若何？」師云：「天高群象
+<lb n="0699c08" ed="J"/>正。」進云：「虛空粉碎又作麼生？」師云：「海闊百川朝。」乃云：
+<lb n="0699c09" ed="J"/>「大道體寬，了無向背，至理洞然，迥絕解會，融通十虛，
+<lb n="0699c10" ed="J"/>同大千界。所以，三世諸佛秪合點首自知，六代祖師
+<lb n="0699c11" ed="J"/>尚未全相委在。德由棒無下手處，靠置一邊；臨濟喝
+<lb n="0699c12" ed="J"/>沒啟口處，吞聲忍耐。到者裏，絕人、絕我，絕是、絕非，絕
+<lb n="0699c13" ed="J"/>正、絕偏，絕對、絕待，其餘九十六種無地棲身，二十五
+<lb n="0699c14" ed="J"/>有如盧逐塊。山僧向來未敢妄通消息，今朝幸承蘄
+<lb n="0699c15" ed="J"/>黃護法諸山禪德敦請祝聖開堂，安可囊藏被蓋？不
+<lb n="0699c16" ed="J"/>惜唇皮，分明剖露。汝諸人還委悉麼？如其未能，更為
+<lb n="0699c17" ed="J"/>指陳去也。」卓拄杖，云：「臺山路口驀直婆，明州市裏憨
+<lb n="0699c18" ed="J"/>布袋。」復舉：「保壽開堂日，三聖推出一僧，保壽便打，三
+<lb n="0699c19" ed="J"/>聖云：『恁麼為人，不惟瞎卻者僧眼，瞎卻鎮州一城人
+<lb n="0699c20" ed="J"/>眼去在。』保壽擲下拄杖，歸方丈。」師云：「看者二大老發
+<lb n="0699c21" ed="J"/>大機、施大用，美則美矣，檢點將來，只有殺人刀，且無
+<lb n="0699c22" ed="J"/>活人劍。白雲今日則不然，或有人推出僧來，拄杖子
+<lb n="0699c23" ed="J"/>也不打他，直教開卻天下人眼去。何故聻？要見罰賞
+<lb n="0699c24" ed="J"/>分明。」維那復白椎，云：「諦觀法王法，法王法如是。」師便
+<lb n="0699c25" ed="J"/>下座。</p>
+<lb n="0699c26" ed="J"/><p xml:id="pJ39p0699c2601">上堂。「獨唱玄機，千山靜悄清如洗；單提向上，六月炎
+<lb n="0699c27" ed="J"/>蒸冷似冰。須知崚嶒嶒處平坦坦，平坦坦處崚嶒嶒，
+<lb n="0699c28" ed="J"/>恐汝諸人未會，山僧聊為葛藤。」遂以拂子打圓相，云：
+<lb n="0699c29" ed="J"/>「向者裏著得隻眼，領略得去，隨方信意，瀟灑縱橫，騰
+<lb n="0699c30" ed="J"/>騰任運，任運騰騰，便可與迦文老子一鼻孔出氣，歷
+<pb n="0700a" ed="J" xml:id="J39.B457.0700a"/>
+<lb n="0700a01" ed="J"/>代宗匠把臂其行。然雖如是……」復以拂子畫一畫，云：「更
+<lb n="0700a02" ed="J"/>須知有者個消息。眾中還有知得者麼？」眾皆默然。師
+<lb n="0700a03" ed="J"/>云：「無人會此意，令我憶盧能。」復舉：「南泉因甘贄行者
+<lb n="0700a04" ed="J"/>設粥請念誦，泉乃白椎云：『請大眾為狸奴白牯念摩
+<lb n="0700a05" ed="J"/>訶般若波羅蜜。』行者拂袖便出。泉粥後問典座：『行者
+<lb n="0700a06" ed="J"/>在什麼處？』座云：『當時便去也。』」泉便打破鍋子。師云：「南
+<lb n="0700a07" ed="J"/>泉恁麼問，典座與麼答，為甚麼便打破鍋子？且道淆
+<lb n="0700a08" ed="J"/>訛在什麼處？諸人還知端的麼？拈得一枝無孔笛，逆
+<lb n="0700a09" ed="J"/>風吹又順風吹。」擊香几，下座。</p>
+<lb n="0700a10" ed="J"/><p xml:id="pJ39p0700a1001">元旦，上堂。僧問：「如何是定乾坤句？」師云：「寰中天子，塞
+<lb n="0700a11" ed="J"/>外將軍。」僧云：「如何是正令行句？」師云：「狗啣赦書，諸侯
+<lb n="0700a12" ed="J"/>避道。」僧云：「如何是辨衲僧句？」師云：「棒棒見痕，掌掌鮮
+<lb n="0700a13" ed="J"/>血。」僧云：「如何是接初機句？」師便打，乃云：「今朝正是正
+<lb n="0700a14" ed="J"/>月一，現成公案絕淆訛，人人喜色眉端現，個個全彰
+<lb n="0700a15" ed="J"/>意氣多。阿呵呵！會也麼？幸值時清道泰日，大家共唱
+<lb n="0700a16" ed="J"/>太平歌。且道太平歌作麼生唱？」連拍掌，云：「哩羅哩羅
+<lb n="0700a17" ed="J"/>哩哩羅。」呵呵大笑，下座。</p>
+<lb n="0700a18" ed="J"/><p xml:id="pJ39p0700a1801">上堂。問：「如何是佛？」師云：「親口出親言。」進云：「如何是法？」
+<lb n="0700a19" ed="J"/>師云：「親口出親言。」進云：「如何是僧？」師云：「親口出親言。」
+<lb n="0700a20" ed="J"/>乃云：「為人天師，登華王座，必須賞罰分明；久參上士，
+<lb n="0700a21" ed="J"/>後學初機，當辨邪正眼目。若一向忘緣絕慮，靜坐觀
+<lb n="0700a22" ed="J"/>空，如盲似啞，不分西東，苦哉苦哉，正是自將死水沒
+<lb n="0700a23" ed="J"/>頭浸，何有出期？又如從言中取證，句裏呈機，以為參
+<lb n="0700a24" ed="J"/>學，誠謂究竟，殊不知盡落佛祖陷阱，於當人分上了
+<lb n="0700a25" ed="J"/>沒交涉。果是大丈夫兒，決不倚他門戶、靠他墻壁，自
+<lb n="0700a26" ed="J"/>能別行一路，豁開特達胸懷，向威音那畔更那畔一
+<lb n="0700a27" ed="J"/>覷，覷透轉得身來，方可入我祖師門中，始有說話分，
+<lb n="0700a28" ed="J"/>始有喫棒分，始知塵劫來<unclear></unclear>只在于今，河山妙德總
+<lb n="0700a29" ed="J"/>歸心源。然雖如是，到者裏要得覿體相呈、當陽顯露，
+<lb n="0700a30" ed="J"/>猶未能在。白雲不免因齋慶贊，為你諸人揭露去也。」
+<pb n="0700b" ed="J" xml:id="J39.B457.0700b"/>
+<lb n="0700b01" ed="J"/>遂豎拂子云：「看看，海神知貴不知價，留與人間光照
+<lb n="0700b02" ed="J"/>夜。」下座。</p>
+<lb n="0700b03" ed="J"/><p xml:id="pJ39p0700b0301">上堂。「體用全彰，行說俱到。事理不涉縱奪，臨時揭露；
+<lb n="0700b04" ed="J"/>即心直指顯揚，向上單提。在在處處無非正覺場所，
+<lb n="0700b05" ed="J"/>頭頭物物盡是般若真機。然雖如是，若一向恁麼行
+<lb n="0700b06" ed="J"/>將去，未免土曠人少，相逢者稀。秪如萬機休罷，千聖
+<lb n="0700b07" ed="J"/>不攜一句作麼生道？抖擻精神穿破衲，襤襂一半逐
+<lb n="0700b08" ed="J"/>雲飛。」下座。</p>
+<lb n="0700b09" ed="J"/><p xml:id="pJ39p0700b0901">上堂。舉：「僧侍立保福次，福云：『你得與麼粗心。』福拈一
+<lb n="0700b10" ed="J"/>塊土與僧：『你拋向門外著。』僧拋了，卻來云：『甚處是某
+<lb n="0700b11" ed="J"/>甲粗心？』福云：『我見你築著磕著，所以道你粗心。』」師云：
+<lb n="0700b12" ed="J"/>「保福與麼婆心太切，諸人還知築著磕著底粗心麼？
+<lb n="0700b13" ed="J"/>莫是行住坐臥處麼？莫是穿衣喫飯處麼？試自辨取。
+<lb n="0700b14" ed="J"/>若辨得分明，不惟與保福相見，亦且參學有分。」</p>
+<lb n="0700b15" ed="J"/><p xml:id="pJ39p0700b1501">冬至，上堂。「六陰盡處，愈加天寒地凍；一陽纔復，便爾
+<lb n="0700b16" ed="J"/>管動灰飛。惟有山林道者，依然靜悄巍巍。且道：具個
+<lb n="0700b17" ed="J"/>什麼出格眼目便乃如是？」驀豎拂子，召眾，云：「會麼？此
+<lb n="0700b18" ed="J"/>事不從天地得，世間節氣豈能催？」下座。</p>
+<lb n="0700b19" ed="J"/><p xml:id="pJ39p0700b1901">上堂。問：「如何是佛？」師云：「牙齒一具骨。」進云：「如何是法？」
+<lb n="0700b20" ed="J"/>師云：「空林鳥語滑。」進云：「如何是僧？」師云：「汝者問最親。」
+<lb n="0700b21" ed="J"/>乃云：「法無一定，逢場展演；理沒二義，到處弘通。顯發
+<lb n="0700b22" ed="J"/>當人本據，恢張古佛家風，頭頭鑑徹，事事圓融，迥超
+<lb n="0700b23" ed="J"/>有無名貌，不涉明暗色空。只如四大部洲同時擊鼓
+<lb n="0700b24" ed="J"/>鳴鐘，十方世界悉皆上堂說法，諸兄弟們畢竟作麼
+<lb n="0700b25" ed="J"/>生會？」驀拈拄杖，卓一卓，云：「會得也，不出者條拄杖；會
+<lb n="0700b26" ed="J"/>不得也，不離者條拄杖。且不出不離一句又如何道？
+<lb n="0700b27" ed="J"/>任從列相分高下，總在吾王化育中。」復舉：「法眼因僧
+<lb n="0700b28" ed="J"/>問：『慧超咨和尚：如何是佛？』法眼云：『汝是慧超。』」師云：「者
+<lb n="0700b29" ed="J"/>僧問處分明，法眼答得親切，可謂現成，實是省力。秪
+<lb n="0700b30" ed="J"/>如適纔者僧問：『如何是佛？』山僧向他道：『牙齒一具骨。』
+<pb n="0700c" ed="J" xml:id="J39.B457.0700c"/>
+<lb n="0700c01" ed="J"/>且道與法眼相去幾何？具眼者試說看。若說得清楚，
+<lb n="0700c02" ed="J"/>正好買草鞋行腳；如說不得，尋常將什麼喫粥喫飯？
+<lb n="0700c03" ed="J"/>咄！」復卓拄杖，下座。</p>
+<lb n="0700c04" ed="J"/><p xml:id="pJ39p0700c0401">歲旦，上堂。僧問：「新年大節，和尚陞堂，如日當空，無所
+<lb n="0700c05" ed="J"/>不照，因甚有明與不明？」師云：「舌頭硬似銕。」僧云：「古路
+<lb n="0700c06" ed="J"/>任從來往客，為何腳下不騰雲？」師云：「虛空裏釘橛。」乃
+<lb n="0700c07" ed="J"/>云：「新年頭佛法有，虛空裏釘橛；新年頭佛法無，舌頭
+<lb n="0700c08" ed="J"/>硬似銕。有無佛法不相干，眉自橫兮鼻自直。汝諸人
+<lb n="0700c09" ed="J"/>應委悉，若委悉，正是太平底時節；未委悉，白雲聊為
+<lb n="0700c10" ed="J"/>通消息。」遂以拄杖向空中點一點，云：「棒頭今得好生
+<lb n="0700c11" ed="J"/>涯，指出乾坤新氣色。」擲拄杖，下座。</p>
+<lb n="0700c12" ed="J"/><p xml:id="pJ39p0700c1201">上堂。召眾云：「佛法省要，絕玄絕妙，甚是分明，不須尋
+<lb n="0700c13" ed="J"/>討。正與麼時作麼生道？不離當處常湛然，擬眨眼時
+<lb n="0700c14" ed="J"/>蹉過了。」便下座。</p>
+<lb n="0700c15" ed="J"/><p xml:id="pJ39p0700c1501">建大殿畢，雄山賀鎮臺送寺額至，上堂。「發揚祖道，利
+<lb n="0700c16" ed="J"/>濟弘開，理合人情，其緣自應。斬荊叢，整法席，于絕侶
+<lb n="0700c17" ed="J"/>孤峰為接超越衲子；啟信心，助佛化，于干戈隊裏統
+<lb n="0700c18" ed="J"/>領出格丈夫。所以道：『須是恁般人，方作恁般事；欲作
+<lb n="0700c19" ed="J"/>恁般事，還須恁般人。』始能慶幸法門，光輝泉石，名標
+<lb n="0700c20" ed="J"/>大方，功歸有地。即今奉重一句作麼生道？一聲清磬
+<lb n="0700c21" ed="J"/>雲中響，萬里齊朝至聖尊。」</p>
+<lb n="0700c22" ed="J"/><p xml:id="pJ39p0700c2201">除夕，上堂。問：「臘盡冬殘即不問，年窮歲畢時如何？」師
+<lb n="0700c23" ed="J"/>云：「東家敲鑼，西家擂鼓。」乃云：「正當與麼時，大眾應委
+<lb n="0700c24" ed="J"/>悉。若委悉，說甚臘盡冬殘、年窮歲畢？直教爍迦羅眼
+<lb n="0700c25" ed="J"/>不能窺，歷代祖師口挂壁。如其未然，切莫虛棄好光
+<lb n="0700c26" ed="J"/>陰，抖擻精神須猛力，今宵且喫紫雲茶，明早披衣祝
+<lb n="0700c27" ed="J"/>聖節。」卓拄杖，下座。</p>
+<lb n="0700c28" ed="J"/><p xml:id="pJ39p0700c2801">師誕日，四眾敦請上堂。僧問：「世尊出世，指天指地，和
+<lb n="0700c29" ed="J"/>尚今日出世作麼生？」師云：「白日照空。」僧云：「四眾恭請
+<lb n="0700c30" ed="J"/>舉揚正法，如何是正法？」師云：「清風吹樹。」乃云：「生來忒
+<pb n="0701a" ed="J" xml:id="J39.B457.0701a"/>
+<lb n="0701a01" ed="J"/>煞愚昧，是事全然不會。汝等諸人今日敦請陞堂，祝
+<lb n="0701a02" ed="J"/>四十歲，須知山僧從無量劫捨身受身來，如昨日今
+<lb n="0701a03" ed="J"/>朝來；于盡未來際出生入生去，如今日明朝去。其去
+<lb n="0701a04" ed="J"/>也，白日照空；其來也，清風吹樹。去來無定相，是名如
+<lb n="0701a05" ed="J"/>是住。且不涉去來一句作麼生道？任從年月日時遷，
+<lb n="0701a06" ed="J"/>吾道曾無變異處。」卓拄杖，下座。</p>
+<lb n="0701a07" ed="J"/><p xml:id="pJ39p0701a0701">起七，小參。「白雲寺裏打七，誠非掘地覓天，秪因你諸
+<lb n="0701a08" ed="J"/>人個個有則未了公案，為你諸人直下了卻。還委悉
+<lb n="0701a09" ed="J"/>麼？且不要你諸人借事彰理，會道會禪，學佛解法，體
+<lb n="0701a10" ed="J"/>妙窮玄。何也？是你諸人平昔盡在事理、禪道、佛法、玄
+<lb n="0701a11" ed="J"/>妙裏頭出頭沒，殊不知反被事理、禪道、佛法、玄妙迷
+<lb n="0701a12" ed="J"/>卻了也。所以，山僧有時垂一語問你諸人，十個有五
+<lb n="0701a13" ed="J"/>雙杜口無言，因此，今日按病下藥，痛與錐針，貴要你
+<lb n="0701a14" ed="J"/>諸人日前見解玄妙，雜毒、狂妄、膈氣之痰一時發散，
+<lb n="0701a15" ed="J"/>盡情吐得乾乾淨淨，管取一個個通身踴躍，樂意安
+<lb n="0701a16" ed="J"/>然，單向本命根源立地處徹證一番，方好喫辣棒粗
+<lb n="0701a17" ed="J"/>拳。且如何是你諸人底本命根源聻？」遂以拂子打一
+<lb n="0701a18" ed="J"/>○相，點一●，云：「參。」</p>
+<lb n="0701a19" ed="J"/><p xml:id="pJ39p0701a1901">晚參。舉：「僧問趙州：『如何是趙州？』州云：『東門、西門、南門、
+<lb n="0701a20" ed="J"/>北門。』僧云：『某甲不問這個趙州。』州云：『你問那個趙州？』
+<lb n="0701a21" ed="J"/>僧無語。」師云：「趙州老漢，賊來開門，賊去閉戶。幸得者
+<lb n="0701a22" ed="J"/>僧只有先鋒，且無殿後。若是通方作者，到者裏必不
+<lb n="0701a23" ed="J"/>作與麼去就。所以道：『驚群須是英靈漢，敵勝還他獅
+<lb n="0701a24" ed="J"/>子兒。』」</p>
+<lb n="0701a25" ed="J"/><p xml:id="pJ39p0701a2501">小參。舉：「黃檗云：『汝等諸人盡是噇酒糟漢，恁麼行腳，
+<lb n="0701a26" ed="J"/>何處有今日？還知大唐國裏無禪師麼？』時有僧出云：
+<lb n="0701a27" ed="J"/>『只如諸方匡徒領眾又作麼生？』檗云：『不道無禪，只是
+<lb n="0701a28" ed="J"/>無師。』」師云：「此個過量事，發明過量人，須得過量人，方
+<lb n="0701a29" ed="J"/>明過量事。看他黃檗大師出言吐氣，動地驚天，曾無
+<lb n="0701a30" ed="J"/>半個虛字。何以知得？茫茫宇宙人無數，幾個男兒是
+<pb n="0701b" ed="J" xml:id="J39.B457.0701b"/>
+<lb n="0701b01" ed="J"/>丈夫？」</p>
+<lb n="0701b02" ed="J"/><p xml:id="pJ39p0701b0201">小參。舉：「臨濟云：『有一無位真人常在汝等諸仁面門
+<lb n="0701b03" ed="J"/>出入，未證據者看看。』時有僧問：『如何是無位真人？』濟
+<lb n="0701b04" ed="J"/>下禪床擒住僧云：『道！道！』僧擬議，濟托開云：『無位真人
+<lb n="0701b05" ed="J"/>是什麼乾屎橛？』雪峰聞得云：『臨濟大似個白拈賊。』雪
+<lb n="0701b06" ed="J"/>竇云：『夫善竊者，神鬼莫知。既被雪峰覷破，臨濟不是
+<lb n="0701b07" ed="J"/>好手。』復召大眾：『雪竇今日換你諸人眼睛了也，你若
+<lb n="0701b08" ed="J"/>不信，各歸寮舍自模索看。』」師云：「臨濟既被雪峰覷破
+<lb n="0701b09" ed="J"/>不是好手，雪竇老漢為什麼不打自招？且那裡見他
+<lb n="0701b10" ed="J"/>自招處款案分明？」</p>
+<lb n="0701b11" ed="J"/><p xml:id="pJ39p0701b1101">小參。舉：「歸宗鋤草，見一蛇，以鋤斬之，僧便問：『久嚮歸
+<lb n="0701b12" ed="J"/>宗，原來是個麤行沙門。』宗云：『你麤我麤？』後雪峰問德
+<lb n="0701b13" ed="J"/>山：『歸宗斬蛇，意旨如何？』山便打，峰便走。山召云：『布衲！』
+<lb n="0701b14" ed="J"/>峰回首。山云：『他後悟去，方知老漢徹底老婆心。』雪竇
+<lb n="0701b15" ed="J"/>云：『歸宗只解慎初，不能護末；德山頗能據令，且未明
+<lb n="0701b16" ed="J"/>斬蛇。』召大眾云：『看雪竇今日斬三五條。』以拄杖一時
+<lb n="0701b17" ed="J"/>打下。」師舉了，云：「咄！咄！這隊弄死蛇頭漢，被山僧斷貫
+<lb n="0701b18" ed="J"/>索子，穿卻鼻孔了也，拽向法堂前，打鼓普請看。」</p>
+<lb n="0701b19" ed="J"/><p xml:id="pJ39p0701b1901">晚參。舉：「僧問天童：『悟祖云：「穿衣喫飯，如何是不動的
+<lb n="0701b20" ed="J"/>主人公？」』童云：『穿衣喫飯。』僧云：『元是舊時底。』童云：『如何
+<lb n="0701b21" ed="J"/>是你舊時底處？』僧禮拜，童便打。」師云：「者僧可謂靈利，
+<lb n="0701b22" ed="J"/>一撥便轉。天童棒頭有眼，不妨打著個人。然雖如是，
+<lb n="0701b23" ed="J"/>且道者一棒還是賞伊底？罰伊底？具眼者試判看。」</p>
+<lb n="0701b24" ed="J"/><p xml:id="pJ39p0701b2401">示眾。「此事成現，迥絕遮攔，擬欲體會，早落二三，若不
+<lb n="0701b25" ed="J"/>領略，轉自顢頇。且畢竟作麼生得瞥地去？」良久，云：「北
+<lb n="0701b26" ed="J"/>斗應須面南看。」</p>
+<lb n="0701b27" ed="J"/><p xml:id="pJ39p0701b2701">示眾。舉：「趙州訪茱萸，纔上法堂，茱萸云：『看箭。』趙州亦
+<lb n="0701b28" ed="J"/>云：『看箭。』茱萸云：『過。』趙州云：『中。』」師云：「盡說趙州、茱萸作
+<lb n="0701b29" ed="J"/>家相見，殊不知一得一失。大眾！要識得失麼？看取箭
+<lb n="0701b30" ed="J"/>頭落處。」</p>
+<pb n="0701c" ed="J" xml:id="J39.B457.0701c"/>
+<lb n="0701c01" ed="J"/><p xml:id="pJ39p0701c0101">春日，示眾。「春來時候，元沒定止，或熱或寒，乍晴乍雨。
+<lb n="0701c02" ed="J"/>須知熱處寒，晴時雨，無非自倒自起。若從者裡知得
+<lb n="0701c03" ed="J"/>端的，天地與我同根，萬物與我一體。其或未然，依舊
+<lb n="0701c04" ed="J"/>天是天，地是地，擬議之間千萬里。」</p></cb:div>
+<lb n="0701c05" ed="J"/><cb:div type="other"><cb:mulu level="1" type="其他">拈頌</cb:mulu><head>拈頌</head>
+<lb n="0701c06" ed="J"/><cb:div type="other"><cb:mulu level="2" type="其他">世尊初生</cb:mulu><head>世尊初生</head>
+<lb n="0701c07" ed="J"/><p xml:id="pJ39p0701c0701">拈云：「世尊眼底無人，雲門費力不少。仔細檢點將來，
+<lb n="0701c08" ed="J"/>俱似細姑嫌嫂。」</p>
+<lb n="0701c09" ed="J"/><p xml:id="pJ39p0701c0901">頌：「銀蟾出海漾江濱，照破乾坤絕比倫。任爾浮雲能
+<lb n="0701c10" ed="J"/>障蔽，清光分外更分明。」</p></cb:div>
+<lb n="0701c11" ed="J"/><cb:div type="other"><cb:mulu level="2" type="其他">女子出定</cb:mulu><head>女子出定</head>
+<lb n="0701c12" ed="J"/><p xml:id="pJ39p0701c1201">拈云：「瞿曇女子坐觀成敗，文殊罔明隔靴抓癢。我有
+<lb n="0701c13" ed="J"/>三十拄杖獨打女子，且道他過在甚麼處？若人檢點
+<lb n="0701c14" ed="J"/>得出，許伊具行腳眼。」</p>
+<lb n="0701c15" ed="J"/><p xml:id="pJ39p0701c1501">頌：「女子端坐不尋常，七佛之師也著忙，向道罔明能
+<lb n="0701c16" ed="J"/>出得，分明雪上又加霜。」</p></cb:div>
+<lb n="0701c17" ed="J"/><cb:div type="other"><cb:mulu level="2" type="其他">世尊拈花</cb:mulu><head>世尊拈花</head>
+<lb n="0701c18" ed="J"/><p xml:id="pJ39p0701c1801">拈云：「世尊拈花，迦葉微笑，正眼看來，一場失利，只有
+<lb n="0701c19" ed="J"/>百萬人天較些子。何也？禍不入慎家之門。」</p>
+<lb n="0701c20" ed="J"/><p xml:id="pJ39p0701c2001">頌：「拈出一花人盡見，如何惟許展雙眉。須知不在枝
+<lb n="0701c21" ed="J"/>頭上，自有風光一段奇。」</p></cb:div>
+<lb n="0701c22" ed="J"/><cb:div type="other"><cb:mulu level="2" type="其他">殃崛救產難</cb:mulu><head>殃崛救產難</head>
+<lb n="0701c23" ed="J"/><p xml:id="pJ39p0701c2301">拈云：「佛之所言，有照有用，能奪能縱，奈何殃崛不知
+<lb n="0701c24" ed="J"/>利害？及往告之，其婦得聞，便乃分娩，也奇怪哉！且道
+<lb n="0701c25" ed="J"/>靈驗在什麼處？」</p>
+<lb n="0701c26" ed="J"/><p xml:id="pJ39p0701c2601">頌：「老樹寒梅香撲鼻，幾多遊客盡疑猜。應知不假東
+<lb n="0701c27" ed="J"/>君力，經雪經霜花自開。」</p></cb:div>
+<lb n="0701c28" ed="J"/><cb:div type="other"><cb:mulu level="2" type="其他">德山托缽</cb:mulu><head>德山托缽</head>
+<lb n="0701c29" ed="J"/><p xml:id="pJ39p0701c2901">拈云：「車不橫推，理無曲斷，要識德山、巖頭麼？劍為不
+<lb n="0701c30" ed="J"/>平離寶匣，藥因救病出金瓶。」</p>
+<pb n="0702a" ed="J" xml:id="J39.B457.0702a"/>
+<lb n="0702a01" ed="J"/><p xml:id="pJ39p0702a0101">頌：「縱爾當場施好手，紅心心裏中紅心。將軍若不重
+<lb n="0702a02" ed="J"/>行令，敢保徒勞赤汗淋。」</p></cb:div>
+<lb n="0702a03" ed="J"/><cb:div type="other"><cb:mulu level="2" type="其他">百丈野狐</cb:mulu><head>百丈野狐</head>
+<lb n="0702a04" ed="J"/><p xml:id="pJ39p0702a0401">拈云：「大眾！若向不落不昧處討分曉，非但<anchor xml:id="nkr_note_add_0702a0401" n="0702a0401"/><anchor xml:id="beg0702a0401" n="0702a0401"/>己<anchor xml:id="end0702a0401"/>眼不明，
+<lb n="0702a05" ed="J"/>抑見野狐遍地。」</p>
+<lb n="0702a06" ed="J"/><p xml:id="pJ39p0702a0601">頌：「五百生前曾錯墮，五百生後為說破。縱饒脫卻野
+<lb n="0702a07" ed="J"/>狐身，也是炎天火裏坐。」</p></cb:div>
+<lb n="0702a08" ed="J"/><cb:div type="other"><cb:mulu level="2" type="其他">南泉斬貓</cb:mulu><head>南泉斬貓</head>
+<lb n="0702a09" ed="J"/><p xml:id="pJ39p0702a0901">拈云：「大小南泉，權衡在手，殺活全提。若老趙機關甚
+<lb n="0702a10" ed="J"/>別，其奈劍去久矣。」</p>
+<lb n="0702a11" ed="J"/><p xml:id="pJ39p0702a1101">頌：「兩堂雲水聚頭爭，殺活當機若個能？唯有超方出
+<lb n="0702a12" ed="J"/>格者，纔聞舉著便翻騰。」</p></cb:div>
+<lb n="0702a13" ed="J"/><cb:div type="other"><cb:mulu level="2" type="其他">靈雲見桃花悟道因緣</cb:mulu><head>靈雲見桃花悟道因緣</head>
+<lb n="0702a14" ed="J"/><p xml:id="pJ39p0702a1401">拈云：「溈山弘開大冶，玄沙善運鉗錘，奈何靈雲是<anchor xml:id="nkr_note_add_0702a1401" n="0702a1401"/><anchor xml:id="beg0702a1401" n="0702a1401"/>鍛<anchor xml:id="end0702a1401"/>
+<lb n="0702a15" ed="J"/>過底精金？雖然，見義不為非勇士，臨危不變始驚群。」</p>
+<lb n="0702a16" ed="J"/><p xml:id="pJ39p0702a1601">頌：「一遇桃花眼豁開，了然無物絕疑猜。千差坐斷超
+<lb n="0702a17" ed="J"/>今古，滿面春風匝地來。」</p></cb:div></cb:div>
+<lb n="0702a18" ed="J"/><cb:div type="other"><cb:mulu level="1" type="其他">偈</cb:mulu><head>偈</head>
+<lb n="0702a19" ed="J"/><cb:div type="other"><cb:mulu level="2" type="其他">與洗心水西堂</cb:mulu><head>與洗心水西堂</head>
+<lb n="0702a20" ed="J"/><lg xml:id="lgJ39p0702a2001" style="margin-left:0em;text-indent:0em;"><l style="text-indent:0em">衲僧正法眼精明，見識自能深徹省。紹繼宗風永遠
+<lb n="0702a21" ed="J"/>揚，貴乎勇猛提綱領。</l></lg></cb:div>
+<lb n="0702a22" ed="J"/><cb:div type="other"><cb:mulu level="2" type="其他">贈秋浦和尚之李峰</cb:mulu><head>贈秋浦和尚之李峰</head>
+<lb n="0702a23" ed="J"/><lg xml:id="lgJ39p0702a2301" style="margin-left:0em;text-indent:0em;"><l style="text-indent:0em">吾兄去住那伽室，獨踞峰頭眼界高。山月明時窺舞
+<lb n="0702a24" ed="J"/>鳳，碧潭深處釣金鰲。</l></lg></cb:div>
+<lb n="0702a25" ed="J"/><cb:div type="other"><cb:mulu level="2" type="其他">訪雲衲明和尚</cb:mulu><head>訪雲衲明和尚</head>
+<lb n="0702a26" ed="J"/><lg xml:id="lgJ39p0702a2601" style="margin-left:0em;text-indent:0em;"><l style="text-indent:0em">為謁同條興轉奢，飄然一笠過煙霞。相逢漫問年來
+<lb n="0702a27" ed="J"/>事，話到忘機日又斜。</l></lg></cb:div>
+<lb n="0702a28" ed="J"/><cb:div type="other"><cb:mulu level="2" type="其他">喜自覺和尚見訪</cb:mulu><head>喜自覺和尚見訪</head>
+<lb n="0702a29" ed="J"/><lg xml:id="lgJ39p0702a2901" style="margin-left:0em;text-indent:0em;"><l style="text-indent:0em">坐久忽聞知<anchor xml:id="nkr_note_add_0702a2901" n="0702a2901"/><anchor xml:id="beg0702a2901" n="0702a2901"/>己<anchor xml:id="end0702a2901"/>到，橫披破衲一身輕。地爐煨個銕鐺
+<lb n="0702a30" ed="J"/>子，熟煮清泉話舊情。</l></lg></cb:div>
+<pb n="0702b" ed="J" xml:id="J39.B457.0702b"/>
+<lb n="0702b01" ed="J"/><cb:div type="other"><cb:mulu level="2" type="其他">寄懷此藥和尚</cb:mulu><head>寄懷此藥和尚</head>
+<lb n="0702b02" ed="J"/><lg xml:id="lgJ39p0702b0201" style="margin-left:0em;text-indent:0em;"><l style="text-indent:0em">片片殘紅點綠苔，閒攜藜杖漫徘徊。知音杳隔千峰
+<lb n="0702b03" ed="J"/>外，三載曾無一信來。</l></lg></cb:div>
+<lb n="0702b04" ed="J"/><cb:div type="other"><cb:mulu level="2" type="其他">示佛月照禪人</cb:mulu><head>示佛月照禪人</head>
+<lb n="0702b05" ed="J"/><lg xml:id="lgJ39p0702b0501" style="margin-left:0em;text-indent:0em;"><l style="text-indent:0em">全彰覿體絕遮欄，機用迥離佛祖臼。無倚無依得自
+<lb n="0702b06" ed="J"/>由，堪能接續吾宗後。</l></lg></cb:div>
+<lb n="0702b07" ed="J"/><cb:div type="other"><cb:mulu level="2" type="其他">示竹菴趙居士</cb:mulu><head>示竹菴趙居士</head>
+<lb n="0702b08" ed="J"/><lg xml:id="lgJ39p0702b0801" style="margin-left:0em;text-indent:0em;"><l style="text-indent:0em">洞徹無生不二旨，遭吾痛棒幾翻身，異時若欲伸冤
+<lb n="0702b09" ed="J"/>屈，當向人前舉似人。</l></lg></cb:div>
+<lb n="0702b10" ed="J"/><cb:div type="other"><cb:mulu level="2" type="其他">贈含空和尚之東明</cb:mulu><head>贈含空和尚之東明</head>
+<lb n="0702b11" ed="J"/><lg xml:id="lgJ39p0702b1101" style="margin-left:0em;text-indent:0em;"><l style="text-indent:0em">拂拂春風楊柳生，孤帆為送吾兄行。浙江江上東山
+<lb n="0702b12" ed="J"/>月，一片清光兩地明。</l></lg></cb:div>
+<lb n="0702b13" ed="J"/><cb:div type="other"><cb:mulu level="2" type="其他">示惟一張文學</cb:mulu><head>示惟一張文學</head>
+<lb n="0702b14" ed="J"/><lg xml:id="lgJ39p0702b1401" style="margin-left:0em;text-indent:0em;"><l style="text-indent:0em">須向分中明下落，莫從節外更生枝。威音前事如能
+<lb n="0702b15" ed="J"/>委，夫子依然是仲尼。</l></lg></cb:div>
+<lb n="0702b16" ed="J"/><cb:div type="other"><cb:mulu level="2" type="其他">贈雄山賀鎮臺任江浙</cb:mulu><head>贈雄山賀鎮臺任江浙</head>
+<lb n="0702b17" ed="J"/><lg xml:id="lgJ39p0702b1701" style="margin-left:0em;text-indent:0em;"><l style="text-indent:0em">撫民衛國<anchor xml:id="nkr_note_add_0702b1701" n="0702b1701"/><anchor xml:id="beg0702b1701" n="0702b1701"/>羨<anchor xml:id="end0702b1701"/>中良，大丈夫兒當傑烈。凜凜雄風貫斗
+<lb n="0702b18" ed="J"/>牛，嘉聲千古振江浙。</l></lg></cb:div>
+<lb n="0702b19" ed="J"/><cb:div type="other"><cb:mulu level="2" type="其他">住金陵祈澤禪寺募田頤靈監院乞</cb:mulu><head>住金陵祈澤禪寺募田頤靈監院乞</head>
+<lb n="0702b20" ed="J"/><lg xml:id="lgJ39p0702b2001" style="margin-left:0em;text-indent:0em;"><l style="text-indent:0em">從來這片閒田地，疆界分明自坦然。須得知音點首
+<lb n="0702b21" ed="J"/>者，方能把出利人天。</l></lg></cb:div>
+<lb n="0702b22" ed="J"/><cb:div type="other"><cb:mulu level="2" type="其他">發棹歸楚</cb:mulu><head>發棹歸楚</head>
+<lb n="0702b23" ed="J"/><lg xml:id="lgJ39p0702b2301" style="margin-left:0em;text-indent:0em;"><l style="text-indent:0em">天光水色映篷窗，千里歸心風一江。吳越佳山觀未
+<lb n="0702b24" ed="J"/>盡，歡歌先唱故鄉腔。</l></lg></cb:div>
+<lb n="0702b25" ed="J"/><cb:div type="other"><cb:mulu level="2" type="其他">遷居白雲</cb:mulu><head>遷居白雲</head>
+<lb n="0702b26" ed="J"/><lg xml:id="lgJ39p0702b2601" style="margin-left:0em;text-indent:0em;"><l style="text-indent:0em">收綸罷釣別江灘，直上雲山重著竿。驚落碧崖千丈
+<lb n="0702b27" ed="J"/>月，點開霄漢萬星寒。</l></lg></cb:div>
+<lb n="0702b28" ed="J"/><cb:div type="other"><cb:mulu level="2" type="其他">山居</cb:mulu><head>山居</head>
+<lb n="0702b29" ed="J"/><lg xml:id="lgJ39p0702b2901" style="margin-left:0em;text-indent:0em;"><l style="text-indent:0em">瓢囊挂壁<anchor xml:id="nkr_note_add_0702b2901" n="0702b2901"/><anchor xml:id="beg0702b2901" n="0702b2901"/>已<anchor xml:id="end0702b2901"/>年多，名利安能奈我何？只有四山雲現
+<lb n="0702b30" ed="J"/>彩，飛來飛去遶藤蘿。</l></lg>
+<pb n="0702c" ed="J" xml:id="J39.B457.0702c"/>
+<lb n="0702c01" ed="J"/><lg xml:id="lgJ39p0702c0101" style="margin-left:0em;text-indent:0em;"><l style="text-indent:0em">居山道者放癡憨，瓢笠高懸絕萬緣。衲被蒙頭深睡
+<lb n="0702c02" ed="J"/>穩，任從紅日麗中天。</l></lg></cb:div></cb:div>
+<lb n="0702c03" ed="J"/><cb:div type="other"><cb:mulu level="1" type="其他">贊</cb:mulu><head>贊</head>
+<lb n="0702c04" ed="J"/><p cb:type="head2" xml:id="pJ39p0702c0401">自題</p>
+<lb n="0702c05" ed="J"/><lg xml:id="lgJ39p0702c0501" style="margin-left:0em;text-indent:0em;"><l style="text-indent:0em">生平不會之乎者，好醜不分一味打。斷送衲僧窮命
+<lb n="0702c06" ed="J"/>根，惡聲流布普天下。</l></lg></cb:div>
+<lb n="0702c07" ed="J"/><cb:div type="other"><cb:mulu level="1" type="其他">機緣</cb:mulu><head>機緣</head>
+<lb n="0702c08" ed="J"/><p xml:id="pJ39p0702c0801">僧問：「某甲有一語問和尚，得否？」師云：「問來。」僧云：「釋迦
+<lb n="0702c09" ed="J"/>未出世，達磨不西來，未審傳個什麼？」師云：「南斗六，北
+<lb n="0702c10" ed="J"/>斗七。」僧無語。師云：「疑殺天下人。」</p>
+<lb n="0702c11" ed="J"/><p xml:id="pJ39p0702c1101">僧問：「大地山河被學人一口吞盡，和尚在甚處安居？」
+<lb n="0702c12" ed="J"/>師云：「山僧在你肚裏。」僧大笑，師云：「直教你喪身失命。」
+<lb n="0702c13" ed="J"/>僧云：「蒙大慈悲究竟。」師云：「死活也不知。」僧拊掌一下，
+<lb n="0702c14" ed="J"/>師云：「猶是強支撐。」</p>
+<lb n="0702c15" ed="J"/><p xml:id="pJ39p0702c1501">僧問：「一切眾生皆同佛性，為什麼根器各異？」師云：「春
+<lb n="0702c16" ed="J"/>色無高下，花枝有短長。」</p>
+<lb n="0702c17" ed="J"/><p xml:id="pJ39p0702c1701">僧問：「如何是第一句？」師云：「盡力道不出。」云：「如何是第
+<lb n="0702c18" ed="J"/>二句？」師云：「未語眼先視。」云：「如何是第三句？」師云：「鍋是
+<lb n="0702c19" ed="J"/>生銕鑄。」</p>
+<lb n="0702c20" ed="J"/><p xml:id="pJ39p0702c2001">僧參，師問：「汝一向在甚處住？」僧云：「參方行腳。」師云：「行
+<lb n="0702c21" ed="J"/>底是驢腳？馬腳？」僧無對。</p>
+<lb n="0702c22" ed="J"/><p xml:id="pJ39p0702c2201">僧參，師問：「甚處來？」僧云：「南海。」師云：「觀音菩薩在麼？」僧
+<lb n="0702c23" ed="J"/>云：「在。」師云：「喚來與山僧洗腳。」僧無語，師云：「者妄語漢！」
+<lb n="0702c24" ed="J"/>連棒打出。</p></cb:div>
+<lb n="0702c25" ed="J"/><cb:div type="other"><cb:mulu level="1" type="其他">佛事</cb:mulu><head>佛事</head>
+<lb n="0702c26" ed="J"/><cb:div type="other"><cb:mulu level="2" type="其他">禮萬師翁塔</cb:mulu><head>禮萬師翁塔</head><p xml:id="pJ39p0702c2606" cb:place="inline">拈香，云：</p><lg xml:id="lgJ39p0702c2609" style="margin-left:0em;text-indent:0em;"><l style="text-indent:0em">「昔年親近幾月，至今懷恨未忘。
+<lb n="0702c27" ed="J"/>不將杯水獻供，唯燒一爐柏香熏。教這老漢無吐氣
+<lb n="0702c28" ed="J"/>處，何故？免致後代受餘殃。」</l></lg></cb:div>
+<lb n="0702c29" ed="J"/><cb:div type="other"><cb:mulu level="2" type="其他">禮銕老和尚塔</cb:mulu><head>禮銕老和尚塔</head><p xml:id="pJ39p0702c2907" cb:place="inline">拈香，云：</p><lg xml:id="lgJ39p0702c2910" style="margin-left:0em;text-indent:0em;"><l style="text-indent:0em">「恭惟本師和尚，示現虛空之
+<lb n="0702c30" ed="J"/>相。住世四十九年，道風愈布愈遠。利生五坐道場，法
+<pb n="0703a" ed="J" xml:id="J39.B457.0703a"/>
+<lb n="0703a01" ed="J"/>語難比難量。心印傳來猶現存，行藏端的全無狀。本
+<lb n="0703a02" ed="J"/>真到此伎思窮，只爇瓣香作供養。非惟圖報德酬恩，
+<lb n="0703a03" ed="J"/>且要定衲子標榜。」遂作禮。</l></lg></cb:div>
+<lb n="0703a04" ed="J"/><cb:div type="other"><cb:mulu level="2" type="其他">禮虎丘隆祖塔</cb:mulu><head>禮虎丘隆祖塔</head>
+<lb n="0703a05" ed="J"/><lg xml:id="lgJ39p0703a0501" style="margin-left:0em;text-indent:0em;"><l style="text-indent:0em">睡虎機能越眾倫，藏牙<anchor xml:id="nkr_note_add_0703a0501" n="0703a0501"/><anchor xml:id="beg0703a0501" n="0703a0501"/>斂<anchor xml:id="end0703a0501"/>爪絕紛紜。雖然隱跡居嵒
+<lb n="0703a06" ed="J"/>壑，萬古雄風振海門。</l></lg></cb:div>
+<lb n="0703a07" ed="J"/><cb:div type="other"><cb:mulu level="2" type="其他">禮三昧光和尚塔</cb:mulu><head>禮三昧光和尚塔</head>
+<lb n="0703a08" ed="J"/><lg xml:id="lgJ39p0703a0801" style="margin-left:0em;text-indent:0em;"><l style="text-indent:0em">嚴持戒律若冰霜，法化弘揚遍大唐。不肖逆兒施九
+<lb n="0703a09" ed="J"/>禮，清風匝地透身涼。</l></lg></cb:div></cb:div>
+<lb n="0703a10" ed="J"/><cb:div type="other"><cb:mulu level="1" type="其他">行實</cb:mulu><head>行實</head>
+<lb n="0703a11" ed="J"/><p xml:id="pJ39p0703a1101">師楚之隨州，父丘，母姚氏。父母積誠祈嗣，感異有孕，
+<lb n="0703a12" ed="J"/>懷十一月而生。八歲喪父，十二亡母。至十八，痛念生
+<lb n="0703a13" ed="J"/>死大事，急求出家，遂投寂光老宿薙髮，專好念佛，切
+<lb n="0703a14" ed="J"/>切不忘。光見師志向堅密，即令一老僧唯之，送參天
+<lb n="0703a15" ed="J"/>童密祖。次參費隱和尚、山翁和尚、牧雲和尚、林野和
+<lb n="0703a16" ed="J"/>尚、石鼓和尚、淑安諸和尚，雖蒙示誨，不能領旨。又參
+<lb n="0703a17" ed="J"/>弁山破暗和尚，亦未契機。適回省光，光命往三昧律
+<lb n="0703a18" ed="J"/>師處圓具。期畢，復參費隱和尚，命進堂。是晚，向佛然
+<lb n="0703a19" ed="J"/>臂立誓云：「不明本分，誓不出堂。手不開單，脅不沾蓆。」
+<lb n="0703a20" ed="J"/>自後工夫漸漸得力。一日，尚舉高峰睹五祖真贊云：
+<lb n="0703a21" ed="J"/>「百年三萬六千朝，反復原來是者漢。」師聞得，當下脫
+<lb n="0703a22" ed="J"/>然。從此工夫愈加綿密，雖在眾中，似無一人。一晚出
+<lb n="0703a23" ed="J"/>堂，下階級遭跌，恍若半空脫下，遂占偈云：「驀爾翻身
+<lb n="0703a24" ed="J"/>轉，踏破太虛空。眼開無別物，獨露本來容。」呈尚，尚不
+<lb n="0703a25" ed="J"/>肯，從新參究。一日，至方丈，師問：「如何是學人底本心
+<lb n="0703a26" ed="J"/>本性？」尚云：「親口出親言。」師於言下得旨。又參東明孤
+<lb n="0703a27" ed="J"/>雲和尚，尚問：「汝本分事作麼生？」師云：「平常。」明云：「那裡
+<lb n="0703a28" ed="J"/>是汝平常處？」師便禮拜，明云：「者消息那裡得來？」師云：
+<lb n="0703a29" ed="J"/>「並無所得。」明云：「未知得處在。」師復豎拳云：「且道者個
+<lb n="0703a30" ed="J"/>喚作甚麼？」明云：「除卻者個，別道一句來。」師云：「和尚因
+<pb n="0703b" ed="J" xml:id="J39.B457.0703b"/>
+<lb n="0703b01" ed="J"/>甚當面不識？」明云：「且信一半。」師又參大雄玉林和尚、
+<lb n="0703b02" ed="J"/>夾山箬菴和尚、龍池萬如和尚，如問：「古人未出方丈，
+<lb n="0703b03" ed="J"/><anchor xml:id="nkr_note_add_0703b0301" n="0703b0301"/><anchor xml:id="beg0703b0301" n="0703b0301"/>已<anchor xml:id="end0703b0301"/>到庄喫油餈，汝作麼生會？」師云：「和尚莫瞞人好。」如
+<lb n="0703b04" ed="J"/>云：「瞞得汝一個。」師禮拜，如休去。又參宜興芙蓉寺銕
+<lb n="0703b05" ed="J"/>關和尚，問：「如何是覿體現前？」師便叉手而立，尚云：「更
+<lb n="0703b06" ed="J"/>道一句看。」師頓足，尚頷之。一晚，侍立次，尚問：「靈雲道：
+<lb n="0703b07" ed="J"/>『自從一見桃花後，直至於今更不疑。』如何是他不疑
+<lb n="0703b08" ed="J"/>處？」師云：「眼橫鼻直。」尚云：「爾又作麼生？」師禮拜，尚休去。
+<lb n="0703b09" ed="J"/>尚一晚又問：「描不成，畫不就，道將一句來。」師便喝，尚
+<lb n="0703b10" ed="J"/>云：「道不著。」師云：「早<anchor xml:id="nkr_note_add_0703b1001" n="0703b1001"/><anchor xml:id="beg0703b1001" n="0703b1001"/>已<anchor xml:id="end0703b1001"/>呈似和尚了也。」尚又問：「古人道：
+<lb n="0703b11" ed="J"/>『舉一不得舉二，放過一著落在第二。』如何是舉一底
+<lb n="0703b12" ed="J"/>意旨？」師呈起坐具，尚云：「無交涉。」師拂袖便行。師自此
+<lb n="0703b13" ed="J"/>得和尚辣手鉗錘、叱呵不倦，方得理事無礙、機用超
+<lb n="0703b14" ed="J"/>然，遂蒙印可，囑偈云：「當陽顯露超方用，千聖都來列
+<lb n="0703b15" ed="J"/>下風，今日山僧分付汝，必須珍重建吾宗。」復示云：「一
+<lb n="0703b16" ed="J"/>機透徹，迥絕言詮，超出群類，佛祖齊肩，克的吾家真
+<lb n="0703b17" ed="J"/>種草，結茆應踞萬峰巔。」師不敢違命，即九叩受之。後
+<lb n="0703b18" ed="J"/>和尚不暇應金陵祈澤之請，即命師代之，尚云：「祈澤
+<lb n="0703b19" ed="J"/>乃勤祖道場，汝往居之。」師居一載，適兵戈擾攘，乃便
+<lb n="0703b20" ed="J"/>遯去。後至潯陽北，觀山峰疊秀，瑞氣靄然，詰里人，云：
+<lb n="0703b21" ed="J"/>「此是蘄州紫雲山，即端祖道場也。」師忻然登陟，見白
+<lb n="0703b22" ed="J"/>雲基址幽趣環拱，層巒澗流四聚，景況非凡，忽憶和
+<lb n="0703b23" ed="J"/>尚所囑之語符合，今驗之矣，遂結茆於此。未幾，道風
+<lb n="0703b24" ed="J"/>遠著，遐邇皈嚮，四眾奔赴如雲。僅七載，金容殿宇、方
+<lb n="0703b25" ed="J"/>丈廊廡百廢俱興，荊棘叢中忽成一大寶坊，非師之
+<lb n="0703b26" ed="J"/>夙願，曷能克備如是哉？師寬以御眾，嚴以律身，施人
+<lb n="0703b27" ed="J"/>以慈以惠，接物以誠以信，示誨學者純以直截鉗錘，
+<lb n="0703b28" ed="J"/>不容苟且。領師棒喝之機，密契其旨，頓脫者甚眾，不
+<lb n="0703b29" ed="J"/>能枚舉。師弘法有年，四座道場，于康熙辛未夏跏趺
+<lb n="0703b30" ed="J"/>坐逝，塔于本山之前麓，世壽七十有二，僧臘五十有
+<pb n="0703c" ed="J" xml:id="J39.B457.0703c"/>
+<lb n="0703c01" ed="J"/>四。師全錄二十卷并《白雲寺誌》行世，板存白雲。師生
+<lb n="0703c02" ed="J"/>平善行頗多，不能盡錄，門人照水謹述大概以傳云
+<lb n="0703c03" ed="J"/>耳。</p></cb:div>
+</body>
+<back>
+<cb:div type="apparatus">
+<head>校注</head>
+<p>
+<app from="#beg0699a0401" to="#end0699a0401"><lem resp="#resp2" wit="#wit.cbeta">已</lem><rdg wit="#wit.orig">巳</rdg></app>
+<app from="#beg0699a1101" to="#end0699a1101"><lem resp="#resp2" wit="#wit.cbeta">己</lem><rdg wit="#wit.orig">巳</rdg></app>
+<app from="#beg0699b1801" to="#end0699b1801"><lem resp="#resp2" wit="#wit.cbeta">已</lem><rdg wit="#wit.orig">巳</rdg></app>
+<app from="#beg0699b1901" to="#end0699b1901"><lem resp="#resp2" wit="#wit.cbeta">已</lem><rdg wit="#wit.orig">巳</rdg></app>
+<app from="#beg0702a0401" to="#end0702a0401"><lem resp="#resp2" wit="#wit.cbeta">己</lem><rdg wit="#wit.orig">巳</rdg></app>
+<app from="#beg0702a1401" to="#end0702a1401"><lem resp="#resp2" wit="#wit.cbeta">鍛</lem><rdg wit="#wit.orig">煆</rdg></app>
+<app from="#beg0702a2901" to="#end0702a2901"><lem resp="#resp2" wit="#wit.cbeta">己</lem><rdg wit="#wit.orig">巳</rdg></app>
+<app from="#beg0702b1701" to="#end0702b1701"><lem resp="#resp2" wit="#wit.cbeta">羨</lem><rdg wit="#wit.orig">羡</rdg></app>
+<app from="#beg0702b2901" to="#end0702b2901"><lem resp="#resp2" wit="#wit.cbeta">已</lem><rdg wit="#wit.orig">巳</rdg></app>
+<app from="#beg0703a0501" to="#end0703a0501"><lem resp="#resp2" wit="#wit.cbeta">斂</lem><rdg wit="#wit.orig">歛</rdg></app>
+<app from="#beg0703b0301" to="#end0703b0301"><lem resp="#resp2" wit="#wit.cbeta">已</lem><rdg wit="#wit.orig">巳</rdg></app>
+<app from="#beg0703b1001" to="#end0703b1001"><lem resp="#resp2" wit="#wit.cbeta">已</lem><rdg wit="#wit.orig">巳</rdg></app>
+</p>
+</cb:div>
+<cb:div type="add-notes">
+<head>新增校注</head>
+<p>
+<note n="0699a0401" resp="#resp1" type="add" target="#nkr_note_add_0699a0401">已【CB】，巳【嘉興】</note>
+<note n="0699a1101" resp="#resp1" type="add" target="#nkr_note_add_0699a1101">己【CB】，巳【嘉興】</note>
+<note n="0699b1801" resp="#resp1" type="add" target="#nkr_note_add_0699b1801">已【CB】，巳【嘉興】</note>
+<note n="0699b1901" resp="#resp1" type="add" target="#nkr_note_add_0699b1901">已【CB】，巳【嘉興】</note>
+<note n="0702a0401" resp="#resp1" type="add" target="#nkr_note_add_0702a0401">己【CB】，巳【嘉興】</note>
+<note n="0702a1401" resp="#resp1" type="add" target="#nkr_note_add_0702a1401">鍛【CB】，煆【嘉興】</note>
+<note n="0702a2901" resp="#resp1" type="add" target="#nkr_note_add_0702a2901">己【CB】，巳【嘉興】</note>
+<note n="0702b1701" resp="#resp1" type="add" target="#nkr_note_add_0702b1701">羨【CB】，羡【嘉興】</note>
+<note n="0702b2901" resp="#resp1" type="add" target="#nkr_note_add_0702b2901">已【CB】，巳【嘉興】</note>
+<note n="0703a0501" resp="#resp1" type="add" target="#nkr_note_add_0703a0501">斂【CB】，歛【嘉興】</note>
+<note n="0703b0301" resp="#resp1" type="add" target="#nkr_note_add_0703b0301">已【CB】，巳【嘉興】</note>
+<note n="0703b1001" resp="#resp1" type="add" target="#nkr_note_add_0703b1001">已【CB】，巳【嘉興】</note>
+</p>
+</cb:div>
+</back></text></TEI>
