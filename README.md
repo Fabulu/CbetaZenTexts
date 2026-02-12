@@ -1,11 +1,11 @@
-#CbetaZenTexts
+# CbetaZenTexts
 
 An attempt to make the CBETA canon accessible to English speakers, particularly the Zen texts.
 
 This repository is a collaborative translation effort built on top of the official CBETA XML corpus.
 
-#Structure
-##xml-p5
+# Structure
+## xml-p5
 
 Contains unmodified CBETA XML TEI P5 files mirrored from:
 
@@ -15,7 +15,7 @@ Snapshot: January 2026
 
 These files are redistributed with their original headers intact.
 
-##xml-p5T
+## xml-p5T
 
 Contains copies of the same XML files.
 Some files are being translated into English.
@@ -27,7 +27,7 @@ Location: xml-p5T/T/T47/T47n1987A.xml
 
 Translated files preserve the full original CBETA header.
 
-#License & Attribution
+# License & Attribution
 
 The original XML texts are provided by:
 
@@ -38,7 +38,7 @@ Each file includes the official CBETA header, including the statement:
 
 Available for non-commercial use when distributed with this header intact.
 
-#Important
+# Important
 
 All original texts remain property of CBETA.
 
@@ -50,7 +50,7 @@ Distribution must remain non-commercial.
 
 If you reuse or redistribute files from this repository, you must preserve the full CBETA header.
 
-#About the Translations
+# About the Translations
 
 English translations contained in xml-p5T are collaborative derivative works based on CBETA’s XML.
 
@@ -58,7 +58,7 @@ They are distributed under the same non-commercial condition as the original CBE
 
 This repository does not remove or modify CBETA’s license terms.
 
-#Purpose
+# Purpose
 
 The goal of this project is:
 
