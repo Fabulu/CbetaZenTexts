@@ -15,7 +15,7 @@ Snapshot: January 2026
 
 These files are redistributed with their original headers intact.
 
-## xml-p5T
+## xml-p5t
 
 Contains copies of the same XML files.
 Some files are being translated into English.
