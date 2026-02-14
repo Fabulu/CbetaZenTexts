@@ -5,11 +5,11 @@
 	<fileDesc>
 		<titleStmt>
 			<title level="s">Taishō Tripiṭaka</title>
-			<title level="s" xml:lang="zh-Hant">大正新脩大藏經</title>
-			<title level="m" xml:lang="zh-Hant">撫州曹山元證禪師語錄</title>
+			<title level="s" xml:lang="zh-Hant">Taishō Revised and Newly Edited Great Canon</title>
+			<title level="m" xml:lang="zh-Hant">Recorded Sayings of Chan Master Yuanzheng of Caoshan, Fuzhou</title>
 			<title>Taishō Tripiṭaka, Electronic version, No. 1987A 撫州曹山元證禪師語錄</title>
-			<title xml:lang="zh-Hant">大正新脩大藏經數位版, No. 1987A 撫州曹山元證禪師語錄</title>
-			<author>日本 慧印校</author>
+			<title xml:lang="zh-Hant">Taishō Revised and Newly Edited Great Canon, Digital Edition, No. 1987A Recorded Sayings of Chan Master Yuanzheng of Caoshan, Fuzhou</title>
+			<author>Japan, edited by Huiyin</author>
 			<respStmt>
 				<resp>Electronic Version by</resp>
 				<name>CBETA</name>
@@ -22,13 +22,13 @@
 			<respStmt xml:id="resp3"><resp>corrections</resp><name>CBETA</name></respStmt>
 			<respStmt xml:id="resp4"><resp>corrections</resp><name>CBETA.maha</name></respStmt>
 		</editionStmt>
-		<extent>1卷</extent>
+		<extent>1 fascicle</extent>
 		<publicationStmt>
 			<idno type="CBETA">
 				<idno type="canon">T</idno>.<idno type="vol">47</idno>.<idno type="no">1987A</idno>
 			</idno>
 			<distributor>
-				<name>財團法人佛教電子佛典基金會 (CBETA)</name>
+				<name>CBETA Foundation (CBETA)</name>
 				<address>
 					<addrLine><email>service@cbeta.org</email></addrLine>
 				</address>
@@ -39,16 +39,16 @@
 			<date>2025-02-03 09:13:42 +0800</date>
 		</publicationStmt>
 		<sourceDesc>
-			<bibl>大正新脩大藏經</bibl>
+			<bibl>Taishō Revised and Newly Edited Great Canon</bibl>
 		</sourceDesc>
 	</fileDesc>
 	<encodingDesc>
 		<projectDesc>
 			<p xml:lang="en" cb:type="ly">Text as provided by Mr. Hsiao Chen-Kuo, Text as provided by Electronic Buddhadharma Society (EBS), Text as provided by Anonymous from USA</p>
-			<p xml:lang="zh-Hant" cb:type="ly">蕭鎮國大德提供，佛教電腦資訊庫功德會提供，北美某大德提供</p>
+			<p xml:lang="zh-Hant" cb:type="ly">Provided by the virtuous Mr. Hsiao Chen-Kuo; provided by the Merit Society of the Buddhist Computer Information Library; provided by a certain virtuous person in North America</p>
 		</projectDesc>
 		<editorialDecl>
-			<punctuation resp="#resp1"><p>原書標點</p></punctuation>
+			<punctuation resp="#resp1"><p>Original book punctuation</p></punctuation>
 		</editorialDecl>
 		<tagsDecl>
 			<namespace name="http://www.tei-c.org/ns/1.0">
@@ -94,99 +94,99 @@
 <lb n="0526b24" ed="T"/>
 <lb n="0526b25" ed="T"/>
 <lb n="0526b26" ed="T"/><cb:docNumber>No. 1987A</cb:docNumber>
-<lb n="0526b27" ed="T"/><cb:div type="xu"><cb:mulu level="1" type="序">曹山大師語錄序</cb:mulu><head><anchor xml:id="nkr_note_orig_0526001" n="0526001"/>曹山大師語錄序</head>
+<lb n="0526b27" ed="T"/><cb:div type="xu"><cb:mulu level="1" type="序"><note type="community" resp="dota2nub">Partial Translation using ChatGPT 5.2</note>Preface to the Recorded Sayings of Master Caoshan</cb:mulu><head><anchor xml:id="nkr_note_orig_0526001" n="0526001"/>Preface to the Recorded Sayings of Master Caoshan</head>
 <lb n="0526b28" ed="T"/>
-<lb n="0526b29" ed="T"/><p xml:id="pT47p0526b2901">本寂禪師之於Dongshan。蓋瀉瓶而已。自一去不
+<lb n="0526b29" ed="T"/><p xml:id="pT47p0526b2901">Chan Master Benji, in relation to Dongshan, was as one who simply pours from a bottle. From the place of “going to the unchanging place,”
 <pb n="0526c" xml:id="T47.1987A.0526c" ed="T"/>
-<lb n="0526c01" ed="T"/>變異處。至住持大法之道。則大與餘者別矣。
-<lb n="0526c02" ed="T"/>唯因真唱。使人至真證也。唯真也深玄精粹。
-<lb n="0526c03" ed="T"/>是以難卒見焉。世以為平坦無活用雄略。嗚
-<lb n="0526c04" ed="T"/>呼浮淺之人。胡知時世因真偽以致道之否
-<lb n="0526c05" ed="T"/>泰哉。實不知之。故有詖辭。夫師之語要。在三
-<lb n="0526c06" ed="T"/>墮示修治分位。異類通凡聖。明道之生熟也。
-<lb n="0526c07" ed="T"/>洞祖所言道合人人合道。老不老事體妙者
-<lb n="0526c08" ed="T"/>是也。苟知之不可瞞。只今唯瞞也多矣。元文
-<lb n="0526c09" ed="T"/>之間。有與洞山錄并行焉。而此亦不便多眾
-<lb n="0526c10" ed="T"/>之遮眼。庚辰之秋。吉祥之眾衲就予集錄焉。
-<lb n="0526c11" ed="T"/>刊版欲與洞祖錄并行。而以反正時世妄譌
-<lb n="0526c12" ed="T"/>也。可謂好心。冀有好報。且來請引語。乃敘
-<lb n="0526c13" ed="T"/>錄中至要。以冠其首。但因曹山意見其道範。
-<lb n="0526c14" ed="T"/>足一發其意云爾。維時</p>
-<lb n="0526c15" ed="T"/><p xml:id="pT47p0526c1501" style="margin-left:2em">寶曆十一年辛巳正月穀旦。印指月
-<lb n="0526c16" ed="T"/>盥香敘。</p></cb:div>
+<lb n="0526c01" ed="T"/>to the way of upholding the great Dharma, he was greatly distinct from the others.
+<lb n="0526c02" ed="T"/>Only because he truly proclaimed did people reach true realization. Only what is true is profound, mysterious, and refined.
+<lb n="0526c03" ed="T"/>Therefore it is difficult to fully perceive. The world takes him to be level and without lively function or heroic strategy. Alas,
+<lb n="0526c04" ed="T"/>superficial people—how could they know that in any age, through truth and falsehood, the Way may flourish or decline?
+<lb n="0526c05" ed="T"/>They truly do not understand; hence there are biased words. As for the essential points of the Master’s sayings, they lie in the Three Falls, which indicate the stages of cultivation and realization,
+<lb n="0526c06" ed="T"/>bridging different kinds and communicating between ordinary and sage, clarifying the ripeness or immaturity of the Way.
+<lb n="0526c07" ed="T"/>What Patriarch Dong said, “The Way accords with people, people accord with the Way; whether old or not old, the essential matter is subtle,”
+<lb n="0526c08" ed="T"/>is precisely this. If one knows it cannot be concealed, yet nowadays concealment is indeed abundant.
+<lb n="0526c09" ed="T"/>During the Yuanwen era, this record circulated alongside the Record of Dongshan; yet this too could not avoid being obscured by the multitude.
+<lb n="0526c10" ed="T"/>In the autumn of the gengchen year, the assembly of monks at Jixiang requested that I compile this record.
+<lb n="0526c11" ed="T"/>They carved the printing blocks, wishing it to circulate together with the Record of Patriarch Dongshan, in order to correct the delusions and errors of the times.
+<lb n="0526c12" ed="T"/>It may be called a good intention, hoping for good recompense. They also came to request a preface. Thus I narrate
+<lb n="0526c13" ed="T"/>the most essential points within the record and place them at its head. I only follow Caoshan’s intention in setting forth his model of the Way,
+<lb n="0526c14" ed="T"/>merely giving voice to his meaning. At that time</p>
+<lb n="0526c15" ed="T"/><p xml:id="pT47p0526c1501" style="margin-left:2em">On an auspicious day in the first month of the eleventh year of Baoli, the year Xinsi, Yinzhi Yue,
+<lb n="0526c16" ed="T"/>after washing and burning incense, wrote this preface.</p></cb:div>
 <lb n="0526c17" ed="T"/>
 <lb n="0526c18" ed="T"/>
-<lb n="0526c19" ed="T"/><cb:juan n="001" fun="open"><cb:mulu n="1" type="卷"></cb:mulu><cb:jhead>撫州曹山元證禪師語錄</cb:jhead></cb:juan>
+<lb n="0526c19" ed="T"/><cb:juan n="001" fun="open"><cb:mulu n="1" type="卷"></cb:mulu><cb:jhead>Recorded Sayings of Chan Master Yuanzheng of Caoshan, Fuzhou</cb:jhead></cb:juan>
 <lb n="0526c20" ed="T"/>
-<lb n="0526c21" ed="T"/><byline cb:type="Other">遠孫沙門慧印校訂</byline>
-<lb n="0526c22" ed="T"/><cb:div type="other"><p xml:id="pT47p0526c2201">師諱本寂。泉州莆田黃氏子。少業儒。年十九
-<lb n="0526c23" ed="T"/>往福州靈石出家。二十五登戒。尋謁洞山。山
-<lb n="0526c24" ed="T"/>問。闍黎名甚麼。師曰本寂。山曰。向上更道。
-<lb n="0526c25" ed="T"/>師曰不道。山曰為什麼不道。師曰。不名本寂。
-<lb n="0526c26" ed="T"/>山深器之。自此入室。盤桓數載。乃辭去。山遂
-<lb n="0526c27" ed="T"/>密授洞山宗旨。復問曰。子向甚麼處去。師曰。
-<lb n="0526c28" ed="T"/>不變異處去。山曰。不變異處豈有去耶。師曰。
-<lb n="0526c29" ed="T"/>去亦不變異。遂往曹谿禮祖塔回吉水。眾嚮
+<lb n="0526c21" ed="T"/><byline cb:type="Other">Collated and edited by the distant descendant, Śramaṇa Huiyin</byline>
+<lb n="0526c22" ed="T"/><cb:div type="other"><p xml:id="pT47p0526c2201">The Master’s personal name was Benji. He was a son of the Huang family of Putian in Quanzhou. In youth he studied Confucianism. At nineteen
+<lb n="0526c23" ed="T"/>he went to Lingshi in Fuzhou to leave home. At twenty-five he received the full precepts. Soon he visited Dongshan. Dongshan
+<lb n="0526c24" ed="T"/>asked, “Venerable, what is your name?” The Master said, “Benji.” Dongshan said, “Say something beyond that.”
+<lb n="0526c25" ed="T"/>The Master said, “I will not say.” Dongshan said, “Why will you not say?” The Master said, “It is not named Benji.”
+<lb n="0526c26" ed="T"/>Dongshan deeply valued him. From then on he entered the inner chamber and remained for several years. Then he took his leave. Dongshan
+<lb n="0526c27" ed="T"/>secretly transmitted the essential meaning of the Dongshan lineage. He further asked, “Where are you going?”
+<lb n="0526c28" ed="T"/>The Master said, “To the unchanging place.” Dongshan said, “If it is the unchanging place, how can there be any going?”
+<lb n="0526c29" ed="T"/>The Master said, “Even going does not change.” He then went to Caoxi to pay homage at the Patriarch’s stupa and returned to Jishui. The assembly, having heard of the Master’s name,
 <pb n="0527a" xml:id="T47.1987A.0527a" ed="T"/>
-<lb n="0527a01" ed="T"/>師名。乃請開法。師志慕六祖。遂名山為曹。尋
-<lb n="0527a02" ed="T"/>值賊亂。乃之宜黃。有信士王若一。捨何王觀。
-<lb n="0527a03" ed="T"/>請師住持。師更何王為荷玉。由是法席大興。
-<lb n="0527a04" ed="T"/>學者雲萃。洞山之宗至師為盛。</p>
-<lb n="0527a05" ed="T"/><p xml:id="pT47p0527a0501">因有僧問五位君臣旨訣。師曰。正位即空界。
-<lb n="0527a06" ed="T"/>本來無物。偏位即色界。有萬象形。正中偏者
-<lb n="0527a07" ed="T"/>背理就事。偏中正者舍事入理。兼帶者冥應
-<lb n="0527a08" ed="T"/>眾緣。不墮諸有。非染非淨。非正非偏。故曰虛
-<lb n="0527a09" ed="T"/>玄大道無著真宗。從上先德推此一位最妙
-<lb n="0527a10" ed="T"/>最玄。當詳審辨明。君為正位。臣為偏位。臣向
-<lb n="0527a11" ed="T"/>君是偏中正。君視臣是正中偏。君臣道合是
-<lb n="0527a12" ed="T"/>兼帶語。進云。如何是君。師曰。妙德尊寰宇。
-<lb n="0527a13" ed="T"/>高明朗大虛。云如何是臣。師曰。靈機弘聖道。
-<lb n="0527a14" ed="T"/>真智利群生。云如何是臣向君。師曰。不墮諸
-<lb n="0527a15" ed="T"/>異趣。凝情望聖容。云如何是君視臣。師曰。妙
-<lb n="0527a16" ed="T"/>容雖不動。光燭本無偏。云如何是君臣道合。
-<lb n="0527a17" ed="T"/>師曰。混然無內外。和融上下平。師又曰。以君
-<lb n="0527a18" ed="T"/>臣偏正言者。不欲犯中。故臣稱君不敢斥言
-<lb n="0527a19" ed="T"/>是也。此吾法宗要。乃作偈曰。學者先須識自
-<lb n="0527a20" ed="T"/>宗。莫將真際雜頑空。妙明體盡知傷觸。力在
-<lb n="0527a21" ed="T"/>逢緣不借中。出語直教燒不著。潛行須與古
-<lb n="0527a22" ed="T"/>人同。無身有事超岐路。無事無身落始終。復
-<lb n="0527a23" ed="T"/>作五相。</p><p xml:id="pT47p0527a2304" cb:place="inline"><figure><graphic url="../figures/T/T47p0527_01.gif"></graphic></figure></p><p xml:id="pT47p0527a2306" cb:place="inline">偈曰。白衣須拜相。此事不為奇。積
-<lb n="0527a24" ed="T"/>代簪纓者。休言落魄時。</p><p xml:id="pT47p0527a2410" cb:place="inline"><figure><graphic url="../figures/T/T47p0527_02.gif"></graphic></figure></p><p xml:id="pT47p0527a2412" cb:place="inline">偈曰。子時當正位。
-<lb n="0527a25" ed="T"/>明正在君臣。未離兜率界。烏雞雪上行。</p><p xml:id="pT47p0527a2516" cb:place="inline"><figure><graphic url="../figures/T/T47p0527_03.gif"></graphic></figure></p><p xml:id="pT47p0527a2518" cb:place="inline">偈
-<lb n="0527a26" ed="T"/>曰。焰裡寒氷結。楊華九月飛。泥牛吼水面。木
-<lb n="0527a27" ed="T"/>馬逐風嘶。</p><p xml:id="pT47p0527a2705" cb:place="inline">○</p><p xml:id="pT47p0527a2707" cb:place="inline">偈曰。王宮初降日。玉兔不能離。
-<lb n="0527a28" ed="T"/>未得無功旨。人天何太遲。</p><p xml:id="pT47p0527a2811" cb:place="inline">●</p><p xml:id="pT47p0527a2813" cb:place="inline">偈曰。混然藏理
-<lb n="0527a29" ed="T"/>事。眹兆卒難明。威音王未曉。彌勒豈惺惺<anchor xml:id="nkr_note_orig_0527001" n="0527001"/>
+<lb n="0527a01" ed="T"/>invited him to open the Dharma. The Master admired the Sixth Patriarch and therefore named the mountain Cao. Soon
+<lb n="0527a02" ed="T"/>there was bandit unrest, so he went to Yihuang. A faithful layman, Wang Ruoyi, donated He Wang Monastery
+<lb n="0527a03" ed="T"/>and invited the Master to reside as abbot. The Master renamed He Wang as Heyu. Thus the Dharma seat greatly flourished.
+<lb n="0527a04" ed="T"/>Students gathered like clouds. The Dongshan lineage reached its height with the Master.</p>
+<lb n="0527a05" ed="T"/><p xml:id="pT47p0527a0501">A monk once asked about the essential formula of the Five Ranks of Lord and Minister. The Master said, “The proper rank is the realm of emptiness,
+<lb n="0527a06" ed="T"/>originally without a single thing. The partial rank is the realm of form, with the forms of myriad phenomena. ‘The partial within the proper’
+<lb n="0527a07" ed="T"/>means turning one’s back on principle and entering into phenomena. ‘The proper within the partial’ means leaving phenomena and entering into principle. ‘The concurrently inclusive’
+<lb n="0527a08" ed="T"/>means responding mysteriously to all conditions, not falling into any existence, neither defiled nor pure,
+<lb n="0527a09" ed="T"/>neither proper nor partial. Therefore it is said: The vast, mysterious great Way is the unattached true lineage. Since ancient times the former worthies have regarded this rank as the most wondrous
+<lb n="0527a10" ed="T"/>and most mysterious. One must examine and discern it carefully. The lord is the proper rank; the minister is the partial rank. When the minister approaches
+<lb n="0527a11" ed="T"/>the lord, this is the partial within the proper. When the lord regards the minister, this is the proper within the partial. When lord and minister accord in the Way, this
+<lb n="0527a12" ed="T"/>is the language of concurrent inclusion.” The monk asked, “What is the lord?” The Master said, “Wondrous virtue honors the universe,
+<lb n="0527a13" ed="T"/>lofty and bright, illuminating the great void.” He asked, “What is the minister?” The Master said, “Spiritual function broadens the sage’s Way,
+<lb n="0527a14" ed="T"/>true wisdom benefits all beings.” He asked, “What is the minister approaching the lord?” The Master said, “Not falling into various
+<lb n="0527a15" ed="T"/>different destinies, fixing one’s feeling in gazing upon the sacred countenance.” He asked, “What is the lord regarding the minister?” The Master said, “Though the wondrous
+<lb n="0527a16" ed="T"/>countenance does not move, its light illumines without bias.” He asked, “What is the accord of lord and minister?” The Master said, “Merged without inside or outside,
+<lb n="0527a17" ed="T"/>harmoniously level above and below.” The Master also said, “In speaking of lord and minister, partial and proper,
+<lb n="0527a18" ed="T"/>it is so as not to violate the middle. Therefore the minister refers to the lord and does not dare to speak his name directly.
+<lb n="0527a19" ed="T"/>This is the essential of my Dharma lineage.” He then composed a verse: “Students must first recognize their own
+<lb n="0527a20" ed="T"/>lineage. Do not mix the true limit with stubborn emptiness. When the wondrous bright essence is fully known, it may cause harm upon contact; strength lies
+<lb n="0527a21" ed="T"/>in meeting conditions without borrowing the middle. Speech should be such that even fire cannot burn it; in hidden conduct one must accord with the ancients.
+<lb n="0527a22" ed="T"/>Without body yet having affairs, one transcends the forked roads; without affairs and without body, one falls into beginning and end.” He further
+<lb n="0527a23" ed="T"/>made the Five Images.</p><p xml:id="pT47p0527a2304" cb:place="inline"><figure><graphic url="../figures/T/T47p0527_01.gif"></graphic></figure></p><p xml:id="pT47p0527a2306" cb:place="inline">The verse says: “One in white robes must bow to the prime minister—this is not strange.
+<lb n="0527a24" ed="T"/>Those of accumulated generations of caps and tassels should not speak of times of downfall.”</p><p xml:id="pT47p0527a2410" cb:place="inline"><figure><graphic url="../figures/T/T47p0527_02.gif"></graphic></figure></p><p xml:id="pT47p0527a2412" cb:place="inline">The verse says: “At the hour of the Rat one stands in the proper rank.
+<lb n="0527a25" ed="T"/>The bright proper is within lord and minister. Not yet leaving the Tusita realm, a black rooster walks upon the snow.”</p><p xml:id="pT47p0527a2516" cb:place="inline"><figure><graphic url="../figures/T/T47p0527_03.gif"></graphic></figure></p><p xml:id="pT47p0527a2518" cb:place="inline">The verse
+<lb n="0527a26" ed="T"/>says: “Within flames cold ice forms; in the ninth month willow catkins fly. A clay ox bellows upon the water’s surface; a wooden
+<lb n="0527a27" ed="T"/>horse neighs chasing the wind.”</p><p xml:id="pT47p0527a2705" cb:place="inline">○</p><p xml:id="pT47p0527a2707" cb:place="inline">The verse says: “On the day of first descent into the royal palace, the jade hare cannot depart.
+<lb n="0527a28" ed="T"/>Without attaining the meaning of non-action, why are humans and gods so slow?”</p><p xml:id="pT47p0527a2811" cb:place="inline">●</p><p xml:id="pT47p0527a2813" cb:place="inline">The verse says: “Mingled and thus concealing principle
+<lb n="0527a29" ed="T"/>and phenomena, the subtle signs are suddenly hard to discern. King Weiyin has not yet understood; how could Maitreya be fully awake?”<anchor xml:id="nkr_note_orig_0527001" n="0527001"/>
 <pb n="0527b" xml:id="T47.1987A.0527b" ed="T"/>
-<lb n="0527b01" ed="T"/></p><p xml:id="pT47p0527b0101" cb:place="inline">師行脚時。問烏石觀禪師。如何是毘盧師法
-<lb n="0527b02" ed="T"/>身主。烏石曰。我若向爾道即別有也。師舉似
-<lb n="0527b03" ed="T"/>洞山。山曰。好箇話頭秖欠進語。何不問為甚
-<lb n="0527b04" ed="T"/>麼不道。師却去進前語。烏石曰。若言我不道。
-<lb n="0527b05" ed="T"/>即瘂却我口。若言我道。即謇却我舌。師歸舉
-<lb n="0527b06" ed="T"/>似洞山。山曰古佛<anchor xml:id="nkr_note_orig_0527002" n="0527002"/>。</p>
-<lb n="0527b07" ed="T"/><p xml:id="pT47p0527b0701">雲門問。如何是沙門行。師曰。喫常住苗稼者
-<lb n="0527b08" ed="T"/>是。門云。便恁麼去時如何。師曰。爾還畜得
-<lb n="0527b09" ed="T"/>麼。門云畜得。師曰。爾作麼生畜。門云。著衣
-<lb n="0527b10" ed="T"/>喫飯有甚麼難。師曰。何不道披毛戴角。門便
-<lb n="0527b11" ed="T"/>禮拜。</p>
-<lb n="0527b12" ed="T"/><p xml:id="pT47p0527b1201">師示眾曰。諸方盡把格則。何不與他道一轉
-<lb n="0527b13" ed="T"/>語令他不疑去。雲門在眾出問。密密處為甚
-<lb n="0527b14" ed="T"/>麼不知有。師曰。只為密密所以不知有。門云。
-<lb n="0527b15" ed="T"/>此人如何親近。師曰。莫向密密處親近。門云。
-<lb n="0527b16" ed="T"/>不向密密處時如何。師曰。始解親近。門云諾
-<lb n="0527b17" ed="T"/>諾。又問。不改易底人來。師還接不。師曰。曹
-<lb n="0527b18" ed="T"/>山無恁麼閑工夫。</p>
-<lb n="0527b19" ed="T"/><p xml:id="pT47p0527b1901">因米和尚至。未相見。米遂坐却禪床。師更不
-<lb n="0527b20" ed="T"/>出。米便去。主事遂問。和尚禪床為什麼被別
-<lb n="0527b21" ed="T"/>人坐却。師曰。去後却還來。米果回與師相
-<lb n="0527b22" ed="T"/>見。</p>
-<lb n="0527b23" ed="T"/><p xml:id="pT47p0527b2301">智炬到參問云。古人提持那邊人。學人如何
-<lb n="0527b24" ed="T"/>體悉。師曰。退步就己萬不失一。炬於言下頓
-<lb n="0527b25" ed="T"/>忘玄解。</p>
-<lb n="0527b26" ed="T"/><p xml:id="pT47p0527b2601">金峯志至。師問曰。作甚麼來。志曰。蓋屋來。
-<lb n="0527b27" ed="T"/>師曰。了也未。志云。這邊則了。師曰。那邊事
-<lb n="0527b28" ed="T"/>作麼生。志云。候下工日向和尚。師曰。如是如
-<lb n="0527b29" ed="T"/>是。</p>
+<lb n="0527b01" ed="T"/></p><p xml:id="pT47p0527b0101" cb:place="inline">When the Master was traveling, he asked Chan Master Guanshi of Wushi, “What is the Dharma-body Lord of Vairocana?”
+<lb n="0527b02" ed="T"/>Wushi said, “If I were to tell you, there would then be something separate.” The Master reported this to
+<lb n="0527b03" ed="T"/>Dongshan. Dongshan said, “A good topic, only lacking a further word. Why not ask why he does not speak?”
+<lb n="0527b04" ed="T"/>The Master then went back and advanced the question. Wushi said, “If I say I do not speak,
+<lb n="0527b05" ed="T"/>that would make me mute. If I say I speak, that would make me stammer.” The Master returned and reported this to
+<lb n="0527b06" ed="T"/>Dongshan. Dongshan said, “Ancient Buddha”<anchor xml:id="nkr_note_orig_0527002" n="0527002"/>。</p>
+<lb n="0527b07" ed="T"/><p xml:id="pT47p0527b0701">Yunmen asked, “What is the conduct of a śramaṇa?” The Master said, “One who eats the crops of the monastery
+<lb n="0527b08" ed="T"/>is.” Yunmen said, “If one goes on like this, what then?” The Master said, “Can you sustain it?”
+<lb n="0527b09" ed="T"/>Yunmen said, “I can.” The Master said, “How do you sustain it?” Yunmen said, “Putting on clothes
+<lb n="0527b10" ed="T"/>and eating food—what difficulty is there?” The Master said, “Why not say wearing fur and horns?”
+<lb n="0527b11" ed="T"/>Yunmen then bowed.</p>
+<lb n="0527b12" ed="T"/><p xml:id="pT47p0527b1201">The Master instructed the assembly, saying, “Everywhere they all cling to standards. Why not give them a turning word
+<lb n="0527b13" ed="T"/>so they leave without doubt?” Yunmen, among the assembly, came forth and asked, “In the most secret place, why is it that one does not know?”
+<lb n="0527b14" ed="T"/>The Master said, “Just because it is most secret, therefore one does not know.” Yunmen said,
+<lb n="0527b15" ed="T"/>“How does one draw near to this person?” The Master said, “Do not draw near in the most secret place.”
+<lb n="0527b16" ed="T"/>Yunmen said, “If not in the most secret place, then how?” The Master said, “Only then do you understand drawing near.”
+<lb n="0527b17" ed="T"/>Yunmen said, “Yes, yes.” He also asked, “If a person who does not change comes,
+<lb n="0527b18" ed="T"/>will you receive him?” The Master said, “Caoshan has no such idle time.”</p>
+<lb n="0527b19" ed="T"/><p xml:id="pT47p0527b1901">Because Master Mi arrived and had not yet met him, Mi then sat upon the Chan seat. The Master did not
+<lb n="0527b20" ed="T"/>come out. Mi then left. The steward asked,
+<lb n="0527b21" ed="T"/>“Why was the Master’s Chan seat taken by someone else?” The Master said, “After he leaves, he will return.”
+<lb n="0527b22" ed="T"/>Mi indeed came back and met the Master.</p>
+<lb n="0527b23" ed="T"/><p xml:id="pT47p0527b2301">Zhiju came to pay respects and asked, “The ancients upheld those of that side—how should students
+<lb n="0527b24" ed="T"/>comprehend this?” The Master said, “Step back and return to yourself; among ten thousand, you will not lose one.”
+<lb n="0527b25" ed="T"/>Upon hearing these words, Zhiju suddenly forgot his abstruse understanding.</p>
+<lb n="0527b26" ed="T"/><p xml:id="pT47p0527b2601">Jinfeng Zhi arrived. The Master asked, “What have you come for?” Zhi said, “To build a hut.”
+<lb n="0527b27" ed="T"/>The Master said, “Is it finished?” Zhi said, “On this side it is finished.”
+<lb n="0527b28" ed="T"/>The Master said, “What about the matter on that side?” Zhi said, “When the day’s work is done, I will come to the Master.”
+<lb n="0527b29" ed="T"/>The Master said, “So it is, so it is.”</p>
 <pb n="0527c" xml:id="T47.1987A.0527c" ed="T"/>
 <lb n="0527c01" ed="T"/><p xml:id="pT47p0527c0101">僧清銳問。某甲孤貧。請師拯濟。師曰。銳闍黎
 <lb n="0527c02" ed="T"/>近前來。銳近前。師曰。泉州白家三盞酒。喫後
