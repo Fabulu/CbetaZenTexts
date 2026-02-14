@@ -23,7 +23,7 @@ Some files are being translated into English.
 At the time of writing:
 
 T 1987A — The Record of Caoshan
-Location: xml-p5T/T/T47/T47n1987A.xml
+Location: xml-p5t/T/T47/T47n1987A.xml
 
 Translated files preserve the full original CBETA header.
 
@@ -52,7 +52,7 @@ If you reuse or redistribute files from this repository, you must preserve the f
 
 # About the Translations
 
-English translations contained in xml-p5T are collaborative derivative works based on CBETA’s XML.
+English translations contained in xml-p5t are collaborative derivative works based on CBETA’s XML.
 
 They are distributed under the same non-commercial condition as the original CBETA texts.
 
