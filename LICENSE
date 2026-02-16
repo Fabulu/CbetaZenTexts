@@ -1,0 +1,60 @@
+CbetaZenTexts License Notice
+=============================
+
+This repository contains materials derived from the CBETA XML-P5 corpus.
+
+Original Source
+---------------
+
+The original XML texts are provided by:
+
+CBETA — Chinese Buddhist Electronic Text Association
+財團法人佛教電子佛典基金會
+
+The canonical source repository is:
+https://github.com/cbeta-org/xml-p5
+
+The files in the `xml-p5` directory are unmodified redistributions of CBETA XML files,
+with their original headers preserved.
+
+Non-Commercial Requirement
+--------------------------
+
+CBETA permits redistribution of its XML corpus for NON-COMMERCIAL use,
+provided that the original CBETA header remains intact in each file.
+
+This repository complies with that requirement.
+
+Accordingly:
+
+- The original CBETA texts remain the property of CBETA.
+- Redistribution must remain non-commercial.
+- The full CBETA header must not be removed or altered.
+- If you reuse or redistribute these files, you must preserve the CBETA header.
+
+Translations
+------------
+
+The English translations in `xml-p5t` are collaborative derivative works
+based on CBETA’s XML files.
+
+These translations are distributed under the same non-commercial condition
+as the original CBETA texts.
+
+This repository does not remove, override, or modify CBETA’s licensing terms.
+
+No Additional Commercial License Granted
+----------------------------------------
+
+This repository does not grant any commercial rights to CBETA content.
+
+If you wish to use CBETA materials commercially, you must contact CBETA directly.
+
+Disclaimer
+----------
+
+This repository is an independent collaborative effort.
+It is not an official CBETA publication.
+
+If CBETA has concerns regarding redistribution, attribution, or presentation,
+the repository maintainers will comply with their requirements.
