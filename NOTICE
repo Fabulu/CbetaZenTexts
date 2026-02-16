@@ -1,0 +1,48 @@
+NOTICE
+======
+
+This repository redistributes XML materials from the CBETA project.
+
+Original Source
+---------------
+
+CBETA — Chinese Buddhist Electronic Text Association
+財團法人佛教電子佛典基金會
+
+Official repository:
+https://github.com/cbeta-org/xml-p5
+
+The files contained in the `xml-p5` directory are unmodified redistributions
+of CBETA XML TEI P5 files. All original CBETA headers are preserved.
+
+License and Usage Condition
+---------------------------
+
+CBETA permits redistribution of its XML corpus for NON-COMMERCIAL use,
+provided that the full CBETA header remains intact in each file.
+
+This repository complies with that requirement.
+
+All users of this repository must:
+
+- Preserve the original CBETA headers in every file
+- Maintain non-commercial use of the CBETA materials
+- Respect CBETA’s ownership of the original texts
+
+Translations
+------------
+
+The English translations in the `xml-p5t` directory are collaborative
+derivative works based on CBETA XML files.
+
+They are distributed under the same non-commercial condition
+as the original CBETA materials.
+
+Independence
+------------
+
+This project is an independent translation effort and is not an official
+CBETA publication.
+
+If CBETA requests changes regarding attribution or redistribution,
+the repository maintainers will comply accordingly.
