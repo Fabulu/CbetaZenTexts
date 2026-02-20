@@ -1,0 +1,36 @@
+# ============================================================
+# CbetaZenTexts – Local application artifacts (CBETA Translator)
+# ============================================================
+
+# --- Local markdown working copies (never commit these) ---
+md-p5t/
+
+# --- All index-related files (search + debug + caches) ---
+# Anything containing "index" in filename
+*index*
+
+# Explicitly listed (for clarity)
+index.cache.json
+index.debug.log
+search.index.bin
+search.index.bin.tmp
+
+# --- Generic cache / temp artifacts ---
+*.tmp
+*.temp
+*.log
+*.cache
+
+# --- OS junk ---
+.DS_Store
+Thumbs.db
+
+# --- Editor junk ---
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# --- Build / runtime junk ---
+bin/
+obj/
