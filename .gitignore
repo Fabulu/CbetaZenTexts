@@ -20,6 +20,7 @@ search.index.bin.tmp
 *.temp
 *.log
 *.cache
+*.bak
 
 # --- OS junk ---
 .DS_Store
