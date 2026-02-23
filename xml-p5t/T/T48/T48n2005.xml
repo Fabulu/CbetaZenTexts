@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <?xml-model href="https://raw.githubusercontent.com/cbeta-org/xml-p5/master/schema/cbeta-p5.rnc" type="application/relax-ng-compact-syntax"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:cb="http://www.cbeta.org/ns/1.0" xml:id="T48n2005">
 <teiHeader>
@@ -55,9 +55,9 @@
 			<namespace name="http://www.tei-c.org/ns/1.0">
 				<tagUsage gi="rdg">
 					<listWit>
-						<witness xml:id="wit.cbeta">【CB】</witness>
-						<witness xml:id="wit.orig">【大】</witness>
-						<witness xml:id="wit1">【甲】</witness>
+						<witness xml:id="wit.cbeta">[CB]</witness>
+						<witness xml:id="wit.orig">[大]</witness>
+						<witness xml:id="wit1">[甲]</witness>
 					</listWit>
 				</tagUsage>
 			</namespace>
@@ -135,7 +135,7 @@
 	</profileDesc>
 	<revisionDesc>
 		<change when="2013-05-20">
-			<name>CW</name><name>Ray Chou 周邦信</name>P4 to P5 conversion by p4top5a.py, intended for publication
+			<name>CW</name><name>Ray Chou Zhou Bangxin</name>P4 to P5 conversion by p4top5a.py, intended for publication
 		</change>
 		<change when="2000-09-14T11:10:21">
 			CW (ed.) Created initial TEI XML version with BASICX.BAT (00/01/24)
@@ -143,743 +143,1089 @@
 	</revisionDesc>
 </teiHeader>
 <text><body>
-<milestone n="1" unit="juan"/>
-<note type="community" resp="dota2nub">Machine Translation using ChatGPT</note><lb n="0292a23" ed="T"/>
-<lb n="0292a24" ed="T"/><cb:docNumber>No. 2005</cb:docNumber>
-<lb n="0292a25" ed="T"/><cb:div type="xu"><cb:mulu level="1" type="序">The Gateless Barrier of the Chan School</cb:mulu><head><anchor xml:id="nkr_note_orig_0292001" n="0292001"/>The Gateless Barrier of the Chan School</head>
-<lb n="0292a26" ed="T"/>
-<lb n="0292a27" ed="T"/><p xml:id="pT48p0292a2701">If one says there is no gate, all people on the great earth can enter. If one says there is a gate, there is no share for the Master.
-<lb n="0292a28" ed="T"/>First, forcibly adding a few footnotes is like putting a hat on top of a hat. Insisting on
-<lb n="0292a29" ed="T"/>having Old Xi offer praise is again like squeezing juice from dry bamboo. If such noisy editions are produced, they will not
-<pb n="0292b" xml:id="T48.2005.0292b" ed="T"/>
-<lb n="0292b01" ed="T"/>require Old Xi to make a single throw. With one throw, do not let a single drop fall into rivers and lakes. For a thousand li the black
-<lb n="0292b02" ed="T"/>steed cannot catch up. In the first year of Shaoding, at the end of the seventh month, written by Chen <g ref="#CB05553">𡎖</g> of Xi’an Hermitage.</p>
-<lb n="0292b03" ed="T"/><p xml:id="pT48p0292b0301">On the fifth day of the first month of the second year of Shaoding, respectfully encountering the Sacred Festival of Heavenly Foundation, your servant monk
-<lb n="0292b04" ed="T"/>Huikai, earlier on the fifth day of the twelfth month of the first year, printed and circulated forty-eight cases of raising the circumstances of the Buddhas and patriarchs,
-<lb n="0292b05" ed="T"/>praying for the present Emperor’s sacred person to live ten thousand years, ten thousand years,
-<lb n="0292b06" ed="T"/>ten thousand times ten thousand years. Your Majesty the Emperor, I respectfully wish that your sagely brightness equal the sun and moon, and your wise span equal
-<lb n="0292b07" ed="T"/>heaven and earth. In the eight directions they sing of a ruler who possesses the Way; throughout the four seas they rejoice in the transforming power of non-action.</p>
-<lb n="0292b08" ed="T"/><p xml:id="pT48p0292b0801">For the merit and recompense of the Compassionate and Virtuous Empress<anchor xml:id="nkr_note_orig_0292002" n="0292002"/><anchor xml:id="nkr_note_mod_0292002" n="0292002"/><anchor xml:id="beg0292002" n="0292002"/>cause<anchor xml:id="end0292002"/> of Youci Chan Monastery, former abbot who transmitted the Dharma,
-<lb n="0292b09" ed="T"/>your servant monk Huikai respectfully states</p></cb:div>
-<lb n="0292b10" ed="T"/>
-<lb n="0292b11" ed="T"/><cb:div type="xu"><cb:mulu level="1" type="序">The Gateless Barrier of the Chan School</cb:mulu><head>The Gateless Barrier of the Chan School</head>
-<lb n="0292b12" ed="T"/><p xml:id="pT48p0292b1201">The Buddha’s words take mind as the school; no-gate is the Dharma-gate. Since it is no gate, how
-<lb n="0292b13" ed="T"/>does one pass through? Have you not seen it said: what enters by a gate is not the family treasure; what is gained through conditions
-<lb n="0292b14" ed="T"/>begins and ends in success and decay. To speak in this way is very much like raising waves where there is no wind, or cutting good flesh
-<lb n="0292b15" ed="T"/>to make a wound. Moreover, clinging to words and phrases, seeking understanding and interpretation, striking at the moon with a stick,
-<lb n="0292b16" ed="T"/>scratching an itch through a boot—what connection is there? In the summer of the wuzi year of Shaoding, Huikai, while leading the assembly at Dongjia Longxiang,
-<lb n="0292b17" ed="T"/>because students requested instruction, took the ancient masters’ public cases and made them tiles for knocking at the gate,
-<lb n="0292b18" ed="T"/>guiding students according to circumstances. In the end they were copied down and, without realizing it, formed a collection. At first
-<lb n="0292b19" ed="T"/>they were not arranged in order of before and after; together they became forty-eight cases, collectively called The Gateless Barrier.
-<lb n="0292b20" ed="T"/>If there is a fellow who does not care for danger or death, and with a single blade goes straight in, even eight-armed Nezha
-<lb n="0292b21" ed="T"/>cannot hold him back. Even if it be the twenty-eight patriarchs of the West and the six patriarchs of the East, they can only stand watching the wind
-<lb n="0292b22" ed="T"/>and beg for their lives. But if one hesitates, it is like watching a horseman through a window; <anchor xml:id="nkr_note_add_0292b2201" n="0292b2201"/><anchor xml:id="beg0292b2201" n="0292b2201"/>when<anchor xml:id="end0292b2201"/> you blink your eyes,
-<lb n="0292b23" ed="T"/>it is already missed. The verse says:</p>
-<lb n="0292b24" ed="T"/><lg xml:id="lgT48p0292b2401" style="margin-left:1em"><l>The great Way has no gate<caesura style="text-indent:1em;"/>a thousand differences have roads<caesura style="text-indent:1em;"/>if you pass through this barrier<caesura style="text-indent:1em;"/>heaven and earth
-<lb n="0292b25" ed="T"/>you walk alone</l></lg></cb:div>
-<lb n="0292b26" ed="T"/><cb:div type="other"><p xml:id="pT48p0292b2601" style="margin-left:2em">The circumstances of the Buddhas and patriarchs
-<lb n="0292b27" ed="T"/>Forty-eight cases</p>
-<lb n="0292b28" ed="T"/><cb:mulu level="1" type="其他">Table of Contents</cb:mulu><head>Table of Contents</head>
-<lb n="0292b29" ed="T"/><p xml:id="pT48p0292b2901" style="margin-left:1em">Zhaozhou’s Dog　Baizhang’s Wild Fox　Juzhi Raises a Finger</p>
-<pb n="0292c" xml:id="T48.2005.0292c" ed="T"/>
-<lb n="0292c01" ed="T"/><p xml:id="pT48p0292c0101" style="margin-left:1em">The Bearded Man Has No Beard　Xiangyan Up in a Tree　The World-Honored One Holds Up a Flower</p>
-<lb n="0292c02" ed="T"/><p xml:id="pT48p0292c0201" style="margin-left:1em">Zhaozhou Washes His Bowl　Xi Zhong Makes a Cart　Datong Zhisheng</p>
-<lb n="0292c03" ed="T"/><p xml:id="pT48p0292c0301" style="margin-left:1em">Qingshui’s Solitary Poverty　Zhou Examines the Hermit　Yan Calls the Master</p>
-<lb n="0292c04" ed="T"/><p xml:id="pT48p0292c0401" style="margin-left:1em">Deshan Carries His Bowl　Nanquan Cuts the Cat　Dongshan’s Three Blows</p>
-<lb n="0292c05" ed="T"/><p xml:id="pT48p0292c0501" style="margin-left:1em">The Bell Sounds Seven Strips　The National Teacher’s Three Calls　Dongshan’s Three Pounds</p>
-<lb n="0292c06" ed="T"/><p xml:id="pT48p0292c0601" style="margin-left:1em">Ordinary Mind Is the Way　The Man of Great Strength　Yunmen’s Dried Dung Stick</p>
-<lb n="0292c07" ed="T"/><p xml:id="pT48p0292c0701" style="margin-left:1em">Kāśyapa’s Flagpole　Not Thinking Good or Evil　Leaving Aside Words</p>
-<lb n="0292c08" ed="T"/><p xml:id="pT48p0292c0801" style="margin-left:1em">Three Seats Preach the Dharma　Two Monks Roll Up the Blinds　Not Mind, Not Buddha</p>
-<lb n="0292c09" ed="T"/><p xml:id="pT48p0292c0901" style="margin-left:1em">Long Resounding at Longtan　Not Wind, Not Banner　This Mind Is Buddha</p>
-<lb n="0292c10" ed="T"/><p xml:id="pT48p0292c1001" style="margin-left:1em">Zhaozhou Examines the Old Woman　An Outsider Questions the Buddha　Not Mind, Not Buddha</p>
-<lb n="0292c11" ed="T"/><p xml:id="pT48p0292c1101" style="margin-left:1em">Wisdom Is Not the Way　The Maiden’s Soul Departs　Meeting the Man of the Way on the Road</p>
-<lb n="0292c12" ed="T"/><p xml:id="pT48p0292c1201" style="margin-left:1em">The Cypress Tree in the Courtyard　The Ox Passes Through the Window Lattice　Yunmen’s Words Fall</p>
-<lb n="0292c13" ed="T"/><p xml:id="pT48p0292c1301" style="margin-left:1em">Kicking Over the Purification Vase　Bodhidharma Calms the Mind　The Woman Leaves Meditation</p>
-<lb n="0292c14" ed="T"/><p xml:id="pT48p0292c1401" style="margin-left:1em">Shoushan’s Bamboo Comb　Bajiao’s Staff　Who Is He?</p>
-<lb n="0292c15" ed="T"/><p xml:id="pT48p0292c1501" style="margin-left:1em">Advancing a Step from the Top of a Pole　The Three Barriers of Tushita　Qianfeng’s Single Road</p>
-<lb n="0292c16" ed="T"/><p xml:id="pT48p0292c1601">Table of Contents<note place="inline">End</note></p></cb:div>
-<lb n="0292c17" ed="T"/>
-<lb n="0292c18" ed="T"/>
-<lb n="0292c19" ed="T"/><cb:juan n="001" fun="open"><cb:mulu n="1" type="卷"></cb:mulu><cb:jhead>The Gateless Barrier</cb:jhead></cb:juan>
-<lb n="0292c20" ed="T"/>
-<lb n="0292c21" ed="T"/><byline cb:type="Editor">Compiled by the studying monk Miyuan Zongshao</byline>
-<lb n="0292c22" ed="T"/><cb:div type="other"><cb:mulu level="1" type="其他">Zhaozhou’s Dog</cb:mulu><head>Zhaozhou’s Dog</head>
-<lb n="0292c23" ed="T"/><p xml:id="pT48p0292c2301">Because a monk asked Master Zhaozhou, “Does a dog have Buddha-nature or not?” Zhou said,
-<lb n="0292c24" ed="T"/>“No.”</p>
-<lb n="0292c25" ed="T"/><p xml:id="pT48p0292c2501" style="margin-left:1em">Wumen said: To study Chan one must pass through the barrier of the patriarchs. For wondrous awakening one must exhaust the road of the mind
-<lb n="0292c26" ed="T"/>and cut it off. If the patriarchs’ barrier is not passed, and the road of mind is not cut off, one is entirely a spirit clinging to grass and attached to trees.
-<lb n="0292c27" ed="T"/>Now tell me, what is the patriarchs’ barrier? It is just this single word “No.” This
-<lb n="0292c28" ed="T"/>is the one barrier of the Chan school. Therefore it is called The Gateless Barrier of the Chan School. Those who pass through it
-<lb n="0292c29" ed="T"/>not only personally see Zhaozhou, but can also, together with the successive patriarchs, grasp
-<pb n="0293a" xml:id="T48.2005.0293a" ed="T"/>
-<lb n="0293a01" ed="T"/>hands and walk together. Eyebrows entwined together. See with the same eye. Hear with the same ear. Is this not
-<lb n="0293a02" ed="T"/>a joyful celebration? If there is one who wishes to pass through the barrier, then take the three hundred sixty joints
-<lb n="0293a03" ed="T"/>and the eighty-four thousand pores, and throughout the whole body raise up a single mass of doubt. Investigate the single word “No.”
-<lb n="0293a04" ed="T"/>Bring it up day and night. Do not make a nihilistic understanding. Do not make an understanding of being or non-being. It is like swallowing
-<lb n="0293a05" ed="T"/>a red-hot iron ball—you try to vomit it out but cannot. Sweep away all previous evil knowledge
-<lb n="0293a06" ed="T"/>and evil understanding. After a long time it becomes pure and ripe; naturally inside and outside merge into one piece, like
-<lb n="0293a07" ed="T"/>a mute person who has had a dream—he alone knows. Suddenly it bursts forth, astonishing heaven and shaking earth.
-<lb n="0293a08" ed="T"/>It is like seizing General Guan’s great sword in your hand. Meeting a Buddha, you kill the Buddha; meeting a patriarch,
-<lb n="0293a09" ed="T"/>you kill the patriarch. On the brink of birth and death you attain great freedom. Within the six realms and four modes of birth
-<lb n="0293a10" ed="T"/>you roam in samādhi. But how do you bring it up? Exhaust the strength of your whole life.
-<lb n="0293a11" ed="T"/>Raise the single word “No.” If it does not break off, it is like a Dharma candle—once lit, it catches fire.</p>
-<lb n="0293a12" ed="T"/><p xml:id="pT48p0293a1201" style="margin-left:2em">The verse says:</p>
-<lb n="0293a13" ed="T"/><lg type="regular" xml:id="lgT48p0293a1301"><l>The dog’s Buddha-nature<caesura/>fully brings forth the true command<caesura/>just as you touch being or non-being</l>
-<lb n="0293a14" ed="T"/><l>you lose body and lose life</l></lg></cb:div>
-<lb n="0293a15" ed="T"/><cb:div type="other"><cb:mulu level="1" type="其他">Baizhang’s Wild Fox</cb:mulu><head>Baizhang’s Wild Fox</head>
-<lb n="0293a16" ed="T"/><p xml:id="pT48p0293a1601">Whenever Master Baizhang was giving instruction, there was an old man who always followed the assembly to listen to the Dharma. When the assembly
-<lb n="0293a17" ed="T"/>withdrew, the old man also withdrew. Suddenly one day he did not withdraw. The master then asked, “Who is it standing before me?”
-<lb n="0293a18" ed="T"/>The old man said, “Yes, I am not a human being. In the past, at the time of Kāśyapa Buddha,
-<lb n="0293a19" ed="T"/>I once lived on this mountain. Because a student asked, ‘Does a greatly practicing person
-<lb n="0293a20" ed="T"/>fall into cause and effect or not?’ I replied, ‘He does not fall into cause and effect.’ For five hundred lifetimes
-<lb n="0293a21" ed="T"/>I fell into the body of a wild fox. Now I ask the Master to turn a phrase on my behalf so that I may
-<lb n="0293a22" ed="T"/>be freed from the wild fox.” Then he asked, “Does a greatly practicing person fall into cause and effect or not?”
-<lb n="0293a23" ed="T"/>The master said, “He is not blind to cause and effect.” At these words the old man had great awakening. He made a bow and said, “I have now been freed from the wild fox
-<lb n="0293a24" ed="T"/>body. I dwell behind the mountain. I dare to inform the Master and request that I be dealt with according to the example of a deceased monk.”
-<lb n="0293a25" ed="T"/>The master ordered<anchor xml:id="nkr_note_add_0293a2501" n="0293a2501"/><anchor xml:id="beg0293a2501" n="0293a2501"/><space quantity="0"/><anchor xml:id="end0293a2501"/> the head monk to strike the gavel and inform the assembly that after the meal they would send off a deceased monk. The great assembly discussed it.
-<lb n="0293a26" ed="T"/>All were at ease in the nirvana hall, and no one was ill. Why was it so? After the meal
-<lb n="0293a27" ed="T"/>they only saw the master lead the assembly to the foot of a cliff behind the mountain, where with his staff he picked out a dead wild
-<lb n="0293a28" ed="T"/>fox and then cremated it according to the rite. In the evening the master ascended the hall and brought up the previous story. Huangbo then
-<lb n="0293a29" ed="T"/>asked, “The man of old made a wrong reply by turning a phrase and fell into the body of a wild fox for five hundred lifetimes.
-<pb n="0293b" xml:id="T48.2005.0293b" ed="T"/>
-<lb n="0293b01" ed="T"/>If he does not make a wrong reply, what would it be?” The master said, “Come nearer and I will tell you.”
-<lb n="0293b02" ed="T"/>Huangbo then stepped forward and slapped the master. The master clapped his hands and laughed, saying, “I thought the barbarian’s beard was red,
-<lb n="0293b03" ed="T"/>but there is also a red-bearded barbarian.”</p>
-<lb n="0293b04" ed="T"/><p xml:id="pT48p0293b0401" style="margin-left:1em">Wumen said: “Not falling into cause and effect”—why then did he fall into a wild fox? “Not blind to cause and effect”—
-<lb n="0293b05" ed="T"/>why then was he freed from the wild fox? If here you are able to place a single eye,
-<lb n="0293b06" ed="T"/>then you will know that the former Baizhang gained the graceful five hundred lifetimes.</p>
-<lb n="0293b07" ed="T"/><p xml:id="pT48p0293b0701" style="margin-left:2em">The verse says:</p>
-<lb n="0293b08" ed="T"/><lg type="regular" xml:id="lgT48p0293b0801"><l>Not falling, not blind<caesura/>two sides, one contest<caesura/>not blind, not falling</l>
-<lb n="0293b09" ed="T"/><l>a thousand mistakes, ten thousand mistakes</l></lg></cb:div>
-<lb n="0293b10" ed="T"/><cb:div type="other"><cb:mulu level="1" type="其他">Juzhi Raises a Finger</cb:mulu><head>Juzhi Raises a Finger</head>
-<lb n="0293b11" ed="T"/><p xml:id="pT48p0293b1101">Whenever Master Juzhi was questioned, he only raised one finger. Later a boy attendant, because
-<lb n="0293b12" ed="T"/>an outsider asked, “What essential Dharma does the Master teach?” also raised his finger. When Juzhi heard of it,
-<lb n="0293b13" ed="T"/>he took a knife and cut off the boy’s finger. The boy, bearing the pain, ran away crying. Juzhi again called
-<lb n="0293b14" ed="T"/>him. The boy turned his head. Juzhi then raised his finger. The boy suddenly had realization. When Juzhi
-<lb n="0293b15" ed="T"/>was about to pass away, he told the assembly, “I obtained Tianlong’s one-finger Chan. In a lifetime I have used it up
-<lb n="0293b16" ed="T"/>without exhausting it.” Having spoken these words, he manifested extinction.</p>
-<lb n="0293b17" ed="T"/><p xml:id="pT48p0293b1701" style="margin-left:1em">Wumen said: The place of awakening of Juzhi and the boy was not on the finger. If
-<lb n="0293b18" ed="T"/>you can see here, Tianlong together with Juzhi and the boy
-<lb n="0293b19" ed="T"/>are pierced through on one string with yourself.</p>
-<lb n="0293b20" ed="T"/><p xml:id="pT48p0293b2001" style="margin-left:2em">The verse says:</p>
-<lb n="0293b21" ed="T"/><lg type="regular" xml:id="lgT48p0293b2101"><l>Juzhi bluntly set down old Tianlong<caesura/>with a sharp blade he singly tested the little boy</l>
-<lb n="0293b22" ed="T"/><l>Great Spirit lifts his hand without much effort<caesura/>splitting Mount Hua into ten thousand layers</l></lg></cb:div>
-<lb n="0293b23" ed="T"/><cb:div type="other"><cb:mulu level="1" type="其他">The Bearded Man Has No Beard</cb:mulu><head>The Bearded Man Has No Beard</head>
-<lb n="0293b24" ed="T"/><p xml:id="pT48p0293b2401">Huian said, “The barbarian of the Western Heaven—why does he have no beard?”</p>
-<lb n="0293b25" ed="T"/><p xml:id="pT48p0293b2501" style="margin-left:1em">Wumen said: Investigation must be genuine investigation; awakening must be genuine awakening. This barbarian
-<lb n="0293b26" ed="T"/>must be personally seen once to be understood. To speak of personally seeing already becomes two.</p>
-<lb n="0293b27" ed="T"/><p xml:id="pT48p0293b2701" style="margin-left:2em">The verse says:</p>
-<lb n="0293b28" ed="T"/><lg type="regular" xml:id="lgT48p0293b2801"><l>Before a fool<caesura/>one cannot speak of a dream<caesura/>the bearded man has no beard</l>
-<lb n="0293b29" ed="T"/><l>clear awareness only adds confusion</l></lg></cb:div>
-<pb n="0293c" xml:id="T48.2005.0293c" ed="T"/>
-<lb n="0293c01" ed="T"/><cb:div type="other"><cb:mulu level="1" type="其他">Xiangyan Up in a Tree</cb:mulu><head>Xiangyan Up in a Tree</head>
-<lb n="0293c02" ed="T"/><p xml:id="pT48p0293c0201">Master Xiangyan said: It is like a person up in a tree, with his mouth<g ref="#CB03340">啣</g> biting a branch, his hands not grasping the branch,
-<lb n="0293c03" ed="T"/>his feet not stepping on the tree. Someone below the tree asks about the meaning of the coming from the West. If he does not answer, he goes against what is asked;
-<lb n="0293c04" ed="T"/>if he answers, he loses body and life. At just such a time, how should one answer?</p>
-<lb n="0293c05" ed="T"/><p xml:id="pT48p0293c0501" style="margin-left:1em">Wumen said: Even if you have eloquence like a hanging river, it is entirely of no use. Even if you can expound the entire
-<lb n="0293c06" ed="T"/>Tripiṭaka teachings, it is also of no use. If here you can answer rightly, you bring to life the former dead roadhead,
-<lb n="0293c07" ed="T"/>and kill the former living roadhead. If it is not so,
-<lb n="0293c08" ed="T"/>wait straight until the future and ask Maitreya.</p>
-<lb n="0293c09" ed="T"/><p xml:id="pT48p0293c0901" style="margin-left:2em">The verse says:</p>
-<lb n="0293c10" ed="T"/><lg type="regular" xml:id="lgT48p0293c1001"><l>Xiangyan truly concocted it<caesura/>his viciousness has no limit</l>
-<lb n="0293c11" ed="T"/><l>He silenced the monks’ mouths<caesura/>and made ghost eyes burst forth over the whole body</l></lg></cb:div>
-<lb n="0293c12" ed="T"/><cb:div type="other"><cb:mulu level="1" type="其他">The World-Honored One Holds Up a Flower</cb:mulu><head>The World-Honored One Holds Up a Flower</head>
-<lb n="0293c13" ed="T"/><p xml:id="pT48p0293c1301">In the past, when the World-Honored One was at the assembly on Vulture Peak, he held up a flower and showed it to the assembly. At that time the assembly all remained silent;
-<lb n="0293c14" ed="T"/>only Venerable Kāśyapa broke into a slight smile. The World-Honored One said: I have the treasury of the true Dharma eye, the wondrous mind of nirvāṇa, the real form, the formless,
-<lb n="0293c15" ed="T"/>the subtle wondrous Dharma gate, not established on words and letters,
-<lb n="0293c16" ed="T"/>a separate transmission outside the teachings; I entrust it to Mahākāśyapa.</p>
-<lb n="0293c17" ed="T"/><p xml:id="pT48p0293c1701" style="margin-left:1em">Wumen said: Yellow-faced Gautama acted as if no one were there. He pressed the good down to make it base.
-<lb n="0293c18" ed="T"/>He hung up a sheep’s head and sold dog meat, thinking it was how wonderfully strange. If, at that time, the great
-<lb n="0293c19" ed="T"/>assembly had all laughed, how would the treasury of the true Dharma eye have been transmitted? Suppose Kāśyapa had not
-<lb n="0293c20" ed="T"/>smiled—how would the treasury of the true Dharma eye have been transmitted? If you say the treasury of the true Dharma eye
-<lb n="0293c21" ed="T"/>has transmission and entrustment, the yellow-faced old fellow deceived the townsfolk. If you say there is no transmission,
-<lb n="0293c22" ed="T"/>then why was it granted only to Kāśyapa?</p>
-<lb n="0293c23" ed="T"/><p xml:id="pT48p0293c2301" style="margin-left:2em">The verse says:</p>
-<lb n="0293c24" ed="T"/><lg type="regular" xml:id="lgT48p0293c2401"><l>When he held up the flower<caesura/>the tail was already exposed<caesura/>Kāśyapa broke into a smile</l>
-<lb n="0293c25" ed="T"/><l>humans and gods were at a loss</l></lg></cb:div>
-<lb n="0293c26" ed="T"/><cb:div type="other"><cb:mulu level="1" type="其他">Zhaozhou Washes His Bowl</cb:mulu><head>Zhaozhou Washes His Bowl</head>
-<lb n="0293c27" ed="T"/><p xml:id="pT48p0293c2701">Because a monk asked Zhaozhou, “I have just entered the monastery; I beg the Master for instruction.” Zhou said,
-<lb n="0293c28" ed="T"/>“Have you eaten your gruel?” The monk said, “I have eaten my gruel.” Zhou said, “Go wash your bowl.”
-<lb n="0293c29" ed="T"/>That monk had an awakening.</p>
-<pb n="0294a" xml:id="T48.2005.0294a" ed="T"/>
-<lb n="0294a01" ed="T"/><p xml:id="pT48p0294a0101" style="margin-left:1em">Wumen said: Zhaozhou opened his mouth and showed his gallbladder; he exposed his heart and liver. That monk heard
-<lb n="0294a02" ed="T"/>the matter not truly, and called a bell a jar.</p>
-<lb n="0294a03" ed="T"/><p xml:id="pT48p0294a0301" style="margin-left:2em">The verse says:</p>
-<lb n="0294a04" ed="T"/><lg type="regular" xml:id="lgT48p0294a0401"><l>Only because it was extremely clear<caesura/>it instead made what was gained come slowly</l>
-<lb n="0294a05" ed="T"/><l>If you had known early that the lamp is fire<caesura/>the rice has been cooked for a long time</l></lg></cb:div>
-<lb n="0294a06" ed="T"/><cb:div type="other"><cb:mulu level="1" type="其他">Xi Zhong Makes a Cart</cb:mulu><head>Xi Zhong Makes a Cart</head>
-<lb n="0294a07" ed="T"/><p xml:id="pT48p0294a0701">Master Yue’an asked a monk: Xi Zhong made a cart with a hundred spokes. Remove both ends,
-<lb n="0294a08" ed="T"/>take away the axle—what is made clear?</p>
-<lb n="0294a09" ed="T"/><p xml:id="pT48p0294a0901" style="margin-left:1em">Wumen said: If you can straightaway make it clear, your eyes are like shooting stars, your functioning like a flashing
-<lb n="0294a10" ed="T"/>bolt of lightning.</p>
-<lb n="0294a11" ed="T"/><p xml:id="pT48p0294a1101" style="margin-left:2em">The verse says:</p>
-<lb n="0294a12" ed="T"/><lg type="regular" xml:id="lgT48p0294a1201"><l>Where the wheel of function turns<caesura/>even the adept are still deluded<caesura/>the four quarters above and below</l>
-<lb n="0294a13" ed="T"/><l>north south east west</l></lg></cb:div>
-<lb n="0294a14" ed="T"/><cb:div type="other"><cb:mulu level="1" type="其他">Datong Zhisheng</cb:mulu><head>Datong Zhisheng</head>
-<lb n="0294a15" ed="T"/><p xml:id="pT48p0294a1501">Because a monk asked Master Xingyang Rang: Datong Zhisheng Buddha sat at the place of awakening for ten kalpas;
-<lb n="0294a16" ed="T"/>the Buddha Dharma did not appear before him, and he could not attain Buddhahood—what then? Rang said: That
-<lb n="0294a17" ed="T"/>question is truly fitting. The monk said: Since he sat at the place of awakening, why could he not attain
-<lb n="0294a18" ed="T"/>Buddhahood? Rang said: Because he did not become a Buddha.</p>
-<lb n="0294a19" ed="T"/><p xml:id="pT48p0294a1901" style="margin-left:1em">Wumen said: Only allow the old barbarian to know; do not allow the old barbarian to understand. If an ordinary person
-<lb n="0294a20" ed="T"/>knows, he is a sage. If a sage understands, he is an ordinary person.</p>
-<lb n="0294a21" ed="T"/><p xml:id="pT48p0294a2101" style="margin-left:2em">The verse says:</p>
-<lb n="0294a22" ed="T"/><lg type="regular" xml:id="lgT48p0294a2201"><l>Ending the body is not as good as ending the mind and resting<caesura/>when the mind is ended, the body has no worry</l>
-<lb n="0294a23" ed="T"/><l>If body and mind are both completely ended<caesura/>why would a transcendent need to be further enfeoffed as a marquis</l></lg></cb:div>
-<lb n="0294a24" ed="T"/><cb:div type="other"><cb:mulu level="1" type="其他">Qingshui’s Solitary Poverty</cb:mulu><head>Qingshui’s Solitary Poverty</head>
-<lb n="0294a25" ed="T"/><p xml:id="pT48p0294a2501">Because a monk asked Master Caoshan: “Qingshui is solitary and poor; I beg the Master for relief.” Shan
-<lb n="0294a26" ed="T"/>said, “Tax, ācārya Tax!” Tax responded, “Yes.” Shan said, “Qingyuan’s White-house wine—three cups and
-<lb n="0294a27" ed="T"/>you still say your lips have not been moistened.”</p>
-<lb n="0294a28" ed="T"/><p xml:id="pT48p0294a2801" style="margin-left:1em">Wumen said: Qingshui yielded the functioning—what mind-action is that? Caoshan had the eye and deeply
-<lb n="0294a29" ed="T"/>discerned the incoming opportunity. Even so, tell me: where is it that ācārya Tax ate
-<pb n="0294b" xml:id="T48.2005.0294b" ed="T"/>
-<lb n="0294b01" ed="T"/>the place of drinking wine.</p>
-<lb n="0294b02" ed="T"/><p xml:id="pT48p0294b0201" style="margin-left:2em">The verse says:</p>
-<lb n="0294b03" ed="T"/><lg type="regular" xml:id="lgT48p0294b0301"><l>Poor as Fan Dan<caesura/>spirit like Xiang Yu<caesura/>though there is no livelihood</l>
-<lb n="0294b04" ed="T"/><l>he dares to contend with the rich</l></lg></cb:div>
-<lb n="0294b05" ed="T"/><cb:div type="other"><cb:mulu level="1" type="其他">Zhou Examines the Hermit</cb:mulu><head>Zhou Examines the Hermit</head>
-<lb n="0294b06" ed="T"/><p xml:id="pT48p0294b0601">Zhaozhou went to a hermit’s place and asked, “Is there? Is there?” The hermit raised his fist.
-<lb n="0294b07" ed="T"/>Zhou said, “The water is shallow; this is not a place to moor a boat,” and then left. Again he went to another hermit’s place,
-<lb n="0294b08" ed="T"/>saying, “Is there? Is there?” That hermit also raised his fist. Zhou said, “Able to let go, able to seize,
-<lb n="0294b09" ed="T"/>able to kill, able to give life,” and then made a bow.</p>
-<lb n="0294b10" ed="T"/><p xml:id="pT48p0294b1001" style="margin-left:1em">Wumen said: Both raised a fist alike—why then
-<lb n="0294b11" ed="T"/>did he approve one and not approve one? Tell me, where is the error? If here
-<lb n="0294b12" ed="T"/>you can utter a turning word, you will see Zhaozhou’s tongue has no bone, able to support and able to topple,
-<lb n="0294b13" ed="T"/>attaining great freedom. Even so, how could it be helped that Zhaozhou was nevertheless
-<lb n="0294b14" ed="T"/>seen through by the two hermits? If you say the two hermits have superiority or inferiority, you do not yet have the eye of study. If
-<lb n="0294b15" ed="T"/>you say there is no superiority or inferiority, you also do not yet have the eye of study.</p>
-<lb n="0294b16" ed="T"/><p xml:id="pT48p0294b1601" style="margin-left:2em">The verse says:</p>
-<lb n="0294b17" ed="T"/><lg xml:id="lgT48p0294b1701"><l>Eyes like shooting stars<caesura/>function like a lightning flash<caesura/>a knife that kills people<caesura/>a sword that gives people life</l></lg></cb:div>
-<lb n="0294b18" ed="T"/><cb:div type="other"><cb:mulu level="1" type="其他">Yan Calls the Master</cb:mulu><head>Yan Calls the Master</head>
-<lb n="0294b19" ed="T"/><p xml:id="pT48p0294b1901">Master Ruiyan Yan, every day, would call to himself, “Master,” and then himself would answer, “Yes.” Then
-<lb n="0294b20" ed="T"/>he would say, “Be alert, yes! Another time, another day, do not be deceived by others, yes, yes.”</p>
-<lb n="0294b21" ed="T"/><p xml:id="pT48p0294b2101" style="margin-left:1em">Wumen said: Old Ruiyan buys and sells himself, producing all these divine
-<lb n="0294b22" ed="T"/>heads and ghost faces. Why<g ref="#CB01374">𦗚</g>? One that calls, one that answers; one
-<lb n="0294b23" ed="T"/>that is alert, one that is not deceived by others. If you recognize them, it is still not
-<lb n="0294b24" ed="T"/>it. If you imitate him, it is entirely wild-fox understanding.</p>
-<lb n="0294b25" ed="T"/><p xml:id="pT48p0294b2501" style="margin-left:2em">The verse says:</p>
-<lb n="0294b26" ed="T"/><lg type="regular" xml:id="lgT48p0294b2601"><l>Those who study the Way do not recognize the true<caesura/>only because from before they recognized a spirit</l>
-<lb n="0294b27" ed="T"/><l>The root of birth and death through immeasurable kalpas<caesura/>fools call it the original person</l></lg></cb:div>
-<lb n="0294b28" ed="T"/><cb:div type="other"><cb:mulu level="1" type="其他">Deshan Carries His Bowl</cb:mulu><head>Deshan Carries His Bowl</head>
-<lb n="0294b29" ed="T"/><p xml:id="pT48p0294b2901">One day Deshan carried his bowl down from the hall. Seeing Xuefeng, Xuefeng asked, “Old fellow, the bell has not yet
-<pb n="0294c" xml:id="T48.2005.0294c" ed="T"/>
-<lb n="0294c01" ed="T"/>been rung and the drum has not yet sounded—where are you carrying your bowl to?” Deshan then returned to the abbot’s quarters. Xuefeng brought it up
-<lb n="0294c02" ed="T"/>to Yantou. Yantou said, “Great Deshan has not yet understood the last phrase.” Deshan heard of it and ordered the
-<lb n="0294c03" ed="T"/>attendant to call Yantou in. He asked, “You do not approve of this old monk?” Yantou secretly
-<lb n="0294c04" ed="T"/>revealed his meaning. Deshan then let it rest. The next day he ascended the seat, and indeed it was different from usual.
-<lb n="0294c05" ed="T"/>Yantou went before the monks’ hall, clapped his hands, and laughed loudly, saying, “How glad I am the old fellow has understood
-<lb n="0294c06" ed="T"/>the last phrase. Hereafter, people under heaven will have nothing they can do about him.”</p>
-<lb n="0294c07" ed="T"/><p xml:id="pT48p0294c0701" style="margin-left:1em">Wumen said: As for the last phrase, Yantou and Deshan have both not even dreamed
-<lb n="0294c08" ed="T"/>of it. When you check it out, it is like a shelf of puppets.</p>
-<lb n="0294c09" ed="T"/><p xml:id="pT48p0294c0901" style="margin-left:2em">The verse says:</p>
-<lb n="0294c10" ed="T"/><lg type="regular" xml:id="lgT48p0294c1001"><l>Recognize the first phrase<caesura/>then you understand the last phrase</l>
-<lb n="0294c11" ed="T"/><l>The last and the first<caesura/>are not this one phrase</l></lg></cb:div>
-<lb n="0294c12" ed="T"/><cb:div type="other"><cb:mulu level="1" type="其他">Nanquan Cuts the Cat</cb:mulu><head>Nanquan Cuts the Cat</head>
-<lb n="0294c13" ed="T"/><p xml:id="pT48p0294c1301">Master Nanquan, because the east and west halls were arguing over a cat, Nanquan lifted it up and said, “The
-<lb n="0294c14" ed="T"/>assembly, if you can speak, you save it; if you cannot speak, I will cut it.” The assembly had no reply. Nanquan then
-<lb n="0294c15" ed="T"/>cut it. In the evening Zhaozhou returned from outside. Nanquan related it to Zhou. Zhou then took off his sandals and placed them on his
-<lb n="0294c16" ed="T"/>head and went out. Nanquan said, “If you had been here, you would have saved the cat.”</p>
-<lb n="0294c17" ed="T"/><p xml:id="pT48p0294c1701" style="margin-left:1em">Wumen said: Tell me, what was the meaning of Zhaozhou putting the grass sandals on his head? If here
-<lb n="0294c18" ed="T"/>you can utter a turning word, you will see Nanquan’s command was not carried out in vain. If
-<lb n="0294c19" ed="T"/>it is not so, it is dangerous.</p>
-<lb n="0294c20" ed="T"/><p xml:id="pT48p0294c2001" style="margin-left:2em">The verse says:</p>
-<lb n="0294c21" ed="T"/><lg type="regular" xml:id="lgT48p0294c2101"><l>If Zhaozhou were there<caesura/>he would have reversed this command<caesura/>snatched away the knife</l>
-<lb n="0294c22" ed="T"/><l>Nanquan would beg for his life</l></lg></cb:div>
-<lb n="0294c23" ed="T"/><cb:div type="other"><cb:mulu level="1" type="其他">Dongshan’s Three Blows</cb:mulu><head>Dongshan’s Three Blows</head>
-<lb n="0294c24" ed="T"/><p xml:id="pT48p0294c2401">Because Yunmen, when Dongshan came to call on him, Yunmen asked, “Where have you just come from?” Dongshan said, “Chadu
-<lb n="0294c25" ed="T"/>ford.” Yunmen said, “Where did you spend the summer?” Dongshan said, “Baozi in Hunan.” Yunmen said, “When did you
-<lb n="0294c26" ed="T"/>leave there?” Dongshan said, “The twenty-fifth day of the eighth month.” Yunmen said, “I spare you three blows.” Dongshan
-<lb n="0294c27" ed="T"/>the next day went up and again asked for instruction: “Yesterday you spared me three blows. I
-<lb n="0294c28" ed="T"/>do not know where my fault was.” Yunmen said, “Rice-bag! Jiangxi, Hunan—you go about like
-<lb n="0294c29" ed="T"/>this!” At this Dongshan had great awakening.</p>
-<pb n="0295a" xml:id="T48.2005.0295a" ed="T"/>
-<lb n="0295a01" ed="T"/><p xml:id="pT48p0295a0101" style="margin-left:1em">Wumen said: At that time Yunmen gave him his proper fodder, so that Dongshan
-<lb n="0295a02" ed="T"/>had yet another living path; the household gate was not left desolate. All night he was in the sea of
-<lb n="0295a03" ed="T"/>right and wrong, and only at dawn did he arrive. Coming again, he was given another piercing.
-<lb n="0295a04" ed="T"/>Dongshan awakened straightaway; this was not a hurried temperament. Now I ask you all: did Dongshan’s
-<lb n="0295a05" ed="T"/>three blows deserve to be eaten or not? If you say they deserved to be eaten, grasses, trees, and forests
-<lb n="0295a06" ed="T"/>all deserve to be beaten. If you say they did not deserve to be eaten, then Yunmen becomes a liar. If within
-<lb n="0295a07" ed="T"/>this you can make it clear, only then will you breathe out with Dongshan.</p>
-<lb n="0295a08" ed="T"/><p xml:id="pT48p0295a0801" style="margin-left:2em">The verse says:</p>
-<lb n="0295a09" ed="T"/><lg type="regular" xml:id="lgT48p0295a0901"><l>The lion teaches its cub the trick of the lost one<caesura/>before you can even feint and leap, you have already turned over</l>
-<lb n="0295a10" ed="T"/><l>Without cause he again recounts a head-on strike<caesura/>the earlier arrow was still light, the later arrow is deep</l></lg></cb:div>
-<lb n="0295a11" ed="T"/><cb:div type="other"><cb:mulu level="1" type="其他">Seven Strips at the Bell Sound</cb:mulu><head>Seven Strips at the Bell Sound</head>
-<lb n="0295a12" ed="T"/><p xml:id="pT48p0295a1201">Yunmen said: The world is so vast—why, at the sound of the bell, do you put on seven strips?</p>
-<lb n="0295a13" ed="T"/>
-<lb n="0295a14" ed="T"/><p xml:id="pT48p0295a1401" style="margin-left:1em">Wumen said: In general, in investigating Chan and studying the Way, one must strictly avoid following sound and chasing form. Even
-<lb n="0295a15" ed="T"/>if you hear sound and awaken to the Way, or see form and illuminate the mind, this is ordinary. One does not know:
-<lb n="0295a16" ed="T"/>the Chan monk’s family rides sound and covers form; in every head it is bright, in every step it is wondrous. Yet
-<lb n="0295a17" ed="T"/>even so, tell me: does sound come to the ear, or does the ear go to sound? Even if resonant
-<lb n="0295a18" ed="T"/>and silent are both forgotten, how at this point do you speak understanding? If you listen with the ear it will be hard to understand;
-<lb n="0295a19" ed="T"/>hearing sound at the place of the eye is only then intimate.</p>
-<lb n="0295a20" ed="T"/><p xml:id="pT48p0295a2001" style="margin-left:2em">The verse says:</p>
-<lb n="0295a21" ed="T"/><lg type="regular" xml:id="lgT48p0295a2101"><l>If you understand, affairs are the same as one household<caesura/>if you do not understand, ten thousand distinctions and a thousand differences</l>
-<lb n="0295a22" ed="T"/><l>If you do not understand, affairs are the same as one household<caesura/>if you understand, ten thousand distinctions and a thousand differences</l></lg></cb:div>
-<lb n="0295a23" ed="T"/><cb:div type="other"><cb:mulu level="1" type="其他">The National Teacher’s Three Calls</cb:mulu><head>The National Teacher’s Three Calls</head>
-<lb n="0295a24" ed="T"/><p xml:id="pT48p0295a2401">The National Teacher called the attendant three times; the attendant answered three times. The National Teacher said, “I thought I had
-<lb n="0295a25" ed="T"/>failed you; it turns out it is you who have failed me.”</p>
-<lb n="0295a26" ed="T"/><p xml:id="pT48p0295a2601" style="margin-left:1em">Wumen said: The National Teacher’s three calls—his tongue falls to the ground. The attendant’s three answers—he
-<lb n="0295a27" ed="T"/>harmonizes the light and spits it out. The National Teacher is old and his heart is lonely; he presses the ox’s head to eat grass. The attendant
-<lb n="0295a28" ed="T"/>was unwilling to take it on. Fine food does not satisfy a person who eats in vain. Tell me, where
-<lb n="0295a29" ed="T"/>is the place he failed? When the country is pure, talented sons are valued; when the household is rich, small children are pampered.</p>
-<pb n="0295b" xml:id="T48.2005.0295b" ed="T"/>
-<lb n="0295b01" ed="T"/><p xml:id="pT48p0295b0101" style="margin-left:2em">The verse says:</p>
-<lb n="0295b02" ed="T"/><lg type="regular" xml:id="lgT48p0295b0201"><l>An iron cangue without a hole makes people carry it<caesura/>it burdens children and grandchildren, not lightly</l>
-<lb n="0295b03" ed="T"/><l>To be able to brace the gate and prop the door<caesura/>one must further go barefoot up a mountain of knives</l></lg></cb:div>
-<lb n="0295b04" ed="T"/><cb:div type="other"><cb:mulu level="1" type="其他">Dongshan’s Three Pounds</cb:mulu><head>Dongshan’s Three Pounds</head>
-<lb n="0295b05" ed="T"/><p xml:id="pT48p0295b0501">Master Dongshan, because a monk asked, “What is Buddha?” Dongshan said, “Three
-<lb n="0295b06" ed="T"/>pounds of hemp.”</p>
-<lb n="0295b07" ed="T"/><p xml:id="pT48p0295b0701" style="margin-left:1em">Wumen said: Old Dongshan has investigated some clam-and-oyster Chan. Just as he opened the two
-<lb n="0295b08" ed="T"/>shells, he revealed liver and intestines. Even so, tell me: where do you see Dongshan?</p>
-<lb n="0295b09" ed="T"/>
-<lb n="0295b10" ed="T"/><p xml:id="pT48p0295b1001" style="margin-left:2em">The verse says:</p>
-<lb n="0295b11" ed="T"/><lg type="regular" xml:id="lgT48p0295b1101"><l>He thrusts out “three pounds of hemp”<caesura/>the words are intimate and the intent even more intimate</l>
-<lb n="0295b12" ed="T"/><l>Those who come to speak right and wrong<caesura/>are precisely people of right and wrong</l></lg></cb:div>
-<lb n="0295b13" ed="T"/><cb:div type="other"><cb:mulu level="1" type="其他">Ordinary Mind Is the Way</cb:mulu><head>Ordinary Mind Is the Way</head>
-<lb n="0295b14" ed="T"/><p xml:id="pT48p0295b1401">Because Nanquan was asked by Zhaozhou, “What is the Way?” Nanquan said, “Ordinary mind is the Way.”
-<lb n="0295b15" ed="T"/>Zhou said, “Can it be aimed toward?” Nanquan said, “If you try to aim toward it, you deviate.”
-<lb n="0295b16" ed="T"/>Zhou said, “If one does not try, how does one know it is the Way?” Nanquan said, “The Way does not belong to knowing; it does not belong to not knowing. Knowing is
-<lb n="0295b17" ed="T"/>deluded awareness; not knowing is indifference. If you truly reach the Way of not trying, it is like great
-<lb n="0295b18" ed="T"/>emptiness, vast and open, utterly unobstructed—how could one forcibly make right and wrong?” At these words Zhaozhou suddenly awakened.</p>
-<lb n="0295b19" ed="T"/><p xml:id="pT48p0295b1901" style="margin-left:1em">Wumen said: Nanquan, pressed by Zhaozhou’s question, came straight to
-<lb n="0295b20" ed="T"/>tiles disintegrating and ice melting, unable to distinguish and separate. Even if Zhaozhou awakened,
-<lb n="0295b21" ed="T"/>he still had to investigate for thirty more years before he attained it.</p>
-<lb n="0295b22" ed="T"/><p xml:id="pT48p0295b2201" style="margin-left:2em">The verse says:</p>
-<lb n="0295b23" ed="T"/><lg type="regular" xml:id="lgT48p0295b2301"><l>In spring there are a hundred flowers, in autumn there is the moon<caesura/>in summer there is cool wind, in winter there is snow</l>
-<lb n="0295b24" ed="T"/><l>If there are no idle matters hanging in the mind<caesura/>this is a fine season in the human world</l></lg></cb:div>
-<lb n="0295b25" ed="T"/><cb:div type="other"><cb:mulu level="1" type="其他">The Man of Great Strength</cb:mulu><head>The Man of Great Strength</head>
-<lb n="0295b26" ed="T"/><p xml:id="pT48p0295b2601">Master Songyuan said: Why is it that the man of great strength cannot lift his foot? He also said:
-<lb n="0295b27" ed="T"/>When he opens his mouth, it is not on the tongue.</p>
-<lb n="0295b28" ed="T"/><p xml:id="pT48p0295b2801" style="margin-left:1em">Wumen said: Songyuan may be said to
-<lb n="0295b29" ed="T"/>pour out his guts and spill his belly; he only lacks someone to take it up. Even if you take it up straightaway, it is just right to come to Wumen’s place and receive a painful blow.
-<pb n="0295c" xml:id="T48.2005.0295c" ed="T"/>
-<lb n="0295c01" ed="T"/>Why<g ref="#CB01374"></g>? To know true gold, look at it in the fire.</p>
-<lb n="0295c02" ed="T"/><p xml:id="pT48p0295c0201" style="margin-left:2em">The verse says:</p>
-<lb n="0295c03" ed="T"/><lg type="regular" xml:id="lgT48p0295c0301"><l>Lift the foot and trample over the fragrant-water sea<caesura/>lower the head and look down upon the four dhyāna heavens</l>
-<lb n="0295c04" ed="T"/><l>One whole body has nowhere to land<caesura/>please continue one<anchor xml:id="nkr_note_add_0295c0401" n="0295c0401"/><anchor xml:id="beg0295c0401" n="0295c0401"/>phrase<anchor xml:id="end0295c0401"/></l></lg></cb:div>
-<lb n="0295c05" ed="T"/><cb:div type="other"><cb:mulu level="1" type="其他">Yunmen’s Dried Dung Stick</cb:mulu><head>Yunmen’s Dried Dung Stick</head>
-<lb n="0295c06" ed="T"/><p xml:id="pT48p0295c0601">Because a monk asked Yunmen, “What is Buddha?” Yunmen said, “A dried dung stick.”</p>
-<lb n="0295c07" ed="T"/><p xml:id="pT48p0295c0701" style="margin-left:1em">Wumen said: Yunmen may be said to: the household is poor and it is hard to distinguish plain food; affairs are busy and there is no
-<lb n="0295c08" ed="T"/>time for cursive writing. At a move he brings out a dung stick to brace the gate and prop the door. The flourishing
-<lb n="0295c09" ed="T"/>and decline of the Buddha Dharma can be seen.</p>
-<lb n="0295c10" ed="T"/><p xml:id="pT48p0295c1001" style="margin-left:2em">The verse says:</p>
-<lb n="0295c11" ed="T"/><lg xml:id="lgT48p0295c1101"><l>Lightning flash<caesura/>spark from striking stone<caesura/>in the blink of an eye<caesura/>already missed</l></lg></cb:div>
-<lb n="0295c12" ed="T"/><cb:div type="other"><cb:mulu level="1" type="其他">Kāśyapa’s Flagpole</cb:mulu><head>Kāśyapa’s Flagpole</head>
-<lb n="0295c13" ed="T"/><p xml:id="pT48p0295c1301">Because Ānanda asked Kāśyapa, “Besides the World-Honored One’s transmission of the gold-brocade robe, what else was separately transmitted?”
-<lb n="0295c14" ed="T"/>Kāśyapa called, “Ānanda.” Ānanda answered, “Yes.” Kāśyapa said, “Knock down the flagpole in front of the gate.”</p>
-<lb n="0295c15" ed="T"/>
-<lb n="0295c16" ed="T"/><p xml:id="pT48p0295c1601" style="margin-left:1em">Wumen said: If here you can utter a turning word, intimately you will see
-<lb n="0295c17" ed="T"/>the assembly on Vulture Peak as if it has not dispersed. If it is not so, Vipāśyin Buddha
-<lb n="0295c18" ed="T"/>early set his mind; up to now he has not attained the wondrous.</p>
-<lb n="0295c19" ed="T"/><p xml:id="pT48p0295c1901" style="margin-left:2em">The verse says:</p>
-<lb n="0295c20" ed="T"/><lg type="regular" xml:id="lgT48p0295c2001"><l>How is the asking-place compared to the answering-place as intimate<caesura/>how many people here have sinews grow in their eyes</l>
-<lb n="0295c21" ed="T"/><l>Elder brother calls, younger brother answers, airing the family shame<caesura/>not belonging to yin and yang, it is another spring</l></lg></cb:div>
-<lb n="0295c22" ed="T"/><cb:div type="other"><cb:mulu level="1" type="其他">Not Thinking Good or Evil</cb:mulu><head>Not Thinking Good or Evil</head>
-<lb n="0295c23" ed="T"/><p xml:id="pT48p0295c2301">Because the Sixth Patriarch was pursued by Senior Monk Ming to Dayu Ridge, the Patriarch, seeing Ming arrive, immediately threw down
-<lb n="0295c24" ed="T"/>the robe and bowl on a rock and said, “This robe is the emblem of faith; can it be contended for by force? Let you take
-<lb n="0295c25" ed="T"/>it.” Ming then lifted it as if it were a mountain, unmoving. Hesitating and trembling, Ming said, “I came
-<lb n="0295c26" ed="T"/>seeking the Dharma, not for the robe. I beg the practitioner to instruct me.” The Patriarch said, “Do not think good, do not
-<lb n="0295c27" ed="T"/>think evil—at just such a time, which is Senior Monk Ming’s original face?” Ming
-<lb n="0295c28" ed="T"/>at once had great awakening. His whole body sweated and flowed; weeping tears, he bowed and asked, “Beyond the previous secret
-<lb n="0295c29" ed="T"/>words and secret meaning, is there further intent?” The Patriarch said, “What I now speak for you
-<pb n="0296a" xml:id="T48.2005.0296a" ed="T"/>
-<lb n="0296a01" ed="T"/>it is not secret. If you turn the light back and look upon your own original face, the secret is right by your
-<lb n="0296a02" ed="T"/>side. Ming said, “Although I was at Huangmei following the assembly, in truth I had not awakened to my own original face.
-<lb n="0296a03" ed="T"/>Now, receiving your pointing out of the place of entry, it is like a person drinking water, knowing for himself whether it is cold or warm. Now you, practitioner,
-<lb n="0296a04" ed="T"/>are indeed my teacher.” The Patriarch said, “If you are like this, then you and I
-<lb n="0296a05" ed="T"/>share the same teacher, Huangmei. Guard and uphold it well.”</p>
-<lb n="0296a06" ed="T"/><p xml:id="pT48p0296a0601" style="margin-left:1em">Wumen said: The Sixth Patriarch may be said to: when the matter is urgent, the household acts quickly; the old woman’s heart is anxious.
-<lb n="0296a07" ed="T"/>It is like a fresh lychee with the shell peeled off, the pit removed, and placed into your mouth.
-<lb n="0296a08" ed="T"/>He only wants you to swallow it once.</p>
-<lb n="0296a09" ed="T"/><p xml:id="pT48p0296a0901" style="margin-left:2em">The verse says:</p>
-<lb n="0296a10" ed="T"/><lg type="regular" xml:id="lgT48p0296a1001"><l>It cannot be depicted, it cannot be painted<caesura/>it cannot be praised, do not accept it as a favor</l>
-<lb n="0296a11" ed="T"/><l>The original face has nowhere to hide<caesura/>when the world collapses, it does not decay</l></lg></cb:div>
-<lb n="0296a12" ed="T"/><cb:div type="other"><cb:mulu level="1" type="其他">Apart from Language</cb:mulu><head>Apart from Language</head>
-<lb n="0296a13" ed="T"/><p xml:id="pT48p0296a1301">Master Fengxue—because a monk asked, “Speech and silence involve subtle separation; how can one pass through without violating it?”
-<lb n="0296a14" ed="T"/>Fengxue said, “I always recall, in Jiangnan in the third month, where the partridge cries, a hundred flowers are fragrant.”</p>
-<lb n="0296a15" ed="T"/><p xml:id="pT48p0296a1501" style="margin-left:1em">Wumen said: Fengxue’s function is like lightning; once he has the road, he goes. Yet how can it help that the person
-<lb n="0296a16" ed="T"/>before him cannot stop his tongue. If here you see it intimately, of yourself there is
-<lb n="0296a17" ed="T"/>a road to emerge. Now, apart from the samādhi of language—bring forth one phrase.</p>
-<lb n="0296a18" ed="T"/><p xml:id="pT48p0296a1801" style="margin-left:2em">The verse says:</p>
-<lb n="0296a19" ed="T"/><lg type="regular" xml:id="lgT48p0296a1901"><l>Not revealing the phrase of wind and bone<caesura/>before speaking, already entrusted</l>
-<lb n="0296a20" ed="T"/><l>Advancing a step, the mouth mumbles on and on<caesura/>I know you are greatly at a loss</l></lg></cb:div>
-<lb n="0296a21" ed="T"/><cb:div type="other"><cb:mulu level="1" type="其他">Preaching from the Third Seat</cb:mulu><head>Preaching from the Third Seat</head>
-<lb n="0296a22" ed="T"/><p xml:id="pT48p0296a2201">Master Yangshan dreamed he went to Maitreya’s place and sat in the third seat. There was a venerable one
-<lb n="0296a23" ed="T"/>who struck the gavel and said, “Today it is time for the third seat to preach the Dharma.” Yangshan then rose and struck the gavel
-<lb n="0296a24" ed="T"/>and said, “The Mahāyāna Dharma is apart from the four propositions and cuts off the hundred negations. Listen attentively, listen attentively.”</p>
-<lb n="0296a25" ed="T"/><p xml:id="pT48p0296a2501" style="margin-left:1em">Wumen said: Tell me—was it preaching the Dharma or not preaching the Dharma? Open the mouth and you lose; close
-<lb n="0296a26" ed="T"/>the mouth and you also lose. Not opening and not closing—one hundred and eight thousand.</p>
-<lb n="0296a27" ed="T"/><p xml:id="pT48p0296a2701" style="margin-left:2em">The verse says:</p>
-<lb n="0296a28" ed="T"/><lg type="regular" xml:id="lgT48p0296a2801"><l>Bright day, blue sky<caesura/>in a dream, speaking a dream<caesura/>pinch the strange, pinch the strange</l>
-<lb n="0296a29" ed="T"/><l>deceiving the whole assembly</l></lg></cb:div>
-<pb n="0296b" xml:id="T48.2005.0296b" ed="T"/>
-<lb n="0296b01" ed="T"/><cb:div type="other"><cb:mulu level="1" type="其他">Two Monks Roll Up the Blind</cb:mulu><head>Two Monks Roll Up the Blind</head>
-<lb n="0296b02" ed="T"/><p xml:id="pT48p0296b0201">Qingliang, the Great Dharma Eye—because, before the meal, a monk came up for interview. The Eye pointed with his hand to the blind. At that time
-<lb n="0296b03" ed="T"/>two monks together went and rolled up the blind. The Eye said, “One gains, one loses.”</p>
-<lb n="0296b04" ed="T"/><p xml:id="pT48p0296b0401" style="margin-left:1em">Wumen said: Tell me—who gained and who lost? If here you place
-<lb n="0296b05" ed="T"/>one eye, you will know where National Teacher Qingliang fell short. Yet even so,
-<lb n="0296b06" ed="T"/>strictly avoid deliberating within gain and loss.</p>
-<lb n="0296b07" ed="T"/><p xml:id="pT48p0296b0701" style="margin-left:2em">The verse says:</p>
-<lb n="0296b08" ed="T"/><lg type="regular" xml:id="lgT48p0296b0801"><l>Rolled up, clearly it penetrates the great void<caesura/>yet the great void still does not accord with my school</l>
-<lb n="0296b09" ed="T"/><l>Why not put it all down from emptiness<caesura/>dense and fine, not letting wind pass through</l></lg></cb:div>
-<lb n="0296b10" ed="T"/><cb:div type="other"><cb:mulu level="1" type="其他">Not Mind, Not Buddha</cb:mulu><head>Not Mind, Not Buddha</head>
-<lb n="0296b11" ed="T"/><p xml:id="pT48p0296b1101">Master Nanquan—because a monk asked, “Is there a Dharma that you do not speak to people?”
-<lb n="0296b12" ed="T"/>Nanquan said, “There is.” The monk said, “What is the Dharma you do not speak to people?” Nanquan said, “Not
-<lb n="0296b13" ed="T"/>mind, not Buddha, not a thing.”</p>
-<lb n="0296b14" ed="T"/><p xml:id="pT48p0296b1401" style="margin-left:1em">Wumen said: Nanquan, by this one question, was driven to probe to the end all his household goods—he had
-<lb n="0296b15" ed="T"/>not little on hand.</p>
-<lb n="0296b16" ed="T"/><p xml:id="pT48p0296b1601" style="margin-left:2em">The verse says:</p>
-<lb n="0296b17" ed="T"/><lg type="regular" xml:id="lgT48p0296b1701"><l>Repeated admonitions diminish your virtue<caesura/>wordlessness truly has merit</l>
-<lb n="0296b18" ed="T"/><l>Let the blue sea change as it will<caesura/>in the end I will not make it pass through for you</l></lg></cb:div>
-<lb n="0296b19" ed="T"/><cb:div type="other"><cb:mulu level="1" type="其他">Long Echo at Longtan</cb:mulu><head>Long Echo at Longtan</head>
-<lb n="0296b20" ed="T"/><p xml:id="pT48p0296b2001">Because Longtan was consulted by Deshan into the night, Longtan said, “The night is deep—why do you not go down?”
-<lb n="0296b21" ed="T"/>Deshan then, with thanks, lifted the blind and went out. Seeing it was dark outside, he returned and said, “It is dark
-<lb n="0296b22" ed="T"/>outside.” Longtan then lit a paper candle and handed it over. As Deshan was about to take it, Longtan blew it out. Deshan
-<lb n="0296b23" ed="T"/>hereupon suddenly had insight, and bowed. Longtan said, “What principle have you seen?”
-<lb n="0296b24" ed="T"/>Deshan said, “From today onward, I will not doubt the tongues of the old monks under heaven.”
-<lb n="0296b25" ed="T"/>The next day Longtan ascended the hall and said, “Among you there is a fellow whose fangs are like
-<lb n="0296b26" ed="T"/>sword-trees, whose mouth is like a basin of blood; a single blow cannot make him turn back. Another time, another day, atop
-<lb n="0296b27" ed="T"/>a lone peak he will establish my Way there.” Deshan then took his commentarial notes; before the Dharma hall
-<lb n="0296b28" ed="T"/>he set a torch. Lifting them up he said, “To exhaust all subtle discriminations is like a single hair sent into the great
-<lb n="0296b29" ed="T"/>void; to drain all the pivot of the world is like a single drop cast into a vast ravine.” Then he burned the notes.
-<pb n="0296c" xml:id="T48.2005.0296c" ed="T"/>
-<lb n="0296c01" ed="T"/>Thus he bowed and took leave.</p>
-<lb n="0296c02" ed="T"/><p xml:id="pT48p0296c0201" style="margin-left:1em">Wumen said: Before Deshan passed the barrier, his mind was indignant and his mouth full of protest. He
-<lb n="0296c03" ed="T"/>came to the south, intending to wipe out the meaning of a separate transmission outside the teachings. When he reached
-<lb n="0296c04" ed="T"/>the road in Lizhou, he asked an old woman to buy refreshments. The old woman said, “Great Virtuous One, in your cart
-<lb n="0296c05" ed="T"/>what writings are these?” Deshan said, “Diamond Sūtra commentarial notes.” The old woman said, “Just as
-<lb n="0296c06" ed="T"/>the sūtra says: the past mind cannot be grasped, the present mind cannot be grasped, the future mind cannot be grasped. Great Virtuous One,
-<lb n="0296c07" ed="T"/>which mind do you want to refresh?” Deshan, by this
-<lb n="0296c08" ed="T"/>one question, was left with a mouth like the eaves of a board. Yet even so, he would not die under the old
-<lb n="0296c09" ed="T"/>woman’s phrase. So he asked the old woman, “Nearby, what Chan master is there?”
-<lb n="0296c10" ed="T"/>The old woman said, “Five li away is Master Longtan.” When he reached Longtan, he swallowed up all his
-<lb n="0296c11" ed="T"/>failings; it may be said his earlier words did not match his later words. Longtan was very much like one who pities
-<lb n="0296c12" ed="T"/>a child and does not notice ugliness: seeing he had a little fire-seed, he hurriedly poured foul water,
-<lb n="0296c13" ed="T"/>and all at once doused it, dousing it dead. Coldly looked at, it is a fine laugh.</p>
-<lb n="0296c14" ed="T"/><p xml:id="pT48p0296c1401" style="margin-left:2em">The verse says:</p>
-<lb n="0296c15" ed="T"/><lg type="regular" xml:id="lgT48p0296c1501"><l>Hearing the name is not as good as seeing the face<caesura/>seeing the face is not as good as hearing the name</l>
-<lb n="0296c16" ed="T"/><l>Although it saves the nostrils<caesura/>how can it help that it blinds the eyes</l></lg></cb:div>
-<lb n="0296c17" ed="T"/><cb:div type="other"><cb:mulu level="1" type="其他">Not Wind, Not Banner</cb:mulu><head>Not Wind, Not Banner</head>
-<lb n="0296c18" ed="T"/><p xml:id="pT48p0296c1801">Because the Sixth Patriarch, when the wind tossed the monastery banner, two monks debated. One said, “The banner moves.” One
-<lb n="0296c19" ed="T"/>said, “The wind moves.” Back and forth, they never accorded with principle. The Patriarch said, “It is not the wind that moves, it is not
-<lb n="0296c20" ed="T"/>the banner that moves; benevolent ones, it is your mind that moves.” The two monks were startled.</p>
-<lb n="0296c21" ed="T"/><p xml:id="pT48p0296c2101" style="margin-left:1em">Wumen said: Not the wind moves, not the banner moves, not the mind moves—where
-<lb n="0296c22" ed="T"/>do you see the patriarch? If here you see it intimately, only then will you know the two monks
-<lb n="0296c23" ed="T"/>bought iron and got gold; the patriarch, unable to suppress a smile, let slip a leak.</p>
-<lb n="0296c24" ed="T"/><p xml:id="pT48p0296c2401" style="margin-left:2em">The verse says:</p>
-<lb n="0296c25" ed="T"/><lg type="regular" xml:id="lgT48p0296c2501"><l>Wind, banner, mind moving<caesura/>all alike are taken in one hand<caesura/>only knowing to open the mouth</l>
-<lb n="0296c26" ed="T"/><l>not realizing words fall through</l></lg></cb:div>
-<lb n="0296c27" ed="T"/><cb:div type="other"><cb:mulu level="1" type="其他">Mind Itself Is Buddha</cb:mulu><head>Mind Itself Is Buddha</head>
-<lb n="0296c28" ed="T"/><p xml:id="pT48p0296c2801">Because Mazu was asked by Damei, “What is Buddha?” The Patriarch said, “Mind itself is Buddha.”</p>
-<lb n="0296c29" ed="T"/><p xml:id="pT48p0296c2901" style="margin-left:1em">Wumen said: If you can straightaway grasp it, you wear Buddha’s robe and eat Buddha’s
-<pb n="0297a" xml:id="T48.2005.0297a" ed="T"/>
-<lb n="0297a01" ed="T"/>eat Buddha’s food. Speak Buddha’s words and act Buddha’s actions. That is Buddha. Even so, Damei has led many people
-<lb n="0297a02" ed="T"/>to mistakenly take the fixed north star for certain. How could they know that saying the word “Buddha”
-<lb n="0297a03" ed="T"/>requires rinsing one’s mouth for three days. If he were a true man, on hearing “mind itself is Buddha,” he would cover
-<lb n="0297a04" ed="T"/>his ears and run.</p>
-<lb n="0297a05" ed="T"/><p xml:id="pT48p0297a0501" style="margin-left:2em">The verse says:</p>
-<lb n="0297a06" ed="T"/><lg type="regular" xml:id="lgT48p0297a0601"><l>Blue sky, bright day<caesura/>strictly avoid seeking<caesura/>to ask again “how?”</l>
-<lb n="0297a07" ed="T"/><l>is to hug stolen goods and cry injustice</l></lg></cb:div>
-<lb n="0297a08" ed="T"/><cb:div type="other"><cb:mulu level="1" type="其他">Zhaozhou Tests the Old Woman</cb:mulu><head>Zhaozhou Tests the Old Woman</head>
-<lb n="0297a09" ed="T"/><p xml:id="pT48p0297a0901">Because Zhaozhou asked an old woman, “Which way does the road to Mount Tai go?” The old woman said, “Go straight
-<lb n="0297a10" ed="T"/>on.” When the monk had gone three or five steps, the old woman said, “A fine monk—he goes off like that too.”
-<lb n="0297a11" ed="T"/>Later a monk reported this to Zhaozhou. Zhaozhou said, “Wait—I’ll go test that
-<lb n="0297a12" ed="T"/>old woman for you.” The next day he went and asked in the same way. The old woman answered in the same way. Zhaozhou returned
-<lb n="0297a13" ed="T"/>and said to the assembly, “I have tested through that Mount Tai old woman for you.”</p>
-<lb n="0297a14" ed="T"/><p xml:id="pT48p0297a1401" style="margin-left:1em">Wumen said: The old woman only knew how to sit and plan within the curtains; yet she put her mark on the thief, not
-<lb n="0297a15" ed="T"/>knowing that old man Zhaozhou was skilled at using the tactic of raiding the camp and seizing the fortress. And furthermore he has no
-<lb n="0297a16" ed="T"/>great-man’s marks. Examining it, both have fault. Tell me—where is it
-<lb n="0297a17" ed="T"/>that Zhaozhou tested through the old woman?</p>
-<lb n="0297a18" ed="T"/><p xml:id="pT48p0297a1801" style="margin-left:2em">The verse says:</p>
-<lb n="0297a19" ed="T"/><lg type="regular" xml:id="lgT48p0297a1901"><l>The question is the same<caesura/>the answer is also similar<caesura/>sand in the rice</l>
-<lb n="0297a20" ed="T"/><l>thorns in the mud</l></lg></cb:div>
-<lb n="0297a21" ed="T"/><cb:div type="other"><cb:mulu level="1" type="其他">An Outsider Asks the Buddha</cb:mulu><head>An Outsider Asks the Buddha</head>
-<lb n="0297a22" ed="T"/><p xml:id="pT48p0297a2201">Because the World-Honored One was asked by an outsider, “I do not ask with words; I do not ask without words.” The World-Honored One sat
-<lb n="0297a23" ed="T"/>on his seat. The outsider praised him, saying, “The World-Honored One’s great kindness and great compassion have opened my cloud of delusion and enabled
-<lb n="0297a24" ed="T"/>me to enter.” Then he made full bows and departed. Ānanda then asked the Buddha, “What has the outsider
-<lb n="0297a25" ed="T"/>realized, that he praised you and departed?” The World-Honored One said, “Like a fine horse of the world that moves
-<lb n="0297a26" ed="T"/>when it sees the shadow of the whip.”</p>
-<lb n="0297a27" ed="T"/><p xml:id="pT48p0297a2701" style="margin-left:1em">Wumen said: Ānanda is a disciple of the Buddha, yet he is not as good as the outsider’s understanding.
-<lb n="0297a28" ed="T"/>Tell me—how far apart are the outsider and the Buddha’s disciple?</p>
-<lb n="0297a29" ed="T"/><p xml:id="pT48p0297a2901" style="margin-left:2em">The verse says:</p>
-<pb n="0297b" xml:id="T48.2005.0297b" ed="T"/>
-<lb n="0297b01" ed="T"/><lg type="regular" xml:id="lgT48p0297b0101"><l>Walking on a sword’s edge<caesura/>running on ice ridges<caesura/>not treading steps</l>
-<lb n="0297b02" ed="T"/><l>over a cliff<anchor xml:id="nkr_note_orig_0297001" n="0297001"/><anchor xml:id="nkr_note_mod_0297001" n="0297001"/><anchor xml:id="beg0297001" n="0297001"/>let<anchor xml:id="end0297001"/> go</l></lg></cb:div>
-<lb n="0297b03" ed="T"/><cb:div type="other"><cb:mulu level="1" type="其他">Not Mind, Not Buddha</cb:mulu><head>Not Mind, Not Buddha</head>
-<lb n="0297b04" ed="T"/><p xml:id="pT48p0297b0401">Because a monk asked Mazu, “What is Buddha?” The Patriarch said, “Not mind, not Buddha.”</p>
-<lb n="0297b05" ed="T"/><p xml:id="pT48p0297b0501" style="margin-left:1em">Wumen said: If you see it here, your matter of practice is finished.</p>
-<lb n="0297b06" ed="T"/><p xml:id="pT48p0297b0601" style="margin-left:2em">The verse says:</p>
-<lb n="0297b07" ed="T"/><lg type="regular" xml:id="lgT48p0297b0701"><l>When you meet a swordsman on the road, you must present<caesura/>if you do not meet a poet, do not offer</l>
-<lb n="0297b08" ed="T"/><l>When you meet people, speak only three parts<caesura/>you cannot bestow the whole in one piece</l></lg></cb:div>
-<lb n="0297b09" ed="T"/><cb:div type="other"><cb:mulu level="1" type="其他">Wisdom Is Not the Way</cb:mulu><head>Wisdom Is Not the Way</head>
-<lb n="0297b10" ed="T"/><p xml:id="pT48p0297b1001">Nanquan said, “Mind is not Buddha; wisdom is not the Way.”</p>
-<lb n="0297b11" ed="T"/><p xml:id="pT48p0297b1101" style="margin-left:1em">Wumen said: Nanquan may be said to be old and without shame. As soon as he opened his stinking mouth, the household
-<lb n="0297b12" ed="T"/>shame was broadcast outside. Even so, those who know gratitude are few.</p>
-<lb n="0297b13" ed="T"/><p xml:id="pT48p0297b1301" style="margin-left:2em">The verse says:</p>
-<lb n="0297b14" ed="T"/><lg type="regular" xml:id="lgT48p0297b1401"><l>When the sky is clear, the sun comes out<caesura/>when rain falls, the ground becomes wet</l>
-<lb n="0297b15" ed="T"/><l>I have said it all entirely<caesura/>I only fear you will not be able to believe it</l></lg></cb:div>
-<lb n="0297b16" ed="T"/><cb:div type="other"><cb:mulu level="1" type="其他">Qiannü’s Soul Leaves the Body</cb:mulu><head>Qiannü’s Soul Leaves the Body</head>
-<lb n="0297b17" ed="T"/><p xml:id="pT48p0297b1701">The Fifth Patriarch asked a monk, “When Qiannü’s soul left the body, which one was the real one?”</p>
-<lb n="0297b18" ed="T"/><p xml:id="pT48p0297b1801" style="margin-left:1em">Wumen said: If here you awaken to what is real, then you will know leaving the shell and entering
-<lb n="0297b19" ed="T"/>the shell is like lodging at an inn. If it is not so, do not run about in confusion. Suddenly when
-<lb n="0297b20" ed="T"/>earth, water, fire, and wind disperse, you will be like a crab dropped into boiling water, seven hands and eight feet. At that time
-<lb n="0297b21" ed="T"/>do not say you were not told.</p>
-<lb n="0297b22" ed="T"/><p xml:id="pT48p0297b2201" style="margin-left:2em">The verse says:</p>
-<lb n="0297b23" ed="T"/><lg type="regular" xml:id="lgT48p0297b2301"><l>Clouds and moon are the same<caesura/>streams and mountains each differ<caesura/>ten thousand blessings, ten thousand blessings</l>
-<lb n="0297b24" ed="T"/><l>is it one, is it two</l></lg></cb:div>
-<lb n="0297b25" ed="T"/><cb:div type="other"><cb:mulu level="1" type="其他">Meeting the Adept on the Road</cb:mulu><head>Meeting the Adept on the Road</head>
-<lb n="0297b26" ed="T"/><p xml:id="pT48p0297b2601">The Fifth Patriarch said, “When you meet an adept on the road, do not respond with speech or silence. Tell me—what
-<lb n="0297b27" ed="T"/>will you respond with?”</p>
-<lb n="0297b28" ed="T"/><p xml:id="pT48p0297b2801" style="margin-left:1em">Wumen said: If here you respond intimately, it is no harm to rejoice. If
-<lb n="0297b29" ed="T"/>it is not so, you must also place your eyes everywhere.</p>
-<pb n="0297c" xml:id="T48.2005.0297c" ed="T"/>
-<lb n="0297c01" ed="T"/><p xml:id="pT48p0297c0101" style="margin-left:2em">The verse says:</p>
-<lb n="0297c02" ed="T"/><lg type="regular" xml:id="lgT48p0297c0201"><l>Meeting an adept on the road<caesura/>do not respond with speech or silence</l>
-<lb n="0297c03" ed="T"/><l>A fist splitting the cheeks, striking you in the face<caesura/>if you understand straightaway, you understand</l></lg></cb:div>
-<lb n="0297c04" ed="T"/><cb:div type="other"><cb:mulu level="1" type="其他">Cypress Tree in the Courtyard</cb:mulu><head>Cypress Tree in the Courtyard</head>
-<lb n="0297c05" ed="T"/><p xml:id="pT48p0297c0501">Because a monk asked Zhaozhou, “What is the meaning of the patriarch’s coming from the west?” Zhaozhou said, “The
-<lb n="0297c06" ed="T"/>cypress tree in the courtyard.”</p>
-<lb n="0297c07" ed="T"/><p xml:id="pT48p0297c0701" style="margin-left:1em">Wumen said: If at Zhaozhou’s answer you see it intimately, before there is no Śākyamuni,
-<lb n="0297c08" ed="T"/>after there is no Maitreya.</p>
-<lb n="0297c09" ed="T"/><p xml:id="pT48p0297c0901" style="margin-left:2em">The verse says:</p>
-<lb n="0297c10" ed="T"/><lg type="regular" xml:id="lgT48p0297c1001"><l>Words do not reveal the matter<caesura/>speech does not hit the opportunity<caesura/>those who take up the words lose</l>
-<lb n="0297c11" ed="T"/><l>those who cling to phrases are deluded</l></lg></cb:div>
-<lb n="0297c12" ed="T"/><cb:div type="other"><cb:mulu level="1" type="其他">An Ox Passing Through a Window Lattice</cb:mulu><head>An Ox Passing Through a Window Lattice</head>
-<lb n="0297c13" ed="T"/><p xml:id="pT48p0297c1301">The Fifth Patriarch said, “It is like a water-buffalo passing through a window lattice. Head, horns, and four hooves have all passed
-<lb n="0297c14" ed="T"/>through. Why is it that the tail cannot pass through?”</p>
-<lb n="0297c15" ed="T"/><p xml:id="pT48p0297c1501" style="margin-left:1em">Wumen said: If here you turn things upside down and plant one eye, and bring forth
-<lb n="0297c16" ed="T"/>a turning phrase, you can above repay the four favors and below aid the three realms of existence. If it is not
-<lb n="0297c17" ed="T"/>so, you must further take care of the tail to the end.</p>
-<lb n="0297c18" ed="T"/><p xml:id="pT48p0297c1801" style="margin-left:2em">The verse says:</p>
-<lb n="0297c19" ed="T"/><lg type="regular" xml:id="lgT48p0297c1901"><l>Going past, you fall into a pit and trench<caesura/>coming back, you are again ruined</l>
-<lb n="0297c20" ed="T"/><l>This little tail<caesura/>truly is most strange</l></lg></cb:div>
-<lb n="0297c21" ed="T"/><cb:div type="other"><cb:mulu level="1" type="其他">Yunmen’s Words Fall Through</cb:mulu><head>Yunmen’s Words Fall Through</head>
-<lb n="0297c22" ed="T"/><p xml:id="pT48p0297c2201">Because a monk asked Yunmen, “Radiant quiescent illumination pervades like the sands of the river. In one phrase unceasing—” Yunmen
-<lb n="0297c23" ed="T"/>abruptly said, “Isn’t that the words of the scholar Zhang Zhuo?” The monk said, “It is.” Yunmen said, “Your words fall through.”
-<lb n="0297c24" ed="T"/>Later Sixing picked it up and said, “Tell me—where is it that this monk’s words fell through?”</p>
-<lb n="0297c25" ed="T"/><p xml:id="pT48p0297c2501" style="margin-left:1em">Wumen said: If here you see Yunmen’s use, that monk in solitary peril—
-<lb n="0297c26" ed="T"/>why did his words fall through? He is fit to be teacher of humans and devas. If you do not understand,
-<lb n="0297c27" ed="T"/>you cannot save yourself.</p>
-<lb n="0297c28" ed="T"/><p xml:id="pT48p0297c2801" style="margin-left:2em">The verse says:</p>
-<lb n="0297c29" ed="T"/><lg type="regular" xml:id="lgT48p0297c2901"><l>Fishing in a swift current<caesura/>the greedy-for-bait get caught<caesura/>as soon as the mouth seam opens</l>
-<pb n="0298a" xml:id="T48.2005.0298a" ed="T"/>
-<lb n="0298a01" ed="T"/><l>Life and fate are lost</l></lg></cb:div>
-<lb n="0298a02" ed="T"/><cb:div type="other"><cb:mulu level="1" type="其他">Weishan Kicks Over the Purifying Vase</cb:mulu><head>Weishan Kicks Over the Purifying Vase</head>
-<lb n="0298a03" ed="T"/><p xml:id="pT48p0298a0301">Weishan, while he was first in Baizhang’s assembly, served as head cook. Baizhang was about to choose
-<lb n="0298a04" ed="T"/>the master of Great Weishan, and asked the head seat, together with him, to speak before
-<lb n="0298a05" ed="T"/>the assembly: whoever went beyond the pattern could go. Baizhang then lifted up a purifying vase,
-<lb n="0298a06" ed="T"/>set it on the ground, and posed the question, saying, “You must not call it a purifying vase. What do you call it?” The head seat then said, “It cannot be called a wooden <g ref="#CB01269">post</g>.”
-<lb n="0298a07" ed="T"/>Then Baizhang asked Weishan. Weishan kicked over the purifying vase and left. Baizhang
-<lb n="0298a08" ed="T"/>laughed and said, “The first seat has been outdone by Weishan.” So he appointed him as the founding abbot.</p>
-<lb n="0298a09" ed="T"/><p xml:id="pT48p0298a0901" style="margin-left:1em">Wumen said: For one bout Weishan showed courage, yet he still could not leap out
-<lb n="0298a10" ed="T"/>of Baizhang’s enclosure. Examining it, it is heavy, not light. Why<g ref="#CB01374">𦗚</g>? Having taken off
-<lb n="0298a11" ed="T"/>the headband, he shoulders an iron cangue.</p>
-<lb n="0298a12" ed="T"/><p xml:id="pT48p0298a1201" style="margin-left:2em">The verse says:</p>
-<lb n="0298a13" ed="T"/><lg type="regular" xml:id="lgT48p0298a1301"><l>He tossed down the bamboo basket and wooden ladle<caesura/>in broad daylight one thrust cuts off all roundaboutness</l>
-<lb n="0298a14" ed="T"/><l>Baizhang’s heavy barrier could not hold him back<caesura/>with the tip of his foot he kicks out Buddhas like hemp</l></lg></cb:div>
-<lb n="0298a15" ed="T"/><cb:div type="other"><cb:mulu level="1" type="其他">Bodhidharma Pacifies the Mind</cb:mulu><head>Bodhidharma Pacifies the Mind</head>
-<lb n="0298a16" ed="T"/><p xml:id="pT48p0298a1601">Bodhidharma faced the wall. The Second Patriarch stood in the snow and cut off his arm, saying, “This disciple’s mind is not at peace. I beg you,
-<lb n="0298a17" ed="T"/>Master, pacify my mind.” Bodhidharma said, “Bring me your mind, and I will pacify it for you.” The Patriarch said, “Seeking the mind,
-<lb n="0298a18" ed="T"/>it cannot be found.” Bodhidharma said, “I have pacified your mind for you.”</p>
-<lb n="0298a19" ed="T"/><p xml:id="pT48p0298a1901" style="margin-left:1em">Wumen said: The tooth-gapped old barbarian sailed ten thousand miles across the sea, coming on purpose.
-<lb n="0298a20" ed="T"/>It may be said he raised waves where there was no wind. In the end he took in a single disciple,
-<lb n="0298a21" ed="T"/>yet even he lacked the six faculties. Eh—Xie Sanlang did not recognize four characters.</p>
-<lb n="0298a22" ed="T"/><p xml:id="pT48p0298a2201" style="margin-left:2em">The verse says:</p>
-<lb n="0298a23" ed="T"/><lg type="regular" xml:id="lgT48p0298a2301"><l>Directly pointing from the West<caesura/>the affair arose from an entrusting<caesura/>stirring up the monasteries</l>
-<lb n="0298a24" ed="T"/><l>it turns out it was you</l></lg></cb:div>
-<lb n="0298a25" ed="T"/><cb:div type="other"><cb:mulu level="1" type="其他">A Woman Emerges from Samādhi</cb:mulu><head>A Woman Emerges from Samādhi</head>
-<lb n="0298a26" ed="T"/><p xml:id="pT48p0298a2601">In the past, the World-Honored One, because Mañjuśrī came to the place where the Buddhas assembled, encountered that the Buddhas had each returned to their original
-<lb n="0298a27" ed="T"/>places. Only one woman remained, sitting close to that Buddha and entered into samādhi. Mañjuśrī then
-<lb n="0298a28" ed="T"/>addressed the Buddha: how is it that this woman can sit close to the Buddha, while I cannot? The Buddha told Mañjuśrī,
-<lb n="0298a29" ed="T"/>“You only need to awaken this woman and make her rise from samādhi; then you may question her yourself.” Mañjuśrī
-<pb n="0298b" xml:id="T48.2005.0298b" ed="T"/>
-<lb n="0298b01" ed="T"/>circled the woman three times, snapped his fingers once, and then carried her up to the Brahmā Heaven. Exhausting his spiritual
-<lb n="0298b02" ed="T"/>power, he still could not bring her out. The World-Honored One said, “Even if a hundred thousand Mañjuśrīs were here, they still could not bring this
-<lb n="0298b03" ed="T"/>woman out of samādhi. Below, beyond twelve hundred million Ganges-sands of buddha-lands, there is
-<lb n="0298b04" ed="T"/>the bodhisattva Wàngmíng. He can bring this woman out of samādhi.” In an instant the great being Wàngmíng emerged from
-<lb n="0298b05" ed="T"/>the earth, bowed to the World-Honored One, and the World-Honored One commanded Wàngmíng to go back to the woman.
-<lb n="0298b06" ed="T"/>He snapped his fingers once, and the woman thereupon emerged from samādhi.</p>
-<lb n="0298b07" ed="T"/><p xml:id="pT48p0298b0701" style="margin-left:1em">Wumen said: Old Śākyamuni staged this mixed drama—quite
-<lb n="0298b08" ed="T"/>unskilled. Tell me: Mañjuśrī is teacher of the seven Buddhas—why could he not bring the woman out of samādhi?
-<lb n="0298b09" ed="T"/>Wàngmíng is a first-ground bodhisattva—why could he bring her out? If within this
-<lb n="0298b10" ed="T"/>you see it intimately, karmic consciousness busily rushing is the great samādhi of the nāga.</p>
-<lb n="0298b11" ed="T"/><p xml:id="pT48p0298b1101" style="margin-left:2em">The verse says:</p>
-<lb n="0298b12" ed="T"/><lg type="regular" xml:id="lgT48p0298b1201"><l>Whether one can bring her out or cannot<caesura/>she herself attains freedom</l>
-<lb n="0298b13" ed="T"/><l>Spirit heads and ghost faces<caesura/>ruined gaps are truly elegant</l></lg></cb:div>
-<lb n="0298b14" ed="T"/><cb:div type="other"><cb:mulu level="1" type="其他">Shoushan’s Bamboo Stick</cb:mulu><head>Shoushan’s Bamboo Stick</head>
-<lb n="0298b15" ed="T"/><p xml:id="pT48p0298b1501">Shoushan, lifting up a bamboo stick, showed it to the assembly and said, “If you people call it
-<lb n="0298b16" ed="T"/>a bamboo stick, you touch it. If you do not call it a bamboo stick, you turn your back on it. You all, tell me: what do you
-<lb n="0298b17" ed="T"/>call it?”</p>
-<lb n="0298b18" ed="T"/><p xml:id="pT48p0298b1801" style="margin-left:1em">Wumen said: Call it a bamboo stick and you touch it; do not call it a bamboo stick and you turn your back on it.
-<lb n="0298b19" ed="T"/>You must not have words; you must not have no words. Speak quickly, speak quickly.</p>
-<lb n="0298b20" ed="T"/><p xml:id="pT48p0298b2001" style="margin-left:2em">The verse says:</p>
-<lb n="0298b21" ed="T"/><lg type="regular" xml:id="lgT48p0298b2101"><l>He lifts up the bamboo stick<caesura/>and carries out the command of killing and giving life<caesura/>backing and touching gallop together</l>
-<lb n="0298b22" ed="T"/><l>Buddhas and patriarchs beg for their lives</l></lg></cb:div>
-<lb n="0298b23" ed="T"/><cb:div type="other"><cb:mulu level="1" type="其他">Bajiao’s Staff</cb:mulu><head>Bajiao’s Staff</head>
-<lb n="0298b24" ed="T"/><p xml:id="pT48p0298b2401">Bajiao showed the assembly and said, “If you have a staff, I give you a staff.
-<lb n="0298b25" ed="T"/>If you do not have a staff, I take away your staff.”</p>
-<lb n="0298b26" ed="T"/><p xml:id="pT48p0298b2601" style="margin-left:1em">Wumen said: Supporting you across the broken bridge’s water, accompanying you back to the moonless village. If you call it
-<lb n="0298b27" ed="T"/>a staff, you enter hell like an arrow.</p>
-<lb n="0298b28" ed="T"/><p xml:id="pT48p0298b2801" style="margin-left:2em">The verse says:</p>
-<lb n="0298b29" ed="T"/><lg type="regular" xml:id="lgT48p0298b2901"><l>The deep and the shallow of all quarters<caesura/>are all within the grasp of the palm</l>
-<pb n="0298c" xml:id="T48.2005.0298c" ed="T"/>
-<lb n="0298c01" ed="T"/><l>Propping up heaven and supporting earth<caesura/>everywhere it stirs the school’s wind</l></lg></cb:div>
-<lb n="0298c02" ed="T"/><cb:div type="other"><cb:mulu level="1" type="其他">Who Is He?</cb:mulu><head>Who Is He?</head>
-<lb n="0298c03" ed="T"/><p xml:id="pT48p0298c0301">Master Dongshan Yan said, “Śākyamuni and Maitreya are still his slaves. Tell me—who
-<lb n="0298c04" ed="T"/>is he?”</p>
-<lb n="0298c05" ed="T"/><p xml:id="pT48p0298c0501" style="margin-left:1em">Wumen said: If you see him clearly, it is like meeting your own father
-<lb n="0298c06" ed="T"/>at a crossroads. You no longer need to ask anyone else
-<lb n="0298c07" ed="T"/>whether it is or is not.</p>
-<lb n="0298c08" ed="T"/><p xml:id="pT48p0298c0801" style="margin-left:2em">The verse says:</p>
-<lb n="0298c09" ed="T"/><lg type="regular" xml:id="lgT48p0298c0901"><l>Do not draw his bow<caesura/>do not ride his horse<caesura/>do not argue his right and wrong</l>
-<lb n="0298c10" ed="T"/><l>do not know his affairs</l></lg></cb:div>
-<lb n="0298c11" ed="T"/><cb:div type="other"><cb:mulu level="1" type="其他">Advancing from the Tip of a Pole</cb:mulu><head>Advancing from the Tip of a Pole</head>
-<lb n="0298c12" ed="T"/><p xml:id="pT48p0298c1201">Shishuang said, “How do you advance from the tip of a hundred-foot pole?” And an ancient worthy said,
-<lb n="0298c13" ed="T"/>“A person who sits at the top of a hundred-foot pole—though he has entered, it is not yet true. At the top of a hundred-foot pole
-<lb n="0298c14" ed="T"/>you must advance a step, and the ten directions’ world manifests the full body.”</p>
-<lb n="0298c15" ed="T"/><p xml:id="pT48p0298c1501" style="margin-left:1em">Wumen said: Advance a step and turn over the body—what place is there that is not worthy of reverence?
-<lb n="0298c16" ed="T"/>Even so, tell me: how do you advance from the tip of a hundred-foot pole? Hah.</p>
-<lb n="0298c17" ed="T"/><p xml:id="pT48p0298c1701" style="margin-left:2em">The verse says:</p>
-<lb n="0298c18" ed="T"/><lg type="regular" xml:id="lgT48p0298c1801"><l>Blind the eye at the crown of the gate<caesura/>mistakenly take the fixed north star</l>
-<lb n="0298c19" ed="T"/><l><g ref="#CB05270"></g>Body able to cast away life<caesura/>one blind man leads a crowd of blind men</l></lg></cb:div>
-<lb n="0298c20" ed="T"/><cb:div type="other"><cb:mulu level="1" type="其他">Tuṣita’s Three Barriers</cb:mulu><head>Tuṣita’s Three Barriers</head>
-<lb n="0298c21" ed="T"/><p xml:id="pT48p0298c2101">Master Tuṣita Yue set up three barriers to question students: brushing aside grass to investigate the mysterious only
-<lb n="0298c22" ed="T"/>seeks to see one’s nature—right now, where is the venerable one’s nature? Recognize your own nature, and only then
-<lb n="0298c23" ed="T"/>escape birth and death—when the light of the eyes falls, how do you escape? Escape birth and death, and then
-<lb n="0298c24" ed="T"/>you know where you go—when the four elements separate, where do you go?</p>
-<lb n="0298c25" ed="T"/><p xml:id="pT48p0298c2501" style="margin-left:1em">Wumen said: If you can bring forth these three turning phrases, then you can, wherever you are,
-<lb n="0298c26" ed="T"/>be the master; encountering conditions, you are the school. If it is not so, coarse food is easily filling; fine chewing
-<lb n="0298c27" ed="T"/>is hard to stave off hunger.</p>
-<lb n="0298c28" ed="T"/><p xml:id="pT48p0298c2801" style="margin-left:2em">The verse says:</p>
-<lb n="0298c29" ed="T"/><lg type="regular" xml:id="lgT48p0298c2901"><l>In one thought, universally contemplate immeasurable kalpas<caesura/>the affairs of immeasurable kalpas are just now</l>
-<lb n="0298c30" ed="T"/><l>Now, see through this single thought<caesura/>see through the person who sees through the now</l></lg></cb:div>
-<pb n="0299a" xml:id="T48.2005.0299a" ed="T"/>
-<lb n="0299a01" ed="T"/><cb:div type="other"><cb:mulu level="1" type="其他">Qianfeng’s One Road</cb:mulu><head>Qianfeng’s One Road</head>
-<lb n="0299a02" ed="T"/><p xml:id="pT48p0299a0201">Master Qianfeng, because a monk asked, “The Bhagavāns of the ten directions, one road—the gate of nirvāṇa.
-<lb n="0299a03" ed="T"/>I wonder, where is the road’s entrance?” Feng picked up his staff, drew a line and said,
-<lb n="0299a04" ed="T"/>“It’s here.” Later a monk went to inquire of Yunmen. Men picked up a fan and said, “The fan
-<lb n="0299a05" ed="T"/><g ref="#CB01387">tiger-</g>leaps and jumps, up to the Thirty-Three Heavens, and rams into Indra’s nostrils; an East Sea carp
-<lb n="0299a06" ed="T"/>is struck with one blow, and rain pours as if a basin were overturned.”</p>
-<lb n="0299a07" ed="T"/><p xml:id="pT48p0299a0701" style="margin-left:1em">Wumen said: One person, down at the deep sea’s bottom,
-<lb n="0299a08" ed="T"/>sifts earth and raises dust; one person, atop a very high mountain,
-<lb n="0299a09" ed="T"/>sets white waves surging to the sky. Holding fast and letting go, each
-puts out a single hand to uphold the school’s vehicle—just like two <anchor xml:id="nkr_note_add_0299a0901" n="0299a0901"/><anchor xml:id="beg0299a0901" n="0299a0901"/>camel<anchor xml:id="end0299a0901"/>s crashing
-<lb n="0299a10" ed="T"/>into each other. In the world there should be no straightforward person. With the true eye observing,
-<lb n="0299a11" ed="T"/>these two great elders have never recognized where the road’s entrance is.</p>
-<lb n="0299a12" ed="T"/><p xml:id="pT48p0299a1201" style="margin-left:2em">The verse says:</p>
-<lb n="0299a13" ed="T"/><lg type="regular" xml:id="lgT48p0299a1301"><l>Before lifting a foot, you have already arrived<caesura/>before moving the tongue, you have already spoken</l>
-<lb n="0299a14" ed="T"/><l>Even if, in every move, you’re ahead of the mechanism<caesura/>you still must know there is an upward key</l></lg>
-<lb n="0299a15" ed="T"/><p xml:id="pT48p0299a1501" style="margin-left:1em">From above, the Buddhas and Patriarchs have handed down pivotal occasions; they cite the charge and close the case—there were originally no extra words.
-<lb n="0299a16" ed="T"/>Flip off the skullcap and reveal the eyes; they are willing that people accept directly,
-<lb n="0299a17" ed="T"/>not seeking from others. If you are a universally capable superior person, as soon as you hear it raised, you immediately know
-<lb n="0299a18" ed="T"/>where it lands. There is no gate to enter, and no ranks to ascend. Swinging your arms,
-<lb n="0299a19" ed="T"/>you pass the barrier, not asking the barrier guard. Have you not seen Xuansha say: the gate of liberation has no gate,
-<lb n="0299a20" ed="T"/>the intention of the person of no-intention is no intention. And Baiyun said: clearly you know the Way,
-<lb n="0299a21" ed="T"/>yet it’s just this—why can’t you get through? Speaking like this too
-<lb n="0299a22" ed="T"/>is red earth smearing cow’s milk. If you get through the Gateless Barrier, you have already foolishly set Wumen
-<lb n="0299a23" ed="T"/>aside; if you cannot get through the Gateless Barrier, then you also betray your<anchor xml:id="nkr_note_add_0299a2301" n="0299a2301"/><anchor xml:id="beg0299a2301" n="0299a2301"/>self<anchor xml:id="end0299a2301"/>. What is called:
-<lb n="0299a24" ed="T"/>the nirvāṇa mind is easy to understand; discriminating wisdom is hard to clarify. Clarify discriminating wisdom, and home
-<lb n="0299a25" ed="T"/>and country will naturally be at peace. At the time, five days before the release from summer retreat in the first year of Shaoding’s reign change, Yangqi’s
-<lb n="0299a26" ed="T"/>eighth-generation grandson, the bhikṣu Wumen Huikai, respectfully recorded.</p></cb:div>
-<lb n="0299a27" ed="T"/><cb:juan n="001" fun="close"><cb:jhead>End of the Gateless Barrier scroll</cb:jhead></cb:juan>
-<lb n="0299a28" ed="T"/><cb:div type="w"><cb:mulu level="1" type="附文">Letter by Wuliang Zongshou</cb:mulu><cb:div type="other"><cb:mulu level="2" type="其他">Zen Admonitions</cb:mulu><head>Zen Admonitions</head>
-<lb n="0299a29" ed="T"/><lg xml:id="lgT48p0299a2901" style="margin-left:0em;text-indent:0em;"><l>Follow rules and keep to measures。<caesura style="text-indent:0em;"/>Without rope, bind yourself。<caesura style="text-indent:0em;"/>Unhindered in all directions。<caesura style="text-indent:0em;"/>The outsiders’ demon army。<caesura style="text-indent:0em;"/>Maintain
-<pb n="0299b" xml:id="T48.2005.0299b" ed="T"/>
-<lb n="0299b01" ed="T"/>The mind clear and still.</l><l>Silent illumination—perverse Chan. <caesura style="text-indent:0em;"/>Indulging in forgetting conditions. <caesura style="text-indent:0em;"/>Falling into a deep pit. <caesura style="text-indent:0em;"/>Awake,
-<lb n="0299b02" ed="T"/>awake yet not deluded.</l><l>Wearing chains and carrying a cangue. <caesura style="text-indent:0em;"/>Thinking good, thinking evil. <caesura style="text-indent:0em;"/>Hell and heaven. <caesura style="text-indent:0em;"/>Seeing Buddha,
-<lb n="0299b03" ed="T"/>seeing Dharma.</l><l>Encircled by two iron mountains. <caesura style="text-indent:0em;"/>When a thought arises, at once aware. <caesura style="text-indent:0em;"/>Toying with clever soul-men. <caesura style="text-indent:0em;"/>Rigidly
-<lb n="0299b04" ed="T"/>practicing meditation.</l><l>Ghostly household business. <caesura style="text-indent:0em;"/>Advance and you lose the principle. <caesura style="text-indent:0em;"/>Retreat and you go against the source. <caesura style="text-indent:0em;"/>Not
-<lb n="0299b05" ed="T"/>advancing, not retreating.</l><l>There is breath that kills a man. <caesura style="text-indent:0em;"/>Tell me, how will you tread and practice? <caesura style="text-indent:0em;"/>Strive—this very
-<lb n="0299b06" ed="T"/>life must be settled.</l><l>Do not let endless kalpas suffer the remaining calamity.</l></lg></cb:div>
-<lb n="0299b07" ed="T"/><cb:div type="other"><cb:mulu level="2" type="其他">The Three Gates of Huanglong</cb:mulu><head>The Three Gates of Huanglong</head>
-<lb n="0299b08" ed="T"/><lg type="regular" xml:id="lgT48p0299b0801" style="margin-left:0em;text-indent:0em;"><l>How is my hand like the Buddha’s hand? <caesura style="text-indent:0em;"/>It can feel behind the pillow. <caesura style="text-indent:0em;"/>Unaware, I burst into loud laughter,
-<lb n="0299b09" ed="T"/>ha ha.</l><l>Originally, the whole body is hand.</l></lg>
-<lb n="0299b10" ed="T"/><lg type="regular" xml:id="lgT48p0299b1001" style="margin-left:0em;text-indent:0em;"><l>How is my foot like a donkey’s foot? <caesura style="text-indent:0em;"/>Before lifting a step, it is already treading. <caesura style="text-indent:0em;"/>Let the four seas freely
-<lb n="0299b11" ed="T"/>traverse.</l><l>Reversely straddling Yangqi’s three-legged seat.</l></lg>
-<lb n="0299b12" ed="T"/><lg type="regular" xml:id="lgT48p0299b1201" style="margin-left:0em;text-indent:0em;"><l>Everyone has a birth condition. <caesura style="text-indent:0em;"/>Each thoroughly penetrates before the mechanism. <caesura style="text-indent:0em;"/>Nezha breaks his bones and returns them
-<lb n="0299b13" ed="T"/>to his father.</l><l>Why would the Fifth Patriarch rely on paternal conditions?</l></lg>
-<lb n="0299b14" ed="T"/><lg type="regular" xml:id="lgT48p0299b1401" style="margin-left:0em;text-indent:0em;"><l>Buddha’s hand, donkey’s foot, birth condition. <caesura style="text-indent:0em;"/>Not Buddha, not Dao, not Chan. <caesura style="text-indent:0em;"/>Do not blame the Gateless Gate
-<lb n="0299b15" ed="T"/>for being perilous.</l><l>It knots up the deep grievances of the patch-robed monks.</l></lg>
-<lb n="0299b16" ed="T"/><lg type="regular" xml:id="lgT48p0299b1601"><l>Recently at Ruiyan there is a Gateless One<caesura/>who lifts it onto the rope bed to judge past and present</l>
-<lb n="0299b17" ed="T"/><l>The paths of ordinary and sage alike are all cut off<caesura/>how many coiled, hibernating dragons raise thunderous sound</l></lg></cb:div>
-<lb n="0299b18" ed="T"/><p xml:id="pT48p0299b1801" style="margin-left:1em">Request</p>
-<lb n="0299b19" ed="T"/><p xml:id="pT48p0299b1901" style="margin-left:1em">Head Seat Wumen. A verse respectfully offered in thanks upon ascending Monk Mountain. In the gengyin year of Shaoding, late spring
-<lb n="0299b20" ed="T"/>Wuliang<note place="inline">Zongshou</note>wrote.</p></cb:div>
-<lb n="0299b21" ed="T"/><cb:div type="xu"><cb:mulu level="1" type="序">Postscript by Meng Gong</cb:mulu><p xml:id="pT48p0299b2101" style="margin-left:1em">Bodhidharma came from the West. He did not cling to words and letters. He directly pointed to the human mind. Seeing one’s nature, one becomes Buddha. To speak
-<lb n="0299b22" ed="T"/>of direct pointing is already roundabout. To speak further of becoming Buddha is quite a mess. Since it is
-<lb n="0299b23" ed="T"/>gateless, why then is there a barrier? With an old woman’s anxious heart, harsh words spread abroad. Wuan wished
-<lb n="0299b24" ed="T"/>to append something. One phrase again became forty-nine cases. Among them are a bit of error and confusion. Lift up
-<lb n="0299b25" ed="T"/>your eyebrows and take it up. Reprinted in the summer of the yisi year of Chunyou.</p>
-<lb n="0299b26" ed="T"/><p xml:id="pT48p0299b2601" style="margin-left:1em">Acting Grand Guardian, Military Commissioner of Ningwu Army, Grand Pacification Commissioner and Grand Controller of Jinghu,
-<lb n="0299b27" ed="T"/>concurrently Commissioner of Agricultural Colonies, concurrently Commissioner for Strategic Response of Kui Circuit, concurrently Prefect of Jiangling, Han
-<lb n="0299b28" ed="T"/>dong Commandery Duke of the Founding State, granted a fief of two thousand one hundred households with six hundred households of actual enfeoffment</p>
-<lb n="0299b29" ed="T"/><p xml:id="pT48p0299b2901" style="margin-left:2em">Meng Gong　Postscript</p></cb:div>
-<pb n="0299c" xml:id="T48.2005.0299c" ed="T"/>
-<lb n="0299c01" ed="T"/><cb:div type="w"><cb:mulu level="1" type="附文">Letter by the Layman Anwan</cb:mulu><p xml:id="pT48p0299c0101">Old Chan master Wumen made forty-eight sayings, judging the public cases of the ancient worthies. It is greatly
-<lb n="0299c02" ed="T"/>like selling fried cakes: he makes the buyer open his mouth to receive them, and once swallowed, he cannot spit them out.
-<lb n="0299c03" ed="T"/>Yet even so, Anwan would like to set it on his hot stove and
-<lb n="0299c04" ed="T"/>strike out one more, enough to complete the great number; then send it along as before. Who knows?</p>
-<lb n="0299c05" ed="T"/><p xml:id="pT48p0299c0501">From where does the old master sink his teeth? If in one mouthful you can eat it, it emits light and shakes the earth. If
-<lb n="0299c06" ed="T"/>you still cannot, then even the present forty-eight
+<milestone n="1" unit="juan" />
+<note type="community" resp="dota2nub">Machine Translation using ChatGPT</note>
+<lb n="0292a23" ed="T" />
+<lb n="0292a24" ed="T" />
+<cb:docNumber>No. 2005</cb:docNumber>
+<lb n="0292a25" ed="T" />
+<cb:div type="xu"><cb:mulu level="1" type="序">The Gateless Barrier of  the Chan School</cb:mulu><head><anchor xml:id="nkr_note_orig_0292001" n="0292001" />The Gateless Barrier of the Chan School</head>
+<lb n="0292a26" ed="T" />
+<lb n="0292a27" ed="T" />
+<p xml:id="pT48p0292a2701">If one says there is no gate, all people on the great earth can enter. If one says there is a gate, there is no share for the Master.
+<lb n="0292a28" ed="T" />First, forcibly adding a few footnotes is like putting a hat on top of a hat. Insisting on
+<lb n="0292a29" ed="T" />having Old Xi offer praise is again like squeezing juice from dry bamboo. If such noisy editions are produced, they will not
+<pb n="0292b" xml:id="T48.2005.0292b" ed="T" />
+<lb n="0292b01" ed="T" />require Old Xi to make a single throw. With one throw, do not let a single drop fall into rivers and lakes. For a thousand li the black
+<lb n="0292b02" ed="T" />steed cannot catch up. In the first year of Shaoding, at the end of the seventh month, written by Chen of Xi'an Hermitage.<g ref="#CB05553" /></p>
+<lb n="0292b03" ed="T" />
+<p xml:id="pT48p0292b0301">On the fifth day of the first month of the second year of Shaoding, respectfully encountering the Sacred Festival of Heavenly Foundation, your servant monk
+<lb n="0292b04" ed="T" />Huikai, earlier on the fifth day of the twelfth month of the first year, printed and circulated forty-eight cases of raising the circumstances of the Buddhas and patriarchs,
+<lb n="0292b05" ed="T" />praying for the present Emperor's sacred person to live ten thousand years, ten thousand years,
+<lb n="0292b06" ed="T" />ten thousand times ten thousand years. Your Majesty the Emperor, I respectfully wish that your sagely brightness equal the sun and moon, and your wise span equal
+<lb n="0292b07" ed="T" />heaven and earth. In the eight directions they sing of a ruler who possesses the Way; throughout the four seas they rejoice in the transforming power of non-action.</p>
+<lb n="0292b08" ed="T" />
+<p xml:id="pT48p0292b0801">For the merit and recompense of the Compassionate and Virtuous Empress<anchor xml:id="nkr_note_orig_0292002" n="0292002" /><anchor xml:id="nkr_note_mod_0292002" n="0292002" /><anchor xml:id="beg0292002" n="0292002" />cause<anchor xml:id="end0292002" /> of Youci Chan Monastery, former abbot who transmitted the Dharma,
+<lb n="0292b09" ed="T" />your servant monk Huikai respectfully states</p></cb:div>
+<lb n="0292b10" ed="T" />
+<lb n="0292b11" ed="T" />
+<cb:div type="xu"><cb:mulu level="1" type="序">The Gateless Barrier of the Chan School</cb:mulu><head>The Gateless Barrier of the Chan School</head>
+<lb n="0292b12" ed="T" />
+<p xml:id="pT48p0292b1201">The Buddha's words take mind as the school; no-gate is the Dharma-gate. Since it is no gate, how
+<lb n="0292b13" ed="T" />does one pass through? Have you not seen it said: what enters by a gate is not the family treasure; what is gained through conditions
+<lb n="0292b14" ed="T" />begins and ends in success and decay. To speak in this way is very much like raising waves where there is no wind, or cutting good flesh
+<lb n="0292b15" ed="T" />to make a wound. Moreover, clinging to words and phrases, seeking understanding and interpretation, striking at the moon with a stick,
+<lb n="0292b16" ed="T" />scratching an itch through a boot-what connection is there? In the summer of the wuzi year of Shaoding, Huikai, while leading the assembly at Dongjia Longxiang,
+<lb n="0292b17" ed="T" />because students requested instruction, took the ancient masters' public cases and made them tiles for knocking at the gate,
+<lb n="0292b18" ed="T" />guiding students according to circumstances. In the end they were copied down and, without realizing it, formed a collection. At first
+<lb n="0292b19" ed="T" />they were not arranged in order of before and after; together they became forty-eight cases, collectively called The Gateless Barrier.
+<lb n="0292b20" ed="T" />If there is a fellow who does not care for danger or death, and with a single blade goes straight in, even eight-armed Nezha
+<lb n="0292b21" ed="T" />cannot hold him back. Even if it be the twenty-eight patriarchs of the West and the six patriarchs of the East, they can only stand watching the wind
+<lb n="0292b22" ed="T" />and beg for their lives. But if one hesitates, it is like watching a horseman through a window; <anchor xml:id="nkr_note_add_0292b2201" n="0292b2201" /><anchor xml:id="beg0292b2201" n="0292b2201" />when<anchor xml:id="end0292b2201" /> you blink your eyes,
+<lb n="0292b23" ed="T" />it is already missed. The verse says:</p>
+<lb n="0292b24" ed="T" />
+<lg xml:id="lgT48p0292b2401" style="margin-left:1em"><l>The great Way has no gate<caesura style="text-indent:1em;" />a thousand differences have roads<caesura style="text-indent:1em;" />if you pass through this barrier<caesura style="text-indent:1em;" />heaven and earth
+<lb n="0292b25" ed="T" />you walk alone</l></lg></cb:div>
+<lb n="0292b26" ed="T" />
+<cb:div type="other"><p xml:id="pT48p0292b2601" style="margin-left:2em">The circumstances of the Buddhas and patriarchs
+<lb n="0292b27" ed="T" />Forty-eight cases</p>
+<lb n="0292b28" ed="T" />
+<cb:mulu level="1" type="其他">Table of Contents</cb:mulu><head>Table of Contents</head>
+<lb n="0292b29" ed="T" />
+<p xml:id="pT48p0292b2901" style="margin-left:1em">Zhaozhou's Dog Baizhang's Wild Fox Juzhi Raises a Finger</p>
+<pb n="0292c" xml:id="T48.2005.0292c" ed="T" />
+<lb n="0292c01" ed="T" />
+<p xml:id="pT48p0292c0101" style="margin-left:1em">The Bearded Man Has No Beard Xiangyan Up in a Tree The World-Honored One Holds Up a Flower</p>
+<lb n="0292c02" ed="T" />
+<p xml:id="pT48p0292c0201" style="margin-left:1em">Zhaozhou Washes His Bowl Xi Zhong Makes a Cart Datong Zhisheng</p>
+<lb n="0292c03" ed="T" />
+<p xml:id="pT48p0292c0301" style="margin-left:1em">Qingshui's Solitary Poverty Zhou Examines the Hermit Yan Calls the Master</p>
+<lb n="0292c04" ed="T" />
+<p xml:id="pT48p0292c0401" style="margin-left:1em">Deshan Carries His Bowl Nanquan Cuts the Cat Dongshan's Three Blows</p>
+<lb n="0292c05" ed="T" />
+<p xml:id="pT48p0292c0501" style="margin-left:1em">The Bell Sounds Seven Strips The National Teacher's Three Calls Dongshan's Three Pounds</p>
+<lb n="0292c06" ed="T" />
+<p xml:id="pT48p0292c0601" style="margin-left:1em">Ordinary Mind Is the Way The Man of Great Strength Yunmen's Dried Dung Stick</p>
+<lb n="0292c07" ed="T" />
+<p xml:id="pT48p0292c0701" style="margin-left:1em">Kāśyapa's Flagpole Not Thinking Good or Evil Leaving Aside Words</p>
+<lb n="0292c08" ed="T" />
+<p xml:id="pT48p0292c0801" style="margin-left:1em">Three Seats Preach the Dharma Two Monks Roll Up the Blinds Not Mind, Not Buddha</p>
+<lb n="0292c09" ed="T" />
+<p xml:id="pT48p0292c0901" style="margin-left:1em">Long Resounding at Longtan Not Wind, Not Banner This Mind Is Buddha</p>
+<lb n="0292c10" ed="T" />
+<p xml:id="pT48p0292c1001" style="margin-left:1em">Zhaozhou Examines the Old Woman An Outsider Questions the Buddha Not Mind, Not Buddha</p>
+<lb n="0292c11" ed="T" />
+<p xml:id="pT48p0292c1101" style="margin-left:1em">Wisdom Is Not the Way The Maiden's Soul Departs Meeting the Man of the Way on the Road</p>
+<lb n="0292c12" ed="T" />
+<p xml:id="pT48p0292c1201" style="margin-left:1em">The Cypress Tree in the Courtyard The Ox Passes Through the Window Lattice Yunmen's Words Fall</p>
+<lb n="0292c13" ed="T" />
+<p xml:id="pT48p0292c1301" style="margin-left:1em">Kicking Over the Purification Vase Bodhidharma Calms the Mind The Woman Leaves Meditation</p>
+<lb n="0292c14" ed="T" />
+<p xml:id="pT48p0292c1401" style="margin-left:1em">Shoushan's Bamboo Comb Bajiao's Staff Who Is He?</p>
+<lb n="0292c15" ed="T" />
+<p xml:id="pT48p0292c1501" style="margin-left:1em">Advancing a Step from the Top of a Pole The Three Barriers of Tushita Qianfeng's Single Road</p>
+<lb n="0292c16" ed="T" />
+<p xml:id="pT48p0292c1601">Table of Contents<note place="inline">End</note></p></cb:div>
+<lb n="0292c17" ed="T" />
+<lb n="0292c18" ed="T" />
+<lb n="0292c19" ed="T" />
+<cb:juan n="001" fun="open"><cb:mulu n="1" type="卷"></cb:mulu><cb:jhead>The Gateless Barrier</cb:jhead></cb:juan>
+<lb n="0292c20" ed="T" />
+<lb n="0292c21" ed="T" />
+<byline cb:type="Editor">Compiled by the studying monk Miyuan Zongshao</byline>
+<lb n="0292c22" ed="T" />
+<cb:div type="other"><cb:mulu level="1" type="其他">Zhaozhou's Dog</cb:mulu><head>Zhaozhou's Dog</head>
+<lb n="0292c23" ed="T" />
+<p xml:id="pT48p0292c2301">Because a monk asked Master Zhaozhou, "Does a dog have Buddha-nature or not?" Zhou said,
+<lb n="0292c24" ed="T" />"No."</p>
+<lb n="0292c25" ed="T" />
+<p xml:id="pT48p0292c2501" style="margin-left:1em">Wumen said: To study Chan one must pass through the barrier of the patriarchs. For wondrous awakening one must exhaust the road of the mind
+<lb n="0292c26" ed="T" />and cut it off. If the patriarchs' barrier is not passed, and the road of mind is not cut off, one is entirely a spirit clinging to grass and attached to trees.
+<lb n="0292c27" ed="T" />Now tell me, what is the patriarchs' barrier? It is just this single word "No." This
+<lb n="0292c28" ed="T" />is the one barrier of the Chan school. Therefore it is called The Gateless Barrier of the Chan School. Those who pass through it
+<lb n="0292c29" ed="T" />not only personally see Zhaozhou, but can also, together with the successive patriarchs, grasp
+<pb n="0293a" xml:id="T48.2005.0293a" ed="T" />
+<lb n="0293a01" ed="T" />hands and walk together. Eyebrows entwined together. See with the same eye. Hear with the same ear. Is this not
+<lb n="0293a02" ed="T" />a joyful celebration? If there is one who wishes to pass through the barrier, then take the three hundred sixty joints
+<lb n="0293a03" ed="T" />and the eighty-four thousand pores, and throughout the whole body raise up a single mass of doubt. Investigate the single word "No."
+<lb n="0293a04" ed="T" />Bring it up day and night. Do not make a nihilistic understanding. Do not make an understanding of being or non-being. It is like swallowing
+<lb n="0293a05" ed="T" />a red-hot iron ball-you try to vomit it out but cannot. Sweep away all previous evil knowledge
+<lb n="0293a06" ed="T" />and evil understanding. After a long time it becomes pure and ripe; naturally inside and outside merge into one piece, like
+<lb n="0293a07" ed="T" />a mute person who has had a dream-he alone knows. Suddenly it bursts forth, astonishing heaven and shaking earth.
+<lb n="0293a08" ed="T" />It is like seizing General Guan's great sword in your hand. Meeting a Buddha, you kill the Buddha; meeting a patriarch,
+<lb n="0293a09" ed="T" />you kill the patriarch. On the brink of birth and death you attain great freedom. Within the six realms and four modes of birth
+<lb n="0293a10" ed="T" />you roam in samādhi. But how do you bring it up? Exhaust the strength of your whole life.
+<lb n="0293a11" ed="T" />Raise the single word "No." If it does not break off, it is like a Dharma candle-once lit, it catches fire.</p>
+<lb n="0293a12" ed="T" />
+<p xml:id="pT48p0293a1201" style="margin-left:2em">The verse says:</p>
+<lb n="0293a13" ed="T" />
+<lg type="regular" xml:id="lgT48p0293a1301"><l>The dog's Buddha-nature<caesura />fully brings forth the true command<caesura />just as you touch being or non-being</l>
+<lb n="0293a14" ed="T" />
+<l>you lose body and lose life</l></lg></cb:div>
+<lb n="0293a15" ed="T" />
+<cb:div type="other"><cb:mulu level="1" type="其他">Baizhang's Wild Fox</cb:mulu><head>Baizhang's Wild Fox</head>
+<lb n="0293a16" ed="T" />
+<p xml:id="pT48p0293a1601">Whenever Master Baizhang was giving instruction, there was an old man who always followed the assembly to listen to the Dharma. When the assembly
+<lb n="0293a17" ed="T" />withdrew, the old man also withdrew. Suddenly one day he did not withdraw. The master then asked, "Who is it standing before me?"
+<lb n="0293a18" ed="T" />The old man said, "Yes, I am not a human being. In the past, at the time of Kāśyapa Buddha,
+<lb n="0293a19" ed="T" />I once lived on this mountain. Because a student asked, 'Does a greatly practicing person
+<lb n="0293a20" ed="T" />fall into cause and effect or not?' I replied, 'He does not fall into cause and effect.' For five hundred lifetimes
+<lb n="0293a21" ed="T" />I fell into the body of a wild fox. Now I ask the Master to turn a phrase on my behalf so that I may
+<lb n="0293a22" ed="T" />be freed from the wild fox." Then he asked, "Does a greatly practicing person fall into cause and effect or not?"
+<lb n="0293a23" ed="T" />The master said, "He is not blind to cause and effect." At these words the old man had great awakening. He made a bow and said, "I have now been freed from the wild fox
+<lb n="0293a24" ed="T" />body. I dwell behind the mountain. I dare to inform the Master and request that I be dealt with according to the example of a deceased monk."
+<lb n="0293a25" ed="T" />The master ordered<anchor xml:id="nkr_note_add_0293a2501" n="0293a2501" /><anchor xml:id="beg0293a2501" n="0293a2501" /><space quantity="0" /><anchor xml:id="end0293a2501" /> the head monk to strike the gavel and inform the assembly that after the meal they would send off a deceased monk. The great assembly discussed it.
+<lb n="0293a26" ed="T" />All were at ease in the nirvana hall, and no one was ill. Why was it so? After the meal
+<lb n="0293a27" ed="T" />they only saw the master lead the assembly to the foot of a cliff behind the mountain, where with his staff he picked out a dead wild
+<lb n="0293a28" ed="T" />fox and then cremated it according to the rite. In the evening the master ascended the hall and brought up the previous story. Huangbo then
+<lb n="0293a29" ed="T" />asked, "The man of old made a wrong reply by turning a phrase and fell into the body of a wild fox for five hundred lifetimes.
+<pb n="0293b" xml:id="T48.2005.0293b" ed="T" />
+<lb n="0293b01" ed="T" />If he does not make a wrong reply, what would it be?" The master said, "Come nearer and I will tell you."
+<lb n="0293b02" ed="T" />Huangbo then stepped forward and slapped the master. The master clapped his hands and laughed, saying, "I thought the barbarian's beard was red,
+<lb n="0293b03" ed="T" />but there is also a red-bearded barbarian."</p>
+<lb n="0293b04" ed="T" />
+<p xml:id="pT48p0293b0401" style="margin-left:1em">Wumen said: "Not falling into cause and effect"-why then did he fall into a wild fox? "Not blind to cause and effect"-
+<lb n="0293b05" ed="T" />why then was he freed from the wild fox? If here you are able to place a single eye,
+<lb n="0293b06" ed="T" />then you will know that the former Baizhang gained the graceful five hundred lifetimes.</p>
+<lb n="0293b07" ed="T" />
+<p xml:id="pT48p0293b0701" style="margin-left:2em">The verse says:</p>
+<lb n="0293b08" ed="T" />
+<lg type="regular" xml:id="lgT48p0293b0801"><l>Not falling, not blind<caesura />two sides, one contest<caesura />not blind, not falling</l>
+<lb n="0293b09" ed="T" />
+<l>a thousand mistakes, ten thousand mistakes</l></lg></cb:div>
+<lb n="0293b10" ed="T" />
+<cb:div type="other"><cb:mulu level="1" type="其他">Juzhi Raises a Finger</cb:mulu><head>Juzhi Raises a Finger</head>
+<lb n="0293b11" ed="T" />
+<p xml:id="pT48p0293b1101">Whenever Master Juzhi was questioned, he only raised one finger. Later a boy attendant, because
+<lb n="0293b12" ed="T" />an outsider asked, "What essential Dharma does the Master teach?" also raised his finger. When Juzhi heard of it,
+<lb n="0293b13" ed="T" />he took a knife and cut off the boy's finger. The boy, bearing the pain, ran away crying. Juzhi again called
+<lb n="0293b14" ed="T" />him. The boy turned his head. Juzhi then raised his finger. The boy suddenly had realization. When Juzhi
+<lb n="0293b15" ed="T" />was about to pass away, he told the assembly, "I obtained Tianlong's one-finger Chan. In a lifetime I have used it up
+<lb n="0293b16" ed="T" />without exhausting it." Having spoken these words, he manifested extinction.</p>
+<lb n="0293b17" ed="T" />
+<p xml:id="pT48p0293b1701" style="margin-left:1em">Wumen said: The place of awakening of Juzhi and the boy was not on the finger. If
+<lb n="0293b18" ed="T" />you can see here, Tianlong together with Juzhi and the boy
+<lb n="0293b19" ed="T" />are pierced through on one string with yourself.</p>
+<lb n="0293b20" ed="T" />
+<p xml:id="pT48p0293b2001" style="margin-left:2em">The verse says:</p>
+<lb n="0293b21" ed="T" />
+<lg type="regular" xml:id="lgT48p0293b2101"><l>Juzhi bluntly set down old Tianlong<caesura />with a sharp blade he singly tested the little boy</l>
+<lb n="0293b22" ed="T" />
+<l>Great Spirit lifts his hand without much effort<caesura />splitting Mount Hua into ten thousand layers</l></lg></cb:div>
+<lb n="0293b23" ed="T" />
+<cb:div type="other"><cb:mulu level="1" type="其他">The Bearded Man Has No Beard</cb:mulu><head>The Bearded Man Has No Beard</head>
+<lb n="0293b24" ed="T" />
+<p xml:id="pT48p0293b2401">Huian said, "The barbarian of the Western Heaven-why does he have no beard?"</p>
+<lb n="0293b25" ed="T" />
+<p xml:id="pT48p0293b2501" style="margin-left:1em">Wumen said: Investigation must be genuine investigation; awakening must be genuine awakening. This barbarian
+<lb n="0293b26" ed="T" />must be personally seen once to be understood. To speak of personally seeing already becomes two.</p>
+<lb n="0293b27" ed="T" />
+<p xml:id="pT48p0293b2701" style="margin-left:2em">The verse says:</p>
+<lb n="0293b28" ed="T" />
+<lg type="regular" xml:id="lgT48p0293b2801"><l>Before a fool<caesura />one cannot speak of a dream<caesura />the bearded man has no beard</l>
+<lb n="0293b29" ed="T" />
+<l>clear awareness only adds confusion</l></lg></cb:div>
+<pb n="0293c" xml:id="T48.2005.0293c" ed="T" />
+<lb n="0293c01" ed="T" />
+<cb:div type="other"><cb:mulu level="1" type="其他">Xiangyan Up in a Tree</cb:mulu><head>Xiangyan Up in a Tree</head>
+<lb n="0293c02" ed="T" />
+<p xml:id="pT48p0293c0201">Master Xiangyan said: It is like a person up in a tree, with his mouth biting a branch, his hands not grasping the branch,<g ref="#CB03340" />
+<lb n="0293c03" ed="T" />his feet not stepping on the tree. Someone below the tree asks about the meaning of the coming from the West. If he does not answer, he goes against what is asked;
+<lb n="0293c04" ed="T" />if he answers, he loses body and life. At just such a time, how should one answer?</p>
+<lb n="0293c05" ed="T" />
+<p xml:id="pT48p0293c0501" style="margin-left:1em">Wumen said: Even if you have eloquence like a hanging river, it is entirely of no use. Even if you can expound the entire
+<lb n="0293c06" ed="T" />Tripiṭaka teachings, it is also of no use. If here you can answer rightly, you bring to life the former dead roadhead,
+<lb n="0293c07" ed="T" />and kill the former living roadhead. If it is not so,
+<lb n="0293c08" ed="T" />wait straight until the future and ask Maitreya.</p>
+<lb n="0293c09" ed="T" />
+<p xml:id="pT48p0293c0901" style="margin-left:2em">The verse says:</p>
+<lb n="0293c10" ed="T" />
+<lg type="regular" xml:id="lgT48p0293c1001"><l>Xiangyan truly concocted it<caesura />his viciousness has no limit</l>
+<lb n="0293c11" ed="T" />
+<l>He silenced the monks' mouths<caesura />and made ghost eyes burst forth over the whole body</l></lg></cb:div>
+<lb n="0293c12" ed="T" />
+<cb:div type="other"><cb:mulu level="1" type="其他">The World-Honored One Holds Up a Flower</cb:mulu><head>The World-Honored One Holds Up a Flower</head>
+<lb n="0293c13" ed="T" />
+<p xml:id="pT48p0293c1301">In the past, when the World-Honored One was at the assembly on Vulture Peak, he held up a flower and showed it to the assembly. At that time the assembly all remained silent;
+<lb n="0293c14" ed="T" />only Venerable Kāśyapa broke into a slight smile. The World-Honored One said: I have the treasury of the true Dharma eye, the wondrous mind of nirvāṇa, the real form, the formless,
+<lb n="0293c15" ed="T" />the subtle wondrous Dharma gate, not established on words and letters,
+<lb n="0293c16" ed="T" />a separate transmission outside the teachings; I entrust it to Mahākāśyapa.</p>
+<lb n="0293c17" ed="T" />
+<p xml:id="pT48p0293c1701" style="margin-left:1em">Wumen said: Yellow-faced Gautama acted as if no one were there. He pressed the good down to make it base.
+<lb n="0293c18" ed="T" />He hung up a sheep's head and sold dog meat, thinking it was how wonderfully strange. If, at that time, the great
+<lb n="0293c19" ed="T" />assembly had all laughed, how would the treasury of the true Dharma eye have been transmitted? Suppose Kāśyapa had not
+<lb n="0293c20" ed="T" />smiled-how would the treasury of the true Dharma eye have been transmitted? If you say the treasury of the true Dharma eye
+<lb n="0293c21" ed="T" />has transmission and entrustment, the yellow-faced old fellow deceived the townsfolk. If you say there is no transmission,
+<lb n="0293c22" ed="T" />then why was it granted only to Kāśyapa?</p>
+<lb n="0293c23" ed="T" />
+<p xml:id="pT48p0293c2301" style="margin-left:2em">The verse says:</p>
+<lb n="0293c24" ed="T" />
+<lg type="regular" xml:id="lgT48p0293c2401"><l>When he held up the flower<caesura />the tail was already exposed<caesura />Kāśyapa broke into a smile</l>
+<lb n="0293c25" ed="T" />
+<l>humans and gods were at a loss</l></lg></cb:div>
+<lb n="0293c26" ed="T" />
+<cb:div type="other"><cb:mulu level="1" type="其他">Zhaozhou Washes His Bowl</cb:mulu><head>Zhaozhou Washes His Bowl</head>
+<lb n="0293c27" ed="T" />
+<p xml:id="pT48p0293c2701">Because a monk asked Zhaozhou, "I have just entered the monastery; I beg the Master for instruction." Zhou said,
+<lb n="0293c28" ed="T" />"Have you eaten your gruel?" The monk said, "I have eaten my gruel." Zhou said, "Go wash your bowl."
+<lb n="0293c29" ed="T" />That monk had an awakening.</p>
+<pb n="0294a" xml:id="T48.2005.0294a" ed="T" />
+<lb n="0294a01" ed="T" />
+<p xml:id="pT48p0294a0101" style="margin-left:1em">Wumen said: Zhaozhou opened his mouth and showed his gallbladder; he exposed his heart and liver. That monk heard
+<lb n="0294a02" ed="T" />the matter not truly, and called a bell a jar.</p>
+<lb n="0294a03" ed="T" />
+<p xml:id="pT48p0294a0301" style="margin-left:2em">The verse says:</p>
+<lb n="0294a04" ed="T" />
+<lg type="regular" xml:id="lgT48p0294a0401"><l>Only because it was extremely clear<caesura />it instead made what was gained come slowly</l>
+<lb n="0294a05" ed="T" />
+<l>If you had known early that the lamp is fire<caesura />the rice has been cooked for a long time</l></lg></cb:div>
+<lb n="0294a06" ed="T" />
+<cb:div type="other"><cb:mulu level="1" type="其他">Xi Zhong Makes a Cart</cb:mulu><head>Xi Zhong Makes a Cart</head>
+<lb n="0294a07" ed="T" />
+<p xml:id="pT48p0294a0701">Master Yue'an asked a monk: Xi Zhong made a cart with a hundred spokes. Remove both ends,
+<lb n="0294a08" ed="T" />take away the axle-what is made clear?</p>
+<lb n="0294a09" ed="T" />
+<p xml:id="pT48p0294a0901" style="margin-left:1em">Wumen said: If you can straightaway make it clear, your eyes are like shooting stars, your functioning like a flashing
+<lb n="0294a10" ed="T" />bolt of lightning.</p>
+<lb n="0294a11" ed="T" />
+<p xml:id="pT48p0294a1101" style="margin-left:2em">The verse says:</p>
+<lb n="0294a12" ed="T" />
+<lg type="regular" xml:id="lgT48p0294a1201"><l>Where the wheel of function turns<caesura />even the adept are still deluded<caesura />the four quarters above and below</l>
+<lb n="0294a13" ed="T" />
+<l>north south east west</l></lg></cb:div>
+<lb n="0294a14" ed="T" />
+<cb:div type="other"><cb:mulu level="1" type="其他">Datong Zhisheng</cb:mulu><head>Datong Zhisheng</head>
+<lb n="0294a15" ed="T" />
+<p xml:id="pT48p0294a1501">Because a monk asked Master Xingyang Rang: Datong Zhisheng Buddha sat at the place of awakening for ten kalpas;
+<lb n="0294a16" ed="T" />the Buddha Dharma did not appear before him, and he could not attain Buddhahood-what then? Rang said: That
+<lb n="0294a17" ed="T" />question is truly fitting. The monk said: Since he sat at the place of awakening, why could he not attain
+<lb n="0294a18" ed="T" />Buddhahood? Rang said: Because he did not become a Buddha.</p>
+<lb n="0294a19" ed="T" />
+<p xml:id="pT48p0294a1901" style="margin-left:1em">Wumen said: Only allow the old barbarian to know; do not allow the old barbarian to understand. If an ordinary person
+<lb n="0294a20" ed="T" />knows, he is a sage. If a sage understands, he is an ordinary person.</p>
+<lb n="0294a21" ed="T" />
+<p xml:id="pT48p0294a2101" style="margin-left:2em">The verse says:</p>
+<lb n="0294a22" ed="T" />
+<lg type="regular" xml:id="lgT48p0294a2201"><l>Ending the body is not as good as ending the mind and resting<caesura />when the mind is ended, the body has no worry</l>
+<lb n="0294a23" ed="T" />
+<l>If body and mind are both completely ended<caesura />why would a transcendent need to be further enfeoffed as a marquis</l></lg></cb:div>
+<lb n="0294a24" ed="T" />
+<cb:div type="other"><cb:mulu level="1" type="其他">Qingshui's Solitary Poverty</cb:mulu><head>Qingshui's Solitary Poverty</head>
+<lb n="0294a25" ed="T" />
+<p xml:id="pT48p0294a2501">Because a monk asked Master Caoshan: "Qingshui is solitary and poor; I beg the Master for relief." Shan
+<lb n="0294a26" ed="T" />said, "Tax, ācārya Tax!" Tax responded, "Yes." Shan said, "Qingyuan's White-house wine-three cups and
+<lb n="0294a27" ed="T" />you still say your lips have not been moistened."</p>
+<lb n="0294a28" ed="T" />
+<p xml:id="pT48p0294a2801" style="margin-left:1em">Wumen said: Qingshui yielded the functioning-what mind-action is that? Caoshan had the eye and deeply
+<lb n="0294a29" ed="T" />discerned the incoming opportunity. Even so, tell me: where is it that ācārya Tax ate
+<pb n="0294b" xml:id="T48.2005.0294b" ed="T" />
+<lb n="0294b01" ed="T" />the place of drinking wine.</p>
+<lb n="0294b02" ed="T" />
+<p xml:id="pT48p0294b0201" style="margin-left:2em">The verse says:</p>
+<lb n="0294b03" ed="T" />
+<lg type="regular" xml:id="lgT48p0294b0301"><l>Poor as Fan Dan<caesura />spirit like Xiang Yu<caesura />though there is no livelihood</l>
+<lb n="0294b04" ed="T" />
+<l>he dares to contend with the rich</l></lg></cb:div>
+<lb n="0294b05" ed="T" />
+<cb:div type="other"><cb:mulu level="1" type="其他">Zhou Examines the Hermit</cb:mulu><head>Zhou Examines the Hermit</head>
+<lb n="0294b06" ed="T" />
+<p xml:id="pT48p0294b0601">Zhaozhou went to a hermit's place and asked, "Is there? Is there?" The hermit raised his fist.
+<lb n="0294b07" ed="T" />Zhou said, "The water is shallow; this is not a place to moor a boat," and then left. Again he went to another hermit's place,
+<lb n="0294b08" ed="T" />saying, "Is there? Is there?" That hermit also raised his fist. Zhou said, "Able to let go, able to seize,
+<lb n="0294b09" ed="T" />able to kill, able to give life," and then made a bow.</p>
+<lb n="0294b10" ed="T" />
+<p xml:id="pT48p0294b1001" style="margin-left:1em">Wumen said: Both raised a fist alike-why then
+<lb n="0294b11" ed="T" />did he approve one and not approve one? Tell me, where is the error? If here
+<lb n="0294b12" ed="T" />you can utter a turning word, you will see Zhaozhou's tongue has no bone, able to support and able to topple,
+<lb n="0294b13" ed="T" />attaining great freedom. Even so, how could it be helped that Zhaozhou was nevertheless
+<lb n="0294b14" ed="T" />seen through by the two hermits? If you say the two hermits have superiority or inferiority, you do not yet have the eye of study. If
+<lb n="0294b15" ed="T" />you say there is no superiority or inferiority, you also do not yet have the eye of study.</p>
+<lb n="0294b16" ed="T" />
+<p xml:id="pT48p0294b1601" style="margin-left:2em">The verse says:</p>
+<lb n="0294b17" ed="T" />
+<lg xml:id="lgT48p0294b1701"><l>Eyes like shooting stars<caesura />function like a lightning flash<caesura />a knife that kills people<caesura />a sword that gives people life</l></lg></cb:div>
+<lb n="0294b18" ed="T" />
+<cb:div type="other"><cb:mulu level="1" type="其他">Yan Calls the Master</cb:mulu><head>Yan Calls the Master</head>
+<lb n="0294b19" ed="T" />
+<p xml:id="pT48p0294b1901">Master Ruiyan Yan, every day, would call to himself, "Master," and then himself would answer, "Yes." Then
+<lb n="0294b20" ed="T" />he would say, "Be alert, yes! Another time, another day, do not be deceived by others, yes, yes."</p>
+<lb n="0294b21" ed="T" />
+<p xml:id="pT48p0294b2101" style="margin-left:1em">Wumen said: Old Ruiyan buys and sells himself, producing all these divine
+<lb n="0294b22" ed="T" />heads and ghost faces. Why One that, calls, one that answers; one<g ref="#CB01374" />
+<lb n="0294b23" ed="T" />that is alert, one that is not deceived by others. If you recognize them, it is still not
+<lb n="0294b24" ed="T" />it. If you imitate him, it is entirely wild-fox understanding.</p>
+<lb n="0294b25" ed="T" />
+<p xml:id="pT48p0294b2501" style="margin-left:2em">The verse says:</p>
+<lb n="0294b26" ed="T" />
+<lg type="regular" xml:id="lgT48p0294b2601"><l>Those who study the Way do not recognize the true<caesura />only because from before they recognized a spirit</l>
+<lb n="0294b27" ed="T" />
+<l>The root of birth and death through immeasurable kalpas<caesura />fools call it the original person</l></lg></cb:div>
+<lb n="0294b28" ed="T" />
+<cb:div type="other"><cb:mulu level="1" type="其他">Deshan Carries His Bowl</cb:mulu><head>Deshan Carries His Bowl</head>
+<lb n="0294b29" ed="T" />
+<p xml:id="pT48p0294b2901">One day Deshan carried his bowl down from the hall. Seeing Xuefeng, Xuefeng asked, "Old fellow, the bell has not yet
+<pb n="0294c" xml:id="T48.2005.0294c" ed="T" />
+<lb n="0294c01" ed="T" />been rung and the drum has not yet sounded-where are you carrying your bowl to?" Deshan then returned to the abbot's quarters. Xuefeng brought it up
+<lb n="0294c02" ed="T" />to Yantou. Yantou said, "Great Deshan has not yet understood the last phrase." Deshan heard of it and ordered the
+<lb n="0294c03" ed="T" />attendant to call Yantou in. He asked, "You do not approve of this old monk?" Yantou secretly
+<lb n="0294c04" ed="T" />revealed his meaning. Deshan then let it rest. The next day he ascended the seat, and indeed it was different from usual.
+<lb n="0294c05" ed="T" />Yantou went before the monks' hall, clapped his hands, and laughed loudly, saying, "How glad I am the old fellow has understood
+<lb n="0294c06" ed="T" />the last phrase. Hereafter, people under heaven will have nothing they can do about him."</p>
+<lb n="0294c07" ed="T" />
+<p xml:id="pT48p0294c0701" style="margin-left:1em">Wumen said: As for the last phrase, Yantou and Deshan have both not even dreamed
+<lb n="0294c08" ed="T" />of it. When you check it out, it is like a shelf of puppets.</p>
+<lb n="0294c09" ed="T" />
+<p xml:id="pT48p0294c0901" style="margin-left:2em">The verse says:</p>
+<lb n="0294c10" ed="T" />
+<lg type="regular" xml:id="lgT48p0294c1001"><l>Recognize the first phrase<caesura />then you understand the last phrase</l>
+<lb n="0294c11" ed="T" />
+<l>The last and the first<caesura />are not this one phrase</l></lg></cb:div>
+<lb n="0294c12" ed="T" />
+<cb:div type="other"><cb:mulu level="1" type="其他">Nanquan Cuts the Cat</cb:mulu><head>Nanquan Cuts the Cat</head>
+<lb n="0294c13" ed="T" />
+<p xml:id="pT48p0294c1301">Master Nanquan, because the east and west halls were arguing over a cat, Nanquan lifted it up and said, "The
+<lb n="0294c14" ed="T" />assembly, if you can speak, you save it; if you cannot speak, I will cut it." The assembly had no reply. Nanquan then
+<lb n="0294c15" ed="T" />cut it. In the evening Zhaozhou returned from outside. Nanquan related it to Zhou. Zhou then took off his sandals and placed them on his
+<lb n="0294c16" ed="T" />head and went out. Nanquan said, "If you had been here, you would have saved the cat."</p>
+<lb n="0294c17" ed="T" />
+<p xml:id="pT48p0294c1701" style="margin-left:1em">Wumen said: Tell me, what was the meaning of Zhaozhou putting the grass sandals on his head? If here
+<lb n="0294c18" ed="T" />you can utter a turning word, you will see Nanquan's command was not carried out in vain. If
+<lb n="0294c19" ed="T" />it is not so, it is dangerous.</p>
+<lb n="0294c20" ed="T" />
+<p xml:id="pT48p0294c2001" style="margin-left:2em">The verse says:</p>
+<lb n="0294c21" ed="T" />
+<lg type="regular" xml:id="lgT48p0294c2101"><l>If Zhaozhou were there<caesura />he would have reversed this command<caesura />snatched away the knife</l>
+<lb n="0294c22" ed="T" />
+<l>Nanquan would beg for his life</l></lg></cb:div>
+<lb n="0294c23" ed="T" />
+<cb:div type="other"><cb:mulu level="1" type="其他">Dongshan's Three Blows</cb:mulu><head>Dongshan's Three Blows</head>
+<lb n="0294c24" ed="T" />
+<p xml:id="pT48p0294c2401">Because Yunmen, when Dongshan came to call on him, Yunmen asked, "Where have you just come from?" Dongshan said, "Chadu
+<lb n="0294c25" ed="T" />ford." Yunmen said, "Where did you spend the summer?" Dongshan said, "Baozi in Hunan." Yunmen said, "When did you
+<lb n="0294c26" ed="T" />leave there?" Dongshan said, "The twenty-fifth day of the eighth month." Yunmen said, "I spare you three blows." Dongshan
+<lb n="0294c27" ed="T" />the next day went up and again asked for instruction: "Yesterday you spared me three blows. I
+<lb n="0294c28" ed="T" />do not know where my fault was." Yunmen said, "Rice-bag! Jiangxi, Hunan-you go about like
+<lb n="0294c29" ed="T" />this!" At this Dongshan had great awakening.</p>
+<pb n="0295a" xml:id="T48.2005.0295a" ed="T" />
+<lb n="0295a01" ed="T" />
+<p xml:id="pT48p0295a0101" style="margin-left:1em">Wumen said: At that time Yunmen gave him his proper fodder, so that Dongshan
+<lb n="0295a02" ed="T" />had yet another living path; the household gate was not left desolate. All night he was in the sea of
+<lb n="0295a03" ed="T" />right and wrong, and only at dawn did he arrive. Coming again, he was given another piercing.
+<lb n="0295a04" ed="T" />Dongshan awakened straightaway; this was not a hurried temperament. Now I ask you all: did Dongshan's
+<lb n="0295a05" ed="T" />three blows deserve to be eaten or not? If you say they deserved to be eaten, grasses, trees, and forests
+<lb n="0295a06" ed="T" />all deserve to be beaten. If you say they did not deserve to be eaten, then Yunmen becomes a liar. If within
+<lb n="0295a07" ed="T" />this you can make it clear, only then will you breathe out with Dongshan.</p>
+<lb n="0295a08" ed="T" />
+<p xml:id="pT48p0295a0801" style="margin-left:2em">The verse says:</p>
+<lb n="0295a09" ed="T" />
+<lg type="regular" xml:id="lgT48p0295a0901"><l>The lion teaches its cub the trick of the lost one<caesura />before you can even feint and leap, you have already turned over</l>
+<lb n="0295a10" ed="T" />
+<l>Without cause he again recounts a head-on strike<caesura />the earlier arrow was still light, the later arrow is deep</l></lg></cb:div>
+<lb n="0295a11" ed="T" />
+<cb:div type="other"><cb:mulu level="1" type="其他">Seven Strips at the Bell Sound</cb:mulu><head>Seven Strips at the Bell Sound</head>
+<lb n="0295a12" ed="T" />
+<p xml:id="pT48p0295a1201">Yunmen said: The world is so vast-why, at the sound of the bell, do you put on seven strips?
+<lb n="0295a13" ed="T" />item.</p>
+<lb n="0295a13" ed="T" />
+<lb n="0295a14" ed="T" />
+<p xml:id="pT48p0295a1401" style="margin-left:1em">Wumen said: In general, in investigating Chan and studying the Way, one must strictly avoid following sound and chasing form. Even
+<lb n="0295a15" ed="T" />if you hear sound and awaken to the Way, or see form and illuminate the mind, this is ordinary. One does not know:
+<lb n="0295a16" ed="T" />the Chan monk's family rides sound and covers form; in every head it is bright, in every step it is wondrous. Yet
+<lb n="0295a17" ed="T" />even so, tell me: does sound come to the ear, or does the ear go to sound? Even if resonant
+<lb n="0295a18" ed="T" />and silent are both forgotten, how at this point do you speak understanding? If you listen with the ear it will be hard to understand;
+<lb n="0295a19" ed="T" />hearing sound at the place of the eye is only then intimate.</p>
+<lb n="0295a20" ed="T" />
+<p xml:id="pT48p0295a2001" style="margin-left:2em">The verse says:</p>
+<lb n="0295a21" ed="T" />
+<lg type="regular" xml:id="lgT48p0295a2101"><l>If you understand, affairs are the same as one household<caesura />if you do not understand, ten thousand distinctions and a thousand differences</l>
+<lb n="0295a22" ed="T" />
+<l>If you do not understand, affairs are the same as one household<caesura />if you understand, ten thousand distinctions and a thousand differences</l></lg></cb:div>
+<lb n="0295a23" ed="T" />
+<cb:div type="other"><cb:mulu level="1" type="其他">The National Teacher's Three Calls</cb:mulu><head>The National Teacher's Three Calls</head>
+<lb n="0295a24" ed="T" />
+<p xml:id="pT48p0295a2401">The National Teacher called the attendant three times; the attendant answered three times. The National Teacher said, "I thought I had
+<lb n="0295a25" ed="T" />failed you; it turns out it is you who have failed me."</p>
+<lb n="0295a26" ed="T" />
+<p xml:id="pT48p0295a2601" style="margin-left:1em">Wumen said: The National Teacher's three calls-his tongue falls to the ground. The attendant's three answers-he
+<lb n="0295a27" ed="T" />harmonizes the light and spits it out. The National Teacher is old and his heart is lonely; he presses the ox's head to eat grass. The attendant
+<lb n="0295a28" ed="T" />was unwilling to take it on. Fine food does not satisfy a person who eats in vain. Tell me, where
+<lb n="0295a29" ed="T" />is the place he failed? When the country is pure, talented sons are valued; when the household is rich, small children are pampered.</p>
+<pb n="0295b" xml:id="T48.2005.0295b" ed="T" />
+<lb n="0295b01" ed="T" />
+<p xml:id="pT48p0295b0101" style="margin-left:2em">The verse says:</p>
+<lb n="0295b02" ed="T" />
+<lg type="regular" xml:id="lgT48p0295b0201"><l>An iron cangue without a hole makes people carry it<caesura />it burdens children and grandchildren, not lightly</l>
+<lb n="0295b03" ed="T" />
+<l>To be able to brace the gate and prop the door<caesura />one must further go barefoot up a mountain of knives</l></lg></cb:div>
+<lb n="0295b04" ed="T" />
+<cb:div type="other"><cb:mulu level="1" type="其他">Dongshan's Three Pounds</cb:mulu><head>Dongshan's Three Pounds</head>
+<lb n="0295b05" ed="T" />
+<p xml:id="pT48p0295b0501">Master Dongshan, because a monk asked, "What is Buddha?" Dongshan said, "Three
+<lb n="0295b06" ed="T" />pounds of hemp."</p>
+<lb n="0295b07" ed="T" />
+<p xml:id="pT48p0295b0701" style="margin-left:1em">Wumen said: Old Dongshan has investigated some clam-and-oyster Chan. Just as he opened the two
+<lb n="0295b08" ed="T" />shells, he revealed liver and intestines. Even so, tell me: where do you see Dongshan?
+<lb n="0295b09" ed="T" />mountain.</p>
+<lb n="0295b09" ed="T" />
+<lb n="0295b10" ed="T" />
+<p xml:id="pT48p0295b1001" style="margin-left:2em">The verse says:</p>
+<lb n="0295b11" ed="T" />
+<lg type="regular" xml:id="lgT48p0295b1101"><l>He thrusts out "three pounds of hemp"<caesura />the words are intimate and the intent even more intimate</l>
+<lb n="0295b12" ed="T" />
+<l>Those who come to speak right and wrong<caesura />are precisely people of right and wrong</l></lg></cb:div>
+<lb n="0295b13" ed="T" />
+<cb:div type="other"><cb:mulu level="1" type="其他">Ordinary Mind Is the Way</cb:mulu><head>Ordinary Mind Is the Way</head>
+<lb n="0295b14" ed="T" />
+<p xml:id="pT48p0295b1401">Because Nanquan was asked by Zhaozhou, "What is the Way?" Nanquan said, "Ordinary mind is the Way."
+<lb n="0295b15" ed="T" />Zhou said, "Can it be aimed toward?" Nanquan said, "If you try to aim toward it, you deviate."
+<lb n="0295b16" ed="T" />Zhou said, "If one does not try, how does one know it is the Way?" Nanquan said, "The Way does not belong to knowing; it does not belong to not knowing. Knowing is
+<lb n="0295b17" ed="T" />deluded awareness; not knowing is indifference. If you truly reach the Way of not trying, it is like great
+<lb n="0295b18" ed="T" />emptiness, vast and open, utterly unobstructed-how could one forcibly make right and wrong?" At these words Zhaozhou suddenly awakened.</p>
+<lb n="0295b19" ed="T" />
+<p xml:id="pT48p0295b1901" style="margin-left:1em">Wumen said: Nanquan, pressed by Zhaozhou's question, came straight to
+<lb n="0295b20" ed="T" />tiles disintegrating and ice melting, unable to distinguish and separate. Even if Zhaozhou awakened,
+<lb n="0295b21" ed="T" />he still had to investigate for thirty more years before he attained it.</p>
+<lb n="0295b22" ed="T" />
+<p xml:id="pT48p0295b2201" style="margin-left:2em">The verse says:</p>
+<lb n="0295b23" ed="T" />
+<lg type="regular" xml:id="lgT48p0295b2301"><l>In spring there are a hundred flowers, in autumn there is the moon<caesura />in summer there is cool wind, in winter there is snow</l>
+<lb n="0295b24" ed="T" />
+<l>If there are no idle matters hanging in the mind<caesura />this is a fine season in the human world</l></lg></cb:div>
+<lb n="0295b25" ed="T" />
+<cb:div type="other"><cb:mulu level="1" type="其他">The Man of Great Strength</cb:mulu><head>The Man of Great Strength</head>
+<lb n="0295b26" ed="T" />
+<p xml:id="pT48p0295b2601">Master Songyuan said: Why is it that the man of great strength cannot lift his foot? He also said:
+<lb n="0295b27" ed="T" />When he opens his mouth, it is not on the tongue.</p>
+<lb n="0295b28" ed="T" />
+<p xml:id="pT48p0295b2801" style="margin-left:1em">Wumen said: Songyuan may be said to
+<lb n="0295b29" ed="T" />pour out his guts and spill his belly; he only lacks someone to take it up. Even if you take it up straightaway, it is just right to come to Wumen's place and receive a painful blow.
+<pb n="0295c" xml:id="T48.2005.0295c" ed="T" />
+<lb n="0295c01" ed="T" />Why<g ref="#CB01374"></g>? To know true gold, look at it in the fire.</p>
+<lb n="0295c02" ed="T" />
+<p xml:id="pT48p0295c0201" style="margin-left:2em">The verse says:</p>
+<lb n="0295c03" ed="T" />
+<lg type="regular" xml:id="lgT48p0295c0301"><l>Lift the foot and trample over the fragrant-water sea<caesura />lower the head and look down upon the four dhyāna heavens</l>
+<lb n="0295c04" ed="T" />
+<l>One whole body has nowhere to land<caesura />please continue one<anchor xml:id="nkr_note_add_0295c0401" n="0295c0401" /><anchor xml:id="beg0295c0401" n="0295c0401" />phrase<anchor xml:id="end0295c0401" /></l></lg></cb:div>
+<lb n="0295c05" ed="T" />
+<cb:div type="other"><cb:mulu level="1" type="其他">Yunmen's Dried Dung Stick</cb:mulu><head>Yunmen's Dried Dung Stick</head>
+<lb n="0295c06" ed="T" />
+<p xml:id="pT48p0295c0601">Because a monk asked Yunmen, "What is Buddha?" Yunmen said, "A dried dung stick."</p>
+<lb n="0295c07" ed="T" />
+<p xml:id="pT48p0295c0701" style="margin-left:1em">Wumen said: Yunmen may be said to: the household is poor and it is hard to distinguish plain food; affairs are busy and there is no
+<lb n="0295c08" ed="T" />time for cursive writing. At a move he brings out a dung stick to brace the gate and prop the door. The flourishing
+<lb n="0295c09" ed="T" />and decline of the Buddha Dharma can be seen.</p>
+<lb n="0295c10" ed="T" />
+<p xml:id="pT48p0295c1001" style="margin-left:2em">The verse says:</p>
+<lb n="0295c11" ed="T" />
+<lg xml:id="lgT48p0295c1101"><l>Lightning flash<caesura />spark from striking stone<caesura />in the blink of an eye<caesura />already missed</l></lg></cb:div>
+<lb n="0295c12" ed="T" />
+<cb:div type="other"><cb:mulu level="1" type="其他">Kāśyapa's Flagpole</cb:mulu><head>Kāśyapa's Flagpole</head>
+<lb n="0295c13" ed="T" />
+<p xml:id="pT48p0295c1301">Because Ānanda asked Kāśyapa, "Besides the World-Honored One's transmission of the gold-brocade robe, what else was separately transmitted?"
+<lb n="0295c14" ed="T" />Kāśyapa called, "Ānanda." Ānanda answered, "Yes." Kāśyapa said, "Knock down the flagpole in front of the gate."
+<lb n="0295c15" ed="T" />planted the monastery pole.</p>
+<lb n="0295c15" ed="T" />
+<lb n="0295c16" ed="T" />
+<p xml:id="pT48p0295c1601" style="margin-left:1em">Wumen said: If here you can utter a turning word, intimately you will see
+<lb n="0295c17" ed="T" />the assembly on Vulture Peak as if it has not dispersed. If it is not so, Vipāśyin Buddha
+<lb n="0295c18" ed="T" />early set his mind; up to now he has not attained the wondrous.</p>
+<lb n="0295c19" ed="T" />
+<p xml:id="pT48p0295c1901" style="margin-left:2em">The verse says:</p>
+<lb n="0295c20" ed="T" />
+<lg type="regular" xml:id="lgT48p0295c2001"><l>How is the asking-place compared to the answering-place as intimate<caesura />how many people here have sinews grow in their eyes</l>
+<lb n="0295c21" ed="T" />
+<l>Elder brother calls, younger brother answers, airing the family shame<caesura />not belonging to yin and yang, it is another spring</l></lg></cb:div>
+<lb n="0295c22" ed="T" />
+<cb:div type="other"><cb:mulu level="1" type="其他">Not Thinking Good or Evil</cb:mulu><head>Not Thinking Good or Evil</head>
+<lb n="0295c23" ed="T" />
+<p xml:id="pT48p0295c2301">Because the Sixth Patriarch was pursued by Senior Monk Ming to Dayu Ridge, the Patriarch, seeing Ming arrive, immediately threw down
+<lb n="0295c24" ed="T" />the robe and bowl on a rock and said, "This robe is the emblem of faith; can it be contended for by force? Let you take
+<lb n="0295c25" ed="T" />it." Ming then lifted it as if it were a mountain, unmoving. Hesitating and trembling, Ming said, "I came
+<lb n="0295c26" ed="T" />seeking the Dharma, not for the robe. I beg the practitioner to instruct me." The Patriarch said, "Do not think good, do not
+<lb n="0295c27" ed="T" />think evil-at just such a time, which is Senior Monk Ming's original face?" Ming
+<lb n="0295c28" ed="T" />at once had great awakening. His whole body sweated and flowed; weeping tears, he bowed and asked, "Beyond the previous secret
+<lb n="0295c29" ed="T" />words and secret meaning, is there further intent?" The Patriarch said, "What I now speak for you
+<pb n="0296a" xml:id="T48.2005.0296a" ed="T" />
+<lb n="0296a01" ed="T" />it is not secret. If you turn the light back and look upon your own original face, the secret is right by your
+<lb n="0296a02" ed="T" />side. Ming said, "Although I was at Huangmei following the assembly, in truth I had not awakened to my own original face.
+<lb n="0296a03" ed="T" />Now, receiving your pointing out of the place of entry, it is like a person drinking water, knowing for himself whether it is cold or warm. Now you, practitioner,
+<lb n="0296a04" ed="T" />are indeed my teacher." The Patriarch said, "If you are like this, then you and I
+<lb n="0296a05" ed="T" />share the same teacher, Huangmei. Guard and uphold it well."</p>
+<lb n="0296a06" ed="T" />
+<p xml:id="pT48p0296a0601" style="margin-left:1em">Wumen said: The Sixth Patriarch may be said to: when the matter is urgent, the household acts quickly; the old woman's heart is anxious.
+<lb n="0296a07" ed="T" />It is like a fresh lychee with the shell peeled off, the pit removed, and placed into your mouth.
+<lb n="0296a08" ed="T" />He only wants you to swallow it once.</p>
+<lb n="0296a09" ed="T" />
+<p xml:id="pT48p0296a0901" style="margin-left:2em">The verse says:</p>
+<lb n="0296a10" ed="T" />
+<lg type="regular" xml:id="lgT48p0296a1001"><l>It cannot be depicted, it cannot be painted<caesura />it cannot be praised, do not accept it as a favor</l>
+<lb n="0296a11" ed="T" />
+<l>The original face has nowhere to hide<caesura />when the world collapses, it does not decay</l></lg></cb:div>
+<lb n="0296a12" ed="T" />
+<cb:div type="other"><cb:mulu level="1" type="其他">Apart from Language</cb:mulu><head>Apart from Language</head>
+<lb n="0296a13" ed="T" />
+<p xml:id="pT48p0296a1301">Master Fengxue-because a monk asked, "Speech and silence involve subtle separation; how can one pass through without violating it?"
+<lb n="0296a14" ed="T" />Fengxue said, "I always recall, in Jiangnan in the third month, where the partridge cries, a hundred flowers are fragrant."</p>
+<lb n="0296a15" ed="T" />
+<p xml:id="pT48p0296a1501" style="margin-left:1em">Wumen said: Fengxue's function is like lightning; once he has the road, he goes. Yet how can it help that the person
+<lb n="0296a16" ed="T" />before him cannot stop his tongue. If here you see it intimately, of yourself there is
+<lb n="0296a17" ed="T" />a road to emerge. Now, apart from the samādhi of language-bring forth one phrase.</p>
+<lb n="0296a18" ed="T" />
+<p xml:id="pT48p0296a1801" style="margin-left:2em">The verse says:</p>
+<lb n="0296a19" ed="T" />
+<lg type="regular" xml:id="lgT48p0296a1901"><l>Not revealing the phrase of wind and bone<caesura />before speaking, already entrusted</l>
+<lb n="0296a20" ed="T" />
+<l>Advancing a step, the mouth mumbles on and on<caesura />I know you are greatly at a loss</l></lg></cb:div>
+<lb n="0296a21" ed="T" />
+<cb:div type="other"><cb:mulu level="1" type="其他">Preaching from the Third Seat</cb:mulu><head>Preaching from the Third Seat</head>
+<lb n="0296a22" ed="T" />
+<p xml:id="pT48p0296a2201">Master Yangshan dreamed he went to Maitreya's place and sat in the third seat. There was a venerable one
+<lb n="0296a23" ed="T" />who struck the gavel and said, "Today it is time for the third seat to preach the Dharma." Yangshan then rose and struck the gavel
+<lb n="0296a24" ed="T" />and said, "The Mahāyāna Dharma is apart from the four propositions and cuts off the hundred negations. Listen attentively, listen attentively."</p>
+<lb n="0296a25" ed="T" />
+<p xml:id="pT48p0296a2501" style="margin-left:1em">Wumen said: Tell me-was it preaching the Dharma or not preaching the Dharma? Open the mouth and you lose; close
+<lb n="0296a26" ed="T" />the mouth and you also lose. Not opening and not closing-one hundred and eight thousand.</p>
+<lb n="0296a27" ed="T" />
+<p xml:id="pT48p0296a2701" style="margin-left:2em">The verse says:</p>
+<lb n="0296a28" ed="T" />
+<lg type="regular" xml:id="lgT48p0296a2801"><l>Bright day, blue sky<caesura />in a dream, speaking a dream<caesura />pinch the strange, pinch the strange</l>
+<lb n="0296a29" ed="T" />
+<l>deceiving the whole assembly</l></lg></cb:div>
+<pb n="0296b" xml:id="T48.2005.0296b" ed="T" />
+<lb n="0296b01" ed="T" />
+<cb:div type="other"><cb:mulu level="1" type="其他">Two Monks Roll Up the Blind</cb:mulu><head>Two Monks Roll Up the Blind</head>
+<lb n="0296b02" ed="T" />
+<p xml:id="pT48p0296b0201">Qingliang, the Great Dharma Eye-because, before the meal, a monk came up for interview. The Eye pointed with his hand to the blind. At that time
+<lb n="0296b03" ed="T" />two monks together went and rolled up the blind. The Eye said, "One gains, one loses."</p>
+<lb n="0296b04" ed="T" />
+<p xml:id="pT48p0296b0401" style="margin-left:1em">Wumen said: Tell me-who gained and who lost? If here you place
+<lb n="0296b05" ed="T" />one eye, you will know where National Teacher Qingliang fell short. Yet even so,
+<lb n="0296b06" ed="T" />strictly avoid deliberating within gain and loss.</p>
+<lb n="0296b07" ed="T" />
+<p xml:id="pT48p0296b0701" style="margin-left:2em">The verse says:</p>
+<lb n="0296b08" ed="T" />
+<lg type="regular" xml:id="lgT48p0296b0801"><l>Rolled up, clearly it penetrates the great void<caesura />yet the great void still does not accord with my school</l>
+<lb n="0296b09" ed="T" />
+<l>Why not put it all down from emptiness<caesura />dense and fine, not letting wind pass through</l></lg></cb:div>
+<lb n="0296b10" ed="T" />
+<cb:div type="other"><cb:mulu level="1" type="其他">Not Mind, Not Buddha</cb:mulu><head>Not Mind, Not Buddha</head>
+<lb n="0296b11" ed="T" />
+<p xml:id="pT48p0296b1101">Master Nanquan-because a monk asked, "Is there a Dharma that you do not speak to people?"
+<lb n="0296b12" ed="T" />Nanquan said, "There is." The monk said, "What is the Dharma you do not speak to people?" Nanquan said, "Not
+<lb n="0296b13" ed="T" />mind, not Buddha, not a thing."</p>
+<lb n="0296b14" ed="T" />
+<p xml:id="pT48p0296b1401" style="margin-left:1em">Wumen said: Nanquan, by this one question, was driven to probe to the end all his household goods-he had
+<lb n="0296b15" ed="T" />not little on hand.</p>
+<lb n="0296b16" ed="T" />
+<p xml:id="pT48p0296b1601" style="margin-left:2em">The verse says:</p>
+<lb n="0296b17" ed="T" />
+<lg type="regular" xml:id="lgT48p0296b1701"><l>Repeated admonitions diminish your virtue<caesura />wordlessness truly has merit</l>
+<lb n="0296b18" ed="T" />
+<l>Let the blue sea change as it will<caesura />in the end I will not make it pass through for you</l></lg></cb:div>
+<lb n="0296b19" ed="T" />
+<cb:div type="other"><cb:mulu level="1" type="其他">Long Echo at Longtan</cb:mulu><head>Long Echo at Longtan</head>
+<lb n="0296b20" ed="T" />
+<p xml:id="pT48p0296b2001">Because Longtan was consulted by Deshan into the night, Longtan said, "The night is deep-why do you not go down?"
+<lb n="0296b21" ed="T" />Deshan then, with thanks, lifted the blind and went out. Seeing it was dark outside, he returned and said, "It is dark
+<lb n="0296b22" ed="T" />outside." Longtan then lit a paper candle and handed it over. As Deshan was about to take it, Longtan blew it out. Deshan
+<lb n="0296b23" ed="T" />hereupon suddenly had insight, and bowed. Longtan said, "What principle have you seen?"
+<lb n="0296b24" ed="T" />Deshan said, "From today onward, I will not doubt the tongues of the old monks under heaven."
+<lb n="0296b25" ed="T" />The next day Longtan ascended the hall and said, "Among you there is a fellow whose fangs are like
+<lb n="0296b26" ed="T" />sword-trees, whose mouth is like a basin of blood; a single blow cannot make him turn back. Another time, another day, atop
+<lb n="0296b27" ed="T" />a lone peak he will establish my Way there." Deshan then took his commentarial notes; before the Dharma hall
+<lb n="0296b28" ed="T" />he set a torch. Lifting them up he said, "To exhaust all subtle discriminations is like a single hair sent into the great
+<lb n="0296b29" ed="T" />void; to drain all the pivot of the world is like a single drop cast into a vast ravine." Then he burned the notes.
+<pb n="0296c" xml:id="T48.2005.0296c" ed="T" />
+<lb n="0296c01" ed="T" />Thus he bowed and took leave.</p>
+<lb n="0296c02" ed="T" />
+<p xml:id="pT48p0296c0201" style="margin-left:1em">Wumen said: Before Deshan passed the barrier, his mind was indignant and his mouth full of protest. He
+<lb n="0296c03" ed="T" />came to the south, intending to wipe out the meaning of a separate transmission outside the teachings. When he reached
+<lb n="0296c04" ed="T" />the road in Lizhou, he asked an old woman to buy refreshments. The old woman said, "Great Virtuous One, in your cart
+<lb n="0296c05" ed="T" />what writings are these?" Deshan said, "Diamond Sūtra commentarial notes." The old woman said, "Just as
+<lb n="0296c06" ed="T" />the sūtra says: the past mind cannot be grasped, the present mind cannot be grasped, the future mind cannot be grasped. Great Virtuous One,
+<lb n="0296c07" ed="T" />which mind do you want to refresh?" Deshan, by this
+<lb n="0296c08" ed="T" />one question, was left with a mouth like the eaves of a board. Yet even so, he would not die under the old
+<lb n="0296c09" ed="T" />woman's phrase. So he asked the old woman, "Nearby, what Chan master is there?"
+<lb n="0296c10" ed="T" />The old woman said, "Five li away is Master Longtan." When he reached Longtan, he swallowed up all his
+<lb n="0296c11" ed="T" />failings; it may be said his earlier words did not match his later words. Longtan was very much like one who pities
+<lb n="0296c12" ed="T" />a child and does not notice ugliness: seeing he had a little fire-seed, he hurriedly poured foul water,
+<lb n="0296c13" ed="T" />and all at once doused it, dousing it dead. Coldly looked at, it is a fine laugh.</p>
+<lb n="0296c14" ed="T" />
+<p xml:id="pT48p0296c1401" style="margin-left:2em">The verse says:</p>
+<lb n="0296c15" ed="T" />
+<lg type="regular" xml:id="lgT48p0296c1501"><l>Hearing the name is not as good as seeing the face<caesura />seeing the face is not as good as hearing the name</l>
+<lb n="0296c16" ed="T" />
+<l>Although it saves the nostrils<caesura />how can it help that it blinds the eyes</l></lg></cb:div>
+<lb n="0296c17" ed="T" />
+<cb:div type="other"><cb:mulu level="1" type="其他">Not Wind, Not Banner</cb:mulu><head>Not Wind, Not Banner</head>
+<lb n="0296c18" ed="T" />
+<p xml:id="pT48p0296c1801">Because the Sixth Patriarch, when the wind tossed the monastery banner, two monks debated. One said, "The banner moves." One
+<lb n="0296c19" ed="T" />said, "The wind moves." Back and forth, they never accorded with principle. The Patriarch said, "It is not the wind that moves, it is not
+<lb n="0296c20" ed="T" />the banner that moves; benevolent ones, it is your mind that moves." The two monks were startled.</p>
+<lb n="0296c21" ed="T" />
+<p xml:id="pT48p0296c2101" style="margin-left:1em">Wumen said: Not the wind moves, not the banner moves, not the mind moves-where
+<lb n="0296c22" ed="T" />do you see the patriarch? If here you see it intimately, only then will you know the two monks
+<lb n="0296c23" ed="T" />bought iron and got gold; the patriarch, unable to suppress a smile, let slip a leak.</p>
+<lb n="0296c24" ed="T" />
+<p xml:id="pT48p0296c2401" style="margin-left:2em">The verse says:</p>
+<lb n="0296c25" ed="T" />
+<lg type="regular" xml:id="lgT48p0296c2501"><l>Wind, banner, mind moving<caesura />all alike are taken in one hand<caesura />only knowing to open the mouth</l>
+<lb n="0296c26" ed="T" />
+<l>not realizing words fall through</l></lg></cb:div>
+<lb n="0296c27" ed="T" />
+<cb:div type="other"><cb:mulu level="1" type="其他">Mind Itself Is Buddha</cb:mulu><head>Mind Itself Is Buddha</head>
+<lb n="0296c28" ed="T" />
+<p xml:id="pT48p0296c2801">Because Mazu was asked by Damei, "What is Buddha?" The Patriarch said, "Mind itself is Buddha."</p>
+<lb n="0296c29" ed="T" />
+<p xml:id="pT48p0296c2901" style="margin-left:1em">Wumen said: If you can straightaway grasp it, you wear Buddha's robe and eat Buddha's
+<pb n="0297a" xml:id="T48.2005.0297a" ed="T" />
+<lb n="0297a01" ed="T" />eat Buddha's food. Speak Buddha's words and act Buddha's actions. That is Buddha. Even so, Damei has led many people
+<lb n="0297a02" ed="T" />to mistakenly take the fixed north star for certain. How could they know that saying the word "Buddha"
+<lb n="0297a03" ed="T" />requires rinsing one's mouth for three days. If he were a true man, on hearing "mind itself is Buddha," he would cover
+<lb n="0297a04" ed="T" />his ears and run.</p>
+<lb n="0297a05" ed="T" />
+<p xml:id="pT48p0297a0501" style="margin-left:2em">The verse says:</p>
+<lb n="0297a06" ed="T" />
+<lg type="regular" xml:id="lgT48p0297a0601"><l>Blue sky, bright day<caesura />strictly avoid seeking<caesura />to ask again "how?"</l>
+<lb n="0297a07" ed="T" />
+<l>is to hug stolen goods and cry injustice</l></lg></cb:div>
+<lb n="0297a08" ed="T" />
+<cb:div type="other"><cb:mulu level="1" type="其他">Zhaozhou Tests the Old Woman</cb:mulu><head>Zhaozhou Tests the Old Woman</head>
+<lb n="0297a09" ed="T" />
+<p xml:id="pT48p0297a0901">Because Zhaozhou asked an old woman, "Which way does the road to Mount Tai go?" The old woman said, "Go straight
+<lb n="0297a10" ed="T" />on." When the monk had gone three or five steps, the old woman said, "A fine monk-he goes off like that too."
+<lb n="0297a11" ed="T" />Later a monk reported this to Zhaozhou. Zhaozhou said, "Wait-I'll go test that
+<lb n="0297a12" ed="T" />old woman for you." The next day he went and asked in the same way. The old woman answered in the same way. Zhaozhou returned
+<lb n="0297a13" ed="T" />and said to the assembly, "I have tested through that Mount Tai old woman for you."</p>
+<lb n="0297a14" ed="T" />
+<p xml:id="pT48p0297a1401" style="margin-left:1em">Wumen said: The old woman only knew how to sit and plan within the curtains; yet she put her mark on the thief, not
+<lb n="0297a15" ed="T" />knowing that old man Zhaozhou was skilled at using the tactic of raiding the camp and seizing the fortress. And furthermore he has no
+<lb n="0297a16" ed="T" />great-man's marks. Examining it, both have fault. Tell me-where is it
+<lb n="0297a17" ed="T" />that Zhaozhou tested through the old woman?</p>
+<lb n="0297a18" ed="T" />
+<p xml:id="pT48p0297a1801" style="margin-left:2em">The verse says:</p>
+<lb n="0297a19" ed="T" />
+<lg type="regular" xml:id="lgT48p0297a1901"><l>The question is the same<caesura />the answer is also similar<caesura />sand in the rice</l>
+<lb n="0297a20" ed="T" />
+<l>thorns in the mud</l></lg></cb:div>
+<lb n="0297a21" ed="T" />
+<cb:div type="other"><cb:mulu level="1" type="其他">An Outsider Asks the Buddha</cb:mulu><head>An Outsider Asks the Buddha</head>
+<lb n="0297a22" ed="T" />
+<p xml:id="pT48p0297a2201">Because the World-Honored One was asked by an outsider, "I do not ask with words; I do not ask without words." The World-Honored One sat
+<lb n="0297a23" ed="T" />on his seat. The outsider praised him, saying, "The World-Honored One's great kindness and great compassion have opened my cloud of delusion and enabled
+<lb n="0297a24" ed="T" />me to enter." Then he made full bows and departed. Ānanda then asked the Buddha, "What has the outsider
+<lb n="0297a25" ed="T" />realized, that he praised you and departed?" The World-Honored One said, "Like a fine horse of the world that moves
+<lb n="0297a26" ed="T" />when it sees the shadow of the whip."</p>
+<lb n="0297a27" ed="T" />
+<p xml:id="pT48p0297a2701" style="margin-left:1em">Wumen said: Ānanda is a disciple of the Buddha, yet he is not as good as the outsider's understanding.
+<lb n="0297a28" ed="T" />Tell me-how far apart are the outsider and the Buddha's disciple?</p>
+<lb n="0297a29" ed="T" />
+<p xml:id="pT48p0297a2901" style="margin-left:2em">The verse says:</p>
+<pb n="0297b" xml:id="T48.2005.0297b" ed="T" />
+<lb n="0297b01" ed="T" />
+<lg type="regular" xml:id="lgT48p0297b0101"><l>Walking on a sword's edge<caesura />running on ice ridges<caesura />not treading steps</l>
+<lb n="0297b02" ed="T" />
+<l>over a cliff<anchor xml:id="nkr_note_orig_0297001" n="0297001" /><anchor xml:id="nkr_note_mod_0297001" n="0297001" /><anchor xml:id="beg0297001" n="0297001" />let<anchor xml:id="end0297001" /> go</l></lg></cb:div>
+<lb n="0297b03" ed="T" />
+<cb:div type="other"><cb:mulu level="1" type="其他">Not Mind, Not Buddha</cb:mulu><head>Not Mind, Not Buddha</head>
+<lb n="0297b04" ed="T" />
+<p xml:id="pT48p0297b0401">Because a monk asked Mazu, "What is Buddha?" The Patriarch said, "Not mind, not Buddha."</p>
+<lb n="0297b05" ed="T" />
+<p xml:id="pT48p0297b0501" style="margin-left:1em">Wumen said: If you see it here, your matter of practice is finished.</p>
+<lb n="0297b06" ed="T" />
+<p xml:id="pT48p0297b0601" style="margin-left:2em">The verse says:</p>
+<lb n="0297b07" ed="T" />
+<lg type="regular" xml:id="lgT48p0297b0701"><l>When you meet a swordsman on the road, you must present<caesura />if you do not meet a poet, do not offer</l>
+<lb n="0297b08" ed="T" />
+<l>When you meet people, speak only three parts<caesura />you cannot bestow the whole in one piece</l></lg></cb:div>
+<lb n="0297b09" ed="T" />
+<cb:div type="other"><cb:mulu level="1" type="其他">Wisdom Is Not the Way</cb:mulu><head>Wisdom Is Not the Way</head>
+<lb n="0297b10" ed="T" />
+<p xml:id="pT48p0297b1001">Nanquan said, "Mind is not Buddha; wisdom is not the Way."</p>
+<lb n="0297b11" ed="T" />
+<p xml:id="pT48p0297b1101" style="margin-left:1em">Wumen said: Nanquan may be said to be old and without shame. As soon as he opened his stinking mouth, the household
+<lb n="0297b12" ed="T" />shame was broadcast outside. Even so, those who know gratitude are few.</p>
+<lb n="0297b13" ed="T" />
+<p xml:id="pT48p0297b1301" style="margin-left:2em">The verse says:</p>
+<lb n="0297b14" ed="T" />
+<lg type="regular" xml:id="lgT48p0297b1401"><l>When the sky is clear, the sun comes out<caesura />when rain falls, the ground becomes wet</l>
+<lb n="0297b15" ed="T" />
+<l>I have said it all entirely<caesura />I only fear you will not be able to believe it</l></lg></cb:div>
+<lb n="0297b16" ed="T" />
+<cb:div type="other"><cb:mulu level="1" type="其他">Qiannü's Soul Leaves the Body</cb:mulu><head>Qiannü's Soul Leaves the Body</head>
+<lb n="0297b17" ed="T" />
+<p xml:id="pT48p0297b1701">The Fifth Patriarch asked a monk, "When Qiannü's soul left the body, which one was the real one?"</p>
+<lb n="0297b18" ed="T" />
+<p xml:id="pT48p0297b1801" style="margin-left:1em">Wumen said: If here you awaken to what is real, then you will know leaving the shell and entering
+<lb n="0297b19" ed="T" />the shell is like lodging at an inn. If it is not so, do not run about in confusion. Suddenly when
+<lb n="0297b20" ed="T" />earth, water, fire, and wind disperse, you will be like a crab dropped into boiling water, seven hands and eight feet. At that time
+<lb n="0297b21" ed="T" />do not say you were not told.</p>
+<lb n="0297b22" ed="T" />
+<p xml:id="pT48p0297b2201" style="margin-left:2em">The verse says:</p>
+<lb n="0297b23" ed="T" />
+<lg type="regular" xml:id="lgT48p0297b2301"><l>Clouds and moon are the same<caesura />streams and mountains each differ<caesura />ten thousand blessings, ten thousand blessings</l>
+<lb n="0297b24" ed="T" />
+<l>is it one, is it two</l></lg></cb:div>
+<lb n="0297b25" ed="T" />
+<cb:div type="other"><cb:mulu level="1" type="其他">Meeting the Adept on the Road</cb:mulu><head>Meeting the Adept on the Road</head>
+<lb n="0297b26" ed="T" />
+<p xml:id="pT48p0297b2601">The Fifth Patriarch said, "When you meet an adept on the road, do not respond with speech or silence. Tell me-what
+<lb n="0297b27" ed="T" />will you respond with?"</p>
+<lb n="0297b28" ed="T" />
+<p xml:id="pT48p0297b2801" style="margin-left:1em">Wumen said: If here you respond intimately, it is no harm to rejoice. If
+<lb n="0297b29" ed="T" />it is not so, you must also place your eyes everywhere.</p>
+<pb n="0297c" xml:id="T48.2005.0297c" ed="T" />
+<lb n="0297c01" ed="T" />
+<p xml:id="pT48p0297c0101" style="margin-left:2em">The verse says:</p>
+<lb n="0297c02" ed="T" />
+<lg type="regular" xml:id="lgT48p0297c0201"><l>Meeting an adept on the road<caesura />do not respond with speech or silence</l>
+<lb n="0297c03" ed="T" />
+<l>A fist splitting the cheeks, striking you in the face<caesura />if you understand straightaway, you understand</l></lg></cb:div>
+<lb n="0297c04" ed="T" />
+<cb:div type="other"><cb:mulu level="1" type="其他">Cypress Tree in the Courtyard</cb:mulu><head>Cypress Tree in the Courtyard</head>
+<lb n="0297c05" ed="T" />
+<p xml:id="pT48p0297c0501">Because a monk asked Zhaozhou, "What is the meaning of the patriarch's coming from the west?" Zhaozhou said, "The
+<lb n="0297c06" ed="T" />cypress tree in the courtyard."</p>
+<lb n="0297c07" ed="T" />
+<p xml:id="pT48p0297c0701" style="margin-left:1em">Wumen said: If at Zhaozhou's answer you see it intimately, before there is no Śākyamuni,
+<lb n="0297c08" ed="T" />after there is no Maitreya.</p>
+<lb n="0297c09" ed="T" />
+<p xml:id="pT48p0297c0901" style="margin-left:2em">The verse says:</p>
+<lb n="0297c10" ed="T" />
+<lg type="regular" xml:id="lgT48p0297c1001"><l>Words do not reveal the matter<caesura />speech does not hit the opportunity<caesura />those who take up the words lose</l>
+<lb n="0297c11" ed="T" />
+<l>those who cling to phrases are deluded</l></lg></cb:div>
+<lb n="0297c12" ed="T" />
+<cb:div type="other"><cb:mulu level="1" type="其他">An Ox Passing Through a Window Lattice</cb:mulu><head>An Ox Passing Through a Window Lattice</head>
+<lb n="0297c13" ed="T" />
+<p xml:id="pT48p0297c1301">The Fifth Patriarch said, "It is like a water-buffalo passing through a window lattice. Head, horns, and four hooves have all passed
+<lb n="0297c14" ed="T" />through. Why is it that the tail cannot pass through?"</p>
+<lb n="0297c15" ed="T" />
+<p xml:id="pT48p0297c1501" style="margin-left:1em">Wumen said: If here you turn things upside down and plant one eye, and bring forth
+<lb n="0297c16" ed="T" />a turning phrase, you can above repay the four favors and below aid the three realms of existence. If it is not
+<lb n="0297c17" ed="T" />so, you must further take care of the tail to the end.</p>
+<lb n="0297c18" ed="T" />
+<p xml:id="pT48p0297c1801" style="margin-left:2em">The verse says:</p>
+<lb n="0297c19" ed="T" />
+<lg type="regular" xml:id="lgT48p0297c1901"><l>Going past, you fall into a pit and trench<caesura />coming back, you are again ruined</l>
+<lb n="0297c20" ed="T" />
+<l>This little tail<caesura />truly is most strange</l></lg></cb:div>
+<lb n="0297c21" ed="T" />
+<cb:div type="other"><cb:mulu level="1" type="其他">Yunmen's Words Fall Through</cb:mulu><head>Yunmen's Words Fall Through</head>
+<lb n="0297c22" ed="T" />
+<p xml:id="pT48p0297c2201">Because a monk asked Yunmen, "Radiant quiescent illumination pervades like the sands of the river. In one phrase unceasing-" Yunmen
+<lb n="0297c23" ed="T" />abruptly said, "Isn't that the words of the scholar Zhang Zhuo?" The monk said, "It is." Yunmen said, "Your words fall through."
+<lb n="0297c24" ed="T" />Later Sixing picked it up and said, "Tell me-where is it that this monk's words fell through?"</p>
+<lb n="0297c25" ed="T" />
+<p xml:id="pT48p0297c2501" style="margin-left:1em">Wumen said: If here you see Yunmen's use, that monk in solitary peril-
+<lb n="0297c26" ed="T" />why did his words fall through? He is fit to be teacher of humans and devas. If you do not understand,
+<lb n="0297c27" ed="T" />you cannot save yourself.</p>
+<lb n="0297c28" ed="T" />
+<p xml:id="pT48p0297c2801" style="margin-left:2em">The verse says:</p>
+<lb n="0297c29" ed="T" />
+<lg type="regular" xml:id="lgT48p0297c2901"><l>Fishing in a swift current<caesura />the greedy-for-bait get caught<caesura />as soon as the mouth seam opens</l>
+<pb n="0298a" xml:id="T48.2005.0298a" ed="T" />
+<lb n="0298a01" ed="T" />
+<l>Life and fate are lost</l></lg></cb:div>
+<lb n="0298a02" ed="T" />
+<cb:div type="other"><cb:mulu level="1" type="其他">Weishan Kicks Over the Purifying Vase</cb:mulu><head>Weishan Kicks Over the Purifying Vase</head>
+<lb n="0298a03" ed="T" />
+<p xml:id="pT48p0298a0301">Weishan, while he was first in Baizhang's assembly, served as head cook. Baizhang was about to choose
+<lb n="0298a04" ed="T" />the master of Great Weishan, and asked the head seat, together with him, to speak before
+<lb n="0298a05" ed="T" />the assembly: whoever went beyond the pattern could go. Baizhang then lifted up a purifying vase,
+<lb n="0298a06" ed="T" />set it on the ground, and posed the question, saying, "You must not call it a purifying vase. What do you call it?" The head seat then said, "It cannot be called a wooden <g ref="#CB01269">post</g>."
+<lb n="0298a07" ed="T" />Then Baizhang asked Weishan. Weishan kicked over the purifying vase and left. Baizhang
+<lb n="0298a08" ed="T" />laughed and said, "The first seat has been outdone by Weishan." So he appointed him as the founding abbot.</p>
+<lb n="0298a09" ed="T" />
+<p xml:id="pT48p0298a0901" style="margin-left:1em">Wumen said: For one bout Weishan showed courage, yet he still could not leap out
+<lb n="0298a10" ed="T" />of Baizhang's enclosure. Examining it, it is heavy, not light. Why? Having taken off<g ref="#CB01374" />
+<lb n="0298a11" ed="T" />the headband, he shoulders an iron cangue.</p>
+<lb n="0298a12" ed="T" />
+<p xml:id="pT48p0298a1201" style="margin-left:2em">The verse says:</p>
+<lb n="0298a13" ed="T" />
+<lg type="regular" xml:id="lgT48p0298a1301"><l>He tossed down the bamboo basket and wooden ladle<caesura />in broad daylight one thrust cuts off all roundaboutness</l>
+<lb n="0298a14" ed="T" />
+<l>Baizhang's heavy barrier could not hold him back<caesura />with the tip of his foot he kicks out Buddhas like hemp</l></lg></cb:div>
+<lb n="0298a15" ed="T" />
+<cb:div type="other"><cb:mulu level="1" type="其他">Bodhidharma Pacifies the Mind</cb:mulu><head>Bodhidharma Pacifies the Mind</head>
+<lb n="0298a16" ed="T" />
+<p xml:id="pT48p0298a1601">Bodhidharma faced the wall. The Second Patriarch stood in the snow and cut off his arm, saying, "This disciple's mind is not at peace. I beg you,
+<lb n="0298a17" ed="T" />Master, pacify my mind." Bodhidharma said, "Bring me your mind, and I will pacify it for you." The Patriarch said, "Seeking the mind,
+<lb n="0298a18" ed="T" />it cannot be found." Bodhidharma said, "I have pacified your mind for you."</p>
+<lb n="0298a19" ed="T" />
+<p xml:id="pT48p0298a1901" style="margin-left:1em">Wumen said: The tooth-gapped old barbarian sailed ten thousand miles across the sea, coming on purpose.
+<lb n="0298a20" ed="T" />It may be said he raised waves where there was no wind. In the end he took in a single disciple,
+<lb n="0298a21" ed="T" />yet even he lacked the six faculties. Eh-Xie Sanlang did not recognize four characters.</p>
+<lb n="0298a22" ed="T" />
+<p xml:id="pT48p0298a2201" style="margin-left:2em">The verse says:</p>
+<lb n="0298a23" ed="T" />
+<lg type="regular" xml:id="lgT48p0298a2301"><l>Directly pointing from the West<caesura />the affair arose from an entrusting<caesura />stirring up the monasteries</l>
+<lb n="0298a24" ed="T" />
+<l>it turns out it was you</l></lg></cb:div>
+<lb n="0298a25" ed="T" />
+<cb:div type="other"><cb:mulu level="1" type="其他">A Woman Emerges from Samādhi</cb:mulu><head>A Woman Emerges from Samādhi</head>
+<lb n="0298a26" ed="T" />
+<p xml:id="pT48p0298a2601">In the past, the World-Honored One, because Mañjuśrī came to the place where the Buddhas assembled, encountered that the Buddhas had each returned to their original
+<lb n="0298a27" ed="T" />places. Only one woman remained, sitting close to that Buddha and entered into samādhi. Mañjuśrī then
+<lb n="0298a28" ed="T" />addressed the Buddha: how is it that this woman can sit close to the Buddha, while I cannot? The Buddha told Mañjuśrī,
+<lb n="0298a29" ed="T" />"You only need to awaken this woman and make her rise from samādhi; then you may question her yourself." Mañjuśrī
+<pb n="0298b" xml:id="T48.2005.0298b" ed="T" />
+<lb n="0298b01" ed="T" />circled the woman three times, snapped his fingers once, and then carried her up to the Brahmā Heaven. Exhausting his spiritual
+<lb n="0298b02" ed="T" />power, he still could not bring her out. The World-Honored One said, "Even if a hundred thousand Mañjuśrīs were here, they still could not bring this
+<lb n="0298b03" ed="T" />woman out of samādhi. Below, beyond twelve hundred million Ganges-sands of buddha-lands, there is
+<lb n="0298b04" ed="T" />the bodhisattva Wàngmíng. He can bring this woman out of samādhi." In an instant the great being Wàngmíng emerged from
+<lb n="0298b05" ed="T" />the earth, bowed to the World-Honored One, and the World-Honored One commanded Wàngmíng to go back to the woman.
+<lb n="0298b06" ed="T" />He snapped his fingers once, and the woman thereupon emerged from samādhi.</p>
+<lb n="0298b07" ed="T" />
+<p xml:id="pT48p0298b0701" style="margin-left:1em">Wumen said: Old Śākyamuni staged this mixed drama-quite
+<lb n="0298b08" ed="T" />unskilled. Tell me: Mañjuśrī is teacher of the seven Buddhas-why could he not bring the woman out of samādhi?
+<lb n="0298b09" ed="T" />Wàngmíng is a first-ground bodhisattva-why could he bring her out? If within this
+<lb n="0298b10" ed="T" />you see it intimately, karmic consciousness busily rushing is the great samādhi of the nāga.</p>
+<lb n="0298b11" ed="T" />
+<p xml:id="pT48p0298b1101" style="margin-left:2em">The verse says:</p>
+<lb n="0298b12" ed="T" />
+<lg type="regular" xml:id="lgT48p0298b1201"><l>Whether one can bring her out or cannot<caesura />she herself attains freedom</l>
+<lb n="0298b13" ed="T" />
+<l>Spirit heads and ghost faces<caesura />ruined gaps are truly elegant</l></lg></cb:div>
+<lb n="0298b14" ed="T" />
+<cb:div type="other"><cb:mulu level="1" type="其他">Shoushan's Bamboo Stick</cb:mulu><head>Shoushan's Bamboo Stick</head>
+<lb n="0298b15" ed="T" />
+<p xml:id="pT48p0298b1501">Shoushan, lifting up a bamboo stick, showed it to the assembly and said, "If you people call it
+<lb n="0298b16" ed="T" />a bamboo stick, you touch it. If you do not call it a bamboo stick, you turn your back on it. You all, tell me: what do you
+<lb n="0298b17" ed="T" />call it?"</p>
+<lb n="0298b18" ed="T" />
+<p xml:id="pT48p0298b1801" style="margin-left:1em">Wumen said: Call it a bamboo stick and you touch it; do not call it a bamboo stick and you turn your back on it.
+<lb n="0298b19" ed="T" />You must not have words; you must not have no words. Speak quickly, speak quickly.</p>
+<lb n="0298b20" ed="T" />
+<p xml:id="pT48p0298b2001" style="margin-left:2em">The verse says:</p>
+<lb n="0298b21" ed="T" />
+<lg type="regular" xml:id="lgT48p0298b2101"><l>He lifts up the bamboo stick<caesura />and carries out the command of killing and giving life<caesura />backing and touching gallop together</l>
+<lb n="0298b22" ed="T" />
+<l>Buddhas and patriarchs beg for their lives</l></lg></cb:div>
+<lb n="0298b23" ed="T" />
+<cb:div type="other"><cb:mulu level="1" type="其他">Bajiao's Staff</cb:mulu><head>Bajiao's Staff</head>
+<lb n="0298b24" ed="T" />
+<p xml:id="pT48p0298b2401">Bajiao showed the assembly and said, "If you have a staff, I give you a staff.
+<lb n="0298b25" ed="T" />If you do not have a staff, I take away your staff."</p>
+<lb n="0298b26" ed="T" />
+<p xml:id="pT48p0298b2601" style="margin-left:1em">Wumen said: Supporting you across the broken bridge's water, accompanying you back to the moonless village. If you call it
+<lb n="0298b27" ed="T" />a staff, you enter hell like an arrow.</p>
+<lb n="0298b28" ed="T" />
+<p xml:id="pT48p0298b2801" style="margin-left:2em">The verse says:</p>
+<lb n="0298b29" ed="T" />
+<lg type="regular" xml:id="lgT48p0298b2901"><l>The deep and the shallow of all quarters<caesura />are all within the grasp of the palm</l>
+<pb n="0298c" xml:id="T48.2005.0298c" ed="T" />
+<lb n="0298c01" ed="T" />
+<l>Propping up heaven and supporting earth<caesura />everywhere it stirs the school's wind</l></lg></cb:div>
+<lb n="0298c02" ed="T" />
+<cb:div type="other"><cb:mulu level="1" type="其他">Who Is He?</cb:mulu><head>Who Is He?</head>
+<lb n="0298c03" ed="T" />
+<p xml:id="pT48p0298c0301">Master Dongshan Yan said, "Śākyamuni and Maitreya are still his slaves. Tell me-who
+<lb n="0298c04" ed="T" />is he?"</p>
+<lb n="0298c05" ed="T" />
+<p xml:id="pT48p0298c0501" style="margin-left:1em">Wumen said: If you see him clearly, it is like meeting your own father
+<lb n="0298c06" ed="T" />at a crossroads. You no longer need to ask anyone else
+<lb n="0298c07" ed="T" />whether it is or is not.</p>
+<lb n="0298c08" ed="T" />
+<p xml:id="pT48p0298c0801" style="margin-left:2em">The verse says:</p>
+<lb n="0298c09" ed="T" />
+<lg type="regular" xml:id="lgT48p0298c0901"><l>Do not draw his bow<caesura />do not ride his horse<caesura />do not argue his right and wrong</l>
+<lb n="0298c10" ed="T" />
+<l>do not know his affairs</l></lg></cb:div>
+<lb n="0298c11" ed="T" />
+<cb:div type="other"><cb:mulu level="1" type="其他">Advancing from the Tip of a Pole</cb:mulu><head>Advancing from the Tip of a Pole</head>
+<lb n="0298c12" ed="T" />
+<p xml:id="pT48p0298c1201">Shishuang said, "How do you advance from the tip of a hundred-foot pole?" And an ancient worthy said,
+<lb n="0298c13" ed="T" />"A person who sits at the top of a hundred-foot pole-though he has entered, it is not yet true. At the top of a hundred-foot pole
+<lb n="0298c14" ed="T" />you must advance a step, and the ten directions' world manifests the full body."</p>
+<lb n="0298c15" ed="T" />
+<p xml:id="pT48p0298c1501" style="margin-left:1em">Wumen said: Advance a step and turn over the body-what place is there that is not worthy of reverence?
+<lb n="0298c16" ed="T" />Even so, tell me: how do you advance from the tip of a hundred-foot pole? Hah.</p>
+<lb n="0298c17" ed="T" />
+<p xml:id="pT48p0298c1701" style="margin-left:2em">The verse says:</p>
+<lb n="0298c18" ed="T" />
+<lg type="regular" xml:id="lgT48p0298c1801"><l>Blind the eye at the crown of the gate<caesura />mistakenly take the fixed north star</l>
+<lb n="0298c19" ed="T" />
+<l><g ref="#CB05270"></g>Body able to cast away life<caesura />one blind man leads a crowd of blind men</l></lg></cb:div>
+<lb n="0298c20" ed="T" />
+<cb:div type="other"><cb:mulu level="1" type="其他">Tuṣita's Three Barriers</cb:mulu><head>Tuṣita's Three Barriers</head>
+<lb n="0298c21" ed="T" />
+<p xml:id="pT48p0298c2101">Master Tuṣita Yue set up three barriers to question students: brushing aside grass to investigate the mysterious only
+<lb n="0298c22" ed="T" />seeks to see one's nature-right now, where is the venerable one's nature? Recognize your own nature, and only then
+<lb n="0298c23" ed="T" />escape birth and death-when the light of the eyes falls, how do you escape? Escape birth and death, and then
+<lb n="0298c24" ed="T" />you know where you go-when the four elements separate, where do you go?</p>
+<lb n="0298c25" ed="T" />
+<p xml:id="pT48p0298c2501" style="margin-left:1em">Wumen said: If you can bring forth these three turning phrases, then you can, wherever you are,
+<lb n="0298c26" ed="T" />be the master; encountering conditions, you are the school. If it is not so, coarse food is easily filling; fine chewing
+<lb n="0298c27" ed="T" />is hard to stave off hunger.</p>
+<lb n="0298c28" ed="T" />
+<p xml:id="pT48p0298c2801" style="margin-left:2em">The verse says:</p>
+<lb n="0298c29" ed="T" />
+<lg type="regular" xml:id="lgT48p0298c2901"><l>In one thought, universally contemplate immeasurable kalpas<caesura />the affairs of immeasurable kalpas are just now</l>
+<lb n="0298c30" ed="T" />
+<l>Now, see through this single thought<caesura />see through the person who sees through the now</l></lg></cb:div>
+<pb n="0299a" xml:id="T48.2005.0299a" ed="T" />
+<lb n="0299a01" ed="T" />
+<cb:div type="other"><cb:mulu level="1" type="其他">Qianfeng's One Road</cb:mulu><head>Qianfeng's One Road</head>
+<lb n="0299a02" ed="T" />
+<p xml:id="pT48p0299a0201">Master Qianfeng, because a monk asked, "The Bhagavāns of the ten directions, one road-the gate of nirvāṇa.
+<lb n="0299a03" ed="T" />I wonder, where is the road's entrance?" Feng picked up his staff, drew a line and said,
+<lb n="0299a04" ed="T" />"It's here." Later a monk went to inquire of Yunmen. Men picked up a fan and said, "The fan
+<lb n="0299a05" ed="T" />
+<g ref="#CB01387">tiger-</g>leaps and jumps, up to the Thirty-Three Heavens, and rams into Indra's nostrils; an East Sea carp
+<lb n="0299a06" ed="T" />is struck with one blow, and rain pours as if a basin were overturned."</p>
+<lb n="0299a07" ed="T" />
+<p xml:id="pT48p0299a0701" style="margin-left:1em">Wumen said: One person, down at the deep sea's bottom,
+<lb n="0299a08" ed="T" />sifts earth and raises dust; one person, atop a very high mountain,
+<lb n="0299a09" ed="T" />sets white waves surging to the sky. Holding fast and letting go, each
+puts out a single hand to uphold the school's vehicle-just like two <anchor xml:id="nkr_note_add_0299a0901" n="0299a0901" /><anchor xml:id="beg0299a0901" n="0299a0901" />camel<anchor xml:id="end0299a0901" />s crashing
+<lb n="0299a10" ed="T" />into each other. In the world there should be no straightforward person. With the true eye observing,
+<lb n="0299a11" ed="T" />these two great elders have never recognized where the road's entrance is.</p>
+<lb n="0299a12" ed="T" />
+<p xml:id="pT48p0299a1201" style="margin-left:2em">The verse says:</p>
+<lb n="0299a13" ed="T" />
+<lg type="regular" xml:id="lgT48p0299a1301"><l>Before lifting a foot, you have already arrived<caesura />before moving the tongue, you have already spoken</l>
+<lb n="0299a14" ed="T" />
+<l>Even if, in every move, you're ahead of the mechanism<caesura />you still must know there is an upward key</l></lg>
+<lb n="0299a15" ed="T" />
+<p xml:id="pT48p0299a1501" style="margin-left:1em">From above, the Buddhas and Patriarchs have handed down pivotal occasions; they cite the charge and close the case-there were originally no extra words.
+<lb n="0299a16" ed="T" />Flip off the skullcap and reveal the eyes; they are willing that people accept directly,
+<lb n="0299a17" ed="T" />not seeking from others. If you are a universally capable superior person, as soon as you hear it raised, you immediately know
+<lb n="0299a18" ed="T" />where it lands. There is no gate to enter, and no ranks to ascend. Swinging your arms,
+<lb n="0299a19" ed="T" />you pass the barrier, not asking the barrier guard. Have you not seen Xuansha say: the gate of liberation has no gate,
+<lb n="0299a20" ed="T" />the intention of the person of no-intention is no intention. And Baiyun said: clearly you know the Way,
+<lb n="0299a21" ed="T" />yet it's just this-why can't you get through? Speaking like this too
+<lb n="0299a22" ed="T" />is red earth smearing cow's milk. If you get through the Gateless Barrier, you have already foolishly set Wumen
+<lb n="0299a23" ed="T" />aside; if you cannot get through the Gateless Barrier, then you also betray your<anchor xml:id="nkr_note_add_0299a2301" n="0299a2301" /><anchor xml:id="beg0299a2301" n="0299a2301" />self<anchor xml:id="end0299a2301" />. What is called:
+<lb n="0299a24" ed="T" />the nirvāṇa mind is easy to understand; discriminating wisdom is hard to clarify. Clarify discriminating wisdom, and home
+<lb n="0299a25" ed="T" />and country will naturally be at peace. At the time, five days before the release from summer retreat in the first year of Shaoding's reign change, Yangqi's
+<lb n="0299a26" ed="T" />eighth-generation grandson, the bhikṣu Wumen Huikai, respectfully recorded.</p></cb:div>
+<lb n="0299a27" ed="T" />
+<cb:juan n="001" fun="close"><cb:jhead>End of the Gateless Barrier scroll</cb:jhead></cb:juan>
+<lb n="0299a28" ed="T" />
+<cb:div type="w"><cb:mulu level="1" type="附文">Letter by Wuliang Zongshou</cb:mulu><cb:div type="other"><cb:mulu level="2" type="其他">Zen Admonitions</cb:mulu><head>Zen Admonitions</head>
+<lb n="0299a29" ed="T" />
+<lg xml:id="lgT48p0299a2901" style="margin-left:0em;text-indent:0em;"><l>Follow rules and keep to measures. Without rope, bind yourself.Unhindered in all directions. The outsiders' demon army.Maintain<caesura style="text-indent:0em;" /><caesura style="text-indent:0em;" /><caesura style="text-indent:0em;" /><caesura style="text-indent:0em;" />
+<pb n="0299b" xml:id="T48.2005.0299b" ed="T" />
+<lb n="0299b01" ed="T" />The mind clear and still.</l><l>Silent illumination-perverse Chan. Indulging in forgetting conditions. Falling into a deep pit. Awake,<caesura style="text-indent:0em;" /><caesura style="text-indent:0em;" /><caesura style="text-indent:0em;" />
+<lb n="0299b02" ed="T" />awake yet not deluded.</l><l>Wearing chains and carrying a cangue. <caesura style="text-indent:0em;" />Thinking good, thinking evil. <caesura style="text-indent:0em;" />Hell and heaven. <caesura style="text-indent:0em;" />Seeing Buddha,
+<lb n="0299b03" ed="T" />seeing Dharma.</l><l>Encircled by two iron mountains. <caesura style="text-indent:0em;" />When a thought arises, at once aware. <caesura style="text-indent:0em;" />Toying with clever soul-men. <caesura style="text-indent:0em;" />Rigidly
+<lb n="0299b04" ed="T" />practicing meditation.</l><l>Ghostly household business. <caesura style="text-indent:0em;" />Advance and you lose the principle. <caesura style="text-indent:0em;" />Retreat and you go against the source. <caesura style="text-indent:0em;" />Not
+<lb n="0299b05" ed="T" />advancing, not retreating.</l><l>There is breath that kills a man. <caesura style="text-indent:0em;" />Tell me, how will you tread and practice? <caesura style="text-indent:0em;" />Strive-this very
+<lb n="0299b06" ed="T" />life must be settled.</l><l>Do not let endless kalpas suffer the remaining calamity.</l></lg></cb:div>
+<lb n="0299b07" ed="T" />
+<cb:div type="other"><cb:mulu level="2" type="其他">The Three Gates of Huanglong</cb:mulu><head>The Three Gates of Huanglong</head>
+<lb n="0299b08" ed="T" />
+<lg type="regular" xml:id="lgT48p0299b0801" style="margin-left:0em;text-indent:0em;"><l>How is my hand like the Buddha's hand? <caesura style="text-indent:0em;" />It can feel behind the pillow. <caesura style="text-indent:0em;" />Unaware, I burst into loud laughter,
+<lb n="0299b09" ed="T" />ha ha.</l><l>Originally, the whole body is hand.</l></lg>
+<lb n="0299b10" ed="T" />
+<lg type="regular" xml:id="lgT48p0299b1001" style="margin-left:0em;text-indent:0em;"><l>How is my foot like a donkey's foot? <caesura style="text-indent:0em;" />Before lifting a step, it is already treading. <caesura style="text-indent:0em;" />Let the four seas freely
+<lb n="0299b11" ed="T" />traverse.</l><l>Reversely straddling Yangqi's three-legged seat.</l></lg>
+<lb n="0299b12" ed="T" />
+<lg type="regular" xml:id="lgT48p0299b1201" style="margin-left:0em;text-indent:0em;"><l>Everyone has a birth condition. <caesura style="text-indent:0em;" />Each thoroughly penetrates before the mechanism. <caesura style="text-indent:0em;" />Nezha breaks his bones and returns them
+<lb n="0299b13" ed="T" />to his father.</l><l>Why would the Fifth Patriarch rely on paternal conditions?</l></lg>
+<lb n="0299b14" ed="T" />
+<lg type="regular" xml:id="lgT48p0299b1401" style="margin-left:0em;text-indent:0em;"><l>Buddha's hand, donkey's foot, birth condition. <caesura style="text-indent:0em;" />Not Buddha, not Dao, not Chan. <caesura style="text-indent:0em;" />Do not blame the Gateless Gate
+<lb n="0299b15" ed="T" />for being perilous.</l><l>It knots up the deep grievances of the patch-robed monks.</l></lg>
+<lb n="0299b16" ed="T" />
+<lg type="regular" xml:id="lgT48p0299b1601"><l>Recently at Ruiyan there is a Gateless One<caesura />who lifts it onto the rope bed to judge past and present</l>
+<lb n="0299b17" ed="T" />
+<l>The paths of ordinary and sage alike are all cut off<caesura />how many coiled, hibernating dragons raise thunderous sound</l></lg></cb:div>
+<lb n="0299b18" ed="T" />
+<p xml:id="pT48p0299b1801" style="margin-left:1em">Request</p>
+<lb n="0299b19" ed="T" />
+<p xml:id="pT48p0299b1901" style="margin-left:1em">Head Seat Wumen. A verse respectfully offered in thanks upon ascending Monk Mountain. In the gengyin year of Shaoding, late spring
+<lb n="0299b20" ed="T" />Wuliang<note place="inline">Zongshou</note>wrote.</p></cb:div>
+<lb n="0299b21" ed="T" />
+<cb:div type="xu"><cb:mulu level="1" type="序">Postscript by Meng Gong</cb:mulu><p xml:id="pT48p0299b2101" style="margin-left:1em">Bodhidharma came from the West. He did not cling to words and letters. He directly pointed to the human mind. Seeing one's nature, one becomes Buddha. To speak
+<lb n="0299b22" ed="T" />of direct pointing is already roundabout. To speak further of becoming Buddha is quite a mess. Since it is
+<lb n="0299b23" ed="T" />gateless, why then is there a barrier? With an old woman's anxious heart, harsh words spread abroad. Wuan wished
+<lb n="0299b24" ed="T" />to append something. One phrase again became forty-nine cases. Among them are a bit of error and confusion. Lift up
+<lb n="0299b25" ed="T" />your eyebrows and take it up. Reprinted in the summer of the yisi year of Chunyou.</p>
+<lb n="0299b26" ed="T" />
+<p xml:id="pT48p0299b2601" style="margin-left:1em">Acting Grand Guardian, Military Commissioner of Ningwu Army, Grand Pacification Commissioner and Grand Controller of Jinghu,
+<lb n="0299b27" ed="T" />concurrently Commissioner of Agricultural Colonies, concurrently Commissioner for Strategic Response of Kui Circuit, concurrently Prefect of Jiangling, Han
+<lb n="0299b28" ed="T" />dong Commandery Duke of the Founding State, granted a fief of two thousand one hundred households with six hundred households of actual enfeoffment</p>
+<lb n="0299b29" ed="T" />
+<p xml:id="pT48p0299b2901" style="margin-left:2em">Meng Gong Postscript</p></cb:div>
+<pb n="0299c" xml:id="T48.2005.0299c" ed="T" />
+<lb n="0299c01" ed="T" />
+<cb:div type="w"><cb:mulu level="1" type="附文">Letter by the Layman Anwan</cb:mulu><p xml:id="pT48p0299c0101">Old Chan master Wumen made forty-eight sayings, judging the public cases of the ancient worthies. It is greatly
+<lb n="0299c02" ed="T" />like selling fried cakes: he makes the buyer open his mouth to receive them, and once swallowed, he cannot spit them out.
+<lb n="0299c03" ed="T" />Yet even so, Anwan would like to set it on his hot stove and
+<lb n="0299c04" ed="T" />strike out one more, enough to complete the great number; then send it along as before. Who knows?</p>
+<lb n="0299c05" ed="T" />
+<p xml:id="pT48p0299c0501">From where does the old master sink his teeth? If in one mouthful you can eat it, it emits light and shakes the earth. If
+<lb n="0299c06" ed="T" />you still cannot, then even the present forty-eight
 will all turn into hot sand. Speak quickly,
-<lb n="0299c07" ed="T"/>speak quickly.</p>
-<lb n="0299c08" ed="T"/><cb:div type="other"><cb:mulu level="2" type="其他">The Forty-Ninth Saying</cb:mulu><head>The Forty-Ninth Saying</head>
-<lb n="0299c09" ed="T"/><p xml:id="pT48p0299c0901">The sutra says: Stop, stop—there is no need to speak; my Dharma is subtle and hard to conceive. Anwan said: From where does the Dharma
-<lb n="0299c10" ed="T"/>come? From where does the subtlety exist? When speaking, what is it like? It is not only Fenggan who has an overfull
-<lb n="0299c11" ed="T"/>tongue; originally it was Shakyamuni who had too many words. This old fellow manufactures monsters,
-<lb n="0299c12" ed="T"/>making sons and grandsons for a thousand or a hundred generations get toppled by vine-entanglements, still unable
-<lb n="0299c13" ed="T"/>to get their heads out. Such strange,
-extraordinary talk—no spoon can lift it up, no steamer can cook it through. How many have misrecognized it. Someone at the side
-<lb n="0299c14" ed="T"/>asked, saying: In the end, how should it be concluded? Anwan joined the ten fingers like claws and said:
-<lb n="0299c15" ed="T"/>Stop, stop—there is no need to speak; my Dharma is subtle and hard to conceive. Then he rushed to the two words “hard to conceive”
-<lb n="0299c16" ed="T"/>and made a small circular mark on them, pointing it out to the assembly. The Great Canon’s five thousand scrolls, the
-<lb n="0299c17" ed="T"/>Nondual Gate of Vimalakirti, are all within this.</p>
-<lb n="0299c18" ed="T"/><p xml:id="pT48p0299c1801" style="margin-left:2em">Verse says:</p>
-<lb n="0299c19" ed="T"/><lg type="regular" xml:id="lgT48p0299c1901"><l>Words and fire are the lamp<caesura/>turn the head and do not respond<caesura/>only a thief recognizes a thief</l>
-<lb n="0299c20" ed="T"/><l>with one question, he immediately accepts</l></lg></cb:div>
-<lb n="0299c21" ed="T"/><p xml:id="pT48p0299c2101" style="margin-left:1em">In the bingwu year of Chunyou, in the last month of summer, on the first auspicious day, the Layman Anwan wrote at the West Lake Fisherman’s
-<lb n="0299c22" ed="T"/>Manor</p>
-<lb n="0299c23" ed="T"/><p xml:id="pT48p0299c2301" style="margin-left:1em">Because the old blocks were worn away, craftsmen were again commissioned and the carving was completed. These blocks are placed at Wu
-<lb n="0299c24" ed="T"/>Cang Prefecture, Mount Tushita, Guangyuan Chan Monastery.</p>
-<lb n="0299c25" ed="T"/><p xml:id="pT48p0299c2501" style="margin-left:1em">On the thirteenth day of the tenth month in the yiyou year of Eio, the fundraising bhikshu Chang<anchor xml:id="nkr_note_add_0299c2501" n="0299c2501"/><anchor xml:id="beg0299c2501" n="0299c2501"/>Mu<anchor xml:id="end0299c2501"/></p></cb:div>
+<lb n="0299c07" ed="T" />speak quickly.</p>
+<lb n="0299c08" ed="T" />
+<cb:div type="other"><cb:mulu level="2" type="其他">The Forty-Ninth Saying</cb:mulu><head>The Forty-Ninth Saying</head>
+<lb n="0299c09" ed="T" />
+<p xml:id="pT48p0299c0901">The sutra says: Stop, stop-there is no need to speak; my Dharma is subtle and hard to conceive. Anwan said: From where does the Dharma
+<lb n="0299c10" ed="T" />come? From where does the subtlety exist? When speaking, what is it like? It is not only Fenggan who has an overfull
+<lb n="0299c11" ed="T" />tongue; originally it was Shakyamuni who had too many words. This old fellow manufactures monsters,
+<lb n="0299c12" ed="T" />making sons and grandsons for a thousand or a hundred generations get toppled by vine-entanglements, still unable
+<lb n="0299c13" ed="T" />to get their heads out. Such strange,
+extraordinary talk-no spoon can lift it up, no steamer can cook it through. How many have misrecognized it. Someone at the side
+<lb n="0299c14" ed="T" />asked, saying: In the end, how should it be concluded? Anwan joined the ten fingers like claws and said:
+<lb n="0299c15" ed="T" />Stop, stop-there is no need to speak; my Dharma is subtle and hard to conceive. Then he rushed to the two words "hard to conceive"
+<lb n="0299c16" ed="T" />and made a small circular mark on them, pointing it out to the assembly. The Great Canon's five thousand scrolls, the
+<lb n="0299c17" ed="T" />Nondual Gate of Vimalakirti, are all within this.</p>
+<lb n="0299c18" ed="T" />
+<p xml:id="pT48p0299c1801" style="margin-left:2em">Verse says:</p>
+<lb n="0299c19" ed="T" />
+<lg type="regular" xml:id="lgT48p0299c1901"><l>Words and fire are the lamp<caesura />turn the head and do not respond<caesura />only a thief recognizes a thief</l>
+<lb n="0299c20" ed="T" />
+<l>with one question, he immediately accepts</l></lg></cb:div>
+<lb n="0299c21" ed="T" />
+<p xml:id="pT48p0299c2101" style="margin-left:1em">In the bingwu year of Chunyou, in the last month of summer, on the first auspicious day, the Layman Anwan wrote at the West Lake Fisherman's
+<lb n="0299c22" ed="T" />Manor</p>
+<lb n="0299c23" ed="T" />
+<p xml:id="pT48p0299c2301" style="margin-left:1em">Because the old blocks were worn away, craftsmen were again commissioned and the carving was completed. These blocks are placed at Wu
+<lb n="0299c24" ed="T" />Cang Prefecture, Mount Tushita, Guangyuan Chan Monastery.</p>
+<lb n="0299c25" ed="T" />
+<p xml:id="pT48p0299c2501" style="margin-left:1em">On the thirteenth day of the tenth month in the yiyou year of Eio, the fundraising bhikshu Chang<anchor xml:id="nkr_note_add_0299c2501" n="0299c2501" /><anchor xml:id="beg0299c2501" n="0299c2501" />Mu<anchor xml:id="end0299c2501" /></p></cb:div>
 </body>
 <back>
 <cb:div type="apparatus">
-<head>校注</head>
+<head>Textual Notes</head>
 <p>
-<app from="#beg0292002" to="#end0292002"><lem wit="#wit.orig">因</lem><rdg resp="#resp2" wit="#wit1">恩</rdg></app>
-<app from="#beg0292b2201" to="#end0292b2201"><lem wit="#wit.cbeta" resp="#resp4">眨</lem><rdg wit="#wit.orig">貶</rdg></app>
-<app from="#beg0293a2501" to="#end0293a2501"><lem wit="#wit.cbeta" resp="#resp5" cb:provider="柳幹康（2019） (2019-03-31)"><space quantity="0"/><note type="cf1">《無門關》（日本國會圖書館藏寛永9年刊本第10b頁）</note><note type="cf2">柳幹康〈『無門関』三本の比較分析―附「駞子」 「馳子」考〉收於《花園大学国際禅学研究所論叢》14（2019）第8頁</note></lem><rdg wit="#wit.orig">無</rdg></app>
-<app from="#beg0295c0401" to="#end0295c0401"><lem wit="#wit.cbeta" resp="#resp4">句<note type="cf1">X65n1295_p0727c12</note><note type="cf2">X66n1297_p0491a18</note></lem><rdg wit="#wit.orig">向</rdg></app>
-<app from="#beg0297001" to="#end0297001"><lem wit="#wit.orig">撒</lem><rdg resp="#resp2" wit="#wit1">攃</rdg></app>
-<app from="#beg0299a0901" to="#end0299a0901"><lem wit="#wit.cbeta" resp="#resp5" cb:provider="柳幹康（2019） (2019-03-31)">駞<note type="cf1">《無門關》（慶應義塾大學圖書館藏室町末寫本第29a頁）</note><note type="cf2">柳幹康〈『無門関』三本の比較分析―附「駞子」 「馳子」考〉收於《花園大学国際禅学研究所論叢》14（2019）第8頁</note></lem><rdg wit="#wit.orig">馳</rdg></app>
-<app from="#beg0299a2301" to="#end0299a2301"><lem wit="#wit.cbeta" resp="#resp3">己</lem><rdg wit="#wit.orig">已</rdg></app>
-<app from="#beg0299c2501" to="#end0299c2501"><lem wit="#wit.cbeta" resp="#resp4">牧<note type="cf1">TW48n2005_p0299c25</note><note type="cf2">X67_p0700c24</note></lem><rdg wit="#wit.orig">收</rdg></app>
+<app from="#beg0292002" to="#end0292002"><lem wit="#wit.orig">yin</lem><rdg resp="#resp2" wit="#wit1">en</rdg></app>
+<app from="#beg0292b2201" to="#end0292b2201"><lem wit="#wit.cbeta" resp="#resp4">blink</lem><rdg wit="#wit.orig">disparage</rdg></app>
+<app from="#beg0293a2501" to="#end0293a2501"><lem wit="#wit.cbeta" resp="#resp5" cb:provider="柳幹康(2019) (2019-03-31)"><space quantity="0" /><note type="cf1">The Gateless Gate, Kan'ei 9 printed edition, p. 10b, held by the National Diet Library of Japan.</note><note type="cf2">Yanagi Mikiyasu, "Comparative Analysis of Three Editions of the Mumonkan, with Notes on 'Dazi' and 'Chizi'," in Hanazono University International Research Institute for Zen Studies Bulletin 14 (2019), p. 8.</note></lem><rdg wit="#wit.orig">none</rdg></app>
+<app from="#beg0295c0401" to="#end0295c0401"><lem wit="#wit.cbeta" resp="#resp4">Phrase<note type="cf1">X65n1295_p0727c12</note><note type="cf2">X66n1297_p0491a18</note></lem><rdg wit="#wit.orig">toward</rdg></app>
+<app from="#beg0297001" to="#end0297001"><lem wit="#wit.orig">scatter</lem><rdg resp="#resp2" wit="#wit1">wipe</rdg></app>
+<app from="#beg0299a0901" to="#end0299a0901"><lem wit="#wit.cbeta" resp="#resp5" cb:provider="柳幹康(2019) (2019-03-31)">tuo<note type="cf1">The Gateless Gate, late Muromachi manuscript, p. 29a, held by Keio University Library</note><note type="cf2">Yanagi Mikiyasu, Comparative Analysis of Three Versions of the Mumonkan, with an appendix on dazi and chizi, in Bulletin of the International Research Institute for Zen Studies, Hanazono University, 14, 2019, p. 8</note></lem><rdg wit="#wit.orig">gallop</rdg></app>
+<app from="#beg0299a2301" to="#end0299a2301"><lem wit="#wit.cbeta" resp="#resp3">self</lem><rdg wit="#wit.orig">already</rdg></app>
+<app from="#beg0299c2501" to="#end0299c2501"><lem wit="#wit.cbeta" resp="#resp4">mu<note type="cf1">TW48n2005_p0299c25</note><note type="cf2">X67_p0700c24</note></lem><rdg wit="#wit.orig">receive</rdg></app>
 </p>
 </cb:div>
 <cb:div type="cbeta-notes">
-<head>CBETA 校注</head>
+<head>CBETA Textual Notes</head>
 <p>
-<note n="0292002" resp="#resp3" type="mod" target="#nkr_note_mod_0292002">因【大】，恩【甲】</note>
-<note n="0297001" resp="#resp3" type="mod" target="#nkr_note_mod_0297001">撒【大】，攃【甲】</note>
+<note n="0292002" resp="#resp3" type="mod" target="#nkr_note_mod_0292002">yin Taisho, en Jia.</note>
+<note n="0297001" resp="#resp3" type="mod" target="#nkr_note_mod_0297001">sa Taisho, ca Jia.</note>
 </p>
 </cb:div>
 <cb:div type="taisho-notes">
-<head>大正藏 校注</head>
+<head>Taisho Canon Textual Notes</head>
 <p>
-<note n="0292001" resp="#resp2" place="foot text" type="orig" target="#nkr_note_orig_0292001">【原】寬永九年刊宗教大學藏本，【甲】延寶八年刊宗教大學藏本，禪宗無門關五字新加</note>
-<note n="0292002" resp="#resp2" place="foot text" type="orig" target="#nkr_note_orig_0292002">因＝恩【甲】</note>
-<note n="0297001" resp="#resp2" place="foot text" type="orig" target="#nkr_note_orig_0297001">撒＝攃【甲】</note>
+<note n="0292001" resp="#resp2" place="foot text" type="orig" target="#nkr_note_orig_0292001">Original: Kan'ei 9 printed edition, copy held by the University of Religion; Jia: Enpo 8 printed edition, copy held by the University of Religion; five characters "Chan School Wumen Guan" newly added.</note>
+<note n="0292002" resp="#resp2" place="foot text" type="orig" target="#nkr_note_orig_0292002">yin equals en in Jia.</note>
+<note n="0297001" resp="#resp2" place="foot text" type="orig" target="#nkr_note_orig_0297001">sa equals ca in Jia.</note>
 </p>
 </cb:div>
 <cb:div type="add-notes">
-<head>新增校注</head>
+<head>Newly Added Textual Notes</head>
 <p>
-<note n="0292b2201" resp="#resp3" type="add" target="#nkr_note_add_0292b2201">眨【CB】，貶【大】</note>
-<note n="0293a2501" resp="#resp3" type="add" cb:note_key="T48.0293a25.02" target="#nkr_note_add_0293a2501">［－］【CB】，無【大】</note>
-<note n="0295c0401" resp="#resp3" type="add" target="#nkr_note_add_0295c0401">句【CB】，向【大】</note>
-<note n="0299a0901" resp="#resp3" type="add" cb:note_key="T48.0299a09.13" target="#nkr_note_add_0299a0901">駞【CB】，馳【大】</note>
-<note n="0299a2301" resp="#resp3" type="add" target="#nkr_note_add_0299a2301">己【CB】，已【大】</note>
-<note n="0299c2501" resp="#resp3" type="add" target="#nkr_note_add_0299c2501">牧【CB】，收【大】</note>
+<note n="0292b2201" resp="#resp3" type="add" target="#nkr_note_add_0292b2201">blink CB, disparage Taisho.</note>
+<note n="0293a2501" resp="#resp3" type="add" cb:note_key="T48.0293a25.02" target="#nkr_note_add_0293a2501">omitted CB, none Taisho.</note>
+<note n="0295c0401" resp="#resp3" type="add" target="#nkr_note_add_0295c0401">phrase CB, toward Taisho.</note>
+<note n="0299a0901" resp="#resp3" type="add" cb:note_key="T48.0299a09.13" target="#nkr_note_add_0299a0901">datuo CB, gallop Taisho.</note>
+<note n="0299a2301" resp="#resp3" type="add" target="#nkr_note_add_0299a2301">self CB, already Taisho.</note>
+<note n="0299c2501" resp="#resp3" type="add" target="#nkr_note_add_0299c2501">herd CB, receive Taisho.</note>
 </p>
 </cb:div>
 </back></text></TEI>
