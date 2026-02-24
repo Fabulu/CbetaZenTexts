@@ -7,7 +7,7 @@
 			<title level="s">Taishō Tripiṭaka</title>
 			<title level="s" xml:lang="zh-Hant">Taishō Revised and Newly Edited Great Canon</title>
 			<title level="m" xml:lang="zh-Hant">Recorded Sayings of Chan Master Yuanzheng of Caoshan, Fuzhou</title>
-			<title>Taishō Tripiṭaka, Electronic version, No. 1987A 撫州曹山元證禪師語錄</title>
+			<title>Taisho Tripitaka, Electronic Version, No. 1987A Recorded Sayings of Chan Master Caoshan Yuanzheng of Fuzhou</title>
 			<title xml:lang="zh-Hant">Taishō Revised and Newly Edited Great Canon, Digital Edition, No. 1987A Recorded Sayings of Chan Master Yuanzheng of Caoshan, Fuzhou</title>
 			<author>Japan, edited by Huiyin</author>
 			<respStmt>
@@ -82,7 +82,7 @@
 	</profileDesc>
 	<revisionDesc>
 		<change when="2013-05-20">
-			<name>CW</name><name>Ray Chou 周邦信</name>P4 to P5 conversion by p4top5a.py, intended for publication
+			<name>CW</name><name>Ray Chou Zhou Bangxin</name>P4 to P5 conversion by p4top5a.py, intended for publication
 		</change>
 		<change when="2000-08-10T15:07:55">
 			CW (ed.) Created initial TEI XML version with BASICX.BAT (00/01/24)
@@ -95,7 +95,8 @@
 <lb n="0526b25" ed="T" />
 <lb n="0526b26" ed="T" />
 <cb:docNumber>No. 1987A</cb:docNumber>
-<lb n="0526b27" ed="T" /><note type="community" resp="dota2nub">Partial Translation using ChatGPT 5.2</note>
+<lb n="0526b27" ed="T" />
+<note type="community" resp="dota2nub">Partial Translation using ChatGPT 5.2</note>
 <cb:div type="xu"><cb:mulu level="1" type="序">Preface to the Recorded Sayings of Master Caoshan</cb:mulu><head><anchor xml:id="nkr_note_orig_0526001" n="0526001" />Preface to the Recorded Sayings of Master Caoshan</head>
 <lb n="0526b28" ed="T" />
 <lb n="0526b29" ed="T" />
@@ -207,7 +208,7 @@
 <lb n="0527c02" ed="T" />come closer. Rui stepped forward. The master said, Three cups of wine from the Bai family of Quanzhou, and after drinking them
 <lb n="0527c03" ed="T" />you still say your lips were not even wetted.</p>
 <lb n="0527c04" ed="T" />
-<p xml:id="pT47p0527c0401">Jingqing asked, What is it like when moss grows on the path of mind. The master said, Hard to find one who can speak of it.<note place="inline">音導</note>
+<p xml:id="pT47p0527c0401">Jingqing asked, What is it like when moss grows on the path of mind. The master said, Hard to find one who can speak of it.<note place="inline">Pronounced dao</note>
 <lb n="0527c05" ed="T" />Qing said, Where has it gone. The master said, One only sees the moss growing, and does not know where
 <lb n="0527c06" ed="T" />it has gone. He also asked, When, in the principle of pure emptiness, there is ultimately no body, how is it.
 <lb n="0527c07" ed="T" />The master said, The principle is just thus; but what about the concrete matter. Qing said, As the principle, so the matter.
@@ -453,11 +454,11 @@
 <lb n="0529c18" ed="T" />
 <p xml:id="pT47p0529c1801">The master read the Dharma-body verse composed by Dushun and Layman Fu, and then said, I do not wish
 <lb n="0529c19" ed="T" />to speak that way. The disciples asked him to compose another. He then composed a verse and also annotated
-<lb n="0529c20" ed="T" />it. Its words say: He is originally not I; I am originally not he. If he<note place="inline">非我</note><note place="inline">非渠</note>
-<lb n="0529c21" ed="T" />has no me, then he dies. If I have no he, then I remain. If he is like me, he is Buddha.<note place="inline">仰汝取活</note><anchor xml:id="nkr_note_orig_0529003" n="0529003" /><anchor xml:id="nkr_note_mod_0529003" n="0529003" /><anchor xml:id="beg0529003" n="0529003" /><anchor xml:id="end0529003" /><note place="inline">不別有</note>
-<lb n="0529c22" ed="T" />If I am like he, then I am a donkey. I do not eat the Empty King's stipend. Why<note place="inline">要且不是佛</note><note place="inline">二俱不立</note><note place="inline">若遇御飯直須吐却</note>
-<lb n="0529c23" ed="T" />rely on geese to carry a letter. I sing lying crosswise; you look at the hair on the back. It may seem like the Song of White Snow, yet I still fear it is a Ba song.<note place="inline">不通信</note><note place="inline">為信唱</note><note place="inline">不與
-<lb n="0529c24" ed="T" />爾相似</note><note place="inline">將謂是白雪</note><note place="inline">傳此句無註</note></p>
+<lb n="0529c20" ed="T" />it. Its words say: He is originally not I; I am originally not he. If he<note place="inline">Not me</note><note place="inline">Not him</note>
+<lb n="0529c21" ed="T" />has no me, then he dies. If I have no he, then I remain. If he is like me, he is Buddha.<note place="inline">I rely on you to bring it to life</note><anchor xml:id="nkr_note_orig_0529003" n="0529003" /><anchor xml:id="nkr_note_mod_0529003" n="0529003" /><anchor xml:id="beg0529003" n="0529003" /><anchor xml:id="end0529003" /><note place="inline">There is nothing separate</note>
+<lb n="0529c22" ed="T" />If I am like he, then I am a donkey. I do not eat the Empty King's stipend. Why<note place="inline">In any case, it is not Buddha</note><note place="inline">Neither of the two is established</note><note place="inline">If you encounter imperial food, you must spit it out</note>
+<lb n="0529c23" ed="T" />rely on geese to carry a letter. I sing lying crosswise; you look at the hair on the back. It may seem like the Song of White Snow, yet I still fear it is a Ba song.<note place="inline">No letter came through</note><note place="inline">Sung for the letter</note><note place="inline">Not with
+<lb n="0529c24" ed="T" />Similar to you</note><note place="inline">I would have said it was white snow</note><note place="inline">In this transmission, this line has no note</note></p>
 <lb n="0529c25" ed="T" />
 <p xml:id="pT47p0529c2501">The master gave a saying: There is a person who, from the edge of a ten-thousand-zhang cliff, leaps and drops straight down. This
 <lb n="0529c26" ed="T" />is what kind of person. The assembly had no reply. Daoyan came forth and said, Not existing. The master said, Not existing
@@ -622,13 +623,13 @@
 <lb n="0531b20" ed="T" />They buried his whole body on the western slope of the mountain. He was posthumously titled Chan Master Yuanzheng. His stupa was named Fuyuan.</p></cb:div>
 <lb n="0531b21" ed="T" />
 <lb n="0531b22" ed="T" />
-<cb:div type="other"><cb:mulu level="1" type="其他">Explanation of Dongshan’s Clear Instructions on the Five Ranks</cb:mulu><head>Explanation of Dongshan’s Clear Instructions on the Five Ranks<note place="inline">諸揀統會</note></head><byline>Recompiled by Ben Guang</byline>
+<cb:div type="other"><cb:mulu level="1" type="其他">Explanation of Dongshan’s Clear Instructions on the Five Ranks</cb:mulu><head>Explanation of Dongshan’s Clear Instructions on the Five Ranks<note place="inline">Various collations are gathered together</note></head><byline>Recompiled by Ben Guang</byline>
 <lb n="0531b23" ed="T" />
 <p xml:id="pT47p0531b2301">A separate selection says: As for what the former master clarified regarding the partial and the upright, and the combined and contiguous, all employs the former
 <lb n="0531b24" ed="T" />master’s original intent. It was not to clarify ranks of meritorious cultivation and progress, nor to involve doctrinal phrases. It is directly
 <lb n="0531b25" ed="T" />a mysterious discourse outside conventions, whose essential point is wondrous and ultimate. It only clarifies the manifestation of the thing itself from above, in hidden accord
 <lb n="0531b26" ed="T" />with the way of the ancient sages. Now I see various scholars interpreting and sorting the former worthies’ intention and measure, and it seems
-<lb n="0531b27" ed="T" />there are mistaken displays. I cannot avoid briefly setting forth their differences. One should be ashamed not to mix up their<note place="inline">音障</note><note place="inline">音貴</note>
+<lb n="0531b27" ed="T" />there are mistaken displays. I cannot avoid briefly setting forth their differences. One should be ashamed not to mix up their<note place="inline">Pronounced zhang</note><note place="inline">Pronounced gui</note>
 <lb n="0531b28" ed="T" />functions. Within this there are cases of borrowing rank to clarify function and borrowing function to clarify rank, with many different threads.
 <lb n="0531b29" ed="T" />Function is in the moment at hand. Look at the force with which the words come. Do not fail the incoming occasion. The subtlety lies in apt finesse
 <pb n="0531c" xml:id="T47.1987A.0531c" ed="T" />
@@ -718,7 +719,7 @@
 <lb n="0532b19" ed="T" />is one who pricks the feet and enters the mud. It is no small protection and support. Another selection says: mutual inclusion
 <lb n="0532b20" ed="T" />and carrying-along does not fall into speech or no-speech. Like Yaoshan's "wearing a sword" saying, this is
 <lb n="0532b21" ed="T" />an inclusion-saying. At the moment, look at the force with which the words arrive. Sometimes it goes straight at the head, face-on. Sometimes
-<lb n="0532b22" ed="T" />within otherness it is empty. If this is not subtly understood, then it is a thousand miles, ten thousand miles away. It also cites<note place="inline">句</note><note place="inline">句</note>
+<lb n="0532b22" ed="T" />within otherness it is empty. If this is not subtly understood, then it is a thousand miles, ten thousand miles away. It also cites<note place="inline">line</note><note place="inline">line</note>
 <lb n="0532b23" ed="T" />examples of sayings that come with mutual inclusion, like the Manjusri tea-drinking saying, and "Where has this person
 <lb n="0532b24" ed="T" />gone?" Yunyan said, "How? How?" And again said, "Right now, how is it?"
 <lb n="0532b25" ed="T" />There are many examples like this. Another time a selection said: mutual inclusion does not involve the two paths of bias and uprightness.
@@ -834,8 +835,8 @@
 <lb n="0533b22" ed="T" />place there is perfect penetration, faculties and dusts are thus still. The Correct within the Biased is Dui. The moon in water, the image in a mirror,
 <lb n="0533b23" ed="T" />originally have no arising or ceasing; how could there be tracks? Attainment in both together is doubled Li.
 <lb n="0533b24" ed="T" />The Correct need not be empty; the Biased need not be solid. No turning away, no turning toward. It is also said: the contrivances of mind are extinguished,
-<lb n="0533b25" ed="T" />cut off; form and emptiness are both forgotten. In the end there is no concealment. There has never been any change, still less<note place="inline">是云正</note><note place="inline">是云中</note>
-<lb n="0533b26" ed="T" />any covering up. The whole body appears exposed: this is called the Biased within the Correct. Mountain is mountain,<note place="inline">是云偏</note>
+<lb n="0533b25" ed="T" />cut off; form and emptiness are both forgotten. In the end there is no concealment. There has never been any change, still less<note place="inline">This is called the upright</note><note place="inline">This is called the middle</note>
+<lb n="0533b26" ed="T" />any covering up. The whole body appears exposed: this is called the Biased within the Correct. Mountain is mountain,<note place="inline">This is called the biased</note>
 <lb n="0533b27" ed="T" />water is water. No one assigns names; no thing can be compared to it. This is called the Correct within the Biased.
 <lb n="0533b28" ed="T" />Pure, naked, bare, bright and clean; the face and features dignified and stately. Filling heaven and filling earth, alone honored,
 <lb n="0533b29" ed="T" />without a second. This is called Coming within the Correct. Just like the Son of Heaven within the realm, not borrowing the commands of Yu, Tang,
@@ -849,10 +850,10 @@
 <lb n="0533c06" ed="T" />
 <p xml:id="pT47p0533c0601">The master said: ordinary feelings and saintly views melt away the mysterious road like gold. One must directly turn and interpenetrate. As for taking
 <lb n="0533c07" ed="T" />the food of right livelihood, one must possess the three kinds of falling: the water buffalo, not accepting food, and not cutting off
-<lb n="0533c08" ed="T" />sounds and forms, just falling away. On whose part is this matter? Selection says: If you wish<note place="inline">今案</note>
+<lb n="0533c08" ed="T" />sounds and forms, just falling away. On whose part is this matter? Selection says: If you wish<note place="inline">Present collation note</note>
 <lb n="0533c09" ed="T" />to know, it is entering among the different kinds, not acknowledging matters on the monk's side. Therefore the ancients
 <lb n="0533c10" ed="T" />provisionally borrowed the water buffalo as an image of a different kind. It is only a different kind in terms of affairs, not in speech
-<lb n="0533c11" ed="T" />as a different kind.<note place="inline">須看取四種異類中</note></p>
+<lb n="0533c11" ed="T" />as a different kind.<note place="inline">One must look into the four kinds of the different class</note></p>
 <lb n="0533c12" ed="T" />
 <p xml:id="pT47p0533c1201">At that time Chou Bunna asked: What kind of falling is the water buffalo? He said: Wearing hair and horns
 <lb n="0533c13" ed="T" />is the monk's falling. What kind of falling is not accepting food? He said: It is the noble falling. Not
@@ -874,7 +875,7 @@
 <lb n="0533c28" ed="T" />For example, the white ox in the open ground is the ultimate of dharma-body, yet one must still turn away from it to avoid
 <lb n="0533c29" ed="T" />sitting in a one-colored place without discernment. All this is spoken of as matters on the side of cut-off offering. If one wishes to
 <pb n="0534a" xml:id="T47.1987A.0534a" ed="T" />
-<note place="inline">法身白牛</note>
+<note place="inline">Dharma-body white ox</note>
 <lb n="0534a01" ed="T" />make offerings, one must attain this food. Therefore the flavorless flavor is also called the undefiled, which is
 <lb n="0534a02" ed="T" />fit for offering. All other foods touched and defiled are not the food of undefiled liberation.
 <lb n="0534a03" ed="T" />Someone asked Baizhang: What do you take as food? He said: The undefiled is food. Yunyan said:
@@ -883,7 +884,7 @@
 <lb n="0534a06" ed="T" />
 <p xml:id="pT47p0534a0601">It is also said: Not accepting food, the noble falling, means that food is a matter of one's own proper share. Knowing it is there
 <lb n="0534a07" ed="T" />yet not taking it, therefore it is called noble falling. Wearing hair and horns, the monk's falling, means not clinging
-<lb n="0534a08" ed="T" />to matters on the monk's side nor to the reward-positions of the saints. Not cutting off sounds and forms, the falling along with the kind,<anchor xml:id="nkr_note_orig_0534001" n="0534001" /><anchor xml:id="nkr_note_mod_0534001" n="0534001" /><anchor xml:id="beg0534001" n="0534001" /><anchor xml:id="end0534001" /><note place="inline">須看異類開示</note>
+<lb n="0534a08" ed="T" />to matters on the monk's side nor to the reward-positions of the saints. Not cutting off sounds and forms, the falling along with the kind,<anchor xml:id="nkr_note_orig_0534001" n="0534001" /><anchor xml:id="nkr_note_mod_0534001" n="0534001" /><anchor xml:id="beg0534001" n="0534001" /><anchor xml:id="end0534001" /><note place="inline">One must look at the teaching on the different class</note>
 <lb n="0534a09" ed="T" />means that beginners first know their own proper matter, and when turning the light back,
 <lb n="0534a10" ed="T" />they cast out forms, sounds, smells, tastes, touches, and dharmas, attaining quietude. Then, after merit is accomplished,
 <lb n="0534a11" ed="T" />they no longer cling to the six dusts, falling yet not deluded, letting it be without obstruction. Therefore it is said: The six teachers of the outsiders
@@ -913,8 +914,8 @@
 <lb n="0534b04" ed="T" />What is the water buffalo? He said: It does not certify to sagehood. What is holding a single stalk
 <lb n="0534b05" ed="T" />of grass? He said: Going where hair, feathers, and roots are alike. Is that transcending saints or transcending kinds? He said: It is transcending saints.
 <lb n="0534b06" ed="T" />Asked: What is the water buffalo? He said: Dark and dim, obscure and murky. What is holding in the mouth a
-<lb n="0534b07" ed="T" />stalk of grass and coming? He said: The ancients already said it: go where hair and feathers are alike. It is also said: One stalk of grass simply clarifies the unchanging. It is also said: Patriarchs<note place="inline">荷玉向自道取答古人語
-<lb n="0534b08" ed="T" />奈何</note><anchor xml:id="nkr_note_orig_0534005" n="0534005" /><anchor xml:id="nkr_note_mod_0534005" n="0534005" /><anchor xml:id="beg0534005" n="0534005" /><anchor xml:id="end0534005" />
+<lb n="0534b07" ed="T" />stalk of grass and coming? He said: The ancients already said it: go where hair and feathers are alike. It is also said: One stalk of grass simply clarifies the unchanging. It is also said: Patriarchs<note place="inline">Heyu himself stated this as a reply to an old saying
+<lb n="0534b08" ed="T" />What can be done</note><anchor xml:id="nkr_note_orig_0534005" n="0534005" /><anchor xml:id="nkr_note_mod_0534005" n="0534005" /><anchor xml:id="beg0534005" n="0534005" /><anchor xml:id="end0534005" />
 <lb n="0534b09" ed="T" />and Buddhas do not know of it, yet the civet-cat and white ox do know. Why do the civet-cat and white
 <lb n="0534b10" ed="T" />ox know of it? He said: Simply because they understand nothing at all. Then why do patriarchs and Buddhas
 <lb n="0534b11" ed="T" />not know of it? He said: Patriarchs are attached to the seal; Buddhas are likeness. As for the civet-cat
@@ -936,9 +937,9 @@
 <lb n="0534b24" ed="T" />has no way to be completed. Thus Nanquan said: First cross over there and know that there is, then come back
 <lb n="0534b25" ed="T" />to this side and set your pack in motion. It is also said: A bodhisattva possesses the six perfections and ten thousand practices. The teaching says: If there is
 <lb n="0534b26" ed="T" />even a single sentient being not yet delivered, I will never realize perfect awakening. Vows are boundless; sentient
-<lb n="0534b27" ed="T" />beings are boundless. Practicing and upholding in this way is therefore called the bodhisattva sharing the different kind.<anchor xml:id="nkr_note_orig_0534011" n="0534011" /><anchor xml:id="nkr_note_mod_0534011" n="0534011" /><anchor xml:id="beg0534011" n="0534011" /><anchor xml:id="end0534011" /><note place="inline">下云同中異類是同</note></p>
+<lb n="0534b27" ed="T" />beings are boundless. Practicing and upholding in this way is therefore called the bodhisattva sharing the different kind.<anchor xml:id="nkr_note_orig_0534011" n="0534011" /><anchor xml:id="nkr_note_mod_0534011" n="0534011" /><anchor xml:id="beg0534011" n="0534011" /><anchor xml:id="end0534011" /><note place="inline">Below it says the different class within sameness is sameness</note></p>
 <lb n="0534b28" ed="T" />
-<p xml:id="pT47p0534b2801">Third, the śramaṇa other-kind means first knowing there is the fundamental matter and finishing it.<note place="inline">後云披毛截角</note><anchor xml:id="beg_1" type="star" /><anchor xml:id="end_1" />
+<p xml:id="pT47p0534b2801">Third, the śramaṇa other-kind means first knowing there is the fundamental matter and finishing it.<note place="inline">Later it says fur-clad and horn-cut</note><anchor xml:id="beg_1" type="star" /><anchor xml:id="end_1" />
 <lb n="0534b29" ed="T" />One loses utterly all present worldly and holy causes and effects and virtuous practices; only then does one accord with the one body.
 <pb n="0534c" xml:id="T47.1987A.0534c" ed="T" />
 <lb n="0534c01" ed="T" />In this way one is called a person who stands alone, also called the śramaṇa matter of cutting off labels. Only then does one gain the outer and
@@ -947,7 +948,7 @@
 <lb n="0534c04" ed="T" />not entering the various superior reward stations, only then is it called śramaṇa practice.<anchor xml:id="nkr_note_orig_0534012" n="0534012" /><anchor xml:id="nkr_note_mod_0534012" n="0534012" /><anchor xml:id="beg0534012" n="0534012" /><anchor xml:id="end0534012" />
 <lb n="0534c05" ed="T" />It is also called the śramaṇa turning the body. It is also called wearing fur and bearing horns. It is also called a water buffalo,
 <lb n="0534c06" ed="T" />and only at such a time does one enter the other kind. It is also called the matter on the side of form-kind. Therefore
-<lb n="0534c07" ed="T" />the ancients said, head three feet long, neck two inches short. It is just<note place="inline">吉祥宗祖手澤中不云長</note>
+<lb n="0534c07" ed="T" />the ancients said, head three feet long, neck two inches short. It is just<note place="inline">In the handwritten legacy of the Auspicious lineage ancestors, it does not say long</note>
 <lb n="0534c08" ed="T" />this principle and must not be understood otherwise.</p>
 <lb n="0534c09" ed="T" />
 <p xml:id="pT47p0534c0901">Fourth, the other-kind within the school means as Nanquan said: where knowledge does not reach, strictly<anchor xml:id="beg_2" type="star" /><anchor xml:id="end_2" />
@@ -957,24 +958,24 @@
 <lb n="0534c13" ed="T" />said, this matter must be the empty one position, wholly without fixed marks. Face to face, carrying both,
 <lb n="0534c14" ed="T" />only thus is it attained. The words of a master are not biased, not upright, not existent, not nonexistent; this is called
 <lb n="0534c15" ed="T" />emptiness within the other kind. In this matter one must, as a true adept, place the body crosswise: meeting wood, attach to wood.<anchor xml:id="nkr_note_orig_0534014" n="0534014" /><anchor xml:id="nkr_note_mod_0534014" n="0534014" /><anchor xml:id="beg0534014" n="0534014" /><anchor xml:id="end0534014" />
-<lb n="0534c16" ed="T" />Meeting bamboo, attach to bamboo. One must guard against offense and collision. Take care, take care, take care, take care. A monk asked, what is the different. I said, if I were to tell you, then in the year of the donkey<note place="inline">自下問答皆以無舌
-<lb n="0534c17" ed="T" />語為中下道取上四異類</note>
+<lb n="0534c16" ed="T" />Meeting bamboo, attach to bamboo. One must guard against offense and collision. Take care, take care, take care, take care. A monk asked, what is the different. I said, if I were to tell you, then in the year of the donkey<note place="inline">From here on, the questions and answers all use tongueless speech
+<lb n="0534c17" ed="T" />The wording takes the middle and lower way to explain the above four different classes</note>
 <lb n="0534c18" ed="T" />would you get the different. Therefore someone asked Master Nanquan, after a hundred years, to what place<anchor xml:id="nkr_note_orig_0534015" n="0534015" /><anchor xml:id="nkr_note_mod_0534015" n="0534015" /><anchor xml:id="beg0534015" n="0534015" /><anchor xml:id="end0534015" /><anchor xml:id="nkr_note_orig_0534016" n="0534016" /><anchor xml:id="nkr_note_mod_0534016" n="0534016" /><anchor xml:id="beg0534016" n="0534016" /><anchor xml:id="end0534016" />
 <lb n="0534c19" ed="T" />will you go. Quan said, to the donor household below the mountain, to become a water buffalo<anchor xml:id="nkr_note_orig_0534017" n="0534017" />
-<lb n="0534c20" ed="T" />there. He said, may I follow the master there. Quan said, if you<note place="inline">彼此文別宗豈有異</note>
+<lb n="0534c20" ed="T" />there. He said, may I follow the master there. Quan said, if you<note place="inline">The wording differs here and there, but how could the school differ</note>
 <lb n="0534c21" ed="T" />would follow me, come holding a blade of grass in your mouth. I said, this water buffalo is not the same as<anchor xml:id="nkr_note_orig_0534018" n="0534018" /><anchor xml:id="nkr_note_mod_0534018" n="0534018" /><anchor xml:id="beg0534018" n="0534018" /><anchor xml:id="end0534018" />
 <lb n="0534c22" ed="T" />the śramaṇa water buffalo. You must be very careful, only then will you not be confused at the time.</p>
 <lb n="0534c23" ed="T" />
 <p xml:id="pT47p0534c2301">Asked, what is the other-kind of coming and going. I said, not yet knowing one has oneself. Then asked,
 <lb n="0534c24" ed="T" />all speech, sounds, forms, right and wrong are altogether the other-kind of coming and going. What is
-<lb n="0534c25" ed="T" />the other-kind within sameness. I said, not choosing its body. What is the fur-wearing and horn-bearing<note place="inline">菩薩</note>
-<lb n="0534c26" ed="T" />other-kind. I said, not setting up contact and purity. Also, at another time I answered: on meeting contact, contact;<note place="inline">沙門</note><note place="inline">當也</note>
+<lb n="0534c25" ed="T" />the other-kind within sameness. I said, not choosing its body. What is the fur-wearing and horn-bearing<note place="inline">bodhisattva</note>
+<lb n="0534c26" ed="T" />other-kind. I said, not setting up contact and purity. Also, at another time I answered: on meeting contact, contact;<note place="inline">śramaṇa</note><note place="inline">should be</note>
 <lb n="0534c27" ed="T" />on meeting purity, purity. What is the other-kind in the school. I said, if you want your head,
 <lb n="0534c28" ed="T" />then grind it off and take it away.<anchor xml:id="nkr_note_orig_0534019" n="0534019" /><anchor xml:id="nkr_note_mod_0534019" n="0534019" /><anchor xml:id="beg0534019" n="0534019" /><anchor xml:id="end0534019" /></p>
 <lb n="0534c29" ed="T" />
 <p xml:id="pT47p0534c2901">A monk brought this up. Because a monk asked Great Master Dongshan about śramaṇa practice, the Master said, head
 <pb n="0535a" xml:id="T47.1987A.0535a" ed="T" />
-<lb n="0535a01" ed="T" />three feet long, neck two inches short. What is this meaning. I said, a surpassing<note place="inline">新古兩本無有別異</note>
+<lb n="0535a01" ed="T" />three feet long, neck two inches short. What is this meaning. I said, a surpassing<note place="inline">The new and old editions have no difference</note>
 <lb n="0535a02" ed="T" />phrase, a wondrous phrase. What is called a surpassing phrase, a wondrous phrase. I said, surpassing and wondrous phrases
 <lb n="0535a03" ed="T" />have three kinds. First, the World-Honored One appeared in the world and for forty-nine years set forth expedient means.
 <lb n="0535a04" ed="T" />The twelve divisions of teaching, the hundred thousand samadhi wondrous gates, penetrating each gate to the end, all are<anchor xml:id="nkr_note_orig_0535001" n="0535001" /><anchor xml:id="nkr_note_mod_0535001" n="0535001" /><anchor xml:id="beg0535001" n="0535001" /><anchor xml:id="end0535001" />
@@ -990,7 +991,7 @@
 <lb n="0535a14" ed="T" />The wise cannot know it; those of highest capacity also do not recognize it. It is also said to be originally without<anchor xml:id="nkr_note_orig_0535003" n="0535003" /><anchor xml:id="nkr_note_mod_0535003" n="0535003" /><anchor xml:id="beg0535003" n="0535003" /><anchor xml:id="end0535003" />
 <lb n="0535a15" ed="T" />likeness. Therefore it is a surpassing phrase, a wondrous phrase. A surpassing phrase, a wondrous phrase, is that which heaven and humanity cannot measure.
 <lb n="0535a16" ed="T" />It is a matter beyond measurement. Therefore the ancients called it the phrase surpassing beginning and end. Borrowing this
-<lb n="0535a17" ed="T" />as speech from the side of language-kind, Xingchou the patched-robe monk asked, what is form-kind.<note place="inline">至下益詳</note>
+<lb n="0535a17" ed="T" />as speech from the side of language-kind, Xingchou the patched-robe monk asked, what is form-kind.<note place="inline">Further below it is more detailed</note>
 <lb n="0535a18" ed="T" />I said, wearing fur and bearing horns. What is language-kind. He said, Caoshan has only one
 <lb n="0535a19" ed="T" />pair of eyebrows. What is the water buffalo. He said, dim and muddled-eyed. What is the meaning of this.<anchor xml:id="nkr_note_orig_0535004" n="0535004" /><anchor xml:id="nkr_note_mod_0535004" n="0535004" /><anchor xml:id="beg0535004" n="0535004" /><anchor xml:id="end0535004" />
 <lb n="0535a20" ed="T" />He said, not knowing there is heaven and earth.</p>
@@ -999,18 +1000,18 @@
 <lb n="0535a22" ed="T" />I raised one son. His head is three feet long and his neck two inches short. Up to<anchor xml:id="nkr_note_orig_0535007" n="0535007" /><anchor xml:id="nkr_note_mod_0535007" n="0535007" /><anchor xml:id="beg0535007" n="0535007" /><anchor xml:id="end0535007" /><anchor xml:id="nkr_note_orig_0535008" n="0535008" /><anchor xml:id="nkr_note_mod_0535008" n="0535008" /><anchor xml:id="beg0535008" n="0535008" />
 <lb n="0535a23" ed="T" />now I can do nothing about him. What is that son raised from youth. Ju said,<anchor xml:id="end0535008" /><anchor xml:id="nkr_note_orig_0535009" n="0535009" /><anchor xml:id="nkr_note_mod_0535009" n="0535009" /><anchor xml:id="beg0535009" n="0535009" /><anchor xml:id="end0535009" />
 <lb n="0535a24" ed="T" />daily provision, hard to forget. What is head three feet long. He said, no way to manage it. What
-<lb n="0535a25" ed="T" />is neck two inches short. He said, up to now can you still do anything about it or not. Asked, what is daily provision hard to forget. I said, it is just always present. What<note place="inline">一本作後舉問師。一
-<lb n="0535a26" ed="T" />本連上猶為雲居話</note>
+<lb n="0535a25" ed="T" />is neck two inches short. He said, up to now can you still do anything about it or not. Asked, what is daily provision hard to forget. I said, it is just always present. What<note place="inline">One edition has later it raises a question to the master. One
+<lb n="0535a26" ed="T" />One edition connects it above and still treats it as Yunju's words</note>
 <lb n="0535a27" ed="T" />is always present. He said, not turning away from it is it. What is no way to manage it. He said,
 <lb n="0535a28" ed="T" />when it reaches such a time, what person could do anything about it. Up to now, can you still do anything about it or not.
 <lb n="0535a29" ed="T" />What is the meaning of this. He said, the Buddhas of the three times cannot do anything about it. What
 <pb n="0535b" xml:id="T47.1987A.0535b" ed="T" />
-<note place="inline">一本迄此雲居山話</note>
+<note place="inline">One edition ends Yunju Mountain's words here</note>
 <lb n="0535b01" ed="T" />is head three feet long, neck two inches short. He said, it is not a matter from the very beginning. What
 <lb n="0535b02" ed="T" />is the matter from the very beginning. He said, what would you call it.</p>
 <lb n="0535b03" ed="T" />
 <p xml:id="pT47p0535b0301">Asked, what practice does the śramaṇa practice. He said, the practice of beasts. What is the beast
-<lb n="0535b04" ed="T" />practice. He said, wearing fur and bearing horns. What is śramaṇa practice. He said, in each and every thing<note place="inline">披毛戴角</note>
+<lb n="0535b04" ed="T" />practice. He said, wearing fur and bearing horns. What is śramaṇa practice. He said, in each and every thing<note place="inline">Fur-clad and horned</note>
 <lb n="0535b05" ed="T" />without interruption. What is the uninterrupted matter. He said, only then is it practice. What is
 <lb n="0535b06" ed="T" />the person who wears fur and bears horns. He said, not fearing karma. Why does one arrive at such a place.
 <lb n="0535b07" ed="T" />He said, if one does not fear karma, what place could one fail to reach.</p>
@@ -1042,14 +1043,14 @@
 <lb n="0535c02" ed="T" />place. He further said, this unchanging matter has two kinds. First, every<anchor xml:id="nkr_note_orig_0535012" n="0535012" /><anchor xml:id="nkr_note_mod_0535012" n="0535012" /><anchor xml:id="beg0535012" n="0535012" /><anchor xml:id="end0535012" />
 <lb n="0535c03" ed="T" />person has the fundamental matter. Second, a person who knows this does not abandon any sounds,
 <lb n="0535c04" ed="T" />forms, rights and wrongs, and is not stuck on any thing whatsoever. This is called unchanging in every place.
-<lb n="0535c05" ed="T" />It is also called wearing fur and bearing horns. It is also called entering mud and entering water.<note place="inline">蓋去聲音異</note>
+<lb n="0535c05" ed="T" />It is also called wearing fur and bearing horns. It is also called entering mud and entering water.<note place="inline">Probably a difference in the departing-tone pronunciation</note>
 <lb n="0535c06" ed="T" />It is also called a fellow of the traveling gear. Asked, what is entering mud and entering water. He said, not
 <lb n="0535c07" ed="T" />changing. Does he turn the body or not. He said, he does not turn the body. What are this person’s household matters.
 <lb n="0535c08" ed="T" />He said, the various sages cannot measure them. Why can they not measure them. He said, because he is not the same as
 <lb n="0535c09" ed="T" />the various sages. This is still a matter on the side of kind. Is there still a higher matter. He said, yes. What
 <lb n="0535c10" ed="T" />is the higher matter. He said, if I tell you, I fear it will fall onto the side of kind.</p></cb:div>
 <lb n="0535c11" ed="T" />
-<cb:div type="other"><cb:mulu level="1" type="其他">Third, Lamp-Lighting</cb:mulu><head>Third, Lamp-Lighting<note place="inline">前後正三</note></head>
+<cb:div type="other"><cb:mulu level="1" type="其他">Third, Lamp-Lighting</cb:mulu><head>Third, Lamp-Lighting<note place="inline">The upright three before and after</note></head>
 <lb n="0535c12" ed="T" />
 <p xml:id="pT47p0535c1201">The Master said, as for before Lamp-Lighting, there are two kinds. First, not yet knowing there is, the same as the blood of kind.
 <lb n="0535c13" ed="T" />milk. Second is knowing that there is, like obtaining the original thing before intention has even sprouted. This is called the Lamp-Before.
@@ -1058,145 +1059,108 @@
 <lb n="0535c16" ed="T" />This is called the Lamp-After. It is simply that the affairs of the three times are exhausted, inner and outer sentiments are forgotten, and one attains no
 <lb n="0535c17" ed="T" />interruption. Only then does it first deserve the name of the true Lamp-Lighting, and thus it is said to receive prediction.</p></cb:div>
 <lb n="0535c18" ed="T" />
-<cb:juan n="001" fun="close"><cb:jhead>Recorded Sayings of Chan Master Caoshan Yuanzheng of Fuzhou<note place="inline">終</note></cb:jhead></cb:juan>
+<cb:juan n="001" fun="close"><cb:jhead>Recorded Sayings of Chan Master Caoshan Yuanzheng of Fuzhou<note place="inline">End</note></cb:jhead></cb:juan>
 </body>
 <back>
 <cb:div type="apparatus">
-<head>校注</head>
-<p>
-<app from="#beg0528b0901" to="#end0528b0901"><lem wit="#wit.cbeta" resp="#resp4">闍<note type="cf1">T47n1987Bp0538a25</note><note type="cf2">X66n1297_p0659c10</note></lem><rdg wit="#wit.orig">闇</rdg></app>
-<app from="#beg0528001" to="#end0528001"><lem wit="#wit.orig">好</lem><rdg resp="#resp2" wit="#wit1" type="variantRemark">愛</rdg></app>
-<app from="#beg0529003" to="#end0529003"><lem resp="#resp2" wit="#wit.orig">余</lem><rdg resp="#resp2" wit="#wit1" type="correctionRemark">餘</rdg></app>
-<app from="#beg0530a1401" to="#end0530a1401"><lem wit="#wit.cbeta" resp="#resp4">閒</lem><rdg wit="#wit.orig">間</rdg></app>
-<app from="#beg0531004" to="#end0531004"><lem wit="#wit.orig">觀</lem><rdg resp="#resp2" wit="#wit1" type="variantRemark">官</rdg></app>
-<app from="#beg0533001" to="#end0533001"><lem wit="#wit.orig">歸</lem><rdg resp="#resp2" wit="#wit1" type="variantRemark">來</rdg></app>
-<app from="#beg0534001" to="#end0534001"><lem wit="#wit.orig">聖</lem><rdg resp="#resp2" wit="#wit1" type="variantRemark">勝</rdg></app>
-<app from="#beg0534002" to="#end0534002"><lem wit="#wit.orig">他</lem><rdg resp="#resp2" wit="#wit1" type="variantRemark">也</rdg></app>
-<app from="#beg0534003" to="#end0534003"><lem wit="#wit.orig">故云。子
-<lb n="0534a16" ed="T" />細子細</lem><rdg resp="#resp2" wit="#wit1" type="variantRemark"><space quantity="0" /></rdg></app>
-<app from="#beg0534004" to="#end0534004"><lem wit="#wit.orig">老</lem><rdg resp="#resp2" wit="#wit1" type="variantRemark"><space quantity="0" /></rdg></app>
-<app from="#beg0534005" to="#end0534005"><lem wit="#wit.orig">又</lem><rdg resp="#resp2" wit="#wit1" type="variantRemark">余</rdg></app>
-<app from="#beg0534006" to="#end0534006"><lem wit="#wit.orig">西東</lem><rdg resp="#resp2" wit="#wit1" type="variantRemark">東西</rdg></app>
-<app from="#beg0534007" to="#end0534007"><lem wit="#wit.orig">謂</lem><rdg resp="#resp2" wit="#wit1" type="variantRemark">者</rdg></app>
-<app from="#beg0534009" to="#end0534009"><lem wit="#wit.orig">父</lem><rdg resp="#resp2" wit="#wit1" type="variantRemark">又</rdg></app>
-<app from="#beg0534010" to="#end0534010"><lem wit="#wit.orig">我</lem><rdg resp="#resp2" wit="#wit1" type="variantRemark"><space quantity="0" /></rdg></app>
-<app from="#beg0534011" to="#end0534011"><lem wit="#wit.orig">行持</lem><rdg resp="#resp2" wit="#wit1" type="variantRemark">誓願</rdg></app>
-<app from="#beg_1" to="#end_1" corresp="#0534007"><lem wit="#wit.orig">謂</lem><rdg resp="#resp2" wit="#wit1" type="variantRemark">者</rdg></app>
-<app from="#beg0534012" to="#end0534012"><lem wit="#wit.orig">勝</lem><rdg resp="#resp2" wit="#wit1" type="variantRemark">聖</rdg></app>
-<app from="#beg_2" to="#end_2" corresp="#0534007"><lem wit="#wit.orig">謂</lem><rdg resp="#resp2" wit="#wit1" type="variantRemark">者</rdg></app>
-<app from="#beg0534013" to="#end0534013"><lem wit="#wit.orig">曹山</lem><rdg resp="#resp2" wit="#wit1" type="variantRemark">余</rdg></app>
-<app from="#beg0534014" to="#end0534014"><lem wit="#wit.orig">類</lem><rdg resp="#resp2" wit="#wit2" type="variantRemark"><space quantity="0" /></rdg></app>
-<app from="#beg0534015" to="#end0534015"><lem wit="#wit.orig">麼</lem><rdg resp="#resp2" wit="#wit1" type="variantRemark">否</rdg></app>
-<app from="#beg0534016" to="#end0534016"><lem wit="#wit.orig">和尚</lem><rdg resp="#resp2" wit="#wit1" type="variantRemark"><space quantity="0" /></rdg></app>
-<app from="#beg0534018" to="#end0534018"><lem wit="#wit.orig">余</lem><rdg resp="#resp2" wit="#wit1" type="variantRemark">師</rdg></app>
-<app from="#beg0534019" to="#end0534019"><lem wit="#wit.orig">研</lem><rdg resp="#resp2" wit="#wit1" type="variantRemark">斫</rdg></app>
-<app from="#beg0535001" to="#end0535001"><lem wit="#wit.orig">究</lem><rdg resp="#resp2" wit="#wit1" type="variantRemark">穴</rdg></app>
-<app from="#beg0535002" to="#end0535002"><lem wit="#wit.orig">語</lem><rdg resp="#resp2" wit="#wit1" type="variantRemark">邊語</rdg></app>
-<app from="#beg0535003" to="#end0535003"><lem wit="#wit.orig">本來</lem><rdg resp="#resp2" wit="#wit1" type="variantRemark"><space quantity="0" /></rdg></app>
-<app from="#beg0535004" to="#end0535004"><lem wit="#wit.orig">如</lem><rdg resp="#resp2" wit="#wit1" type="variantRemark">問如</rdg></app>
-<app from="#beg0535005" to="#end0535005"><lem wit="#wit.orig">稠又舉</lem><rdg resp="#resp2" wit="#wit1" type="variantRemark"><space quantity="0" /></rdg></app>
-<app from="#beg0535006" to="#end0535006"><lem wit="#wit.orig">洞山古佛</lem><rdg resp="#resp2" wit="#wit1" type="variantRemark">先師</rdg></app>
-<app from="#beg0535007" to="#end0535007"><lem wit="#wit.orig">得</lem><rdg resp="#resp2" wit="#wit1" type="variantRemark"><space quantity="0" /></rdg></app>
-<app from="#beg0535008" to="#end0535008"><lem wit="#wit.orig">直至
-<lb n="0535a23" ed="T" />如今不奈何</lem><rdg resp="#resp2" wit="#wit1" type="variantRemark"><space quantity="0" /></rdg></app>
-<app from="#beg0535009" to="#end0535009"><lem wit="#wit.orig">自少</lem><rdg resp="#resp2" wit="#wit1" type="variantRemark"><space quantity="0" /></rdg></app>
-<app from="#beg0535010" to="#end0535010"><lem wit="#wit.orig">位</lem><rdg resp="#resp2" wit="#wit1" type="variantRemark"><space quantity="0" /></rdg></app>
-<app from="#beg0535011" to="#end0535011"><lem wit="#wit.orig">也</lem><rdg resp="#resp2" wit="#wit1" type="variantRemark"><space quantity="0" /></rdg></app>
-<app from="#beg0535012" to="#end0535012"><lem wit="#wit.orig">又曰</lem><rdg resp="#resp2" wit="#wit1" type="variantRemark"><space quantity="0" /></rdg><rdg resp="#resp2" wit="#wit1" type="variantRemark">師曰</rdg></app>
-</p>
+<head>Collation notes</head>
+<p>Therefore it says, zi<app from="#beg0528b0901" to="#end0528b0901"><lem wit="#wit.cbeta" resp="#resp4">闍<note type="cf1">T47n1987Bp0538a25</note><note type="cf2">X66n1297_p0659c10</note></lem><rdg wit="#wit.orig">闇</rdg></app><app from="#beg0528001" to="#end0528001"><lem wit="#wit.orig">好</lem><rdg resp="#resp2" wit="#wit1" type="variantRemark">愛</rdg></app><app from="#beg0529003" to="#end0529003"><lem resp="#resp2" wit="#wit.orig">余</lem><rdg resp="#resp2" wit="#wit1" type="correctionRemark">餘</rdg></app><app from="#beg0530a1401" to="#end0530a1401"><lem wit="#wit.cbeta" resp="#resp4">閒</lem><rdg wit="#wit.orig">間</rdg></app><app from="#beg0531004" to="#end0531004"><lem wit="#wit.orig">觀</lem><rdg resp="#resp2" wit="#wit1" type="variantRemark">官</rdg></app><app from="#beg0533001" to="#end0533001"><lem wit="#wit.orig">歸</lem><rdg resp="#resp2" wit="#wit1" type="variantRemark">來</rdg></app><app from="#beg0534001" to="#end0534001"><lem wit="#wit.orig">聖</lem><rdg resp="#resp2" wit="#wit1" type="variantRemark">勝</rdg></app><app from="#beg0534002" to="#end0534002"><lem wit="#wit.orig">他</lem><rdg resp="#resp2" wit="#wit1" type="variantRemark">也</rdg></app>
+<lb n="0534a16" ed="T" />Carefully, carefully, straight through to<rdg resp="#resp2" wit="#wit1" type="variantRemark"><space quantity="0" /></rdg><app from="#beg0534004" to="#end0534004"><lem wit="#wit.orig">老</lem><rdg resp="#resp2" wit="#wit1" type="variantRemark"><space quantity="0" /></rdg></app><app from="#beg0534005" to="#end0534005"><lem wit="#wit.orig">又</lem><rdg resp="#resp2" wit="#wit1" type="variantRemark">余</rdg></app><app from="#beg0534006" to="#end0534006"><lem wit="#wit.orig">西東</lem><rdg resp="#resp2" wit="#wit1" type="variantRemark">東西</rdg></app><app from="#beg0534007" to="#end0534007"><lem wit="#wit.orig">謂</lem><rdg resp="#resp2" wit="#wit1" type="variantRemark">者</rdg></app><app from="#beg0534009" to="#end0534009"><lem wit="#wit.orig">父</lem><rdg resp="#resp2" wit="#wit1" type="variantRemark">又</rdg></app><app from="#beg0534010" to="#end0534010"><lem wit="#wit.orig">我</lem><rdg resp="#resp2" wit="#wit1" type="variantRemark"><space quantity="0" /></rdg></app><app from="#beg0534011" to="#end0534011"><lem wit="#wit.orig">行持</lem><rdg resp="#resp2" wit="#wit1" type="variantRemark">誓願</rdg></app><app from="#beg_1" to="#end_1" corresp="#0534007"><lem wit="#wit.orig">謂</lem><rdg resp="#resp2" wit="#wit1" type="variantRemark">者</rdg></app><app from="#beg0534012" to="#end0534012"><lem wit="#wit.orig">勝</lem><rdg resp="#resp2" wit="#wit1" type="variantRemark">聖</rdg></app><app from="#beg_2" to="#end_2" corresp="#0534007"><lem wit="#wit.orig">謂</lem><rdg resp="#resp2" wit="#wit1" type="variantRemark">者</rdg></app><app from="#beg0534013" to="#end0534013"><lem wit="#wit.orig">曹山</lem><rdg resp="#resp2" wit="#wit1" type="variantRemark">余</rdg></app><app from="#beg0534014" to="#end0534014"><lem wit="#wit.orig">類</lem><rdg resp="#resp2" wit="#wit2" type="variantRemark"><space quantity="0" /></rdg></app><app from="#beg0534015" to="#end0534015"><lem wit="#wit.orig">麼</lem><rdg resp="#resp2" wit="#wit1" type="variantRemark">否</rdg></app><app from="#beg0534016" to="#end0534016"><lem wit="#wit.orig">和尚</lem><rdg resp="#resp2" wit="#wit1" type="variantRemark"><space quantity="0" /></rdg></app><app from="#beg0534018" to="#end0534018"><lem wit="#wit.orig">余</lem><rdg resp="#resp2" wit="#wit1" type="variantRemark">師</rdg></app><app from="#beg0534019" to="#end0534019"><lem wit="#wit.orig">研</lem><rdg resp="#resp2" wit="#wit1" type="variantRemark">斫</rdg></app><app from="#beg0535001" to="#end0535001"><lem wit="#wit.orig">究</lem><rdg resp="#resp2" wit="#wit1" type="variantRemark">穴</rdg></app><app from="#beg0535002" to="#end0535002"><lem wit="#wit.orig">語</lem><rdg resp="#resp2" wit="#wit1" type="variantRemark">邊語</rdg></app><app from="#beg0535003" to="#end0535003"><lem wit="#wit.orig">本來</lem><rdg resp="#resp2" wit="#wit1" type="variantRemark"><space quantity="0" /></rdg></app><app from="#beg0535004" to="#end0535004"><lem wit="#wit.orig">originally</lem><rdg resp="#resp2" wit="#wit1" type="variantRemark">問如</rdg></app><app from="#beg0535005" to="#end0535005"><lem wit="#wit.orig">thus</lem><rdg resp="#resp2" wit="#wit1" type="variantRemark">asks thus</rdg></app><app from="#beg0535006" to="#end0535006"><lem wit="#wit.orig">Chou again cited</lem><rdg resp="#resp2" wit="#wit1" type="variantRemark">先師</rdg></app><app from="#beg0535007" to="#end0535007"><lem wit="#wit.orig">Dongshan, the Ancient Buddha</lem><rdg resp="#resp2" wit="#wit1" type="variantRemark">former teacher</rdg></app>
+<lb n="0535a23" ed="T" />Now there is nothing to be done<rdg resp="#resp2" wit="#wit1" type="variantRemark"><space quantity="0" /></rdg><app from="#beg0535009" to="#end0535009"><lem wit="#wit.orig">attain</lem><rdg resp="#resp2" wit="#wit1" type="variantRemark"><space quantity="0" /></rdg></app><app from="#beg0535010" to="#end0535010"><lem wit="#wit.orig">straight on until
+<lb n="0535a23" ed="T" />up to now, there is nothing to be done</lem><rdg resp="#resp2" wit="#wit1" type="variantRemark"><space quantity="0" /></rdg></app><app from="#beg0535011" to="#end0535011"><lem wit="#wit.orig">from youth</lem><rdg resp="#resp2" wit="#wit1" type="variantRemark"><space quantity="0" /></rdg></app><app from="#beg0535012" to="#end0535012"><lem wit="#wit.orig">position</lem><rdg resp="#resp2" wit="#wit1" type="variantRemark"><space quantity="0" /></rdg><rdg resp="#resp2" wit="#wit1" type="variantRemark">師曰</rdg></app></p>
 </cb:div>
 <cb:div type="cbeta-notes">
-<head>CBETA 校注</head>
+<head>CBETA textual notes</head>
 <p>
-<note n="0528001" resp="#resp3" type="mod" target="#nkr_note_mod_0528001">好【大】，愛【校異-原】</note>
-<note n="0529003" resp="#resp3" type="mod" target="#nkr_note_mod_0529003">余【大】，餘【考偽-原】</note>
-<note n="0531004" resp="#resp3" type="mod" target="#nkr_note_mod_0531004">觀【大】，官【校異-原】</note>
-<note n="0533001" resp="#resp3" type="mod" target="#nkr_note_mod_0533001">歸【大】，來【校異-原】</note>
-<note n="0534001" resp="#resp3" type="mod" target="#nkr_note_mod_0534001">聖【大】，勝【校異-原】</note>
-<note n="0534002" resp="#resp3" type="mod" target="#nkr_note_mod_0534002">他【大】，也【校異-原】</note>
-<note n="0534003" resp="#resp3" type="mod" target="#nkr_note_mod_0534003">故云子細子細【大】，〔－〕【校異-原】</note>
-<note n="0534004" resp="#resp3" type="mod" target="#nkr_note_mod_0534004">老【大】，〔－〕【校異-原】</note>
-<note n="0534005" resp="#resp3" type="mod" target="#nkr_note_mod_0534005">又【大】，余【校異-原】</note>
-<note n="0534006" resp="#resp3" type="mod" target="#nkr_note_mod_0534006">西東【大】，東西【校異-原】</note>
-<note n="0534007" resp="#resp3" type="mod" target="#nkr_note_mod_0534007">謂【大】＊，者【校異-原】＊</note>
-<note n="0534009" resp="#resp3" type="mod" target="#nkr_note_mod_0534009">父【大】，又【校異-原】</note>
-<note n="0534010" resp="#resp3" type="mod" target="#nkr_note_mod_0534010">我【大】，〔－〕【校異-原】</note>
-<note n="0534011" resp="#resp3" type="mod" target="#nkr_note_mod_0534011">行持【大】，誓願【校異-原】</note>
-<note n="0534012" resp="#resp3" type="mod" target="#nkr_note_mod_0534012">勝【大】，聖【校異-原】</note>
-<note n="0534013" resp="#resp3" type="mod" target="#nkr_note_mod_0534013">曹山【大】，余【校異-原】</note>
-<note n="0534014" resp="#resp3" type="mod" target="#nkr_note_mod_0534014">類【大】，〔－〕【校異-甲】</note>
-<note n="0534015" resp="#resp3" type="mod" target="#nkr_note_mod_0534015">麼【大】，否【校異-原】</note>
-<note n="0534016" resp="#resp3" type="mod" target="#nkr_note_mod_0534016">和尚【大】，〔－〕【校異-原】</note>
-<note n="0534018" resp="#resp3" type="mod" target="#nkr_note_mod_0534018">余【大】，師【校異-原】</note>
-<note n="0534019" resp="#resp3" type="mod" target="#nkr_note_mod_0534019">研【大】，斫【校異-原】</note>
-<note n="0535001" resp="#resp3" type="mod" target="#nkr_note_mod_0535001">究【大】，穴【校異-原】</note>
-<note n="0535002" resp="#resp3" type="mod" target="#nkr_note_mod_0535002">語【大】，邊語【校異-原】</note>
-<note n="0535003" resp="#resp3" type="mod" target="#nkr_note_mod_0535003">本來【大】，〔－〕【校異-原】</note>
-<note n="0535004" resp="#resp3" type="mod" target="#nkr_note_mod_0535004">如【大】，問如【校異-原】</note>
-<note n="0535005" resp="#resp3" type="mod" target="#nkr_note_mod_0535005">稠又舉【大】，〔－〕【校異-原】</note>
-<note n="0535006" resp="#resp3" type="mod" target="#nkr_note_mod_0535006">洞山古佛【大】，先師【校異-原】</note>
-<note n="0535007" resp="#resp3" type="mod" target="#nkr_note_mod_0535007">得【大】，〔－〕【校異-原】</note>
-<note n="0535008" resp="#resp3" type="mod" target="#nkr_note_mod_0535008">直至如今不奈何【大】，〔－〕【校異-原】</note>
-<note n="0535009" resp="#resp3" type="mod" target="#nkr_note_mod_0535009">自少【大】，〔－〕【校異-原】</note>
-<note n="0535010" resp="#resp3" type="mod" target="#nkr_note_mod_0535010">位【大】，〔－〕【校異-原】</note>
-<note n="0535011" resp="#resp3" type="mod" target="#nkr_note_mod_0535011">也【大】，〔－〕【校異-原】</note>
-<note n="0535012" resp="#resp3" type="mod" target="#nkr_note_mod_0535012">又曰【大】，〔－〕【校異-原】，師曰【校異-原】</note>
+<note n="0528001" resp="#resp3" type="mod" target="#nkr_note_mod_0528001">good in Taisho, love in the variant-source note</note>
+<note n="0529003" resp="#resp3" type="mod" target="#nkr_note_mod_0529003">yu in Taisho, yu alternate form in the textual criticism source</note>
+<note n="0531004" resp="#resp3" type="mod" target="#nkr_note_mod_0531004">observe in Taisho, official in the variant-source note</note>
+<note n="0533001" resp="#resp3" type="mod" target="#nkr_note_mod_0533001">return in Taisho, come in the variant-source note</note>
+<note n="0534001" resp="#resp3" type="mod" target="#nkr_note_mod_0534001">sage in Taisho, victory in the variant-source note</note>
+<note n="0534002" resp="#resp3" type="mod" target="#nkr_note_mod_0534002">he or other in Taisho, also in the variant-source note</note>
+<note n="0534003" resp="#resp3" type="mod" target="#nkr_note_mod_0534003">the phrase therefore it says carefully, carefully appears in Taisho and is omitted in the variant-source note</note>
+<note n="0534004" resp="#resp3" type="mod" target="#nkr_note_mod_0534004">old appears in Taisho and is omitted in the variant-source note</note>
+<note n="0534005" resp="#resp3" type="mod" target="#nkr_note_mod_0534005">again in Taisho, yu in the variant-source note</note>
+<note n="0534006" resp="#resp3" type="mod" target="#nkr_note_mod_0534006">west east in Taisho, east west in the variant-source note</note>
+<note n="0534007" resp="#resp3" type="mod" target="#nkr_note_mod_0534007">says in Taisho, the one who in the variant-source note</note>
+<note n="0534009" resp="#resp3" type="mod" target="#nkr_note_mod_0534009">father in Taisho, again in the variant-source note</note>
+<note n="0534010" resp="#resp3" type="mod" target="#nkr_note_mod_0534010">I in Taisho and omitted in the variant-source note</note>
+<note n="0534011" resp="#resp3" type="mod" target="#nkr_note_mod_0534011">practice and uphold in Taisho, vows in the variant-source note</note>
+<note n="0534012" resp="#resp3" type="mod" target="#nkr_note_mod_0534012">victory in Taisho, sage in the variant-source note</note>
+<note n="0534013" resp="#resp3" type="mod" target="#nkr_note_mod_0534013">Caoshan in Taisho, yu in the variant-source note</note>
+<note n="0534014" resp="#resp3" type="mod" target="#nkr_note_mod_0534014">category or kind in Taisho and omitted in the Jia variant note</note>
+<note n="0534015" resp="#resp3" type="mod" target="#nkr_note_mod_0534015">interrogative mo in Taisho, no or not in the variant-source note</note>
+<note n="0534016" resp="#resp3" type="mod" target="#nkr_note_mod_0534016">和尚 in Taisho and omitted in the variant-source note</note>
+<note n="0534018" resp="#resp3" type="mod" target="#nkr_note_mod_0534018">yu in Taisho, master in the variant-source note</note>
+<note n="0534019" resp="#resp3" type="mod" target="#nkr_note_mod_0534019">grind in Taisho, chop in the variant-source note</note>
+<note n="0535001" resp="#resp3" type="mod" target="#nkr_note_mod_0535001">investigate in Taisho, cave in the variant-source note</note>
+<note n="0535002" resp="#resp3" type="mod" target="#nkr_note_mod_0535002">speech in Taisho, side speech in the variant-source note</note>
+<note n="0535003" resp="#resp3" type="mod" target="#nkr_note_mod_0535003">originally appears in Taisho and is omitted in the variant-source note</note>
+<note n="0535004" resp="#resp3" type="mod" target="#nkr_note_mod_0535004">thus in Taisho, asks thus in the variant-source note</note>
+<note n="0535005" resp="#resp3" type="mod" target="#nkr_note_mod_0535005">Chou again cited appears in Taisho and is omitted in the variant-source note</note>
+<note n="0535006" resp="#resp3" type="mod" target="#nkr_note_mod_0535006">Dongshan Ancient Buddha in Taisho, former teacher in the variant-source note</note>
+<note n="0535007" resp="#resp3" type="mod" target="#nkr_note_mod_0535007">attain appears in Taisho and is omitted in the variant-source note</note>
+<note n="0535008" resp="#resp3" type="mod" target="#nkr_note_mod_0535008">the phrase straight on until now there is nothing to be done appears in Taisho and is omitted in the variant-source note</note>
+<note n="0535009" resp="#resp3" type="mod" target="#nkr_note_mod_0535009">from youth appears in Taisho and is omitted in the variant-source note</note>
+<note n="0535010" resp="#resp3" type="mod" target="#nkr_note_mod_0535010">position appears in Taisho and is omitted in the variant-source note</note>
+<note n="0535011" resp="#resp3" type="mod" target="#nkr_note_mod_0535011">also appears in Taisho and is omitted in the variant-source note</note>
+<note n="0535012" resp="#resp3" type="mod" target="#nkr_note_mod_0535012">also said appears in Taisho, omitted in the variant-source note, where it reads the master said</note>
 </p>
 </cb:div>
 <cb:div type="taisho-notes">
-<head>大正藏 校注</head>
+<head>Taisho canon textual notes</head>
 <p>
-<note n="0526001" resp="#resp2" place="foot text" type="orig" target="#nkr_note_orig_0526001">【原】明和三年刊駒澤大學藏本</note>
-<note n="0527001" resp="#resp2" place="foot text" type="orig" target="#nkr_note_orig_0527001">原本註曰是君臣五相頌等雖可編末抄隨舊刻耳</note>
-<note n="0527002" resp="#resp2" place="foot text" type="orig" target="#nkr_note_orig_0527002">原本註曰此話已出洞山錄中</note>
-<note n="0528001" resp="#resp2" place="foot text" type="orig" target="#nkr_note_orig_0528001">好＝愛ィ【原】</note>
-<note n="0529001" resp="#resp2" place="foot text" type="orig" target="#nkr_note_orig_0529001">原本註曰曹上類聚存三十年前四字</note>
-<note n="0529002" resp="#resp2" place="foot text" type="orig" target="#nkr_note_orig_0529002">原本註曰此是話頭偶爾似清谿語</note>
-<note n="0529003" resp="#resp2" place="foot text" type="orig" target="#nkr_note_orig_0529003">余＝餘ヵ【原】</note>
-<note n="0531001" resp="#resp2" place="foot text" type="orig" target="#nkr_note_orig_0531001">原本註曰劄當作札音軋揠省拔也云云</note>
-<note n="0531002" resp="#resp2" place="foot text" type="orig" target="#nkr_note_orig_0531002">原本註曰自下師拈洞山古則既載新豊錄故不載于此</note>
-<note n="0531003" resp="#resp2" place="foot text" type="orig" target="#nkr_note_orig_0531003">原本註曰頑廣輝釋本作顧</note>
-<note n="0531004" resp="#resp2" place="foot text" type="orig" target="#nkr_note_orig_0531004">觀＝官ィ【原】</note>
-<note n="0532001" resp="#resp2" place="foot text" type="orig" target="#nkr_note_orig_0532001">原本註曰天真長老揀語今略不載</note>
-<note n="0533001" resp="#resp2" place="foot text" type="orig" target="#nkr_note_orig_0533001">歸＝來ィ【原】</note>
-<note n="0534001" resp="#resp2" place="foot text" type="orig" target="#nkr_note_orig_0534001">聖＝勝ィ【原】</note>
-<note n="0534002" resp="#resp2" place="foot text" type="orig" target="#nkr_note_orig_0534002">他＝也ィ【原】</note>
-<note n="0534003" resp="#resp2" place="foot text" type="orig" target="#nkr_note_orig_0534003">〔故云子細子細〕ィ－【原】</note>
-<note n="0534004" resp="#resp2" place="foot text" type="orig" target="#nkr_note_orig_0534004">〔老〕ィ－【原】</note>
-<note n="0534005" resp="#resp2" place="foot text" type="orig" target="#nkr_note_orig_0534005">又＝余ィ【原】</note>
-<note n="0534006" resp="#resp2" place="foot text" type="orig" target="#nkr_note_orig_0534006">西東＝東西ィ【原】</note>
-<note n="0534007" resp="#resp2" place="foot text" type="orig" target="#nkr_note_orig_0534007">謂＝者ィ【原】＊</note>
-<note n="0534008" resp="#resp2" place="foot text" type="orig" target="#nkr_note_orig_0534008">原本註曰皆字諸本作背古老口訣當作皆</note>
-<note n="0534009" resp="#resp2" place="foot text" type="orig" target="#nkr_note_orig_0534009">父＝又ィ【原】</note>
-<note n="0534010" resp="#resp2" place="foot text" type="orig" target="#nkr_note_orig_0534010">〔我〕ィ－【原】</note>
-<note n="0534011" resp="#resp2" place="foot text" type="orig" target="#nkr_note_orig_0534011">行持＝誓願ィ【原】</note>
-<note n="0534012" resp="#resp2" place="foot text" type="orig" target="#nkr_note_orig_0534012">勝＝聖ィ【原】</note>
-<note n="0534013" resp="#resp2" place="foot text" type="orig" target="#nkr_note_orig_0534013">曹山＝余ィ【原】</note>
-<note n="0534014" resp="#resp2" place="foot text" type="orig" target="#nkr_note_orig_0534014">〔類〕ィ－【甲】</note>
-<note n="0534015" resp="#resp2" place="foot text" type="orig" target="#nkr_note_orig_0534015">麼＝否ィ【原】</note>
-<note n="0534016" resp="#resp2" place="foot text" type="orig" target="#nkr_note_orig_0534016">〔和尚〕ィ－【原】</note>
-<note n="0534017" resp="#resp2" place="foot text" type="orig" target="#nkr_note_orig_0534017">原本註曰三墮中此有我向字</note>
-<note n="0534018" resp="#resp2" place="foot text" type="orig" target="#nkr_note_orig_0534018">余＝師ィ【原】</note>
-<note n="0534019" resp="#resp2" place="foot text" type="orig" target="#nkr_note_orig_0534019">研＝斫ィ【原】</note>
-<note n="0535001" resp="#resp2" place="foot text" type="orig" target="#nkr_note_orig_0535001">究＝穴ィ【原】</note>
-<note n="0535002" resp="#resp2" place="foot text" type="orig" target="#nkr_note_orig_0535002">（邊）ィ＋語【原】</note>
-<note n="0535003" resp="#resp2" place="foot text" type="orig" target="#nkr_note_orig_0535003">〔本來〕ィ－【原】</note>
-<note n="0535004" resp="#resp2" place="foot text" type="orig" target="#nkr_note_orig_0535004">（問）ィ＋如【原】</note>
-<note n="0535005" resp="#resp2" place="foot text" type="orig" target="#nkr_note_orig_0535005">〔稠又舉〕ィ－【原】</note>
-<note n="0535006" resp="#resp2" place="foot text" type="orig" target="#nkr_note_orig_0535006">洞山古佛＝先師ィ【原】</note>
-<note n="0535007" resp="#resp2" place="foot text" type="orig" target="#nkr_note_orig_0535007">〔得〕ィ－【原】</note>
-<note n="0535008" resp="#resp2" place="foot text" type="orig" target="#nkr_note_orig_0535008">〔直至如今不奈何〕ィ－【原】</note>
-<note n="0535009" resp="#resp2" place="foot text" type="orig" target="#nkr_note_orig_0535009">〔自少〕ィ－【原】</note>
-<note n="0535010" resp="#resp2" place="foot text" type="orig" target="#nkr_note_orig_0535010">〔位〕ィ－【原】</note>
-<note n="0535011" resp="#resp2" place="foot text" type="orig" target="#nkr_note_orig_0535011">〔也〕ィ－【原】</note>
-<note n="0535012" resp="#resp2" place="foot text" type="orig" target="#nkr_note_orig_0535012">又＝師ィ【原】，〔又曰〕ィ－【原】</note>
+<note n="0526001" resp="#resp2" place="foot text" type="orig" target="#nkr_note_orig_0526001">Original source, Meiwa year 3 printed copy held by Komazawa University</note>
+<note n="0527001" resp="#resp2" place="foot text" type="orig" target="#nkr_note_orig_0527001">The original note says these verses on ruler and minister and the five aspects could be compiled in the final miscellany, but this follows the old printing</note>
+<note n="0527002" resp="#resp2" place="foot text" type="orig" target="#nkr_note_orig_0527002">The original note says this story already appears in the Dongshan Record</note>
+<note n="0528001" resp="#resp2" place="foot text" type="orig" target="#nkr_note_orig_0528001">good equals love in the original source variant</note>
+<note n="0529001" resp="#resp2" place="foot text" type="orig" target="#nkr_note_orig_0529001">The original note says the Caoshang leiju preserves the four characters thirty years before</note>
+<note n="0529002" resp="#resp2" place="foot text" type="orig" target="#nkr_note_orig_0529002">The original note says this is a huatou phrase that by chance resembles the wording of Qingxi</note>
+<note n="0529003" resp="#resp2" place="foot text" type="orig" target="#nkr_note_orig_0529003">yu equals the alternate form yu in the original source, uncertain reading</note>
+<note n="0531001" resp="#resp2" place="foot text" type="orig" target="#nkr_note_orig_0531001">The original note says zha should be written as zha, with the pronunciation and explanation given in brief</note>
+<note n="0531002" resp="#resp2" place="foot text" type="orig" target="#nkr_note_orig_0531002">The original note says from here onward the master's comments on Dongshan old cases are already recorded in the Xinfeng Record, so they are not included here</note>
+<note n="0531003" resp="#resp2" place="foot text" type="orig" target="#nkr_note_orig_0531003">The original note says the Wan Guanghui annotated edition reads gu</note>
+<note n="0531004" resp="#resp2" place="foot text" type="orig" target="#nkr_note_orig_0531004">observe equals official in the original source variant</note>
+<note n="0532001" resp="#resp2" place="foot text" type="orig" target="#nkr_note_orig_0532001">The original note says Elder Tianzhen's selected sayings are omitted here for brevity</note>
+<note n="0533001" resp="#resp2" place="foot text" type="orig" target="#nkr_note_orig_0533001">return equals come in the original source variant</note>
+<note n="0534001" resp="#resp2" place="foot text" type="orig" target="#nkr_note_orig_0534001">sage equals victory in the original source variant</note>
+<note n="0534002" resp="#resp2" place="foot text" type="orig" target="#nkr_note_orig_0534002">he or other equals also in the original source variant</note>
+<note n="0534003" resp="#resp2" place="foot text" type="orig" target="#nkr_note_orig_0534003">the phrase therefore it says carefully, carefully is omitted in the original source</note>
+<note n="0534004" resp="#resp2" place="foot text" type="orig" target="#nkr_note_orig_0534004">old is omitted in the original source</note>
+<note n="0534005" resp="#resp2" place="foot text" type="orig" target="#nkr_note_orig_0534005">again equals yu in the original source variant</note>
+<note n="0534006" resp="#resp2" place="foot text" type="orig" target="#nkr_note_orig_0534006">west east equals east west in the original source variant</note>
+<note n="0534007" resp="#resp2" place="foot text" type="orig" target="#nkr_note_orig_0534007">says equals the one who in the original source variant</note>
+<note n="0534008" resp="#resp2" place="foot text" type="orig" target="#nkr_note_orig_0534008">The original note says various editions write bei for this character, but according to the old oral formula it should be jie, all</note>
+<note n="0534009" resp="#resp2" place="foot text" type="orig" target="#nkr_note_orig_0534009">father equals again in the original source variant</note>
+<note n="0534010" resp="#resp2" place="foot text" type="orig" target="#nkr_note_orig_0534010">I is omitted in the original source</note>
+<note n="0534011" resp="#resp2" place="foot text" type="orig" target="#nkr_note_orig_0534011">practice and uphold equals vows in the original source variant</note>
+<note n="0534012" resp="#resp2" place="foot text" type="orig" target="#nkr_note_orig_0534012">victory equals sage in the original source variant</note>
+<note n="0534013" resp="#resp2" place="foot text" type="orig" target="#nkr_note_orig_0534013">Caoshan equals yu in the original source variant</note>
+<note n="0534014" resp="#resp2" place="foot text" type="orig" target="#nkr_note_orig_0534014">kind is omitted in the Jia source</note>
+<note n="0534015" resp="#resp2" place="foot text" type="orig" target="#nkr_note_orig_0534015">mo equals no or not in the original source variant</note>
+<note n="0534016" resp="#resp2" place="foot text" type="orig" target="#nkr_note_orig_0534016">和尚 is omitted in the original source</note>
+<note n="0534017" resp="#resp2" place="foot text" type="orig" target="#nkr_note_orig_0534017">The original note says in the Three Falls passage this place has the characters I turn toward</note>
+<note n="0534018" resp="#resp2" place="foot text" type="orig" target="#nkr_note_orig_0534018">yu equals master in the original source variant</note>
+<note n="0534019" resp="#resp2" place="foot text" type="orig" target="#nkr_note_orig_0534019">grind equals chop in the original source variant</note>
+<note n="0535001" resp="#resp2" place="foot text" type="orig" target="#nkr_note_orig_0535001">investigate equals cave in the original source variant</note>
+<note n="0535002" resp="#resp2" place="foot text" type="orig" target="#nkr_note_orig_0535002">adds speech after side in the original source</note>
+<note n="0535003" resp="#resp2" place="foot text" type="orig" target="#nkr_note_orig_0535003">originally is omitted in the original source</note>
+<note n="0535004" resp="#resp2" place="foot text" type="orig" target="#nkr_note_orig_0535004">adds thus after ask in the original source</note>
+<note n="0535005" resp="#resp2" place="foot text" type="orig" target="#nkr_note_orig_0535005">Chou again cited is omitted in the original source</note>
+<note n="0535006" resp="#resp2" place="foot text" type="orig" target="#nkr_note_orig_0535006">Dongshan Ancient Buddha equals former teacher in the original source variant</note>
+<note n="0535007" resp="#resp2" place="foot text" type="orig" target="#nkr_note_orig_0535007">attain is omitted in the original source</note>
+<note n="0535008" resp="#resp2" place="foot text" type="orig" target="#nkr_note_orig_0535008">the phrase straight on until now there is nothing to be done is omitted in the original source</note>
+<note n="0535009" resp="#resp2" place="foot text" type="orig" target="#nkr_note_orig_0535009">from youth is omitted in the original source</note>
+<note n="0535010" resp="#resp2" place="foot text" type="orig" target="#nkr_note_orig_0535010">position is omitted in the original source</note>
+<note n="0535011" resp="#resp2" place="foot text" type="orig" target="#nkr_note_orig_0535011">also is omitted in the original source</note>
+<note n="0535012" resp="#resp2" place="foot text" type="orig" target="#nkr_note_orig_0535012">again equals master in the original source variant, and the phrase also said is omitted in the original source</note>
 </p>
 </cb:div>
 <cb:div type="add-notes">
-<head>新增校注</head>
+<head>newly added textual notes</head>
 <p>
-<note n="0528b0901" resp="#resp3" type="add" target="#nkr_note_add_0528b0901">闍【CB】，闇【大】</note>
-<note n="0530a1401" resp="#resp3" type="add" target="#nkr_note_add_0530a1401">閒【CB】，間【大】</note>
+<note n="0528b0901" resp="#resp3" type="add" target="#nkr_note_add_0528b0901">du in CBETA, dark in Taisho</note>
+<note n="0530a1401" resp="#resp3" type="add" target="#nkr_note_add_0530a1401">leisure in CBETA, interval in Taisho</note>
 </p>
 </cb:div>
 </back></text></TEI>
