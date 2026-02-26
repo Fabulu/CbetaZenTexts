@@ -5,11 +5,11 @@
 	<fileDesc>
 		<titleStmt>
 			<title level="s">Jiaxing Canon (Shinwenfeng Edition)</title>
-			<title level="s" xml:lang="zh-Hant">嘉興大藏經（新文豐版）</title>
-			<title level="m" xml:lang="zh-Hant">趙州和尚語錄</title>
-			<title>Jiaxing Canon (Shinwenfeng Edition), Electronic version, No. B137 趙州和尚語錄</title>
-			<title xml:lang="zh-Hant">嘉興大藏經（新文豐版）數位版, No. B137 趙州和尚語錄</title>
-			<author>唐 從諗說　文遠記　大參重校　明聲重刻</author>
+			<title level="s" xml:lang="zh-Hant">Jiaxing Tripitaka (Shinwenfeng Edition)</title>
+			<title level="m" xml:lang="zh-Hant">Recorded Sayings of Master Zhaozhou</title>
+			<title>Jiaxing Canon (Shinwenfeng Edition), electronic version, No. B137, Recorded Sayings of Master Zhaozhou</title>
+			<title xml:lang="zh-Hant">Jiaxing Tripitaka (Shinwenfeng Edition) digital edition, No. B137, Recorded Sayings of Master Zhaozhou</title>
+			<author>Tang: spoken by Congshen; recorded by Wenyuan; rechecked by Dacan; reprinted by Mingsheng</author>
 			<respStmt>
 				<resp>Electronic Version by</resp>
 				<name>CBETA</name>
@@ -26,7 +26,7 @@
 				<idno type="canon">J</idno>.<idno type="vol">24</idno>.<idno type="no">B137</idno>
 			</idno>
 			<distributor>
-				<name>財團法人佛教電子佛典基金會 (CBETA)</name>
+				<name>Chinese Buddhist Electronic Text Association (CBETA)</name>
 				<address>
 					<addrLine><email>service@cbeta.org</email></addrLine>
 				</address>
@@ -37,16 +37,16 @@
 			<date>2025-01-30 02:11:07 +0800</date>
 		</publicationStmt>
 		<sourceDesc>
-			<bibl>嘉興大藏經（新文豐版）</bibl>
+			<bibl>Jiaxing Tripitaka (Shinwenfeng Edition)</bibl>
 		</sourceDesc>
 	</fileDesc>
 	<encodingDesc>
 		<projectDesc>
 			<p xml:lang="en" cb:type="ly">Input by CBETA(first version), Input by CBETA(second version), Punctuated text as provided by Mr. Li Ming-Fang</p>
-			<p xml:lang="zh-Hant" cb:type="ly">CBETA 人工輸入（版本一），CBETA 人工輸入（版本二），李明芳大德提供新式標點</p>
+			<p xml:lang="zh-Hant" cb:type="ly">CBETA manual entry (version 1), CBETA manual entry (version 2), with modern punctuation provided by Venerable Li Mingfang</p>
 		</projectDesc>
 		<editorialDecl>
-			<punctuation resp="#resp1"><p>新式標點</p></punctuation>
+			<punctuation resp="#resp1"><p>Modern punctuation</p></punctuation>
 		</editorialDecl>
 		<tagsDecl>
 			<namespace name="http://www.tei-c.org/ns/1.0">
@@ -123,7 +123,7 @@
 	</profileDesc>
 	<revisionDesc>
 		<change when="2013-05-20">
-			<name>CW</name><name>Ray Chou 周邦信</name>P4 to P5 conversion by p4top5a.py, intended for publication
+			<name>CW</name><name>Ray Chou (Zhou Bangxin)</name>P4 to P5 conversion by p4top5a.py, intended for publication
 		</change>
 		<change when="2008-06-23T10:49:08">
 			Zhou Bang-Xin (ed.) Created initial TEI XML version with BASICX.BAT
@@ -150,7 +150,7 @@
 <lb n="0357a13" ed="J" />pressing down a gourd on water, lowering the hand and pressing east, pressing west; in the room hangs
 <lb n="0357a14" ed="J" />a precious mirror, letting commoners come or sages come. When raising up the supreme
 <lb n="0357a15" ed="J" />vehicle of the lineage, if one speaks of Buddha-recitation he would rinse his mouth for three days; well able to drag
-<lb n="0357a16" ed="J" />mud and carry water, answering being and nonbeing. The true son of Nanquan,<note place="inline">隨<anchor xml:id="nkr_note_add_0357a1601" n="0357a1601" /><anchor xml:id="beg0357a1601" n="0357a1601" />問而<anchor xml:id="end0357a1601" />隨</note>
+<lb n="0357a16" ed="J" />mud and carry water, answering being and nonbeing. The true son of Nanquan,<note place="inline">As asked, so it follows.<anchor xml:id="nkr_note_add_0357a1601" n="0357a1601" /><anchor xml:id="beg0357a1601" n="0357a1601" /><anchor xml:id="end0357a1601" /></note>
 <lb n="0357a17" ed="J" />the grandson of Mazu, was only this old man alone
 <lb n="0357a18" ed="J" />indeed. In his manifested traces, worms entered his mouth and he ate chaff
 <pb n="0357b" ed="J" xml:id="J24.B137.0357b" />
@@ -194,19 +194,19 @@
 <lb n="0357c12" ed="J" />
 <list rend="no-marker"><item xml:id="itemJ24p0357c1201">Bhikshus<list rend="no-marker"><item xml:id="itemJ24p0357c1203">Linghao</item><item xml:id="itemJ24p0357c1205">Dayong</item><item xml:id="itemJ24p0357c1207">Wuwei</item><item xml:id="itemJ24p0357c1209">Zhixing</item></list></item>
 <lb n="0357c13" ed="J" />
-<item xml:id="itemJ24p0357c1301">優婆塞<list rend="no-marker"><item xml:id="itemJ24p0357c1304">Shen Qi</item><item xml:id="itemJ24p0357c1306">Zhang Xingyao</item><item xml:id="itemJ24p0357c1309">Mingheng</item><item xml:id="itemJ24p0357c1311">Wu Xianzhang</item>
+<item xml:id="itemJ24p0357c1301">Upasaka<list rend="no-marker"><item xml:id="itemJ24p0357c1304">Shen Qi</item><item xml:id="itemJ24p0357c1306">Zhang Xingyao</item><item xml:id="itemJ24p0357c1309">Mingheng</item><item xml:id="itemJ24p0357c1311">Wu Xianzhang</item>
 <lb n="0357c14" ed="J" />
 <item xml:id="itemJ24p0357c1401">Wu Xianqi</item><item xml:id="itemJ24p0357c1404">Ge Yongtai</item><item xml:id="itemJ24p0357c1407">Haifu</item><item xml:id="itemJ24p0357c1409">Mingshi</item>
 <lb n="0357c15" ed="J" />
 <item xml:id="itemJ24p0357c1501">Jiang Zhuzhou</item><item xml:id="itemJ24p0357c1504">Mingzhao</item><item xml:id="itemJ24p0357c1506">Mingjiao</item><item xml:id="itemJ24p0357c1508"><unclear></unclear><unclear></unclear></item></list></item>
 <lb n="0357c16" ed="J" />
-<item xml:id="itemJ24p0357c1601">優婆夷大善<list rend="no-marker"><item xml:id="itemJ24p0357c1606">Madam Huang</item><item xml:id="itemJ24p0357c1608"><unclear></unclear>clan</item><item xml:id="itemJ24p0357c1610">Mingyi</item>
+<item xml:id="itemJ24p0357c1601">Upasika, greatly virtuous<list rend="no-marker"><item xml:id="itemJ24p0357c1606">Lady Huang</item><item xml:id="itemJ24p0357c1608"><unclear></unclear>Lady</item><item xml:id="itemJ24p0357c1610">Mingyi</item>
 <lb n="0357c17" ed="J" />
-<item xml:id="itemJ24p0357c1701">Madam Zhang</item><item xml:id="itemJ24p0357c1703">Mingli</item><item xml:id="itemJ24p0357c1705">Madam Ge</item><item xml:id="itemJ24p0357c1707">Madam Liu</item>
+<item xml:id="itemJ24p0357c1701">Lady Zhang</item><item xml:id="itemJ24p0357c1703">Mingli</item><item xml:id="itemJ24p0357c1705">Lady Ge</item><item xml:id="itemJ24p0357c1707">Lady Liu</item>
 <lb n="0357c18" ed="J" />
-<item xml:id="itemJ24p0357c1801">Guangming</item><item xml:id="itemJ24p0357c1803">Madam Wu</item><item xml:id="itemJ24p0357c1805">Madam Shen</item><item xml:id="itemJ24p0357c1807">Madam Zhang</item>
+<item xml:id="itemJ24p0357c1801">Guangming</item><item xml:id="itemJ24p0357c1803">Lady Wu</item><item xml:id="itemJ24p0357c1805">Lady Shen</item><item xml:id="itemJ24p0357c1807">Lady Zhang</item>
 <lb n="0357c19" ed="J" />
-<item xml:id="itemJ24p0357c1901">Madam Li</item><item xml:id="itemJ24p0357c1903">Madam Xu</item><item xml:id="itemJ24p0357c1905">Madam Fan</item><item xml:id="itemJ24p0357c1907">Mingpu</item></list></item></list></cb:div></cb:div>
+<item xml:id="itemJ24p0357c1901">Lady Li</item><item xml:id="itemJ24p0357c1903">Lady Xu</item><item xml:id="itemJ24p0357c1905">Lady Fan</item><item xml:id="itemJ24p0357c1907">Mingpu</item></list></item></list></cb:div></cb:div>
 <lb n="0357c20" ed="J" />
 <lb n="0357c21" ed="J" />
 <lb n="0357c22" ed="J" />
@@ -533,7 +533,7 @@
 <lb n="0360b06" ed="J" />A monk asked, What is the principle of obtaining the marrow? The Master said, Just recognize the skin. Here with this old monk, marrow
 <lb n="0360b07" ed="J" />is not even established. He said, What is marrow then? The Master said, Like this, you have not even touched the skin.</p>
 <lb n="0360b08" ed="J" />
-<p xml:id="pJ24p0360b0801">A monk asked, So grand and imposing, is this not the和尚's proper position? The Master said, Do you know there is one who does not consent
+<p xml:id="pJ24p0360b0801">A monk asked, So grand and imposing, is this not the master's proper position? The Master said, Do you know there is one who does not consent
 <lb n="0360b09" ed="J" />to it? The student said, Then is there another position? The Master said, Who is the separate one? The student said, Who is the not-
 <lb n="0360b10" ed="J" />separate one? The Master said, Shout as you please.</p>
 <lb n="0360b11" ed="J" />
@@ -914,7 +914,7 @@
 <p xml:id="pJ24p0363b0201">A monk asked, What is the single path of liberation right before one's eyes? The master said, No two and also no three. The monk said, Right before my eyes
 <lb n="0363b03" ed="J" />there is a path; is the student permitted to advance or not? The master said, If so, then a thousand miles, ten thousand miles.</p>
 <lb n="0363b04" ed="J" />
-<p xml:id="pJ24p0363b0401">A monk asked, What is the matter beyond Vairocana? The master said, This old monk is under your feet. The monk said,和尚
+<p xml:id="pJ24p0363b0401">A monk asked, What is the matter beyond Vairocana? The master said, This old monk is under your feet. The monk said, master
 <lb n="0363b05" ed="J" />why are you under the student's feet? The master said, You originally do not know there is a matter beyond.</p>
 <lb n="0363b06" ed="J" />
 <p xml:id="pJ24p0363b0601">A monk asked, What is fitting the head? The master said, It is you not fitting the head. The monk said, What is not fitting the head?
@@ -937,7 +937,7 @@
 <lb n="0363b18" ed="J" />single dharma can match the mind. The master said, Drop it. The old woman said, Tu. The master said, Hard to have one like this around.</p>
 <lb n="0363b19" ed="J" />
 <p xml:id="pJ24p0363b1901">A scholar took leave, saying, I have troubled the master here for a long time and have nothing with which to repay
-<lb n="0363b20" ed="J" />the和尚. Another day I will come back as a donkey to repay the master. The master said, Then how is this old monk to
+<lb n="0363b20" ed="J" />the master. Another day I will come back as a donkey to repay the master. The master said, Then how is this old monk to
 <lb n="0363b21" ed="J" />get a saddle?</p>
 <lb n="0363b22" ed="J" />
 <p xml:id="pJ24p0363b2201">The master went to Daowu's place. As soon as he entered the monks' hall, Daowu said, A single arrow from Nanquan has come. The master said, Watch the
@@ -949,7 +949,7 @@
 <lb n="0363b28" ed="J" />
 <lb n="0363b29" ed="J" />
 <lb n="0363b30" ed="J" />
-<cb:juan n="1" fun="close"><cb:jhead>Recorded Sayings of Master Zhaozhou, Upper Scroll<note place="inline">終</note></cb:jhead></cb:juan>
+<cb:juan n="1" fun="close"><cb:jhead>Recorded Sayings of Master Zhaozhou, Upper Scroll<note place="inline">End.</note></cb:jhead></cb:juan>
 <milestone n="2" unit="juan" />
 <pb n="0363c" ed="J" xml:id="J24.B137.0363c" />
 <lb n="0363c01" ed="J" />
@@ -1452,7 +1452,7 @@
 <lb n="0367a08" ed="J" />"Great has no outside; small has no inside."</p>
 <lb n="0367a09" ed="J" />
 <p xml:id="pJ24p0367a0901">Asked, "What when one is beyond the four propositions and cuts off the hundred negations?" The master said, "This old monk does not recognize death." He said, "This
-<lb n="0367a10" ed="J" />is the和尚's own matter." The master said, "Exactly so." He said, "Please give instruction, master." The master said, "Beyond
+<lb n="0367a10" ed="J" />is the master's own matter." The master said, "Exactly so." He said, "Please give instruction, master." The master said, "Beyond
 <lb n="0367a11" ed="J" />the four propositions and the hundred negations cut off, with what would I instruct you?"</p>
 <lb n="0367a12" ed="J" />
 <p xml:id="pJ24p0367a1201">Asked, "What is the master's family style?" The master said, "Inside, not one thing; outside, nothing sought."</p>
@@ -2016,7 +2016,7 @@
 <lb n="0371b18" ed="J" />know; only when it rises from the water do they know it is a white lotus.</l></lg></cb:div>
 <lb n="0371b19" ed="J" />
 <lb n="0371b20" ed="J" />
-<cb:juan n="2" fun="close"><cb:jhead>Recorded Sayings of Reverend Zhaozhou, Lower Scroll<note place="inline">終</note></cb:jhead></cb:juan></cb:div>
+<cb:juan n="2" fun="close"><cb:jhead>Recorded Sayings of Reverend Zhaozhou, Lower Scroll<note place="inline">End.</note></cb:jhead></cb:juan></cb:div>
 <lb n="0371b21" ed="J" />
 <lb n="0371b22" ed="J" />
 <lb n="0371b23" ed="J" />
@@ -2065,7 +2065,7 @@
 <lb n="0372a02" ed="J" />in the monastery, the Master sat upright and did not rise. The King of Yan then asked: Which is more honored, the king of men or the Dharma King?
 <lb n="0372a03" ed="J" />The Master said: If among kings of men, the king of men is honored; if among Dharma kings, the Dharma King is honored. Yan
 <lb n="0372a04" ed="J" />King assented. After a while the Master asked: Which one is the great king of Zhenfu? The King of Zhao
-<lb n="0372a05" ed="J" />responded: Your disciple. The Master said: This old monk idly remains in the mountains and rivers and has not been able<note place="inline">緣趙州屬鎮府，以表知重之禮。</note>
+<lb n="0372a05" ed="J" />responded: Your disciple. The Master said: This old monk idly remains in the mountains and rivers and has not been able<note place="inline">Because Zhaozhou was affiliated with the prefectural government, this was done to express due respect.</note>
 <lb n="0372a06" ed="J" />to come face you. After a moment, attendants asked the Master to teach Dharma for the great king. The Master said: The great king has many attendants,
 <lb n="0372a07" ed="J" />how can they let this old monk speak Dharma? So they ordered the attendants to withdraw. At the Master's side there was a novice, Wen
 <lb n="0372a08" ed="J" />yuan, who said loudly: Inform the great king, these are not the attendants in question. The great king then asked: What
@@ -2084,7 +2084,7 @@
 <lb n="0372a21" ed="J" />is a teaching host in his own place. If they remain below the steps, this old monk will also rise. The king then ordered them up into the hall. That day
 <lb n="0372a22" ed="J" />as the feast was about to end, the monastic officials lined up, and from top to bottom each person was to ask one question. One person asked about Buddha
 <lb n="0372a23" ed="J" />Dharma. As soon as the Master saw him, he asked: What are you doing? He said: Asking about Buddha Dharma. The Master said: Here you have already seated<anchor xml:id="nkr_note_add_0372a2301" n="0372a2301" /><anchor xml:id="beg0372a2301" n="0372a2301" /><anchor xml:id="end0372a2301" />
-<lb n="0372a24" ed="J" />this old monk aside; where then are you asking what Dharma? Two honored ones do not teach side by side. The king then ordered<note place="inline">此乃語之詞也</note>
+<lb n="0372a24" ed="J" />this old monk aside; where then are you asking what Dharma? Two honored ones do not teach side by side. The king then ordered<note place="inline">This is a word used in the wording.</note>
 <lb n="0372a25" ed="J" />it stopped. At that time the queen and the king were both standing in attendance at his sides. The queen said: I ask the Chan master to, for
 <lb n="0372a26" ed="J" />The great king receives the prediction with a touch on the crown. The Master rubbed the great king's crown with his hand and said, May Your Majesty and this old monk
 <lb n="0372a27" ed="J" />have the same span of years. At that time, when arrangements were made to receive the Master, he was temporarily lodged in a nearby monastery, and in due time a site was chosen to build a Chan monastery.
@@ -2110,115 +2110,115 @@
 </body>
 <back>
 <cb:div type="apparatus">
-<head>校注</head>
+<head>Collated notes.</head>
 <p>
-<app from="#beg0357a1601" to="#end0357a1601"><lem resp="#resp2" wit="#wit.cbeta">問而</lem><rdg wit="#wit.orig">而問</rdg></app>
-<app from="#beg0357b0801" to="#end0357b0801"><lem resp="#resp2" wit="#wit.cbeta">朽</lem><rdg wit="#wit.orig">杇</rdg></app>
-<app from="#beg0358c1301" to="#end0358c1301"><lem resp="#resp2" wit="#wit.cbeta">已</lem><rdg wit="#wit.orig">巳</rdg></app>
-<app from="#beg0359a1301" to="#end0359a1301"><lem resp="#resp2" wit="#wit.cbeta">叉</lem><rdg wit="#wit.orig">乂</rdg></app>
-<app from="#beg0359a2001" to="#end0359a2001"><lem resp="#resp2" wit="#wit.cbeta">己</lem><rdg wit="#wit.orig">巳</rdg></app>
-<app from="#beg0359c2201" to="#end0359c2201"><lem resp="#resp2" wit="#wit.cbeta">但<note type="cf1">T51n2077_p0653a24</note></lem><rdg wit="#wit.orig">俱</rdg></app>
-<app from="#beg0359c2301" to="#end0359c2301"><lem resp="#resp2" wit="#wit.cbeta">己</lem><rdg wit="#wit.orig">巳</rdg></app>
-<app from="#beg0359c2901" to="#end0359c2901"><lem resp="#resp2" wit="#wit.cbeta">間</lem><rdg wit="#wit.orig">問</rdg></app>
-<app from="#beg0360a0101" to="#end0360a0101"><lem resp="#resp2" wit="#wit.cbeta">已</lem><rdg wit="#wit.orig">巳</rdg></app>
-<app from="#beg0360a2201" to="#end0360a2201"><lem resp="#resp2" wit="#wit.cbeta">己</lem><rdg wit="#wit.orig">巳</rdg></app>
-<app from="#beg0361a0501" to="#end0361a0501"><lem resp="#resp2" wit="#wit.cbeta">一</lem><rdg wit="#wit.orig">　</rdg></app>
-<app from="#beg0361a1601" to="#end0361a1601"><lem resp="#resp2" wit="#wit.cbeta">互</lem><rdg wit="#wit.orig">牙</rdg></app>
-<app from="#beg0361a1602" to="#end0361a1602"><lem resp="#resp2" wit="#wit.cbeta">互</lem><rdg wit="#wit.orig">牙</rdg></app>
-<app from="#beg0361a1701" to="#end0361a1701"><lem resp="#resp2" wit="#wit.cbeta">己</lem><rdg wit="#wit.orig">巳</rdg></app>
-<app from="#beg0361b0501" to="#end0361b0501"><lem resp="#resp2" wit="#wit.cbeta">卻</lem><rdg wit="#wit.orig">郤</rdg></app>
-<app from="#beg0361b1501" to="#end0361b1501"><lem resp="#resp2" wit="#wit.cbeta">己</lem><rdg wit="#wit.orig">巳</rdg></app>
-<app from="#beg0361b2401" to="#end0361b2401"><lem resp="#resp2" wit="#wit.cbeta">僧</lem><rdg wit="#wit.orig"><unclear></unclear></rdg></app>
-<app from="#beg0362b1401" to="#end0362b1401"><lem resp="#resp2" wit="#wit.cbeta">己</lem><rdg wit="#wit.orig">巳</rdg></app>
-<app from="#beg0363a1601" to="#end0363a1601"><lem resp="#resp2" wit="#wit.cbeta">卻</lem><rdg wit="#wit.orig">郤</rdg></app>
-<app from="#beg0363c0601" to="#end0363c0601"><lem resp="#resp2" wit="#wit.cbeta">捉</lem><rdg wit="#wit.orig">促</rdg></app>
-<app from="#beg0364a1701" to="#end0364a1701"><lem resp="#resp2" wit="#wit.cbeta">已</lem><rdg wit="#wit.orig">巳</rdg></app>
-<app from="#beg0364b1401" to="#end0364b1401"><lem resp="#resp2" wit="#wit.cbeta">目<note type="cf1">C077n1710_p0709b24</note></lem><rdg wit="#wit.orig">耳</rdg></app>
-<app from="#beg0365a2201" to="#end0365a2201"><lem resp="#resp2" wit="#wit.cbeta">己</lem><rdg wit="#wit.orig">巳</rdg></app>
-<app from="#beg0365a2401" to="#end0365a2401"><lem resp="#resp2" wit="#wit.cbeta">白</lem><rdg wit="#wit.orig">　</rdg></app>
-<app from="#beg0365b0701" to="#end0365b0701"><lem resp="#resp2" wit="#wit.cbeta">叉</lem><rdg wit="#wit.orig">乂</rdg></app>
-<app from="#beg0365b0702" to="#end0365b0702"><lem resp="#resp2" wit="#wit.cbeta">斂</lem><rdg wit="#wit.orig">歛</rdg></app>
-<app from="#beg0365c0101" to="#end0365c0101"><lem resp="#resp2" wit="#wit.cbeta">大<note type="cf1">X68n1315_p0085a08</note></lem><rdg wit="#wit.orig">不</rdg></app>
-<app from="#beg0366b0901" to="#end0366b0901"><lem resp="#resp2" wit="#wit.cbeta">已</lem><rdg wit="#wit.orig">巳</rdg></app>
-<app from="#beg0366b1201" to="#end0366b1201"><lem resp="#resp2" wit="#wit.cbeta">已</lem><rdg wit="#wit.orig">巳</rdg></app>
-<app from="#beg0366c0801" to="#end0366c0801"><lem resp="#resp2" wit="#wit.cbeta">到<note type="cf1">X68n1315_p0086a11</note></lem><rdg wit="#wit.orig">則</rdg></app>
-<app from="#beg0366c1301" to="#end0366c1301"><lem resp="#resp2" wit="#wit.cbeta">已</lem><rdg wit="#wit.orig">巳</rdg></app>
-<app from="#beg0367c1901" to="#end0367c1901"><lem resp="#resp2" wit="#wit.cbeta">已</lem><rdg wit="#wit.orig">巳</rdg></app>
-<app from="#beg0368a1201" to="#end0368a1201"><lem resp="#resp2" wit="#wit.cbeta">似</lem><rdg wit="#wit.orig">侶</rdg></app>
-<app from="#beg0368b0301" to="#end0368b0301"><lem resp="#resp2" wit="#wit.cbeta">早<note type="cf1">C077n1710_p0713b10</note></lem><rdg wit="#wit.orig">是</rdg></app>
-<app from="#beg0368b0601" to="#end0368b0601"><lem resp="#resp2" wit="#wit.cbeta">屙</lem><rdg wit="#wit.orig">阿</rdg></app>
-<app from="#beg0368b2501" to="#end0368b2501"><lem resp="#resp2" wit="#wit.cbeta">答，<note type="cf1">X68n1315_p0088a01</note></lem><rdg wit="#wit.orig">會</rdg></app>
-<app from="#beg0368c0101" to="#end0368c0101"><lem resp="#resp2" wit="#wit.cbeta">惑</lem><rdg wit="#wit.orig">或</rdg></app>
-<app from="#beg0368c0201" to="#end0368c0201"><lem resp="#resp2" wit="#wit.cbeta">惑</lem><rdg wit="#wit.orig">或</rdg></app>
-<app from="#beg0369a1301" to="#end0369a1301"><lem resp="#resp2" wit="#wit.cbeta">較<note type="cf1">C077n1710_p0714b08</note></lem><rdg wit="#wit.orig">教</rdg></app>
-<app from="#beg0369a2201" to="#end0369a2201"><lem resp="#resp2" wit="#wit.cbeta">尚<note type="cf1">T47n1996_p0680c23</note></lem><rdg wit="#wit.orig">上</rdg></app>
-<app from="#beg0369a2601" to="#end0369a2601"><lem resp="#resp2" wit="#wit.cbeta">屙</lem><rdg wit="#wit.orig">阿</rdg></app>
-<app from="#beg0369b1501" to="#end0369b1501"><lem resp="#resp2" wit="#wit.cbeta">已</lem><rdg wit="#wit.orig">巳</rdg></app>
-<app from="#beg0371a2501" to="#end0371a2501"><lem resp="#resp2" wit="#wit.cbeta">卻</lem><rdg wit="#wit.orig">郤</rdg></app>
-<app from="#beg0371c1201" to="#end0371c1201"><lem resp="#resp2" wit="#wit.cbeta">已</lem><rdg wit="#wit.orig">巳</rdg></app>
-<app from="#beg0371c1202" to="#end0371c1202"><lem resp="#resp2" wit="#wit.cbeta">已</lem><rdg wit="#wit.orig">巳</rdg></app>
-<app from="#beg0371c1401" to="#end0371c1401"><lem resp="#resp2" wit="#wit.cbeta">已</lem><rdg wit="#wit.orig">巳</rdg></app>
-<app from="#beg0371c1701" to="#end0371c1701"><lem resp="#resp2" wit="#wit.cbeta">已</lem><rdg wit="#wit.orig">巳</rdg></app>
-<app from="#beg0372a2301" to="#end0372a2301"><lem resp="#resp2" wit="#wit.cbeta">已</lem><rdg wit="#wit.orig">巳</rdg></app>
-<app from="#beg0372b0501" to="#end0372b0501"><lem resp="#resp2" wit="#wit.cbeta">已</lem><rdg wit="#wit.orig">巳</rdg></app>
-<app from="#beg0372b0801" to="#end0372b0801"><lem resp="#resp2" wit="#wit.cbeta">令<note type="cf1">X68n1315_p0077a04</note></lem><rdg wit="#wit.orig">今</rdg></app>
-<app from="#beg0372b1201" to="#end0372b1201"><lem resp="#resp2" wit="#wit.cbeta">諡</lem><rdg wit="#wit.orig">謚</rdg></app>
+<app from="#beg0357a1601" to="#end0357a1601"><lem resp="#resp2" wit="#wit.cbeta">Asked, and</lem><rdg wit="#wit.orig">and asked</rdg></app>
+<app from="#beg0357b0801" to="#end0357b0801"><lem resp="#resp2" wit="#wit.cbeta">rotten</lem><rdg wit="#wit.orig">decayed</rdg></app>
+<app from="#beg0358c1301" to="#end0358c1301"><lem resp="#resp2" wit="#wit.cbeta">already</lem><rdg wit="#wit.orig">the sixth earthly branch</rdg></app>
+<app from="#beg0359a1301" to="#end0359a1301"><lem resp="#resp2" wit="#wit.cbeta">forked</lem><rdg wit="#wit.orig">to govern</rdg></app>
+<app from="#beg0359a2001" to="#end0359a2001"><lem resp="#resp2" wit="#wit.cbeta">self</lem><rdg wit="#wit.orig">the sixth earthly branch</rdg></app>
+<app from="#beg0359c2201" to="#end0359c2201"><lem resp="#resp2" wit="#wit.cbeta">only<note type="cf1">T51n2077_p0653a24</note></lem><rdg wit="#wit.orig">both</rdg></app>
+<app from="#beg0359c2301" to="#end0359c2301"><lem resp="#resp2" wit="#wit.cbeta">self</lem><rdg wit="#wit.orig">the sixth earthly branch</rdg></app>
+<app from="#beg0359c2901" to="#end0359c2901"><lem resp="#resp2" wit="#wit.cbeta">between</lem><rdg wit="#wit.orig">asked</rdg></app>
+<app from="#beg0360a0101" to="#end0360a0101"><lem resp="#resp2" wit="#wit.cbeta">already</lem><rdg wit="#wit.orig">the sixth earthly branch</rdg></app>
+<app from="#beg0360a2201" to="#end0360a2201"><lem resp="#resp2" wit="#wit.cbeta">self</lem><rdg wit="#wit.orig">the sixth earthly branch</rdg></app>
+<app from="#beg0361a0501" to="#end0361a0501"><lem resp="#resp2" wit="#wit.cbeta">one</lem><rdg wit="#wit.orig">　</rdg></app>
+<app from="#beg0361a1601" to="#end0361a1601"><lem resp="#resp2" wit="#wit.cbeta">mutual</lem><rdg wit="#wit.orig">tusk</rdg></app>
+<app from="#beg0361a1602" to="#end0361a1602"><lem resp="#resp2" wit="#wit.cbeta">mutual</lem><rdg wit="#wit.orig">tusk</rdg></app>
+<app from="#beg0361a1701" to="#end0361a1701"><lem resp="#resp2" wit="#wit.cbeta">self</lem><rdg wit="#wit.orig">the sixth earthly branch</rdg></app>
+<app from="#beg0361b0501" to="#end0361b0501"><lem resp="#resp2" wit="#wit.cbeta">yet</lem><rdg wit="#wit.orig">Xi</rdg></app>
+<app from="#beg0361b1501" to="#end0361b1501"><lem resp="#resp2" wit="#wit.cbeta">self</lem><rdg wit="#wit.orig">the sixth earthly branch</rdg></app>
+<app from="#beg0361b2401" to="#end0361b2401"><lem resp="#resp2" wit="#wit.cbeta">monk</lem><rdg wit="#wit.orig"><unclear></unclear></rdg></app>
+<app from="#beg0362b1401" to="#end0362b1401"><lem resp="#resp2" wit="#wit.cbeta">self</lem><rdg wit="#wit.orig">the sixth earthly branch</rdg></app>
+<app from="#beg0363a1601" to="#end0363a1601"><lem resp="#resp2" wit="#wit.cbeta">yet</lem><rdg wit="#wit.orig">Xi</rdg></app>
+<app from="#beg0363c0601" to="#end0363c0601"><lem resp="#resp2" wit="#wit.cbeta">seize</lem><rdg wit="#wit.orig">urgent</rdg></app>
+<app from="#beg0364a1701" to="#end0364a1701"><lem resp="#resp2" wit="#wit.cbeta">already</lem><rdg wit="#wit.orig">the sixth earthly branch</rdg></app>
+<app from="#beg0364b1401" to="#end0364b1401"><lem resp="#resp2" wit="#wit.cbeta">eye<note type="cf1">C077n1710_p0709b24</note></lem><rdg wit="#wit.orig">ear</rdg></app>
+<app from="#beg0365a2201" to="#end0365a2201"><lem resp="#resp2" wit="#wit.cbeta">self</lem><rdg wit="#wit.orig">the sixth earthly branch</rdg></app>
+<app from="#beg0365a2401" to="#end0365a2401"><lem resp="#resp2" wit="#wit.cbeta">white</lem><rdg wit="#wit.orig">　</rdg></app>
+<app from="#beg0365b0701" to="#end0365b0701"><lem resp="#resp2" wit="#wit.cbeta">forked</lem><rdg wit="#wit.orig">to govern</rdg></app>
+<app from="#beg0365b0702" to="#end0365b0702"><lem resp="#resp2" wit="#wit.cbeta">gather in</lem><rdg wit="#wit.orig">gather in</rdg></app>
+<app from="#beg0365c0101" to="#end0365c0101"><lem resp="#resp2" wit="#wit.cbeta">great<note type="cf1">X68n1315_p0085a08</note></lem><rdg wit="#wit.orig">not</rdg></app>
+<app from="#beg0366b0901" to="#end0366b0901"><lem resp="#resp2" wit="#wit.cbeta">already</lem><rdg wit="#wit.orig">the sixth earthly branch</rdg></app>
+<app from="#beg0366b1201" to="#end0366b1201"><lem resp="#resp2" wit="#wit.cbeta">already</lem><rdg wit="#wit.orig">the sixth earthly branch</rdg></app>
+<app from="#beg0366c0801" to="#end0366c0801"><lem resp="#resp2" wit="#wit.cbeta">arrive<note type="cf1">X68n1315_p0086a11</note></lem><rdg wit="#wit.orig">then</rdg></app>
+<app from="#beg0366c1301" to="#end0366c1301"><lem resp="#resp2" wit="#wit.cbeta">already</lem><rdg wit="#wit.orig">the sixth earthly branch</rdg></app>
+<app from="#beg0367c1901" to="#end0367c1901"><lem resp="#resp2" wit="#wit.cbeta">already</lem><rdg wit="#wit.orig">the sixth earthly branch</rdg></app>
+<app from="#beg0368a1201" to="#end0368a1201"><lem resp="#resp2" wit="#wit.cbeta">like</lem><rdg wit="#wit.orig">companion</rdg></app>
+<app from="#beg0368b0301" to="#end0368b0301"><lem resp="#resp2" wit="#wit.cbeta">early<note type="cf1">C077n1710_p0713b10</note></lem><rdg wit="#wit.orig">is</rdg></app>
+<app from="#beg0368b0601" to="#end0368b0601"><lem resp="#resp2" wit="#wit.cbeta">diarrhea</lem><rdg wit="#wit.orig">ah</rdg></app>
+<app from="#beg0368b2501" to="#end0368b2501"><lem resp="#resp2" wit="#wit.cbeta">replied,<note type="cf1">X68n1315_p0088a01</note></lem><rdg wit="#wit.orig">understand</rdg></app>
+<app from="#beg0368c0101" to="#end0368c0101"><lem resp="#resp2" wit="#wit.cbeta">confusion</lem><rdg wit="#wit.orig">or</rdg></app>
+<app from="#beg0368c0201" to="#end0368c0201"><lem resp="#resp2" wit="#wit.cbeta">confusion</lem><rdg wit="#wit.orig">or</rdg></app>
+<app from="#beg0369a1301" to="#end0369a1301"><lem resp="#resp2" wit="#wit.cbeta">compare<note type="cf1">C077n1710_p0714b08</note></lem><rdg wit="#wit.orig">teaching</rdg></app>
+<app from="#beg0369a2201" to="#end0369a2201"><lem resp="#resp2" wit="#wit.cbeta">still<note type="cf1">T47n1996_p0680c23</note></lem><rdg wit="#wit.orig">above</rdg></app>
+<app from="#beg0369a2601" to="#end0369a2601"><lem resp="#resp2" wit="#wit.cbeta">diarrhea</lem><rdg wit="#wit.orig">ah</rdg></app>
+<app from="#beg0369b1501" to="#end0369b1501"><lem resp="#resp2" wit="#wit.cbeta">already</lem><rdg wit="#wit.orig">the sixth earthly branch</rdg></app>
+<app from="#beg0371a2501" to="#end0371a2501"><lem resp="#resp2" wit="#wit.cbeta">yet</lem><rdg wit="#wit.orig">Xi</rdg></app>
+<app from="#beg0371c1201" to="#end0371c1201"><lem resp="#resp2" wit="#wit.cbeta">already</lem><rdg wit="#wit.orig">the sixth earthly branch</rdg></app>
+<app from="#beg0371c1202" to="#end0371c1202"><lem resp="#resp2" wit="#wit.cbeta">already</lem><rdg wit="#wit.orig">the sixth earthly branch</rdg></app>
+<app from="#beg0371c1401" to="#end0371c1401"><lem resp="#resp2" wit="#wit.cbeta">already</lem><rdg wit="#wit.orig">the sixth earthly branch</rdg></app>
+<app from="#beg0371c1701" to="#end0371c1701"><lem resp="#resp2" wit="#wit.cbeta">already</lem><rdg wit="#wit.orig">the sixth earthly branch</rdg></app>
+<app from="#beg0372a2301" to="#end0372a2301"><lem resp="#resp2" wit="#wit.cbeta">already</lem><rdg wit="#wit.orig">the sixth earthly branch</rdg></app>
+<app from="#beg0372b0501" to="#end0372b0501"><lem resp="#resp2" wit="#wit.cbeta">already</lem><rdg wit="#wit.orig">yi (variant form)</rdg></app>
+<app from="#beg0372b0801" to="#end0372b0801"><lem resp="#resp2" wit="#wit.cbeta">to order; to command<note type="cf1">X68n1315_p0077a04</note></lem><rdg wit="#wit.orig">now; today</rdg></app>
+<app from="#beg0372b1201" to="#end0372b1201"><lem resp="#resp2" wit="#wit.cbeta">posthumous title</lem><rdg wit="#wit.orig">posthumous title (variant form)</rdg></app>
 </p>
 </cb:div>
 <cb:div type="add-notes">
-<head>新增校注</head>
+<head>newly added textual notes</head>
 <p>
-<note n="0357a1601" resp="#resp1" type="add" target="#nkr_note_add_0357a1601">問而【CB】，而問【嘉興】</note>
-<note n="0357b0801" resp="#resp1" type="add" target="#nkr_note_add_0357b0801">朽【CB】，杇【嘉興】</note>
-<note n="0358c1301" resp="#resp1" type="add" target="#nkr_note_add_0358c1301">已【CB】，巳【嘉興】</note>
-<note n="0359a1301" resp="#resp1" type="add" target="#nkr_note_add_0359a1301">叉【CB】，乂【嘉興】</note>
-<note n="0359a2001" resp="#resp1" type="add" target="#nkr_note_add_0359a2001">己【CB】，巳【嘉興】</note>
-<note n="0359c2201" resp="#resp1" type="add" target="#nkr_note_add_0359c2201">但【CB】，俱【嘉興】</note>
-<note n="0359c2301" resp="#resp1" type="add" target="#nkr_note_add_0359c2301">己【CB】，巳【嘉興】</note>
-<note n="0359c2901" resp="#resp1" type="add" target="#nkr_note_add_0359c2901">間【CB】，問【嘉興】</note>
-<note n="0360a0101" resp="#resp1" type="add" target="#nkr_note_add_0360a0101">已【CB】，巳【嘉興】</note>
-<note n="0360a2201" resp="#resp1" type="add" target="#nkr_note_add_0360a2201">己【CB】，巳【嘉興】</note>
-<note n="0361a0501" resp="#resp1" type="add" target="#nkr_note_add_0361a0501">一【CB】，［－］【嘉興】</note>
-<note n="0361a1601" resp="#resp1" type="add" target="#nkr_note_add_0361a1601">互【CB】，牙【嘉興】</note>
-<note n="0361a1602" resp="#resp1" type="add" target="#nkr_note_add_0361a1602">互【CB】，牙【嘉興】</note>
-<note n="0361a1701" resp="#resp1" type="add" target="#nkr_note_add_0361a1701">己【CB】，巳【嘉興】</note>
-<note n="0361b0501" resp="#resp1" type="add" target="#nkr_note_add_0361b0501">卻【CB】，郤【嘉興】</note>
-<note n="0361b1501" resp="#resp1" type="add" target="#nkr_note_add_0361b1501">己【CB】，巳【嘉興】</note>
-<note n="0361b2401" resp="#resp1" type="add" target="#nkr_note_add_0361b2401">僧【CB】，<unclear></unclear>【嘉興】</note>
-<note n="0362b1401" resp="#resp1" type="add" target="#nkr_note_add_0362b1401">己【CB】，巳【嘉興】</note>
-<note n="0363a1601" resp="#resp1" type="add" target="#nkr_note_add_0363a1601">卻【CB】，郤【嘉興】</note>
-<note n="0363c0601" resp="#resp1" type="add" target="#nkr_note_add_0363c0601">捉【CB】，促【嘉興】</note>
-<note n="0364a1701" resp="#resp1" type="add" target="#nkr_note_add_0364a1701">已【CB】，巳【嘉興】</note>
-<note n="0364b1401" resp="#resp1" type="add" target="#nkr_note_add_0364b1401">目【CB】，耳【嘉興】</note>
-<note n="0365a2201" resp="#resp1" type="add" target="#nkr_note_add_0365a2201">己【CB】，巳【嘉興】</note>
-<note n="0365a2401" resp="#resp1" type="add" target="#nkr_note_add_0365a2401">白【CB】，［－］【嘉興】</note>
-<note n="0365b0701" resp="#resp1" type="add" target="#nkr_note_add_0365b0701">叉【CB】，乂【嘉興】</note>
-<note n="0365b0702" resp="#resp1" type="add" target="#nkr_note_add_0365b0702">斂【CB】，歛【嘉興】</note>
-<note n="0365c0101" resp="#resp1" type="add" target="#nkr_note_add_0365c0101">大【CB】，不【嘉興】</note>
-<note n="0366b0901" resp="#resp1" type="add" target="#nkr_note_add_0366b0901">已【CB】，巳【嘉興】</note>
-<note n="0366b1201" resp="#resp1" type="add" target="#nkr_note_add_0366b1201">已【CB】，巳【嘉興】</note>
-<note n="0366c0801" resp="#resp1" type="add" target="#nkr_note_add_0366c0801">到【CB】，則【嘉興】</note>
-<note n="0366c1301" resp="#resp1" type="add" target="#nkr_note_add_0366c1301">已【CB】，巳【嘉興】</note>
-<note n="0367c1901" resp="#resp1" type="add" target="#nkr_note_add_0367c1901">已【CB】，巳【嘉興】</note>
-<note n="0368a1201" resp="#resp1" type="add" target="#nkr_note_add_0368a1201">似【CB】，侶【嘉興】</note>
-<note n="0368b0301" resp="#resp1" type="add" target="#nkr_note_add_0368b0301">早【CB】，是【嘉興】</note>
-<note n="0368b0601" resp="#resp1" type="add" target="#nkr_note_add_0368b0601">屙【CB】，阿【嘉興】</note>
-<note n="0368b2501" resp="#resp1" type="add" target="#nkr_note_add_0368b2501">答【CB】，會【嘉興】</note>
-<note n="0368c0101" resp="#resp1" type="add" target="#nkr_note_add_0368c0101">惑【CB】，或【嘉興】</note>
-<note n="0368c0201" resp="#resp1" type="add" target="#nkr_note_add_0368c0201">惑【CB】，或【嘉興】</note>
-<note n="0369a1301" resp="#resp1" type="add" target="#nkr_note_add_0369a1301">較【CB】，教【嘉興】</note>
-<note n="0369a2201" resp="#resp1" type="add" target="#nkr_note_add_0369a2201">尚【CB】，上【嘉興】</note>
-<note n="0369a2601" resp="#resp1" type="add" target="#nkr_note_add_0369a2601">屙【CB】，阿【嘉興】</note>
-<note n="0369b1501" resp="#resp1" type="add" target="#nkr_note_add_0369b1501">已【CB】，巳【嘉興】</note>
-<note n="0371a2501" resp="#resp1" type="add" target="#nkr_note_add_0371a2501">卻【CB】，郤【嘉興】</note>
-<note n="0371c1201" resp="#resp1" type="add" target="#nkr_note_add_0371c1201">已【CB】，巳【嘉興】</note>
-<note n="0371c1202" resp="#resp1" type="add" target="#nkr_note_add_0371c1202">已【CB】，巳【嘉興】</note>
-<note n="0371c1401" resp="#resp1" type="add" target="#nkr_note_add_0371c1401">已【CB】，巳【嘉興】</note>
-<note n="0371c1701" resp="#resp1" type="add" target="#nkr_note_add_0371c1701">已【CB】，巳【嘉興】</note>
-<note n="0372a2301" resp="#resp1" type="add" target="#nkr_note_add_0372a2301">已【CB】，巳【嘉興】</note>
-<note n="0372b0501" resp="#resp1" type="add" target="#nkr_note_add_0372b0501">已【CB】，巳【嘉興】</note>
-<note n="0372b0801" resp="#resp1" type="add" target="#nkr_note_add_0372b0801">令【CB】，今【嘉興】</note>
-<note n="0372b1201" resp="#resp1" type="add" target="#nkr_note_add_0372b1201">諡【CB】，謚【嘉興】</note>
+<note n="0357a1601" resp="#resp1" type="add" target="#nkr_note_add_0357a1601">"asked, then" (CB); "and asked" (Jiaxing)</note>
+<note n="0357b0801" resp="#resp1" type="add" target="#nkr_note_add_0357b0801">"decayed" (CB); "to plaster/daub" (Jiaxing)</note>
+<note n="0358c1301" resp="#resp1" type="add" target="#nkr_note_add_0358c1301">"already" (CB); "si" (Jiaxing, variant form)</note>
+<note n="0359a1301" resp="#resp1" type="add" target="#nkr_note_add_0359a1301">"fork; cross" (CB); "again/also; to govern" (Jiaxing, variant)</note>
+<note n="0359a2001" resp="#resp1" type="add" target="#nkr_note_add_0359a2001">"self" (CB); "si" (Jiaxing, variant form)</note>
+<note n="0359c2201" resp="#resp1" type="add" target="#nkr_note_add_0359c2201">"only; but" (CB); "all; together" (Jiaxing)</note>
+<note n="0359c2301" resp="#resp1" type="add" target="#nkr_note_add_0359c2301">"self" (CB); "si" (Jiaxing, variant form)</note>
+<note n="0359c2901" resp="#resp1" type="add" target="#nkr_note_add_0359c2901">"interval; between" (CB); "to ask" (Jiaxing)</note>
+<note n="0360a0101" resp="#resp1" type="add" target="#nkr_note_add_0360a0101">"already" (CB); "si" (Jiaxing, variant form)</note>
+<note n="0360a2201" resp="#resp1" type="add" target="#nkr_note_add_0360a2201">"self" (CB); "si" (Jiaxing, variant form)</note>
+<note n="0361a0501" resp="#resp1" type="add" target="#nkr_note_add_0361a0501">"one" (CB); omitted (Jiaxing)</note>
+<note n="0361a1601" resp="#resp1" type="add" target="#nkr_note_add_0361a1601">"mutual" (CB); "tooth" (Jiaxing)</note>
+<note n="0361a1602" resp="#resp1" type="add" target="#nkr_note_add_0361a1602">"mutual" (CB); "tooth" (Jiaxing)</note>
+<note n="0361a1701" resp="#resp1" type="add" target="#nkr_note_add_0361a1701">"self" (CB); "si" (Jiaxing, variant form)</note>
+<note n="0361b0501" resp="#resp1" type="add" target="#nkr_note_add_0361b0501">"yet; but; to retreat" (CB); "xi" (Jiaxing, variant form)</note>
+<note n="0361b1501" resp="#resp1" type="add" target="#nkr_note_add_0361b1501">"self" (CB); "si" (Jiaxing, variant form)</note>
+<note n="0361b2401" resp="#resp1" type="add" target="#nkr_note_add_0361b2401">"monk" (CB); absent in Jiaxing (blank)<unclear></unclear></note>
+<note n="0362b1401" resp="#resp1" type="add" target="#nkr_note_add_0362b1401">"self" (CB); "si" (Jiaxing, variant form)</note>
+<note n="0363a1601" resp="#resp1" type="add" target="#nkr_note_add_0363a1601">"yet; but; to retreat" (CB); "xi" (Jiaxing, variant form)</note>
+<note n="0363c0601" resp="#resp1" type="add" target="#nkr_note_add_0363c0601">"to seize" (CB); "to urge; hurried" (Jiaxing)</note>
+<note n="0364a1701" resp="#resp1" type="add" target="#nkr_note_add_0364a1701">"already" (CB); "si" (Jiaxing, variant form)</note>
+<note n="0364b1401" resp="#resp1" type="add" target="#nkr_note_add_0364b1401">"eye" (CB); "ear" (Jiaxing)</note>
+<note n="0365a2201" resp="#resp1" type="add" target="#nkr_note_add_0365a2201">"self" (CB); "si" (Jiaxing, variant form)</note>
+<note n="0365a2401" resp="#resp1" type="add" target="#nkr_note_add_0365a2401">"white" (CB); omitted (Jiaxing)</note>
+<note n="0365b0701" resp="#resp1" type="add" target="#nkr_note_add_0365b0701">"fork; cross" (CB); "again/also; to govern" (Jiaxing, variant)</note>
+<note n="0365b0702" resp="#resp1" type="add" target="#nkr_note_add_0365b0702">"to gather; to restrain" (CB); "to gather; to restrain" (Jiaxing, variant form)</note>
+<note n="0365c0101" resp="#resp1" type="add" target="#nkr_note_add_0365c0101">"great" (CB); "not" (Jiaxing)</note>
+<note n="0366b0901" resp="#resp1" type="add" target="#nkr_note_add_0366b0901">"already" (CB); "si" (Jiaxing, variant form)</note>
+<note n="0366b1201" resp="#resp1" type="add" target="#nkr_note_add_0366b1201">"already" (CB); "si" (Jiaxing, variant form)</note>
+<note n="0366c0801" resp="#resp1" type="add" target="#nkr_note_add_0366c0801">"to arrive" (CB); "then; thus" (Jiaxing)</note>
+<note n="0366c1301" resp="#resp1" type="add" target="#nkr_note_add_0366c1301">"already" (CB); "si" (Jiaxing, variant form)</note>
+<note n="0367c1901" resp="#resp1" type="add" target="#nkr_note_add_0367c1901">"already" (CB); "si" (Jiaxing, variant form)</note>
+<note n="0368a1201" resp="#resp1" type="add" target="#nkr_note_add_0368a1201">"similar; like" (CB); "companion" (Jiaxing)</note>
+<note n="0368b0301" resp="#resp1" type="add" target="#nkr_note_add_0368b0301">"early" (CB); "is; to be" (Jiaxing)</note>
+<note n="0368b0601" resp="#resp1" type="add" target="#nkr_note_add_0368b0601">"to defecate" (CB); "a" (Jiaxing, phonetic/particle)</note>
+<note n="0368b2501" resp="#resp1" type="add" target="#nkr_note_add_0368b2501">"to answer" (CB); "to understand; meeting" (Jiaxing)</note>
+<note n="0368c0101" resp="#resp1" type="add" target="#nkr_note_add_0368c0101">"confused; doubt" (CB); "or; perhaps" (Jiaxing)</note>
+<note n="0368c0201" resp="#resp1" type="add" target="#nkr_note_add_0368c0201">"confused; doubt" (CB); "or; perhaps" (Jiaxing)</note>
+<note n="0369a1301" resp="#resp1" type="add" target="#nkr_note_add_0369a1301">"to compare; rather" (CB); "to teach" (Jiaxing)</note>
+<note n="0369a2201" resp="#resp1" type="add" target="#nkr_note_add_0369a2201">"still; yet" (CB); "above; up" (Jiaxing)</note>
+<note n="0369a2601" resp="#resp1" type="add" target="#nkr_note_add_0369a2601">"to defecate" (CB); "a" (Jiaxing, phonetic/particle)</note>
+<note n="0369b1501" resp="#resp1" type="add" target="#nkr_note_add_0369b1501">"already" (CB); "si" (Jiaxing, variant form)</note>
+<note n="0371a2501" resp="#resp1" type="add" target="#nkr_note_add_0371a2501">"yet; but; to retreat" (CB); "xi" (Jiaxing, variant form)</note>
+<note n="0371c1201" resp="#resp1" type="add" target="#nkr_note_add_0371c1201">"already" (CB); "si" (Jiaxing, variant form)</note>
+<note n="0371c1202" resp="#resp1" type="add" target="#nkr_note_add_0371c1202">"already" (CB); "si" (Jiaxing, variant form)</note>
+<note n="0371c1401" resp="#resp1" type="add" target="#nkr_note_add_0371c1401">"already" (CB); "si" (Jiaxing, variant form)</note>
+<note n="0371c1701" resp="#resp1" type="add" target="#nkr_note_add_0371c1701">"already" (CB); "si" (Jiaxing, variant form)</note>
+<note n="0372a2301" resp="#resp1" type="add" target="#nkr_note_add_0372a2301">"already" (CB); "si" (Jiaxing, variant form)</note>
+<note n="0372b0501" resp="#resp1" type="add" target="#nkr_note_add_0372b0501">"already" (CB); "si" (Jiaxing, variant form)</note>
+<note n="0372b0801" resp="#resp1" type="add" target="#nkr_note_add_0372b0801">"to order; to command" (CB); "now; today" (Jiaxing)</note>
+<note n="0372b1201" resp="#resp1" type="add" target="#nkr_note_add_0372b1201">posthumous title (CB); posthumous title (Jiaxing, variant form)</note>
 </p>
 </cb:div>
 </back></text></TEI>
