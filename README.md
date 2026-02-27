@@ -147,6 +147,17 @@ The structure is built to allow iterative improvement over time.
 
 ---
 
+## 🎥 Video: Translating with ChatGPT (Workflow Walkthrough)
+
+If you want to see the end-to-end workflow in action, here’s a video walkthrough showing how to translate texts in this repository using **ChatGPT** alongside **CBETA Translator**:
+
+- **Video:** https://www.youtube.com/watch?v=xDwJJrbx-dA  
+- **Demo text:** *Recorded Sayings of Zhaozhou* (趙州錄)
+
+This approach is fast and practical for large texts: using this workflow, the entire **Blue Cliff Record** was translated in about **one hour** as a first-pass machine translation baseline, ready for later review and refinement.
+
+---
+
 ## 📝 Please Add a Translator Annotation
 
 At the top of the file (in Readable mode), please add a short annotation indicating:
