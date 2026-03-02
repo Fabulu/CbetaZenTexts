@@ -29,7 +29,7 @@
       "Preceptor"
     ],
     "Status": "preferred",
-    "Note": "do not leave as Chinese in EN",
+    "Note": "",
     "WrittenUtc": null
   },
   {
@@ -58,16 +58,6 @@
     "SourceTerm": "\u5E8F",
     "PreferredTarget": "Preface",
     "AlternateTargets": [],
-    "Status": "preferred",
-    "Note": "",
-    "WrittenUtc": null
-  },
-  {
-    "SourceTerm": "\u65B0\u8A9E\u65B0\u8A9E\u65B0\u8A9E",
-    "PreferredTarget": "nonono",
-    "AlternateTargets": [
-      "this is junk"
-    ],
     "Status": "preferred",
     "Note": "",
     "WrittenUtc": null
