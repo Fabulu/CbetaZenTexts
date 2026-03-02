@@ -7,7 +7,8 @@
       "The monk asked"
     ],
     "Status": "preferred",
-    "Note": ""
+    "Note": "",
+    "WrittenUtc": null
   },
   {
     "SourceTerm": "\u51E1\u60C5\u8056\u898B",
@@ -17,7 +18,8 @@
       "ordinary and enlightened views"
     ],
     "Status": "preferred",
-    "Note": "preferred house-style rendering"
+    "Note": "preferred house-style rendering",
+    "WrittenUtc": null
   },
   {
     "SourceTerm": "\u548C\u5C1A",
@@ -27,7 +29,8 @@
       "Preceptor"
     ],
     "Status": "preferred",
-    "Note": "do not leave as Chinese in EN"
+    "Note": "do not leave as Chinese in EN",
+    "WrittenUtc": null
   },
   {
     "SourceTerm": "\u56DE\u4E92",
@@ -38,7 +41,8 @@
       "reciprocal exchange positions"
     ],
     "Status": "preferred",
-    "Note": "house-style preferred phrase"
+    "Note": "house-style preferred phrase",
+    "WrittenUtc": null
   },
   {
     "SourceTerm": "\u5982\u4F55\u662F\u4F5B",
@@ -47,14 +51,26 @@
       "What is the Buddha?"
     ],
     "Status": "allowed",
-    "Note": "keep consistent within a text"
+    "Note": "keep consistent within a text",
+    "WrittenUtc": null
   },
   {
     "SourceTerm": "\u5E8F",
     "PreferredTarget": "Preface",
     "AlternateTargets": [],
     "Status": "preferred",
-    "Note": ""
+    "Note": "",
+    "WrittenUtc": null
+  },
+  {
+    "SourceTerm": "\u65B0\u8A9E\u65B0\u8A9E\u65B0\u8A9E",
+    "PreferredTarget": "nonono",
+    "AlternateTargets": [
+      "this is junk"
+    ],
+    "Status": "preferred",
+    "Note": "",
+    "WrittenUtc": null
   },
   {
     "SourceTerm": "\u91D1\u9396\u7384\u8DEF",
@@ -63,6 +79,7 @@
       "a golden lock that blocks the mysterious path"
     ],
     "Status": "preferred",
-    "Note": ""
+    "Note": "",
+    "WrittenUtc": null
   }
 ]
