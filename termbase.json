@@ -1,0 +1,75 @@
+[
+  {
+    "SourceTerm": "\u50E7\u554F",
+    "PreferredTarget": "A monk asked",
+    "AlternateTargets": [
+      "A monk inquired",
+      "The monk asked"
+    ],
+    "Status": "preferred",
+    "Note": "",
+    "WrittenUtc": null
+  },
+  {
+    "SourceTerm": "\u51E1\u60C5\u8056\u898B",
+    "PreferredTarget": "dualistic thinking\u2014whether ordinary or enlightened",
+    "AlternateTargets": [
+      "ordinary feelings and holy views",
+      "ordinary and enlightened views"
+    ],
+    "Status": "preferred",
+    "Note": "preferred house-style rendering",
+    "WrittenUtc": null
+  },
+  {
+    "SourceTerm": "\u548C\u5C1A",
+    "PreferredTarget": "the master",
+    "AlternateTargets": [
+      "Venerable",
+      "Preceptor"
+    ],
+    "Status": "preferred",
+    "Note": "",
+    "WrittenUtc": null
+  },
+  {
+    "SourceTerm": "\u56DE\u4E92",
+    "PreferredTarget": "guests and hosts changing places freely",
+    "AlternateTargets": [
+      "mutual interchange",
+      "reciprocal exchange",
+      "reciprocal exchange positions"
+    ],
+    "Status": "preferred",
+    "Note": "house-style preferred phrase",
+    "WrittenUtc": null
+  },
+  {
+    "SourceTerm": "\u5982\u4F55\u662F\u4F5B",
+    "PreferredTarget": "What is Buddha?",
+    "AlternateTargets": [
+      "What is the Buddha?"
+    ],
+    "Status": "allowed",
+    "Note": "keep consistent within a text",
+    "WrittenUtc": null
+  },
+  {
+    "SourceTerm": "\u5E8F",
+    "PreferredTarget": "Preface",
+    "AlternateTargets": [],
+    "Status": "preferred",
+    "Note": "",
+    "WrittenUtc": null
+  },
+  {
+    "SourceTerm": "\u91D1\u9396\u7384\u8DEF",
+    "PreferredTarget": "golden shackles on the mysterious path",
+    "AlternateTargets": [
+      "a golden lock that blocks the mysterious path"
+    ],
+    "Status": "preferred",
+    "Note": "",
+    "WrittenUtc": null
+  }
+]
