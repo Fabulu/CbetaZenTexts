@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <?xml-model href="https://raw.githubusercontent.com/cbeta-org/xml-p5/master/schema/cbeta-p5.rnc" type="application/relax-ng-compact-syntax"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:cb="http://www.cbeta.org/ns/1.0" xml:id="T48n2012A">
 <teiHeader>
@@ -93,429 +93,453 @@
 	</revisionDesc>
 </teiHeader>
 <text><body>
-<milestone n="1" unit="juan"/>
-<lb n="0379b20" ed="T"/>
-<lb n="0379b21" ed="T"/>
-<lb n="0379b22" ed="T"/><cb:docNumber>No. 2012A</cb:docNumber>
-<lb n="0379b23" ed="T"/><cb:div type="xu"><cb:mulu level="1" type="序">斷際心要（序）</cb:mulu><head><anchor xml:id="nkr_note_orig_0379001" n="0379001"/><anchor xml:id="nkr_note_mod_0379001" n="0379001"/><anchor xml:id="beg0379001" n="0379001"/>斷際心要<anchor xml:id="end0379001"/><anchor xml:id="nkr_note_rest_0379001" n="0379001"/></head>
-<lb n="0379b24" ed="T"/>
-<lb n="0379b25" ed="T"/><byline cb:type="Collector">河東裴休集并序</byline>
-<lb n="0379b26" ed="T"/><p xml:id="pT48p0379b2601">有大禪師。法諱希運。住洪州高安縣黃檗山
-<lb n="0379b27" ed="T"/>鷲峯下。乃曹溪六祖之嫡孫。西堂百丈之法
-<lb n="0379b28" ed="T"/>姪。獨佩最上乘離文字之印。唯傳一心更無
-<lb n="0379b29" ed="T"/>別法。心體亦空萬緣俱寂。如大日輪昇虛空
-<pb n="0379c" xml:id="T48.2012A.0379c" ed="T"/>
-<lb n="0379c01" ed="T"/>中。光明照<anchor xml:id="nkr_note_orig_0379002" n="0379002"/><anchor xml:id="nkr_note_mod_0379002" n="0379002"/><anchor xml:id="beg0379002" n="0379002"/>曜<anchor xml:id="end0379002"/>淨無纖埃。證之者無新舊無淺
-<lb n="0379c02" ed="T"/>深。說之者不立義解不立宗主。不開戶牖直
-<lb n="0379c03" ed="T"/>下便是。<anchor xml:id="nkr_note_orig_0379003" n="0379003"/><anchor xml:id="nkr_note_mod_0379003" n="0379003"/><anchor xml:id="beg0379003" n="0379003"/>動<anchor xml:id="end0379003"/>念即乖。然後為本佛。故其言簡
-<lb n="0379c04" ed="T"/>其理直。其道峻其行孤。四方學徒望山而趨。
-<lb n="0379c05" ed="T"/>覩相而悟。往來海眾常千餘人。予會昌二年
-<lb n="0379c06" ed="T"/>廉于鍾陵。自山迎至州。憩龍興寺。旦夕問道。
-<lb n="0379c07" ed="T"/>大中二年廉于宛陵。復去禮迎至所部。安居
-<lb n="0379c08" ed="T"/>開元寺。旦夕受法。退而紀之。十得一二。佩為
-<lb n="0379c09" ed="T"/>心印不敢發揚。今恐入神精義不聞於未來。
-<lb n="0379c10" ed="T"/>遂出之授門下僧大舟法建。歸舊山之廣唐
-<lb n="0379c11" ed="T"/>寺。問長老法眾。與往日常所親聞。同異<anchor xml:id="nkr_note_orig_0379004" n="0379004"/><anchor xml:id="nkr_note_mod_0379004" n="0379004"/><anchor xml:id="beg0379004" n="0379004"/>如
-<lb n="0379c12" ed="T"/>何<anchor xml:id="end0379004"/>也。</p>
-<lb n="0379c13" ed="T"/><p xml:id="pT48p0379c1301"><anchor xml:id="nkr_note_orig_0379005" n="0379005"/><anchor xml:id="nkr_note_mod_0379005" n="0379005"/><anchor xml:id="beg0379005" n="0379005"/>唐<anchor xml:id="end0379005"/>大中十一年十<anchor xml:id="nkr_note_orig_0379006" n="0379006"/><anchor xml:id="nkr_note_mod_0379006" n="0379006"/><anchor xml:id="beg0379006" n="0379006"/>一<anchor xml:id="end0379006"/>月<anchor xml:id="nkr_note_orig_0379007" n="0379007"/><anchor xml:id="nkr_note_mod_0379007" n="0379007"/><anchor xml:id="beg0379007" n="0379007"/>初<anchor xml:id="end0379007"/>八日序</p></cb:div>
-<lb n="0379c14" ed="T"/><cb:div type="other">
-<lb n="0379c15" ed="T"/>
-<lb n="0379c16" ed="T"/><cb:juan n="001" fun="open"><cb:mulu n="1" type="卷"></cb:mulu><cb:jhead><anchor xml:id="nkr_note_orig_0379008" n="0379008"/><anchor xml:id="nkr_note_mod_0379008" n="0379008"/><anchor xml:id="beg0379008" n="0379008"/>黃檗山斷際禪師傳心法要<anchor xml:id="end0379008"/></cb:jhead></cb:juan>
-<lb n="0379c17" ed="T"/>
-<lb n="0379c18" ed="T"/><p xml:id="pT48p0379c1801">師謂休曰。諸佛與一切眾生。唯是一心。更無
-<lb n="0379c19" ed="T"/>別法。此心無始已來。不曾生不曾滅。不青不
-<lb n="0379c20" ed="T"/>黃。無形無相。不屬有無。不計新舊。非長非
-<lb n="0379c21" ed="T"/>短。非大非小。超過一切限量名言縱跡對待。
-<lb n="0379c22" ed="T"/>當體便是。動念即乖。猶如虛空無有邊際不
-<lb n="0379c23" ed="T"/>可測度。唯此一心即是佛。佛與眾生更無別
-<lb n="0379c24" ed="T"/>異。但是眾生著相外求。求之轉失。使佛覓
-<lb n="0379c25" ed="T"/>佛。將心捉心。窮劫盡形終不能得。不知息念
-<lb n="0379c26" ed="T"/>忘慮佛自現前。此心即是佛。佛即是眾生。為
-<lb n="0379c27" ed="T"/>眾生時此心不減。為諸佛時此心不添。乃至
-<lb n="0379c28" ed="T"/>六度萬行河沙功德。本自具足不假修添。遇
-<lb n="0379c29" ed="T"/>緣即施。緣息即寂。若不決定信此是佛。而欲
-<pb n="0380a" xml:id="T48.2012A.0380a" ed="T"/>
-<lb n="0380a01" ed="T"/>著相修行以求功用。皆是妄想。與道相乖。此
-<lb n="0380a02" ed="T"/>心即是佛。更無別佛。亦無別心。此心明淨。猶
-<lb n="0380a03" ed="T"/>如虛空無一點相貌。舉心動念即乖法體。即
-<lb n="0380a04" ed="T"/>為著相。無始已來無著相佛。修六度萬行欲
-<lb n="0380a05" ed="T"/>求成佛。即是次第。無始已來無次第佛。但悟
-<lb n="0380a06" ed="T"/>一心。更無少法可得。此即真佛。佛與眾生一
-<lb n="0380a07" ed="T"/>心無異。猶如虛空無雜無壞。如大日輪照四
-<lb n="0380a08" ed="T"/>天下。日升之時明遍天下。虛空不曾明。日沒
-<lb n="0380a09" ed="T"/>之時暗遍天下。虛空不曾暗。明暗之境自相
-<lb n="0380a10" ed="T"/><anchor xml:id="nkr_note_orig_0380001" n="0380001"/><anchor xml:id="nkr_note_mod_0380001" n="0380001"/><anchor xml:id="beg0380001" n="0380001"/>陵<anchor xml:id="end0380001"/>奪。虛空之性廓然不變。佛及眾生心亦
-<lb n="0380a11" ed="T"/>如此。若觀佛作清淨光明解脫之相。觀眾生
-<lb n="0380a12" ed="T"/>作垢濁暗昧生死之相。作此解者歷河沙劫
-<lb n="0380a13" ed="T"/>終不得菩提。為著相故。唯此一心更無微塵
-<lb n="0380a14" ed="T"/>許法可得。即心是佛。如今學道人。不悟此心
-<lb n="0380a15" ed="T"/>體。便於心上生心。向外求佛。著相修行。皆是
-<lb n="0380a16" ed="T"/>惡法。非菩提道。供養十方諸佛。不如供養一
-<lb n="0380a17" ed="T"/>個無心道人。何故。無心者無一切心也。如如
-<lb n="0380a18" ed="T"/>之體。內如木石不動不搖。外如虛空不塞不
-<lb n="0380a19" ed="T"/>礙。無能所無方所。無相貌無得失。趨者不敢
-<lb n="0380a20" ed="T"/>入此法。恐落空無棲泊處故。望崖而退。例皆
-<lb n="0380a21" ed="T"/>廣求知見。所以求知見者如毛。悟道者如角。
-<lb n="0380a22" ed="T"/>文殊當理。普賢當行。理者真空無礙之理。行
-<lb n="0380a23" ed="T"/>者離相無盡之行。觀音當大慈。勢至當大智。
-<lb n="0380a24" ed="T"/>維摩者淨名也。淨者性也。名者相也。性相不
-<lb n="0380a25" ed="T"/>異。故號淨名。諸大菩薩所表者人皆有之。不
-<lb n="0380a26" ed="T"/>離一心悟之即是。今學道人。不向自心中悟。
-<lb n="0380a27" ed="T"/>乃於心外著相取境。皆與道背。恒河沙者。佛
-<lb n="0380a28" ed="T"/>說是沙。諸佛菩薩釋梵諸天步履而過。沙亦
-<lb n="0380a29" ed="T"/>不喜。牛羊蟲蟻踐踏而行。沙亦不怒。珍寶馨
-<pb n="0380b" xml:id="T48.2012A.0380b" ed="T"/>
-<lb n="0380b01" ed="T"/>香沙亦不貪。糞<anchor xml:id="nkr_note_orig_0380002" n="0380002"/><anchor xml:id="nkr_note_mod_0380002" n="0380002"/><anchor xml:id="beg0380002" n="0380002"/>尿<anchor xml:id="end0380002"/>臭穢沙亦不惡。此心即無
-<lb n="0380b02" ed="T"/>心之心。離一切相。眾生諸佛更無差別。但能
-<lb n="0380b03" ed="T"/>無心。便是究竟。學道人若不直下無心。累劫
-<lb n="0380b04" ed="T"/>修行終不成道。被三乘功行拘繫不得解脫。
-<lb n="0380b05" ed="T"/>然證此心有遲疾。有聞法一念便得無心者。
-<lb n="0380b06" ed="T"/>有至十信十住十行十迴向乃得無心<anchor xml:id="nkr_note_orig_0380003" n="0380003"/><anchor xml:id="nkr_note_mod_0380003" n="0380003"/><anchor xml:id="beg0380003" n="0380003"/>者<anchor xml:id="end0380003"/>。長
-<lb n="0380b07" ed="T"/>短得無心乃住。更無可修可證。實無所得。
-<lb n="0380b08" ed="T"/>真實不虛。一念而得。與十地而得者。功用恰
-<lb n="0380b09" ed="T"/>齊。更無深淺。秖是歷劫<anchor xml:id="nkr_note_orig_0380004" n="0380004"/><anchor xml:id="nkr_note_mod_0380004" n="0380004"/><anchor xml:id="beg0380004" n="0380004"/>枉<anchor xml:id="end0380004"/>受辛勤耳。造惡
-<lb n="0380b10" ed="T"/>造善皆是著相。著相造惡枉受輪迴。著相造
-<lb n="0380b11" ed="T"/>善枉受勞苦。總不如言下便<anchor xml:id="nkr_note_orig_0380005" n="0380005"/><anchor xml:id="nkr_note_mod_0380005" n="0380005"/><anchor xml:id="beg0380005" n="0380005"/>自<anchor xml:id="end0380005"/>認取本法。此
-<lb n="0380b12" ed="T"/>法即心。心外無法。此心即法。法外無心。心自
-<lb n="0380b13" ed="T"/>無心。亦無無心者。將心無心。心却成有。默契
-<lb n="0380b14" ed="T"/>而已。絕諸思議。故曰言語道斷心行處滅。此
-<lb n="0380b15" ed="T"/>心是本源清淨佛。人皆有之。蠢動含靈與諸
-<lb n="0380b16" ed="T"/>佛菩薩一體不異。秖為妄想分別造種種業
-<lb n="0380b17" ed="T"/>果。本佛上實無一物。虛通寂靜。明妙安樂而
-<lb n="0380b18" ed="T"/>已。深自悟入。直下便是。圓滿具足更無所欠。
-<lb n="0380b19" ed="T"/>縱使三<anchor xml:id="nkr_note_orig_0380006" n="0380006"/><anchor xml:id="nkr_note_mod_0380006" n="0380006"/><anchor xml:id="beg0380006" n="0380006"/>秖<anchor xml:id="end0380006"/>精進修行歷諸地位。及一念證時。
-<lb n="0380b20" ed="T"/>秖證元來自佛。向上更不添得一物。却觀歷
-<lb n="0380b21" ed="T"/>劫功用。總是夢中妄為。故如來云。我於阿耨
-<lb n="0380b22" ed="T"/>菩提實無所得。若有所得。然燈佛則不與我
-<lb n="0380b23" ed="T"/>授記。又云。是法平等。無有高下。是名菩提。
-<lb n="0380b24" ed="T"/>即此本源清淨心。與眾生諸佛世界山河。有
-<lb n="0380b25" ed="T"/>相無相遍十方界。一切平等無彼我相。此本
-<lb n="0380b26" ed="T"/>源清淨心。常自圓明遍照。世人不悟。秖認見
-<lb n="0380b27" ed="T"/>聞覺知為心。為見聞覺知所覆。所以不覩精
-<lb n="0380b28" ed="T"/>明本體。但直下無心。本體自現。如大日輪昇
-<lb n="0380b29" ed="T"/>於虛空遍照十方更無障礙。故學道人唯認
-<pb n="0380c" xml:id="T48.2012A.0380c" ed="T"/>
-<lb n="0380c01" ed="T"/>見聞覺知施為動作。空却見聞覺知。即心路
-<lb n="0380c02" ed="T"/>絕無入處。但於見聞覺知處認本心。然本心
-<lb n="0380c03" ed="T"/>不屬見聞覺知。亦不離見聞覺知。但莫於見
-<lb n="0380c04" ed="T"/>聞覺<anchor xml:id="nkr_note_orig_0380007" n="0380007"/><anchor xml:id="nkr_note_mod_0380007" n="0380007"/><anchor xml:id="beg0380007" n="0380007"/>者<anchor xml:id="end0380007"/>上起見解。<anchor xml:id="nkr_note_orig_0380008" n="0380008"/><anchor xml:id="nkr_note_mod_0380008" n="0380008"/><anchor xml:id="beg0380008" n="0380008"/>亦<anchor xml:id="end0380008"/>莫於見聞覺知上動
-<lb n="0380c05" ed="T"/>念。亦莫離見聞覺知覓心。亦莫捨見聞覺知
-<lb n="0380c06" ed="T"/>取法。不即不離。不住不著。縱橫自在無非道
-<lb n="0380c07" ed="T"/>場。世人聞道。諸佛皆傳心法。將謂心上別有
-<lb n="0380c08" ed="T"/>一法可證可取。遂將心覓法。不知心即是法
-<lb n="0380c09" ed="T"/>法即是心。不可將心更求於心。歷千萬劫終
-<lb n="0380c10" ed="T"/>無得日。不如當下無心。便是本法。如力士迷
-<lb n="0380c11" ed="T"/>額內珠向外求覓。周行十方終不能得。智者
-<lb n="0380c12" ed="T"/>指之當時自見本珠如故。故學道人迷自本
-<lb n="0380c13" ed="T"/>心不認為佛。遂向外求覓起功用行。依次第
-<lb n="0380c14" ed="T"/>證。歷劫勤求永不成道。不如當下無心。決定
-<lb n="0380c15" ed="T"/>知一切法。本無所有亦無所得。無依無住。無
-<lb n="0380c16" ed="T"/>能無所。不動妄念便證菩提。及證道時秖證
-<lb n="0380c17" ed="T"/>本心佛。歷劫功用並是虛修。如力士得珠時。
-<lb n="0380c18" ed="T"/>秖得本額珠。不關向外求覓之力。故佛言。我
-<lb n="0380c19" ed="T"/>於阿耨菩提實無所得。恐人不信故引五眼
-<lb n="0380c20" ed="T"/>所見五語所言。真實不虛是第一義諦。</p>
-<lb n="0380c21" ed="T"/><p xml:id="pT48p0380c2101">學道人莫疑四大為身。四大無我。我亦無主。
-<lb n="0380c22" ed="T"/>故知此身無我亦無主。五陰為心。五陰無我
-<lb n="0380c23" ed="T"/>亦無主。故知此心無我亦無主。六根六塵六
-<lb n="0380c24" ed="T"/>識和合生滅亦復如是。十八界既空。一切皆
-<lb n="0380c25" ed="T"/>空。唯有本心蕩然清淨。有識食有智食。四大
-<lb n="0380c26" ed="T"/>之身飢瘡為患。隨順給養不生貪著。謂之智
-<lb n="0380c27" ed="T"/>食。恣情取味妄生分別。<anchor xml:id="nkr_note_orig_0380009" n="0380009"/><anchor xml:id="nkr_note_mod_0380009" n="0380009"/><anchor xml:id="beg0380009" n="0380009"/>惟<anchor xml:id="end0380009"/>求適口不生厭
-<lb n="0380c28" ed="T"/>離。謂之識食。聲聞者。因聲得悟。故謂之聲
-<lb n="0380c29" ed="T"/>聞。但不了自心。於聲教上起解。或因神通。或
-<pb n="0381a" xml:id="T48.2012A.0381a" ed="T"/>
-<lb n="0381a01" ed="T"/>因瑞相。言語運動。聞有菩提涅槃三僧<anchor xml:id="beg_1" type="star"/>秖<anchor xml:id="end_1"/>劫
-<lb n="0381a02" ed="T"/>修成佛道。皆屬聲聞道。謂之聲聞佛。唯直下
-<lb n="0381a03" ed="T"/>頓了自心。本來是佛。無一法可得。無一行可
-<lb n="0381a04" ed="T"/>修。此是無上道。此是真如佛。學道人。秖怕一
-<lb n="0381a05" ed="T"/>念有。即與道隔矣。念念無相念念無為。即是
-<lb n="0381a06" ed="T"/>佛。學道人若欲得成佛。一切佛法總不用學。
-<lb n="0381a07" ed="T"/>唯學無求無著。無求即心不生。無著即心不
-<lb n="0381a08" ed="T"/>滅。不生不滅即是佛。八萬四千法門對八萬
-<lb n="0381a09" ed="T"/>四千煩惱。秖是教化接引門。本無一切法。離
-<lb n="0381a10" ed="T"/>即是法。知離者是佛。但離一切煩惱。是無法
-<lb n="0381a11" ed="T"/>可得。學道人若欲得知要訣。但莫於心上著
-<lb n="0381a12" ed="T"/>一物。言佛真法身猶若虛空。此<anchor xml:id="nkr_note_orig_0381001" n="0381001"/><anchor xml:id="nkr_note_mod_0381001" n="0381001"/><anchor xml:id="beg0381001" n="0381001"/>是<anchor xml:id="end0381001"/>喻法身即
-<lb n="0381a13" ed="T"/>虛空。虛空即法身。常人謂法身遍虛空處。虛
-<lb n="0381a14" ed="T"/>空中含容法身。不知法身即虛空虛空即法
-<lb n="0381a15" ed="T"/>身也。若定言有虛空。虛空不是法身。若定言
-<lb n="0381a16" ed="T"/>有法身。法身不是虛空。但莫作虛空解。虛空
-<lb n="0381a17" ed="T"/>即法身。莫作法身解。法身即虛空。虛空與法
-<lb n="0381a18" ed="T"/>身無異相。佛與眾生無異相。生死與涅槃無
-<lb n="0381a19" ed="T"/>異相。煩惱與菩提無異相。離一切相即是佛。
-<lb n="0381a20" ed="T"/>凡夫取境。道人取心。心境雙忘乃是真法。
-<lb n="0381a21" ed="T"/>忘境猶易忘心至難。人不敢忘心。恐落空無
-<lb n="0381a22" ed="T"/>撈摸處。不知空本無空。唯一真法界耳。此靈
-<lb n="0381a23" ed="T"/>覺性無始已來與虛空同壽。未曾生未曾滅。
-<lb n="0381a24" ed="T"/>未曾有未曾無。未曾穢未曾淨。未曾喧未曾
-<lb n="0381a25" ed="T"/>寂。未曾少未曾老。無方所無內外。無數量無
-<lb n="0381a26" ed="T"/>形相。無色<anchor xml:id="nkr_note_orig_0381002" n="0381002"/><anchor xml:id="nkr_note_mod_0381002" n="0381002"/><anchor xml:id="beg0381002" n="0381002"/>像<anchor xml:id="end0381002"/>無音聲。不可覓不可求。不可
-<lb n="0381a27" ed="T"/>以智慧識。不可以言語取。不可以境物會。不
-<lb n="0381a28" ed="T"/>可以功用到。諸佛菩薩與一切蠢動含靈。同
-<lb n="0381a29" ed="T"/>此大涅槃性。性即是心。心即是佛。佛即是法。
-<pb n="0381b" xml:id="T48.2012A.0381b" ed="T"/>
-<lb n="0381b01" ed="T"/>一念離真皆為妄想。不可以心更求<anchor xml:id="nkr_note_orig_0381003" n="0381003"/><anchor xml:id="nkr_note_mod_0381003" n="0381003"/><anchor xml:id="beg0381003" n="0381003"/>于<anchor xml:id="end0381003"/>心。不
-<lb n="0381b02" ed="T"/>可以佛更求於佛。不可以法更求於法。故學
-<lb n="0381b03" ed="T"/>道人直下無心默契而已。擬心即差。以心傳
-<lb n="0381b04" ed="T"/>心此為正見。慎勿向外逐境。認境為心。是認
-<lb n="0381b05" ed="T"/>賊為子。為有貪嗔癡即立戒定慧。本無煩惱
-<lb n="0381b06" ed="T"/>焉有菩提。故祖師云。佛說一切法。為除一切
-<lb n="0381b07" ed="T"/>心。我無一切心。何用一切法。本源清淨佛上。
-<lb n="0381b08" ed="T"/>更不著一物。譬如虛空雖以無量珍寶莊嚴
-<lb n="0381b09" ed="T"/>終不能住。佛性同虛空。雖以無量功德智慧
-<lb n="0381b10" ed="T"/>莊嚴終不能住。但迷本性轉不見耳。所謂心
-<lb n="0381b11" ed="T"/>地法門。萬法皆依此心建立。遇境即有無境
-<lb n="0381b12" ed="T"/>即無。不可於淨性上轉作境解。所言定慧。鑑
-<lb n="0381b13" ed="T"/>用歷歷。寂寂惺惺見聞覺知。<anchor xml:id="nkr_note_orig_0381004" n="0381004"/><anchor xml:id="nkr_note_mod_0381004" n="0381004"/><anchor xml:id="beg0381004" n="0381004"/>皆<anchor xml:id="end0381004"/>是境上作解。
-<lb n="0381b14" ed="T"/>暫為中下根人說即得。若欲親證皆不可作
-<lb n="0381b15" ed="T"/>如此見解。盡是境法有沒處沒於有地。但於
-<lb n="0381b16" ed="T"/>一切法不作有無見。即見法也。</p>
-<lb n="0381b17" ed="T"/><p xml:id="pT48p0381b1701">九月一日師謂休曰。自<anchor xml:id="nkr_note_orig_0381005" n="0381005"/><anchor xml:id="nkr_note_mod_0381005" n="0381005"/><anchor xml:id="beg0381005" n="0381005"/>達摩<anchor xml:id="end0381005"/>大師到中國。唯
-<lb n="0381b18" ed="T"/>說一心唯傳一法。以佛傳佛不說餘佛。以法
-<lb n="0381b19" ed="T"/>傳法不說餘法。法即不可說之法。佛即不可
-<lb n="0381b20" ed="T"/>取之佛。乃是本源清淨心也。唯此一事實。餘
-<lb n="0381b21" ed="T"/>二則非真。般若為慧。此慧即無相本心也。凡
-<lb n="0381b22" ed="T"/>夫不趣道。唯恣六情乃行六道。學道人一念
-<lb n="0381b23" ed="T"/>計生死即落魔道。一念起諸見即落外道。見
-<lb n="0381b24" ed="T"/>有生趣其滅。即落聲聞道。不見有生唯見有
-<lb n="0381b25" ed="T"/>滅。即落緣覺道。法本不生今亦無滅。不起二
-<lb n="0381b26" ed="T"/>見不厭不<anchor xml:id="nkr_note_orig_0381006" n="0381006"/><anchor xml:id="nkr_note_mod_0381006" n="0381006"/><anchor xml:id="beg0381006" n="0381006"/>欣<anchor xml:id="end0381006"/>。一切諸法唯是一心。然後乃為
-<lb n="0381b27" ed="T"/>佛乘也。凡夫皆逐境生心。心遂<anchor xml:id="beg_2" type="star"/>欣<anchor xml:id="end_2"/>厭。若欲
-<lb n="0381b28" ed="T"/>無境當忘其心。心忘即境空。境空即心滅。若
-<lb n="0381b29" ed="T"/>不忘心而但除境。境不可除。秖益紛擾。故萬
-<pb n="0381c" xml:id="T48.2012A.0381c" ed="T"/>
-<lb n="0381c01" ed="T"/>法唯心。心亦不可得。復何求哉。學般若人不
-<lb n="0381c02" ed="T"/>見有一法可得。絕意三乘。唯一真實。不可證
-<lb n="0381c03" ed="T"/>得。謂我能證能得。皆增上慢<anchor xml:id="nkr_note_orig_0381007" n="0381007"/><anchor xml:id="nkr_note_mod_0381007" n="0381007"/><anchor xml:id="beg0381007" n="0381007"/>人<anchor xml:id="end0381007"/>。法華會上
-<lb n="0381c04" ed="T"/>拂衣而去者。皆斯徒也。故佛言。我於菩提實
-<lb n="0381c05" ed="T"/>無所得默契而已。凡人臨欲終時。但觀五蘊
-<lb n="0381c06" ed="T"/>皆空四大無我。真心無相不去不來。生時性
-<lb n="0381c07" ed="T"/>亦不來。死時性亦不去。湛然圓寂心境一如。
-<lb n="0381c08" ed="T"/>但能如是。直下頓了。不為三世所拘繫。便是
-<lb n="0381c09" ed="T"/>出世人也。切不得有分毫趣向。若見善相諸
-<lb n="0381c10" ed="T"/>佛來迎及種種現前。亦無心隨去。若見惡相
-<lb n="0381c11" ed="T"/>種種現前。亦無心怖畏。但自忘心。同於法界。
-<lb n="0381c12" ed="T"/>便得自在。此即是要節也。</p>
-<lb n="0381c13" ed="T"/><p xml:id="pT48p0381c1301">十月八日。師謂休曰。言化城者。二乘及十地
-<lb n="0381c14" ed="T"/>等覺妙覺。皆是權立接引之教。並為化城。言
-<lb n="0381c15" ed="T"/>寶所者。乃真心本佛自性之寶。此寶不屬情
-<lb n="0381c16" ed="T"/>量。不可建立。無佛無眾生。無能無所。何處有
-<lb n="0381c17" ed="T"/>城。若問此既是化城。何處為寶所。寶所不可
-<lb n="0381c18" ed="T"/>指。指即有方所。非真寶所也。故云在近而已。
-<lb n="0381c19" ed="T"/>不可定量言之。但當體會契之即是。言闡提
-<lb n="0381c20" ed="T"/>者。信不具也。一切六道眾生乃至二乘不信
-<lb n="0381c21" ed="T"/>有佛果。皆謂之斷善根闡提。菩薩者。深信有
-<lb n="0381c22" ed="T"/>佛法。不見有大乘小乘。佛與眾生同一法性。
-<lb n="0381c23" ed="T"/>乃謂之善根闡提。大抵因聲教而悟者。謂之
-<lb n="0381c24" ed="T"/>聲聞。觀因緣而悟者。謂之緣覺。若不向自心
-<lb n="0381c25" ed="T"/>中悟。雖至成佛。亦謂之聲聞佛。學道人多於
-<lb n="0381c26" ed="T"/>教法上悟。不於心法上悟。雖歷劫修行。<anchor xml:id="nkr_note_orig_0381008" n="0381008"/><anchor xml:id="nkr_note_mod_0381008" n="0381008"/><anchor xml:id="beg0381008" n="0381008"/>終<anchor xml:id="end0381008"/>
-<lb n="0381c27" ed="T"/>不是本佛。若不於心悟。乃至於教法上悟。即
-<lb n="0381c28" ed="T"/>輕心重教。遂成逐塊忘於本心。故但契本心
-<lb n="0381c29" ed="T"/>不用求法。心即法也。凡人多為境礙心。事礙
-<pb n="0382a" xml:id="T48.2012A.0382a" ed="T"/>
-<lb n="0382a01" ed="T"/>理。常欲逃境以安心。屏事以存理。不知乃是
-<lb n="0382a02" ed="T"/>心礙境理礙事。但令心空境自空。但令理寂
-<lb n="0382a03" ed="T"/>事自寂。勿倒用心也。凡人多不肯空心。恐落
-<lb n="0382a04" ed="T"/>於空。不知自心本空。愚人除事不除心。智者
-<lb n="0382a05" ed="T"/>除心不除事。菩薩心如虛空。一切俱捨。所作
-<lb n="0382a06" ed="T"/>福德皆不貪著。然捨有三等。內外身心一切
-<lb n="0382a07" ed="T"/>俱捨。猶如虛空無所取著。然後隨方應物。能
-<lb n="0382a08" ed="T"/>所皆忘。是為大捨。若一邊行道布德。一邊旋
-<lb n="0382a09" ed="T"/>捨。無希望心。是為中捨。若廣修眾善有所希
-<lb n="0382a10" ed="T"/>望。聞法知空。遂乃不著。是為小捨。大捨如
-<lb n="0382a11" ed="T"/>火燭在前。更無迷悟。中捨如火燭在傍。或明
-<lb n="0382a12" ed="T"/>或暗。小捨如火燭在後。不見坑穽。故菩薩心
-<lb n="0382a13" ed="T"/>如虛空。一切俱捨。過去心不可得。是過去捨。
-<lb n="0382a14" ed="T"/>現在心不可得。是現在捨。未來心不可得。是
-<lb n="0382a15" ed="T"/>未來捨。所謂三世俱捨。自如來付法迦葉已
-<lb n="0382a16" ed="T"/>來。以心印心。心心不異。印著空即印不成文。
-<lb n="0382a17" ed="T"/>印著物即印不成法。故以心印心。心心不異。
-<lb n="0382a18" ed="T"/>能印所印俱難契會。故得者少。然心即無心。
-<lb n="0382a19" ed="T"/>得即無得。佛有三身。法身說自性虛通法。報
-<lb n="0382a20" ed="T"/>身說一切清淨法。化身說六度萬行法。法身
-<lb n="0382a21" ed="T"/>說法。不可以言語音聲形相文字而求。無所
-<lb n="0382a22" ed="T"/>說無所證。自性虛通而已。故曰。無法可說是
-<lb n="0382a23" ed="T"/>名說法。報身化身皆隨機感現。所說法亦隨
-<lb n="0382a24" ed="T"/>事應根以為攝化。皆非真法。故曰。報化非真
-<lb n="0382a25" ed="T"/>佛。亦非說法者。所言同是一精明分為六和
-<lb n="0382a26" ed="T"/>合。一精明者。一心也。六和合者。六根也。此
-<lb n="0382a27" ed="T"/>六根各與塵合。眼與色合。耳與聲合。鼻與香
-<lb n="0382a28" ed="T"/>合。舌與味合。身與觸合。意與法合。中間生六
-<lb n="0382a29" ed="T"/>識為十八界。若了十八界無所有。束六和合
-<pb n="0382b" xml:id="T48.2012A.0382b" ed="T"/>
-<lb n="0382b01" ed="T"/>為一精明。一精明者。即心也。學道人皆知此。
-<lb n="0382b02" ed="T"/>但不能免作一精明六和合解。遂被法縛不
-<lb n="0382b03" ed="T"/>契本心。如來現世。欲說一乘真法則眾生不
-<lb n="0382b04" ed="T"/>信興謗。沒於苦海。若都不說。則墮慳貪。不為
-<lb n="0382b05" ed="T"/>眾生溥捨妙道。遂設方便說有三乘。乘有大
-<lb n="0382b06" ed="T"/>小。得有淺深。皆非本法。故云。唯有一乘道餘
-<lb n="0382b07" ed="T"/>二則非真。然終未能顯一心法。故召迦葉同
-<lb n="0382b08" ed="T"/>法座別付一心。離言說法。此一枝法令別行。
-<lb n="0382b09" ed="T"/>若能契悟者。便至佛地矣。</p>
-<lb n="0382b10" ed="T"/><p xml:id="pT48p0382b1001">問如何是道。如何修行。師云。道是何物。汝欲
-<lb n="0382b11" ed="T"/>修行。問諸方宗師相承參禪學道如何。師云。
-<lb n="0382b12" ed="T"/><anchor xml:id="nkr_note_orig_0382001" n="0382001"/><anchor xml:id="nkr_note_mod_0382001" n="0382001"/><anchor xml:id="beg0382001" n="0382001"/>引接<anchor xml:id="end0382001"/>鈍根人語。未可依憑。云此<anchor xml:id="nkr_note_orig_0382002" n="0382002"/><anchor xml:id="nkr_note_mod_0382002" n="0382002"/><anchor xml:id="beg0382002" n="0382002"/>即<anchor xml:id="end0382002"/>是<anchor xml:id="beg_3" type="star"/>引接<anchor xml:id="end_3"/>
-<lb n="0382b13" ed="T"/>鈍根人語。未審接上根人復說何法。師云。若
-<lb n="0382b14" ed="T"/>是上根人。何處更<anchor xml:id="nkr_note_orig_0382003" n="0382003"/><anchor xml:id="nkr_note_mod_0382003" n="0382003"/><anchor xml:id="beg0382003" n="0382003"/>就人<anchor xml:id="end0382003"/>覓他。自己尚不可
-<lb n="0382b15" ed="T"/>得。何況更別有法當情。不見教中云。法法何
-<lb n="0382b16" ed="T"/>狀。云若如此。則都不要求覓也。師云。若與麼
-<lb n="0382b17" ed="T"/>則省心力。云如是則渾成斷絕不可是無也。
-<lb n="0382b18" ed="T"/>師云。阿誰教他無。他是阿誰。爾擬覓他。云既
-<lb n="0382b19" ed="T"/>不許覓。何故又言莫斷他。師云。若不覓<anchor xml:id="nkr_note_orig_0382004" n="0382004"/><anchor xml:id="nkr_note_mod_0382004" n="0382004"/><anchor xml:id="beg0382004" n="0382004"/>便<anchor xml:id="end0382004"/>
-<lb n="0382b20" ed="T"/>休。<anchor xml:id="nkr_note_orig_0382005" n="0382005"/><anchor xml:id="nkr_note_mod_0382005" n="0382005"/><anchor xml:id="beg0382005" n="0382005"/>即<anchor xml:id="end0382005"/>誰教爾斷。爾見目前虛空作麼生斷
-<lb n="0382b21" ed="T"/>他。云此法可得便同虛空否。師云。虛空早晚
-<lb n="0382b22" ed="T"/>向爾道有同有異。我暫如此說。爾便向<anchor xml:id="nkr_note_orig_0382006" n="0382006"/><anchor xml:id="nkr_note_mod_0382006" n="0382006"/><anchor xml:id="beg0382006" n="0382006"/>者<anchor xml:id="end0382006"/>
-<lb n="0382b23" ed="T"/>裏生解。云應是不與人生解耶。師云。我不曾
-<lb n="0382b24" ed="T"/>障爾。要且解屬於情。情生則智隔。云向<anchor xml:id="beg_4" type="star"/>者<anchor xml:id="end_4"/>
-<lb n="0382b25" ed="T"/>裏莫生情是否。師云。若不生情。阿誰道是。</p>
-<lb n="0382b26" ed="T"/><p xml:id="pT48p0382b2601">問纔向和尚處發言。為<anchor xml:id="nkr_note_orig_0382007" n="0382007"/><anchor xml:id="nkr_note_mod_0382007" n="0382007"/><anchor xml:id="beg0382007" n="0382007"/>甚<anchor xml:id="end0382007"/>麼便<anchor xml:id="nkr_note_orig_0382008" n="0382008"/><anchor xml:id="nkr_note_mod_0382008" n="0382008"/><anchor xml:id="beg0382008" n="0382008"/>言<anchor xml:id="end0382008"/>話墮。師
-<lb n="0382b27" ed="T"/>云。汝自是不解語人。有<anchor xml:id="beg_5" type="star"/>甚<anchor xml:id="end_5"/>麼墮負。</p>
-<lb n="0382b28" ed="T"/><p xml:id="pT48p0382b2801">問向來如許多言說皆是抵敵語。都未曾有
-<lb n="0382b29" ed="T"/>實法指示於人。師云。實法無顛倒。汝今問處
-<pb n="0382c" xml:id="T48.2012A.0382c" ed="T"/>
-<lb n="0382c01" ed="T"/>自生顛倒。覓<anchor xml:id="beg_6" type="star"/>甚<anchor xml:id="end_6"/>麼實法。云既是問處自生顛
-<lb n="0382c02" ed="T"/>倒。和尚答處如何。師云。爾且將物照面看。莫
-<lb n="0382c03" ed="T"/>管他人。又云。秖如箇癡狗相似。見物動處便
-<lb n="0382c04" ed="T"/>吠。風吹草木也不別。又云。我此禪宗從上
-<lb n="0382c05" ed="T"/>相承已來。不曾教人求知求解。只云學道早
-<lb n="0382c06" ed="T"/>是接引之詞。然道亦不可學。情存學解却成
-<lb n="0382c07" ed="T"/>迷道。道無方所名大乘心。此心不在內外中
-<lb n="0382c08" ed="T"/>間。實無方所。第一不得作知解。只是說汝如
-<lb n="0382c09" ed="T"/>今情量<anchor xml:id="nkr_note_orig_0382009" n="0382009"/><anchor xml:id="nkr_note_mod_0382009" n="0382009"/><anchor xml:id="beg0382009" n="0382009"/>處<anchor xml:id="end0382009"/>。情量若盡心無方所。此道天真本
-<lb n="0382c10" ed="T"/>無名字。只為世人不識迷在情中。所以諸佛
-<lb n="0382c11" ed="T"/>出來說破此事。恐汝諸人不了。權立道名。不
-<lb n="0382c12" ed="T"/>可守名而生解。故云。得魚忘筌。身心自然達
-<lb n="0382c13" ed="T"/>道識心。達本源故號為沙門。沙門果者。<anchor xml:id="nkr_note_orig_0382010" n="0382010"/><anchor xml:id="nkr_note_mod_0382010" n="0382010"/><anchor xml:id="beg0382010" n="0382010"/>息<anchor xml:id="end0382010"/>
-<lb n="0382c14" ed="T"/>慮而成不從學得。汝如今將心求心。傍他家
-<lb n="0382c15" ed="T"/>舍秖擬學取。有<anchor xml:id="beg_7" type="star"/>甚<anchor xml:id="end_7"/>麼得時。古人心利纔聞一
-<lb n="0382c16" ed="T"/>言便乃絕學。所以喚作絕學無為閒道人。今
-<lb n="0382c17" ed="T"/>時人只欲得多知多解。廣求文義。喚作修行。
-<lb n="0382c18" ed="T"/>不知多知多解翻成壅塞。唯知多與兒酥乳
-<lb n="0382c19" ed="T"/>喫。消與不消都總不知。三乘學道人皆是此
-<lb n="0382c20" ed="T"/>樣。盡名食不消者。所謂知解不消。皆為毒藥。
-<lb n="0382c21" ed="T"/>盡向生滅中取。真如之中都無此事。故云。我
-<lb n="0382c22" ed="T"/>王庫內無如是刀。從前所有一切解處。盡須
-<lb n="0382c23" ed="T"/><anchor xml:id="nkr_note_orig_0382011" n="0382011"/><anchor xml:id="nkr_note_mod_0382011" n="0382011"/><anchor xml:id="beg0382011" n="0382011"/>併<anchor xml:id="end0382011"/>却令空。更無分別。即是空如來藏。如來
-<lb n="0382c24" ed="T"/>藏者。更無纖塵可有。即是破有法王出現世
-<lb n="0382c25" ed="T"/>間。亦云。我於然燈佛所。無少法可得。此語只
-<lb n="0382c26" ed="T"/>為空爾<anchor xml:id="nkr_note_orig_0382012" n="0382012"/><anchor xml:id="nkr_note_mod_0382012" n="0382012"/><anchor xml:id="beg0382012" n="0382012"/>情量知解<anchor xml:id="end0382012"/>。但<anchor xml:id="nkr_note_orig_0382013" n="0382013"/><anchor xml:id="nkr_note_mod_0382013" n="0382013"/><anchor xml:id="beg0382013" n="0382013"/>銷鎔<anchor xml:id="end0382013"/>表裏。情盡都無
-<lb n="0382c27" ed="T"/>依執。是無事人。三乘教網。秖是應機之藥。隨
-<lb n="0382c28" ed="T"/>宜所說臨時施設。各各不同。但能了知。即不
-<lb n="0382c29" ed="T"/>被惑。第一不得於一機一教邊守文作解。何
-<pb n="0383a" xml:id="T48.2012A.0383a" ed="T"/>
-<lb n="0383a01" ed="T"/>以如此。實無有定法如來可說。我此宗門不
-<lb n="0383a02" ed="T"/>論此事。但知息心即休。更不用思前慮後。</p>
-<lb n="0383a03" ed="T"/><p xml:id="pT48p0383a0301">問從上來皆云。即心是佛。未審即那箇心是
-<lb n="0383a04" ed="T"/>佛。師云。爾有幾箇心。云為復即凡心是佛。即
-<lb n="0383a05" ed="T"/>聖心是佛。師云。爾何處有凡聖心耶。云即今
-<lb n="0383a06" ed="T"/>三乘中說有凡聖。和尚何得言無。師云。三乘
-<lb n="0383a07" ed="T"/>中分明向爾道。凡聖心是妄。爾今不解。返執
-<lb n="0383a08" ed="T"/>為有。將空作實。豈不是妄。妄故迷心。汝但除
-<lb n="0383a09" ed="T"/>却凡情聖境。心外更無別佛。祖師西來直指
-<lb n="0383a10" ed="T"/>一切人全體是佛。汝今不識。執凡執聖向外
-<lb n="0383a11" ed="T"/>馳騁。還自迷心。所以向汝道。即心是佛。一念
-<lb n="0383a12" ed="T"/>情生即墮異趣。無始已來不異今日。無有異
-<lb n="0383a13" ed="T"/>法故名成等正覺。云和尚所言即者。是何道
-<lb n="0383a14" ed="T"/>理。師云。覓什麼道理。纔有道理便即心異。云
-<lb n="0383a15" ed="T"/>前言無始已來不異今日。此理如何。師云。秖
-<lb n="0383a16" ed="T"/>為覓故。汝自異他。汝若不覓。何處有異。云既
-<lb n="0383a17" ed="T"/>是不異。何更用說即。師云。汝若不<anchor xml:id="nkr_note_orig_0383001" n="0383001"/><anchor xml:id="nkr_note_mod_0383001" n="0383001"/><anchor xml:id="beg0383001" n="0383001"/>信<anchor xml:id="end0383001"/>凡聖。
-<lb n="0383a18" ed="T"/>阿誰向汝道即。即若不即。心亦不心。可中心
-<lb n="0383a19" ed="T"/>即俱忘。阿爾<anchor xml:id="nkr_note_orig_0383002" n="0383002"/><anchor xml:id="nkr_note_mod_0383002" n="0383002"/><anchor xml:id="beg0383002" n="0383002"/>便<anchor xml:id="end0383002"/>擬向何處覓去。</p>
-<lb n="0383a20" ed="T"/><p xml:id="pT48p0383a2001">問妄能障自心。未審而今以何遣妄。師云。起
-<lb n="0383a21" ed="T"/>妄遣妄亦成妄。妄本無根。秖因分別而有。爾
-<lb n="0383a22" ed="T"/>但於凡聖兩處<anchor xml:id="nkr_note_orig_0383003" n="0383003"/><anchor xml:id="nkr_note_mod_0383003" n="0383003"/><anchor xml:id="beg0383003" n="0383003"/>情盡<anchor xml:id="end0383003"/>。自然無妄。更擬若為遣
-<lb n="0383a23" ed="T"/>他。都不得有纖毫依執。名為我捨兩臂必當
-<lb n="0383a24" ed="T"/>得佛。云既無依執。當何相承。師云。以心傳心。
-<lb n="0383a25" ed="T"/>云若心相傳。云何言心亦無。師云。不得一法
-<lb n="0383a26" ed="T"/>名為傳心。若了此心。即是無心無法。云若無
-<lb n="0383a27" ed="T"/>心無法云何名傳。師云。汝聞道傳心。將謂有
-<lb n="0383a28" ed="T"/>可得也。所以祖師云。認得心性時。可說不思
-<lb n="0383a29" ed="T"/>議了了無所得。得時不說知。此事若教<anchor xml:id="nkr_note_orig_0383004" n="0383004"/><anchor xml:id="nkr_note_mod_0383004" n="0383004"/><anchor xml:id="beg0383004" n="0383004"/>汝<anchor xml:id="end0383004"/>
-<pb n="0383b" xml:id="T48.2012A.0383b" ed="T"/>
-<lb n="0383b01" ed="T"/>會。何堪也。</p>
-<lb n="0383b02" ed="T"/><p xml:id="pT48p0383b0201">問秖如目前虛空。可不是境。豈無指境見心
-<lb n="0383b03" ed="T"/>乎。師云。<anchor xml:id="beg_8" type="star"/>甚<anchor xml:id="end_8"/>麼心教汝向境上見。設汝見得。
-<lb n="0383b04" ed="T"/>只是個照境底心。如人以鏡照面。縱然得見
-<lb n="0383b05" ed="T"/>眉目分明。元來秖是影像。何關汝事。云若不
-<lb n="0383b06" ed="T"/>因照。何時得見。師云。若也涉因。常須假物。
-<lb n="0383b07" ed="T"/>有什麼了時。汝不見他向汝道。<anchor xml:id="nkr_note_orig_0383005" n="0383005"/><anchor xml:id="nkr_note_mod_0383005" n="0383005"/><anchor xml:id="beg0383005" n="0383005"/>撒<anchor xml:id="end0383005"/>手似君無
-<lb n="0383b08" ed="T"/>一物。徒勞謾說數千般。云他若識了照亦無
-<lb n="0383b09" ed="T"/>物耶。師云。若是無物。更何用照。爾莫開眼<g ref="#CB01681">䆿</g>
-<lb n="0383b10" ed="T"/>語去。</p>
-<lb n="0383b11" ed="T"/><p xml:id="pT48p0383b1101">上堂云百種多知。不如無求。最第一也。道人
-<lb n="0383b12" ed="T"/>是無事人。實無許多般心。亦無道理可說。無
-<lb n="0383b13" ed="T"/>事散去。</p>
-<lb n="0383b14" ed="T"/><p xml:id="pT48p0383b1401">問如何是世諦。師云。說葛藤作什麼。本來清
-<lb n="0383b15" ed="T"/>淨何假言說問答。但無一切心即名無漏智。
-<lb n="0383b16" ed="T"/>汝每日行住坐臥一切言語。但莫著有為法。
-<lb n="0383b17" ed="T"/>出言瞬目盡同無漏。如今末法向去。多是學
-<lb n="0383b18" ed="T"/>禪道者皆著一切聲色。何不與我心心同虛
-<lb n="0383b19" ed="T"/>空去。如枯木石頭去。如<anchor xml:id="nkr_note_add_0383b1901" n="0383b1901"/><anchor xml:id="beg0383b1901" n="0383b1901"/>寒<anchor xml:id="end0383b1901"/>灰死火去。方有少
-<lb n="0383b20" ed="T"/>分相應。若不如是。他日盡被閻老子<anchor xml:id="nkr_note_orig_0383006" n="0383006"/><anchor xml:id="nkr_note_mod_0383006" n="0383006"/><anchor xml:id="beg0383006" n="0383006"/>拷<anchor xml:id="end0383006"/>爾
-<lb n="0383b21" ed="T"/>在。爾但離却有無諸法。心如日輪常在虛空。
-<lb n="0383b22" ed="T"/>光明自然不照而照。不是省力底事。到此之
-<lb n="0383b23" ed="T"/>時無棲泊處。即是行諸佛<anchor xml:id="nkr_note_orig_0383007" n="0383007"/><anchor xml:id="nkr_note_mod_0383007" n="0383007"/><anchor xml:id="beg0383007" n="0383007"/>行<anchor xml:id="end0383007"/>。便是應無所住
-<lb n="0383b24" ed="T"/>而生其心。此是爾清淨法身。名為阿耨菩提。
-<lb n="0383b25" ed="T"/>若不會此意。縱爾學得多知。勤苦修行。草衣
-<lb n="0383b26" ed="T"/>木食。不識自心盡名邪行。定作天魔眷屬。如
-<lb n="0383b27" ed="T"/>此修行。當復何益。<anchor xml:id="nkr_note_orig_0383008" n="0383008"/><anchor xml:id="nkr_note_mod_0383008" n="0383008"/><anchor xml:id="beg0383008" n="0383008"/>志<anchor xml:id="end0383008"/>公云。佛本是自心作。
-<lb n="0383b28" ed="T"/>那得向文字中求。<anchor xml:id="nkr_note_orig_0383009" n="0383009"/><anchor xml:id="nkr_note_mod_0383009" n="0383009"/><anchor xml:id="beg0383009" n="0383009"/>饒<anchor xml:id="end0383009"/>爾學得三賢四果十地
-<lb n="0383b29" ed="T"/>滿心。也秖是在凡聖內坐。不見道。諸行無常
-<pb n="0383c" xml:id="T48.2012A.0383c" ed="T"/>
-<lb n="0383c01" ed="T"/>是生滅法。勢力盡箭還墜。招得來生不如意。
-<lb n="0383c02" ed="T"/>爭似無為實相門。一超直入如來地。為爾不
-<lb n="0383c03" ed="T"/>是與麼人須要向古人建化門廣學知解。<anchor xml:id="beg_9" type="star"/>志<anchor xml:id="end_9"/>
-<lb n="0383c04" ed="T"/>公云。不逢出世明師。<anchor xml:id="nkr_note_orig_0383010" n="0383010"/><anchor xml:id="nkr_note_mod_0383010" n="0383010"/><anchor xml:id="beg0383010" n="0383010"/>枉<anchor xml:id="end0383010"/>服大乘法藥。爾如
-<lb n="0383c05" ed="T"/>今一切時中行住坐臥。但學無心。久久須實
-<lb n="0383c06" ed="T"/>得。為爾力量小不能頓超。但得三年五年或
-<lb n="0383c07" ed="T"/>十年。須得箇入<anchor xml:id="nkr_note_orig_0383011" n="0383011"/><anchor xml:id="nkr_note_mod_0383011" n="0383011"/><anchor xml:id="beg0383011" n="0383011"/>頭<anchor xml:id="end0383011"/>處自然會去。為爾不能如
-<lb n="0383c08" ed="T"/>是。須要將<anchor xml:id="nkr_note_orig_0383012" n="0383012"/><anchor xml:id="nkr_note_mod_0383012" n="0383012"/><anchor xml:id="beg0383012" n="0383012"/>心<anchor xml:id="end0383012"/>學禪學道。佛法有<anchor xml:id="beg_a" type="star"/>甚<anchor xml:id="end_a"/>麼交涉。
-<lb n="0383c09" ed="T"/>故云。如來所說皆為化人。如將黃葉為金止
-<lb n="0383c10" ed="T"/>小兒啼。決定不實。若有實得。非我宗門下客。
-<lb n="0383c11" ed="T"/>且與爾本體有甚交涉。故經云。實無少法可
-<lb n="0383c12" ed="T"/>得。名為阿耨菩提。若也會得此意。方知佛道
-<lb n="0383c13" ed="T"/>魔道俱錯。本來清淨皎皎地。無方圓無大小
-<lb n="0383c14" ed="T"/>無長短等相。無漏無為無迷無悟。了了見無
-<lb n="0383c15" ed="T"/>一物。亦無人亦無佛。大千沙界海中漚。一切
-<lb n="0383c16" ed="T"/>聖賢如電拂。一切不如心真實法身。從古至
-<lb n="0383c17" ed="T"/>今與佛祖一般。何處欠少一毫毛。既會如是
-<lb n="0383c18" ed="T"/>意。大須努力盡今生去。出息不保入息。</p>
-<lb n="0383c19" ed="T"/><p xml:id="pT48p0383c1901">問六祖不會經書。何得傳衣為祖。秀上座是
-<lb n="0383c20" ed="T"/>五百人首座。為教授師。講得三十二本經論。
-<lb n="0383c21" ed="T"/>云何不傳衣。師云。為他有心是有為法。所修
-<lb n="0383c22" ed="T"/>所證將為是也。所以五祖付六祖。六祖當時
-<lb n="0383c23" ed="T"/>秖是默契。得密授如來甚深意。所以付法與
-<lb n="0383c24" ed="T"/>他汝不見道。法本法無法。無法法亦法。今付
-<lb n="0383c25" ed="T"/>無法時。法法何曾法。若會此意。方名出家兒。
-<lb n="0383c26" ed="T"/>方好修行。若不信云何明上座走來大庾嶺
-<lb n="0383c27" ed="T"/>頭尋六祖。六祖便問。汝來求何事。為求衣為
-<lb n="0383c28" ed="T"/>求法。明上座云。不為衣來。但為法來。六祖
-<lb n="0383c29" ed="T"/>云。汝且暫時<anchor xml:id="nkr_note_orig_0383013" n="0383013"/><anchor xml:id="nkr_note_mod_0383013" n="0383013"/><anchor xml:id="beg0383013" n="0383013"/>斂<anchor xml:id="end0383013"/>念。善惡都莫思量。明乃稟
-<pb n="0384a" xml:id="T48.2012A.0384a" ed="T"/>
-<lb n="0384a01" ed="T"/>語。六祖云。不思善不思惡。正當與麼時。還
-<lb n="0384a02" ed="T"/>我明上座父母未生時面目來。明於言下忽
-<lb n="0384a03" ed="T"/>然默契。便禮拜云。如人飲水冷<anchor xml:id="nkr_note_orig_0384001" n="0384001"/><anchor xml:id="nkr_note_mod_0384001" n="0384001"/><anchor xml:id="beg0384001" n="0384001"/>煖<anchor xml:id="end0384001"/>自知。某
-<lb n="0384a04" ed="T"/>甲在五祖會中。枉用三十年<anchor xml:id="nkr_note_orig_0384002" n="0384002"/><anchor xml:id="nkr_note_mod_0384002" n="0384002"/><anchor xml:id="beg0384002" n="0384002"/>工<anchor xml:id="end0384002"/>夫。今日方
-<lb n="0384a05" ed="T"/><anchor xml:id="nkr_note_orig_0384003" n="0384003"/><anchor xml:id="nkr_note_mod_0384003" n="0384003"/><anchor xml:id="beg0384003" n="0384003"/>省前非<anchor xml:id="end0384003"/>。六祖云。如是。到此之時方知祖師
-<lb n="0384a06" ed="T"/>西來直指人心見性成佛不在言說。豈不見。
-<lb n="0384a07" ed="T"/>阿難問迦葉云。世尊傳金襴外別傳何<anchor xml:id="nkr_note_orig_0384004" n="0384004"/><anchor xml:id="nkr_note_mod_0384004" n="0384004"/><anchor xml:id="beg0384004" n="0384004"/>物<anchor xml:id="end0384004"/>。迦
-<lb n="0384a08" ed="T"/>葉召阿難。阿難應諾。迦葉云。倒却門前剎竿
-<lb n="0384a09" ed="T"/>著。此便是祖師之標榜也。甚生阿難三十年
-<lb n="0384a10" ed="T"/>為侍者。秖為多聞智慧。被佛訶云。汝千日學
-<lb n="0384a11" ed="T"/>慧。不如一日學道。若不學道。滴水難消。</p>
-<lb n="0384a12" ed="T"/><p xml:id="pT48p0384a1201">問如何得不落階級。師云。<anchor xml:id="nkr_note_orig_0384005" n="0384005"/><anchor xml:id="nkr_note_mod_0384005" n="0384005"/><anchor xml:id="beg0384005" n="0384005"/>終<anchor xml:id="end0384005"/>日喫飯未曾咬
-<lb n="0384a13" ed="T"/>著一粒米。終日行未曾踏著一片地。與摩時
-<lb n="0384a14" ed="T"/>無人<anchor xml:id="nkr_note_orig_0384006" n="0384006"/><anchor xml:id="nkr_note_mod_0384006" n="0384006"/><anchor xml:id="beg0384006" n="0384006"/>我<anchor xml:id="end0384006"/>等相。終日不離一切事。不被諸境
-<lb n="0384a15" ed="T"/>惑。方名自在人。更時時念念不見一切相。莫
-<lb n="0384a16" ed="T"/>認前後三際。前際無去今際無住後際無來。
-<lb n="0384a17" ed="T"/>安然端坐任運不拘。方名解脫。努力努力。此
-<lb n="0384a18" ed="T"/>門中千人萬人。只得三箇五箇。若不將為事。
-<lb n="0384a19" ed="T"/>受殃有日在。故云。著力今生須了却。誰能累
-<lb n="0384a20" ed="T"/>劫受餘殃。</p>
-<lb n="0384a21" ed="T"/><cb:juan n="001" fun="close"><cb:jhead>黃檗山<anchor xml:id="nkr_note_orig_0384007" n="0384007"/><anchor xml:id="nkr_note_mod_0384007" n="0384007"/><anchor xml:id="beg0384007" n="0384007"/>際<anchor xml:id="end0384007"/>禪師傳心法要終</cb:jhead></cb:juan></cb:div>
+<milestone n="1" unit="juan" />
+<lb n="0379b20" ed="T" />
+<lb n="0379b21" ed="T" />
+<lb n="0379b22" ed="T" />
+<cb:docNumber>No. 2012A</cb:docNumber>
+<lb n="0379b23" ed="T" />
+<cb:div type="xu"><cb:mulu level="1" type="序">Essentials of Mind-Cutting at the Boundary (Preface)</cb:mulu><head>Essentials of Mind-Cutting at the Boundary<anchor xml:id="nkr_note_orig_0379001" n="0379001" /><anchor xml:id="nkr_note_mod_0379001" n="0379001" /><anchor xml:id="beg0379001" n="0379001" /><anchor xml:id="end0379001" /><anchor xml:id="nkr_note_rest_0379001" n="0379001" /></head>
+<lb n="0379b24" ed="T" />
+<lb n="0379b25" ed="T" />
+<byline cb:type="Collector">Collected and Prefaced by Pei Xiu of Hedong</byline>
+<lb n="0379b26" ed="T" />
+<p xml:id="pT48p0379b2601">There was a great Chan master, whose Dharma name was Xiyun, residing at Huangbo Mountain in Gao’an County of Hongzhou.
+<lb n="0379b27" ed="T" />Beneath Vulture Peak. He was a direct Dharma descendant of the Sixth Patriarch of Caoxi and a Dharma nephew of Baizhang of Xitang.
+<lb n="0379b28" ed="T" />He alone bore the seal of the supreme vehicle beyond words and letters, transmitting only the One Mind and nothing else.
+<lb n="0379b29" ed="T" />There is no other Dharma. The essence of mind is empty and all conditions are utterly still, like the great sun rising in empty space.
+<pb n="0379c" xml:id="T48.2012A.0379c" ed="T" />
+<lb n="0379c01" ed="T" />In that space its radiance shines brilliantly, pure and without the slightest dust. Those who realize it have neither newness nor oldness, neither shallow nor deep.<anchor xml:id="nkr_note_orig_0379002" n="0379002" /><anchor xml:id="nkr_note_mod_0379002" n="0379002" /><anchor xml:id="beg0379002" n="0379002" /><anchor xml:id="end0379002" />
+<lb n="0379c02" ed="T" />Those who speak of it establish no doctrinal interpretations and set up no sectarian authority. Without opening doors or windows, it is directly so.
+<lb n="0379c03" ed="T" />Immediately it is thus; the moment a thought moves, one deviates. Only then is the original Buddha realized. Therefore his words were concise.<anchor xml:id="nkr_note_orig_0379003" n="0379003" /><anchor xml:id="nkr_note_mod_0379003" n="0379003" /><anchor xml:id="beg0379003" n="0379003" /><anchor xml:id="end0379003" />
+<lb n="0379c04" ed="T" />His principle was direct, his Way lofty, and his conduct solitary. Students from the four directions gazed toward the mountain and hurried there.
+<lb n="0379c05" ed="T" />Seeing him, many awakened. The assembly coming and going was always more than a thousand. In the second year of Huichang,
+<lb n="0379c06" ed="T" />while serving as governor at Zhongling, I invited him from the mountain to the prefecture, where he stayed at Longxing Monastery, and morning and evening I asked about the Way.
+<lb n="0379c07" ed="T" />In the second year of Dazhong, when I governed Wanling, I again respectfully invited him to my district, where he resided
+<lb n="0379c08" ed="T" />at Kaiyuan Monastery. Morning and evening I received the Dharma. Afterwards I recorded it, though I captured scarcely one or two parts in ten, keeping it as
+<lb n="0379c09" ed="T" />a seal of mind and not daring to circulate it. Now I fear that its subtle and profound meaning may not be heard in the future.
+<lb n="0379c10" ed="T" />Therefore I brought it forth and entrusted it to the monk Fazhou of the Great Boat among my disciples, sending it back to Guangtang Monastery
+<lb n="0379c11" ed="T" />on the old mountain, asking the elders and the assembly whether it agrees with what they had personally heard before,<anchor xml:id="nkr_note_orig_0379004" n="0379004" /><anchor xml:id="nkr_note_mod_0379004" n="0379004" /><anchor xml:id="beg0379004" n="0379004" />
+<lb n="0379c12" ed="T" />or whether there are differences.<anchor xml:id="end0379004" /></p>
+<lb n="0379c13" ed="T" />
+<p xml:id="pT48p0379c1301">Preface written on the eighth day of the eleventh month in the eleventh year of the Tang Dazhong era.<anchor xml:id="nkr_note_orig_0379005" n="0379005" /><anchor xml:id="nkr_note_mod_0379005" n="0379005" /><anchor xml:id="beg0379005" n="0379005" /><anchor xml:id="end0379005" /><anchor xml:id="nkr_note_orig_0379006" n="0379006" /><anchor xml:id="nkr_note_mod_0379006" n="0379006" /><anchor xml:id="beg0379006" n="0379006" /><anchor xml:id="end0379006" /><anchor xml:id="nkr_note_orig_0379007" n="0379007" /><anchor xml:id="nkr_note_mod_0379007" n="0379007" /><anchor xml:id="beg0379007" n="0379007" /><anchor xml:id="end0379007" /></p></cb:div>
+<lb n="0379c14" ed="T" />
+<cb:div type="other">
+<lb n="0379c15" ed="T" />
+<lb n="0379c16" ed="T" />
+<cb:juan n="001" fun="open"><cb:mulu n="1" type="卷"></cb:mulu><cb:jhead>Essential Teachings on the Transmission of Mind by Chan Master Duanji of Huangbo Mountain<anchor xml:id="nkr_note_orig_0379008" n="0379008" /><anchor xml:id="nkr_note_mod_0379008" n="0379008" /><anchor xml:id="beg0379008" n="0379008" /><anchor xml:id="end0379008" /></cb:jhead></cb:juan>
+<lb n="0379c17" ed="T" />
+<lb n="0379c18" ed="T" />
+<p xml:id="pT48p0379c1801">The master said to Xiu: All Buddhas and all sentient beings are only the One Mind; there is no other Dharma.
+<lb n="0379c19" ed="T" />This mind since beginningless time has never been born and never perished. It is neither green nor yellow,
+<lb n="0379c20" ed="T" />without form and without appearance. It does not belong to being or nonbeing, and cannot be reckoned as new or old. It is neither long nor
+<lb n="0379c21" ed="T" />short, neither great nor small. It transcends all limits, names, words, traces, and oppositions.
+<lb n="0379c22" ed="T" />It is precisely this very body. The moment a thought arises, one deviates. It is like empty space, without boundaries
+<lb n="0379c23" ed="T" />and beyond measure. This One Mind alone is the Buddha. Between Buddha and sentient beings there is no difference.
+<lb n="0379c24" ed="T" />Only sentient beings cling to appearances and seek outwardly; the more they seek, the more they lose. Making Buddha seek Buddha
+<lb n="0379c25" ed="T" />and using mind to grasp mind, though they exhaust kalpas and lifetimes they will never obtain it. They do not know to stop thoughts
+<lb n="0379c26" ed="T" />and forget concerns, whereupon the Buddha appears of itself. This mind is the Buddha, and the Buddha is sentient beings. When it is
+<lb n="0379c27" ed="T" />a sentient being this mind does not diminish; when it is a Buddha this mind does not increase. Even the
+<lb n="0379c28" ed="T" />six perfections, the myriad practices, and merits as numerous as the sands of the Ganges are originally complete within it and need not be cultivated to add anything.
+<lb n="0379c29" ed="T" />When conditions arise they function; when conditions cease they are still. If one does not firmly believe that this is Buddha and instead wishes
+<pb n="0380a" xml:id="T48.2012A.0380a" ed="T" />
+<lb n="0380a01" ed="T" />to cling to appearances and cultivate practices seeking merit, all of this is delusion and contrary to the Way. This
+<lb n="0380a02" ed="T" />mind is the Buddha. There is no other Buddha and no other mind. This mind is bright and pure,
+<lb n="0380a03" ed="T" />like empty space without a single mark of form. The moment one raises a thought, one deviates from the Dharma body
+<lb n="0380a04" ed="T" />and clings to appearances. Since beginningless time there has been no Buddha attached to appearances. To cultivate the six perfections and myriad practices wishing
+<lb n="0380a05" ed="T" />to become a Buddha is a gradual method. Since beginningless time there has been no Buddha of stages. Simply awaken
+<lb n="0380a06" ed="T" />to the One Mind and there is not the slightest Dharma to be attained. This is the true Buddha. Buddha and sentient beings are
+<lb n="0380a07" ed="T" />one mind without difference, like empty space which has neither mixture nor decay. Like the great sun illuminating
+<lb n="0380a08" ed="T" />the whole world: when the sun rises, brightness spreads everywhere, yet empty space has never become bright; when the sun sets
+<lb n="0380a09" ed="T" />darkness fills the world, yet empty space has never become dark. The realms of light and dark contend with each other,
+<lb n="0380a10" ed="T" />but the nature of space remains vast and unchanged. The mind of Buddhas and sentient beings is likewise<anchor xml:id="nkr_note_orig_0380001" n="0380001" /><anchor xml:id="nkr_note_mod_0380001" n="0380001" /><anchor xml:id="beg0380001" n="0380001" /><anchor xml:id="end0380001" />
+<lb n="0380a11" ed="T" />the same. If one views Buddha as a form of pure, radiant liberation, and views sentient beings
+<lb n="0380a12" ed="T" />as forms of defiled darkness and birth and death, then those who hold such views, even through countless kalpas like Ganges sands,
+<lb n="0380a13" ed="T" />will never attain enlightenment, because they cling to appearances. Only this One Mind exists; there is not even a dust mote
+<lb n="0380a14" ed="T" />of Dharma to be attained. Mind itself is Buddha. Now students of the Way who do not awaken to this mind
+<lb n="0380a15" ed="T" />generate mind upon mind, seeking Buddha outwardly. Clinging to appearances and practicing cultivation are all
+<lb n="0380a16" ed="T" />unwholesome dharmas, not the path of enlightenment. Making offerings to all Buddhas of the ten directions is not equal to making an offering to
+<lb n="0380a17" ed="T" />a single person of no-mind. Why is this so? Because no-mind means the absence of all minds. The suchness
+<lb n="0380a18" ed="T" />of its essence is inwardly like wood or stone, unmoving and unshaken; outwardly like empty space, unobstructed and unhindered.
+<lb n="0380a19" ed="T" />There is no subject and object, no location, no form, no gain or loss. Those who approach it dare not
+<lb n="0380a20" ed="T" />enter this Dharma, fearing they may fall into emptiness with nowhere to abide, so they look at the cliff and retreat. Thus they all
+<lb n="0380a21" ed="T" />widely seek knowledge and views. Those who seek knowledge are as many as hairs, while those who awaken to the Way are as rare as horns.
+<lb n="0380a22" ed="T" />Manjushri represents principle; Samantabhadra represents practice. Principle means the true emptiness that is unobstructed; practice
+<lb n="0380a23" ed="T" />means the inexhaustible activity free from appearances. Avalokiteshvara represents great compassion, and Mahasthamaprapta represents great wisdom.
+<lb n="0380a24" ed="T" />Vimalakirti means Pure Name. Purity refers to the nature; name refers to appearance. Nature and appearance
+<lb n="0380a25" ed="T" />are not different, therefore he is called Pure Name. What the great bodhisattvas symbolize is present in everyone.
+<lb n="0380a26" ed="T" />Without leaving the One Mind, if one awakens to it, that is it. Yet students of the Way today do not awaken within their own mind,
+<lb n="0380a27" ed="T" />but cling to appearances outside the mind and grasp at objects; all this turns away from the Way. As for the sands of the Ganges, the Buddha
+<lb n="0380a28" ed="T" />said they are merely sand. Buddhas, bodhisattvas, Indra, Brahma, and the gods tread upon them,
+<lb n="0380a29" ed="T" />yet the sand does not rejoice. Cattle, sheep, insects, and ants trample over them, yet the sand does not grow angry.
+<pb n="0380b" xml:id="T48.2012A.0380b" ed="T" />
+<lb n="0380b01" ed="T" />Treasures and fragrances do not make the sand greedy, and filth and foulness do not make it disgusted. This mind is precisely the mind of no-mind,<anchor xml:id="nkr_note_orig_0380002" n="0380002" /><anchor xml:id="nkr_note_mod_0380002" n="0380002" /><anchor xml:id="beg0380002" n="0380002" /><anchor xml:id="end0380002" />
+<lb n="0380b02" ed="T" />free from all appearances. Between sentient beings and Buddhas there is no difference. If one can only
+<lb n="0380b03" ed="T" />attain no-mind, that is the ultimate. If students of the Way do not directly realize no-mind,
+<lb n="0380b04" ed="T" />then even practicing through many kalpas they will never accomplish the Way, being bound by the practices of the three vehicles and unable to gain liberation.
+<lb n="0380b05" ed="T" />However, realization of this mind may be swift or slow. Some, upon hearing the Dharma, in a single thought attain no-mind.
+<lb n="0380b06" ed="T" />Others reach no-mind only after the ten faiths, ten abodes, ten practices, and ten dedications.<anchor xml:id="nkr_note_orig_0380003" n="0380003" /><anchor xml:id="nkr_note_mod_0380003" n="0380003" /><anchor xml:id="beg0380003" n="0380003" /><anchor xml:id="end0380003" />
+<lb n="0380b07" ed="T" />Whether sooner or later, once no-mind is attained one abides there. There is nothing more to cultivate and nothing to realize. In truth nothing is obtained.
+<lb n="0380b08" ed="T" />This is genuine and not false. Whether obtained in a single thought or attained at the ten stages, the function is exactly
+<lb n="0380b09" ed="T" />the same, with no difference in depth. One has only vainly undergone toil through many kalpas.<anchor xml:id="nkr_note_orig_0380004" n="0380004" /><anchor xml:id="nkr_note_mod_0380004" n="0380004" /><anchor xml:id="beg0380004" n="0380004" /><anchor xml:id="end0380004" />
+<lb n="0380b10" ed="T" />Creating evil or creating good are both attachment to appearances. Creating evil while attached to appearances brings futile rebirth;
+<lb n="0380b11" ed="T" />creating good while attached to appearances brings futile toil. It is better to recognize the original Dharma immediately upon hearing these words.<anchor xml:id="nkr_note_orig_0380005" n="0380005" /><anchor xml:id="nkr_note_mod_0380005" n="0380005" /><anchor xml:id="beg0380005" n="0380005" /><anchor xml:id="end0380005" />
+<lb n="0380b12" ed="T" />This Dharma is mind. Outside mind there is no Dharma. This mind is Dharma. Outside Dharma there is no mind. Mind itself
+<lb n="0380b13" ed="T" />is originally no-mind, and there is no separate no-mind. If one uses mind to make no-mind, the mind instead becomes something existent. It is only silently in accord.
+<lb n="0380b14" ed="T" />All thought and deliberation are cut off. Therefore it is said that the path of words is ended and the movement of mind is extinguished.
+<lb n="0380b15" ed="T" />This mind is the original pure Buddha. Everyone possesses it. All beings that move and all that have life share it equally with
+<lb n="0380b16" ed="T" />the Buddhas and bodhisattvas, one body without difference. Only because of deluded thoughts and discriminations do they create various karmic
+<lb n="0380b17" ed="T" />results. Upon the original Buddha there is truly not a single thing. It is empty, open, still, luminous, subtle, and at peace.
+<lb n="0380b18" ed="T" />Deeply awaken and enter it yourself; directly it is so. It is perfectly complete and lacking nothing.
+<lb n="0380b19" ed="T" />Even if one diligently cultivates through the three great eons and passes through the various stages,<anchor xml:id="nkr_note_orig_0380006" n="0380006" /><anchor xml:id="nkr_note_mod_0380006" n="0380006" /><anchor xml:id="beg0380006" n="0380006" /><anchor xml:id="end0380006" />
+<lb n="0380b20" ed="T" />when realization occurs in a single thought one only realizes that one was originally Buddha. Nothing at all is added beyond this.
+<lb n="0380b21" ed="T" />Looking back at the efforts of past kalpas, they are all actions in a dream. Therefore the Tathagata said: In regard to unsurpassed
+<lb n="0380b22" ed="T" />enlightenment I truly obtained nothing. If there had been something obtained, the Buddha Dipankara would not have given me
+<lb n="0380b23" ed="T" />a prediction. He also said: This Dharma is equal, without high or low; this is called enlightenment.
+<lb n="0380b24" ed="T" />This original pure mind, together with sentient beings, Buddhas, worlds, mountains, and rivers,
+<lb n="0380b25" ed="T" />whether with form or without form, pervades the ten directions. All are equal without the mark of self and other. This
+<lb n="0380b26" ed="T" />original pure mind constantly shines everywhere in perfect clarity. People of the world do not awaken to it; they only take seeing,
+<lb n="0380b27" ed="T" />hearing, sensing, and knowing to be mind. Being covered by seeing, hearing, sensing, and knowing, they do not perceive the subtle
+<lb n="0380b28" ed="T" />luminous original body. But if they are directly without mind, the original body appears by itself, like the great sun rising
+<lb n="0380b29" ed="T" />in empty space, shining everywhere without obstruction. Therefore students of the Way only recognize
+<pb n="0380c" xml:id="T48.2012A.0380c" ed="T" />
+<lb n="0380c01" ed="T" />seeing, hearing, sensing, knowing, actions, and movements. If seeing, hearing, sensing, and knowing are emptied,
+<lb n="0380c02" ed="T" />the road of mind is cut off with nowhere to enter. Simply recognize the original mind within seeing, hearing, sensing, and knowing.
+<lb n="0380c03" ed="T" />Yet the original mind does not belong to seeing, hearing, sensing, and knowing, nor is it separate from them. Only do not
+<lb n="0380c04" ed="T" />form views upon seeing, hearing, sensing, and knowing, nor let thoughts arise upon them.<anchor xml:id="nkr_note_orig_0380007" n="0380007" /><anchor xml:id="nkr_note_mod_0380007" n="0380007" /><anchor xml:id="beg0380007" n="0380007" /><anchor xml:id="end0380007" /><anchor xml:id="nkr_note_orig_0380008" n="0380008" /><anchor xml:id="nkr_note_mod_0380008" n="0380008" /><anchor xml:id="beg0380008" n="0380008" /><anchor xml:id="end0380008" />
+<lb n="0380c05" ed="T" />Do not seek the mind apart from seeing, hearing, sensing, and knowing, and do not abandon seeing, hearing, sensing, and knowing
+<lb n="0380c06" ed="T" />to grasp some Dharma. Neither grasp nor reject, neither abide nor cling. Moving freely in all directions, everywhere is the place of the Way.
+<lb n="0380c07" ed="T" />When people of the world hear that all Buddhas transmit the Dharma of mind, they suppose that within the mind there is some other Dharma
+<lb n="0380c08" ed="T" />that can be realized and obtained, and so they use mind to seek Dharma, not knowing that mind itself is the Dharma
+<lb n="0380c09" ed="T" />and Dharma itself is mind. One cannot use mind to seek mind again. Even through thousands of millions of kalpas, in the end
+<lb n="0380c10" ed="T" />there is never a day of attainment. It is better to be without mind at once; this itself is the original Dharma. It is like a strong man who forgets
+<lb n="0380c11" ed="T" />the jewel in his forehead and seeks for it outwardly. Though he travels throughout the ten directions, he can never obtain it. A wise person
+<lb n="0380c12" ed="T" />points it out, and at that moment he himself sees that the original jewel is there as before. Thus students of the Way, deluded about their own
+<lb n="0380c13" ed="T" />original mind, do not recognize it as Buddha. Therefore they seek outwardly and begin practices and efforts, following stages
+<lb n="0380c14" ed="T" />of realization. Through countless kalpas of diligent seeking they never accomplish the Way. It is better to be without mind at once, firmly
+<lb n="0380c15" ed="T" />knowing that all dharmas are originally nothing and there is nothing to attain. With no reliance and no abiding, there is no
+<lb n="0380c16" ed="T" />subject and no object. If deluded thoughts do not move, enlightenment is realized. When the Way is realized, one only realizes
+<lb n="0380c17" ed="T" />the Buddha of the original mind. All efforts through kalpas were empty cultivation, just like when the strong man obtains the jewel,
+<lb n="0380c18" ed="T" />he only obtains the jewel already in his forehead, not because of the strength of searching outwardly. Therefore the Buddha said, I
+<lb n="0380c19" ed="T" />in regard to unsurpassed enlightenment truly obtained nothing. Fearing that people would not believe this, he therefore cited the five eyes
+<lb n="0380c20" ed="T" />what is seen by the five eyes and what is spoken by the five kinds of speech are true and not false; this is the ultimate truth.</p>
+<lb n="0380c21" ed="T" />
+<p xml:id="pT48p0380c2101">Students of the Way should not mistake the four great elements for the body. The four elements have no self, and the self has no master.
+<lb n="0380c22" ed="T" />Therefore know that this body has neither self nor master. The five aggregates are taken as mind, yet the five aggregates have no self
+<lb n="0380c23" ed="T" />and no master. Therefore know that this mind also has neither self nor master. The six faculties, the six objects, and the six
+<lb n="0380c24" ed="T" />consciousnesses arise and cease through their conjunction, and it is the same with them. Since the eighteen realms are empty, all is
+<lb n="0380c25" ed="T" />empty. Only the original mind remains vast and pure. There is food of consciousness and food of wisdom. The body of the four elements
+<lb n="0380c26" ed="T" />suffers hunger and illness; providing it with nourishment in accord without giving rise to greed or attachment is called food of wisdom.
+<lb n="0380c27" ed="T" />Indulging desires for flavors and falsely producing discrimination, seeking only what pleases the palate without aversion,<anchor xml:id="nkr_note_orig_0380009" n="0380009" /><anchor xml:id="nkr_note_mod_0380009" n="0380009" /><anchor xml:id="beg0380009" n="0380009" /><anchor xml:id="end0380009" />
+<lb n="0380c28" ed="T" />is called food of consciousness. A hearer is one who awakens through sound; therefore he is called a hearer.
+<lb n="0380c29" ed="T" />Yet he does not understand his own mind and forms interpretations based on teachings heard. Whether through supernatural powers or
+<pb n="0381a" xml:id="T48.2012A.0381a" ed="T" />
+<lb n="0381a01" ed="T" />auspicious signs, words and actions, hearing of enlightenment, nirvana, and the three immeasurable eons<anchor xml:id="beg_1" type="star" /><anchor xml:id="end_1" />
+<lb n="0381a02" ed="T" />required to complete the Buddha path, all these belong to the path of the hearer and are called hearer Buddhas. Only directly
+<lb n="0381a03" ed="T" />awakening to one’s own mind, originally Buddha, with not a single dharma to obtain and not a single practice to cultivate,
+<lb n="0381a04" ed="T" />this is the unsurpassed Way; this is the Buddha of suchness. Students of the Way only fear that a single
+<lb n="0381a05" ed="T" />thought arises, and then they are separated from the Way. Thought after thought without form, thought after thought without action, this is
+<lb n="0381a06" ed="T" />Buddha. If students of the Way wish to become Buddhas, they need not learn all Buddhist teachings.
+<lb n="0381a07" ed="T" />Only learn not to seek and not to cling. Not seeking means the mind does not arise; not clinging means the mind does not
+<lb n="0381a08" ed="T" />perish. Not arising and not perishing is Buddha. The eighty-four thousand Dharma gates correspond to the eighty-four
+<lb n="0381a09" ed="T" />thousand afflictions; they are merely methods of teaching and guiding. In reality there are no dharmas at all. To be free from them
+<lb n="0381a10" ed="T" />is the Dharma. One who knows this freedom is Buddha. Simply leave all afflictions and there is no Dharma
+<lb n="0381a11" ed="T" />to be obtained. If students of the Way wish to know the essential key, they must not attach
+<lb n="0381a12" ed="T" />a single thing to the mind. It is said that the true Dharma body of the Buddha is like empty space. This is a metaphor that the Dharma body is<anchor xml:id="nkr_note_orig_0381001" n="0381001" /><anchor xml:id="nkr_note_mod_0381001" n="0381001" /><anchor xml:id="beg0381001" n="0381001" /><anchor xml:id="end0381001" />
+<lb n="0381a13" ed="T" />empty space and empty space is the Dharma body. Ordinary people say the Dharma body pervades space and that space
+<lb n="0381a14" ed="T" />contains the Dharma body, not knowing that the Dharma body itself is space and space itself is the Dharma body.
+<lb n="0381a15" ed="T" />If one insists there is space, then space is not the Dharma body. If one insists there is
+<lb n="0381a16" ed="T" />a Dharma body, the Dharma body is not space. Only do not form a view of space. Space
+<lb n="0381a17" ed="T" />is the Dharma body. Do not form a view of the Dharma body. The Dharma body is space. Space and the Dharma
+<lb n="0381a18" ed="T" />body have no different form. Buddha and sentient beings have no different form. Birth and death and nirvana have
+<lb n="0381a19" ed="T" />no different form. Afflictions and enlightenment have no different form. To be free from all forms is Buddha.
+<lb n="0381a20" ed="T" />Ordinary people grasp objects; practitioners grasp the mind. When both mind and objects are forgotten, that is the true Dharma.
+<lb n="0381a21" ed="T" />Forgetting objects is easy, but forgetting the mind is very difficult. People do not dare forget the mind, fearing they will fall into emptiness
+<lb n="0381a22" ed="T" />with nothing to grasp. They do not know that emptiness is originally not empty; it is only the one true Dharma realm.
+<lb n="0381a23" ed="T" />This spiritual awareness nature has endured as long as space since beginningless time. It has never been born and never perished.
+<lb n="0381a24" ed="T" />It has never been existent nor nonexistent, never defiled nor pure, never noisy nor
+<lb n="0381a25" ed="T" />silent. It has never been young nor old. It has no location, no inside or outside, no measure and no
+<lb n="0381a26" ed="T" />form. It has no color or shape, no sound. It cannot be sought and cannot be searched for.<anchor xml:id="nkr_note_orig_0381002" n="0381002" /><anchor xml:id="nkr_note_mod_0381002" n="0381002" /><anchor xml:id="beg0381002" n="0381002" /><anchor xml:id="end0381002" />
+<lb n="0381a27" ed="T" />It cannot be known by intellectual wisdom, cannot be grasped by words, cannot be understood through objects,
+<lb n="0381a28" ed="T" />and cannot be reached through effort. All Buddhas and bodhisattvas, together with every living being,
+<lb n="0381a29" ed="T" />share this great nirvana nature. Nature is mind, mind is Buddha, and Buddha is Dharma.
+<pb n="0381b" xml:id="T48.2012A.0381b" ed="T" />
+<lb n="0381b01" ed="T" />A single thought departing from truth is delusion. One cannot use mind to seek mind,<anchor xml:id="nkr_note_orig_0381003" n="0381003" /><anchor xml:id="nkr_note_mod_0381003" n="0381003" /><anchor xml:id="beg0381003" n="0381003" /><anchor xml:id="end0381003" />
+<lb n="0381b02" ed="T" />nor use Buddha to seek Buddha, nor use Dharma to seek Dharma. Therefore students of the Way
+<lb n="0381b03" ed="T" />must directly be without mind and silently accord with it. The moment one intends with mind, one deviates. Mind is transmitted by mind;
+<lb n="0381b04" ed="T" />this is the correct view. Take care not to chase objects outward and take them as mind. That is like recognizing
+<lb n="0381b05" ed="T" />a thief as one’s own son. Because there is greed, anger, and delusion, precepts, concentration, and wisdom are established. If originally there were no afflictions,
+<lb n="0381b06" ed="T" />how could there be enlightenment? Therefore the patriarch said: The Buddha taught all dharmas in order to remove all
+<lb n="0381b07" ed="T" />minds. If I have no mind at all, what use are all dharmas? Upon the original pure Buddha
+<lb n="0381b08" ed="T" />nothing further can be attached. It is like empty space which, though adorned with immeasurable treasures,
+<lb n="0381b09" ed="T" />cannot hold them. Buddha nature is like space; though adorned with immeasurable merit and wisdom,
+<lb n="0381b10" ed="T" />they cannot remain there. It is only because one is deluded about the original nature that it is not seen. The so-called mind
+<lb n="0381b11" ed="T" />ground Dharma gate means that all dharmas are established upon this mind. When objects are encountered there is existence; without objects
+<lb n="0381b12" ed="T" />there is none. One must not turn the pure nature into an interpretation of objects. What is called concentration and wisdom,
+<lb n="0381b13" ed="T" />clear awareness in function, silent yet alert seeing, hearing, sensing, and knowing, are all interpretations made upon objects.<anchor xml:id="nkr_note_orig_0381004" n="0381004" /><anchor xml:id="nkr_note_mod_0381004" n="0381004" /><anchor xml:id="beg0381004" n="0381004" /><anchor xml:id="end0381004" />
+<lb n="0381b14" ed="T" />They may be spoken temporarily for people of middling or lesser capacity. But if one wishes to realize personally, none of these views should be made.
+<lb n="0381b15" ed="T" />All such views belong to object dharmas, appearing and disappearing in the realm of existence. Only when
+<lb n="0381b16" ed="T" />one makes no view of existence or nonexistence regarding all dharmas does one truly see the Dharma.</p>
+<lb n="0381b17" ed="T" />
+<p xml:id="pT48p0381b1701">On the first day of the ninth month the master said to Xiu: Since the great master Bodhidharma came to China, he has only<anchor xml:id="nkr_note_orig_0381005" n="0381005" /><anchor xml:id="nkr_note_mod_0381005" n="0381005" /><anchor xml:id="beg0381005" n="0381005" /><anchor xml:id="end0381005" />
+<lb n="0381b18" ed="T" />taught the One Mind and transmitted only one Dharma. Buddha transmits to Buddha and speaks of no other Buddha. Dharma
+<lb n="0381b19" ed="T" />transmits Dharma and speaks of no other Dharma. The Dharma is the Dharma that cannot be spoken, and the Buddha is the Buddha that cannot
+<lb n="0381b20" ed="T" />be grasped. It is the original pure mind. Only this one matter is real; the other
+<lb n="0381b21" ed="T" />two are not true. Prajna is wisdom, and this wisdom is the formless original mind. Ordinary
+<lb n="0381b22" ed="T" />people do not turn toward the Way but indulge the six senses and thus travel the six realms. When students of the Way in a single thought
+<lb n="0381b23" ed="T" />calculate birth and death they fall into the demonic path. When a single thought gives rise to various views they fall into the path of outsiders.
+<lb n="0381b24" ed="T" />Seeing birth and seeking its extinction, they fall into the path of the hearers. Not seeing birth but seeing only
+<lb n="0381b25" ed="T" />extinction, they fall into the path of the solitary realizers. The Dharma originally does not arise and now does not cease. Without raising the two
+<lb n="0381b26" ed="T" />views, neither rejecting nor delighting, all dharmas are only one mind; then it is<anchor xml:id="nkr_note_orig_0381006" n="0381006" /><anchor xml:id="nkr_note_mod_0381006" n="0381006" /><anchor xml:id="beg0381006" n="0381006" /><anchor xml:id="end0381006" />
+<lb n="0381b27" ed="T" />the Buddha vehicle. Ordinary people all follow objects and produce mind, and the mind then delights or dislikes. If one wishes<anchor xml:id="beg_2" type="star" /><anchor xml:id="end_2" />
+<lb n="0381b28" ed="T" />to be without objects, one must forget the mind. When the mind is forgotten, objects become empty; when objects are empty, the mind ceases.
+<lb n="0381b29" ed="T" />If the mind is not forgotten but objects are merely removed, objects cannot truly be removed and confusion only increases. Therefore all
+<pb n="0381c" xml:id="T48.2012A.0381c" ed="T" />
+<lb n="0381c01" ed="T" />dharmas are only mind, and mind itself cannot be obtained. What then is there to seek? Those who study prajna do not
+<lb n="0381c02" ed="T" />see a single dharma to obtain. They cut off intention toward the three vehicles. There is only the one reality which cannot be realized as an attainment.
+<lb n="0381c03" ed="T" />To say I can realize and obtain it is arrogance. At the assembly of the Lotus Sutra<anchor xml:id="nkr_note_orig_0381007" n="0381007" /><anchor xml:id="nkr_note_mod_0381007" n="0381007" /><anchor xml:id="beg0381007" n="0381007" /><anchor xml:id="end0381007" />
+<lb n="0381c04" ed="T" />those who brushed off their robes and left were all such people. Therefore the Buddha said: With regard to enlightenment I truly
+<lb n="0381c05" ed="T" />obtained nothing; it is only silent accord. When ordinary people approach death, they need only observe that the five aggregates
+<lb n="0381c06" ed="T" />are all empty and the four elements have no self. The true mind has no form and neither goes nor comes. When one is born the nature
+<lb n="0381c07" ed="T" />does not come; when one dies the nature does not go. It remains clear and perfectly still, with mind and objects as one.
+<lb n="0381c08" ed="T" />If one can be like this, directly and suddenly realizing it, one will not be bound by the three times and will be
+<lb n="0381c09" ed="T" />a person beyond the world. One must not have the slightest inclination. If good signs appear and various Buddhas
+<lb n="0381c10" ed="T" />come to welcome you or other visions appear, have no mind to follow them. If evil signs
+<lb n="0381c11" ed="T" />appear in many forms, also have no mind of fear. Simply forget the mind itself and be the same as the Dharma realm.
+<lb n="0381c12" ed="T" />Then one attains freedom. This is the essential point.</p>
+<lb n="0381c13" ed="T" />
+<p xml:id="pT48p0381c1301">On the eighth day of the tenth month the master said to Xiu: The so-called phantom city refers to the two vehicles and the ten stages,
+<lb n="0381c14" ed="T" />equal enlightenment and wondrous enlightenment. All are provisional teachings established to guide and attract; they are the phantom city.
+<lb n="0381c15" ed="T" />The treasure place is the treasure of the true mind, the original Buddha nature. This treasure does not belong to conceptual measure.
+<lb n="0381c16" ed="T" />It cannot be established. There is no Buddha and no sentient beings, no subject and no object. Where then
+<lb n="0381c17" ed="T" />would there be a city? If one asks where the treasure place is, since this is the phantom city, the treasure place cannot
+<lb n="0381c18" ed="T" />be pointed out. To point is to give a location, and that would not be the true treasure place. Therefore it is said to be simply near.
+<lb n="0381c19" ed="T" />It cannot be fixed by description. One must personally realize and accord with it. The term icchantika
+<lb n="0381c20" ed="T" />means lacking faith. All beings in the six realms and even those of the two vehicles who do not believe
+<lb n="0381c21" ed="T" />in the Buddha fruit are called icchantikas who have cut off good roots. A bodhisattva is one who deeply believes
+<lb n="0381c22" ed="T" />in the Buddha Dharma and does not see a great vehicle or small vehicle, seeing Buddha and sentient beings as the same Dharma nature.
+<lb n="0381c23" ed="T" />Such a one is called an icchantika of good roots. Generally, those who awaken through verbal teachings are called
+<lb n="0381c24" ed="T" />hearers. Those who awaken by contemplating causes and conditions are called solitary realizers. If one does not awaken within one’s own mind,
+<lb n="0381c25" ed="T" />then even if one reaches Buddhahood it is called a hearer Buddha. Students of the Way often awaken through
+<lb n="0381c26" ed="T" />doctrinal teachings but not through the Dharma of mind. Though they cultivate through many kalpas, they will<anchor xml:id="nkr_note_orig_0381008" n="0381008" /><anchor xml:id="nkr_note_mod_0381008" n="0381008" /><anchor xml:id="beg0381008" n="0381008" /><anchor xml:id="end0381008" />
+<lb n="0381c27" ed="T" />never be the original Buddha. If one does not awaken in the mind but only through teachings,
+<lb n="0381c28" ed="T" />one belittles mind and values doctrine, chasing fragments and forgetting the original mind. Therefore only accord with the original mind
+<lb n="0381c29" ed="T" />and do not seek Dharma. Mind itself is Dharma. Ordinary people are often obstructed in mind by objects and in principle by affairs.
+<pb n="0382a" xml:id="T48.2012A.0382a" ed="T" />
+<lb n="0382a01" ed="T" />They often wish to escape objects to calm the mind and avoid affairs to preserve principle, not knowing that it is
+<lb n="0382a02" ed="T" />the mind that obstructs objects and principle that obstructs affairs. If the mind is empty, objects become empty; if principle is silent,
+<lb n="0382a03" ed="T" />affairs themselves become still. Do not use the mind in reverse. Most people are unwilling to empty the mind, fearing they will fall
+<lb n="0382a04" ed="T" />into emptiness. They do not know their own mind is originally empty. The foolish remove affairs but not the mind; the wise
+<lb n="0382a05" ed="T" />remove the mind but not affairs. The mind of a bodhisattva is like space, abandoning everything.
+<lb n="0382a06" ed="T" />All meritorious deeds are done without attachment. There are three kinds of relinquishment. To relinquish inward and outward body and mind entirely,
+<lb n="0382a07" ed="T" />like space with nothing grasped or clung to, and then respond to things in accord with circumstances, with
+<lb n="0382a08" ed="T" />subject and object both forgotten, this is great relinquishment. If one practices the Way and gives merit while at the same time
+<lb n="0382a09" ed="T" />relinquishing them without hope for reward, this is middle relinquishment. If one widely cultivates good deeds while having some expectation,
+<lb n="0382a10" ed="T" />but upon hearing the Dharma understands emptiness and therefore does not cling, this is small relinquishment. Great relinquishment is like
+<lb n="0382a11" ed="T" />a torch before one, with no more confusion or awakening. Middle relinquishment is like a torch at one’s side, sometimes bright
+<lb n="0382a12" ed="T" />and sometimes dim. Small relinquishment is like a torch behind one, unable to see the pits ahead. Therefore the bodhisattva’s mind
+<lb n="0382a13" ed="T" />is like space, relinquishing everything. The past mind cannot be obtained; this is relinquishment of the past.
+<lb n="0382a14" ed="T" />The present mind cannot be obtained; this is relinquishment of the present. The future mind cannot be obtained; this is
+<lb n="0382a15" ed="T" />relinquishment of the future. This is called relinquishing the three times. Since the Tathagata transmitted the Dharma to Kashyapa,
+<lb n="0382a16" ed="T" />it has been mind sealing mind, mind to mind without difference. If the seal is placed on emptiness, no mark is made.
+<lb n="0382a17" ed="T" />If the seal is placed on a thing, it does not form the Dharma. Therefore mind seals mind and mind and mind are not different.
+<lb n="0382a18" ed="T" />Both the sealer and the sealed are difficult to realize; therefore few attain it. Yet mind itself is no mind.
+<lb n="0382a19" ed="T" />Attainment itself is no attainment. The Buddha has three bodies. The Dharma body teaches the Dharma of empty and open self nature. The reward
+<lb n="0382a20" ed="T" />body teaches all pure dharmas. The transformation body teaches the six perfections and myriad practices. The Dharma body
+<lb n="0382a21" ed="T" />teaches the Dharma that cannot be sought through words, sounds, forms, or written characters.
+<lb n="0382a22" ed="T" />There is nothing spoken and nothing realized; it is simply the empty openness of self nature. Therefore it is said that having no Dharma to speak is
+<lb n="0382a23" ed="T" />called teaching the Dharma. The reward body and transformation body appear according to circumstances, and the Dharma they teach also follows
+<lb n="0382a24" ed="T" />events and capacities to guide beings. All these are not the true Dharma. Therefore it is said that the reward and transformation are not the true
+<lb n="0382a25" ed="T" />Buddha, nor are they the true teacher of the Dharma. What is spoken of as one bright essence dividing into six harmonies
+<lb n="0382a26" ed="T" />means that the one bright essence is the one mind, and the six harmonies are the six faculties.
+<lb n="0382a27" ed="T" />Each of the six faculties joins with its object: the eye with form, the ear with sound, the nose with scent,
+<lb n="0382a28" ed="T" />the tongue with taste, the body with touch, and the mind with dharmas. Between them arise the six
+<lb n="0382a29" ed="T" />consciousnesses, forming the eighteen realms. If one understands that the eighteen realms have no reality, the six harmonies
+<pb n="0382b" xml:id="T48.2012A.0382b" ed="T" />
+<lb n="0382b01" ed="T" />are gathered back into the one bright essence, which is mind. Students of the Way all know this,
+<lb n="0382b02" ed="T" />yet they cannot avoid making interpretations of one essence and six harmonies, and thus they are bound by dharmas
+<lb n="0382b03" ed="T" />and fail to accord with the original mind. When the Tathagata appeared in the world, if he wished to teach the one vehicle true Dharma, beings would not
+<lb n="0382b04" ed="T" />believe it and would slander it, sinking into the sea of suffering. If he said nothing at all, he would fall into stinginess and fail to
+<lb n="0382b05" ed="T" />generously bestow the wondrous Way upon beings. Therefore he established skillful means and taught three vehicles.
+<lb n="0382b06" ed="T" />The vehicles have great and small, and realization has shallow and deep, yet none are the original Dharma. Therefore it is said that only the one vehicle Way exists and the other
+<lb n="0382b07" ed="T" />two are not true. Yet even then the Dharma of the One Mind was not fully revealed. Therefore he called Kashyapa to the same
+<lb n="0382b08" ed="T" />Dharma seat and separately transmitted the One Mind, the Dharma beyond words. This single branch of the teaching was made to proceed separately.
+<lb n="0382b09" ed="T" />Whoever can accord with and awaken to it will reach the Buddha stage.</p>
+<lb n="0382b10" ed="T" />
+<p xml:id="pT48p0382b1001">Someone asked: What is the Way and how is it practiced? The master said: What thing is the Way that you wish
+<lb n="0382b11" ed="T" />to practice? They asked: How do the teachers everywhere who transmit the tradition practice meditation and study the Way? The master said:
+<lb n="0382b12" ed="T" />Those are words for guiding people of dull capacity and cannot be relied upon.<anchor xml:id="nkr_note_orig_0382001" n="0382001" /><anchor xml:id="nkr_note_mod_0382001" n="0382001" /><anchor xml:id="beg0382001" n="0382001" /><anchor xml:id="end0382001" /><anchor xml:id="nkr_note_orig_0382002" n="0382002" /><anchor xml:id="nkr_note_mod_0382002" n="0382002" /><anchor xml:id="beg0382002" n="0382002" /><anchor xml:id="end0382002" /><anchor xml:id="beg_3" type="star" /><anchor xml:id="end_3" />
+<lb n="0382b13" ed="T" />They asked: If that is for dull capacities, what Dharma is spoken for those of superior capacity? The master said:
+<lb n="0382b14" ed="T" />If one is of superior capacity, why seek it from others? One cannot even obtain oneself,<anchor xml:id="nkr_note_orig_0382003" n="0382003" /><anchor xml:id="nkr_note_mod_0382003" n="0382003" /><anchor xml:id="beg0382003" n="0382003" /><anchor xml:id="end0382003" />
+<lb n="0382b15" ed="T" />so how could there be another Dharma that satisfies the mind? Do you not see where the teachings say: What is the form of each dharma?
+<lb n="0382b16" ed="T" />They said: If so, then there is nothing at all to seek. The master said: If that is the case,
+<lb n="0382b17" ed="T" />it saves effort. They said: But then it becomes complete annihilation; surely it is not nothing.
+<lb n="0382b18" ed="T" />The master said: Who told you it is nothing? Who is that it? You are trying to seek it.
+<lb n="0382b19" ed="T" />They said: If seeking is not allowed, why also say not to cut it off? The master said: If you do not seek,<anchor xml:id="nkr_note_orig_0382004" n="0382004" /><anchor xml:id="nkr_note_mod_0382004" n="0382004" /><anchor xml:id="beg0382004" n="0382004" /><anchor xml:id="end0382004" />
+<lb n="0382b20" ed="T" />then stop. Who tells you to cut it off? When you see the empty space before you, how would you cut<anchor xml:id="nkr_note_orig_0382005" n="0382005" /><anchor xml:id="nkr_note_mod_0382005" n="0382005" /><anchor xml:id="beg0382005" n="0382005" /><anchor xml:id="end0382005" />
+<lb n="0382b21" ed="T" />it off? They said: If this Dharma can be obtained, is it the same as space? The master said: Space sooner or later
+<lb n="0382b22" ed="T" />will tell you whether there is sameness or difference. I only speak like this for the moment, yet you immediately<anchor xml:id="nkr_note_orig_0382006" n="0382006" /><anchor xml:id="nkr_note_mod_0382006" n="0382006" /><anchor xml:id="beg0382006" n="0382006" /><anchor xml:id="end0382006" />
+<lb n="0382b23" ed="T" />produce interpretations from it. They said: Should one then not allow people to form interpretations? The master said: I have never
+<lb n="0382b24" ed="T" />obstructed you. But interpretation belongs to emotion; when emotion arises, wisdom is separated.<anchor xml:id="beg_4" type="star" /><anchor xml:id="end_4" />
+<lb n="0382b25" ed="T" />here should not give rise to feelings, is that so. The master said. If no feeling arises, who then says it is so.</p>
+<lb n="0382b26" ed="T" />
+<p xml:id="pT48p0382b2601">A monk asked. Whenever one speaks to the master, why does the master say the words fall into error.<anchor xml:id="nkr_note_orig_0382007" n="0382007" /><anchor xml:id="nkr_note_mod_0382007" n="0382007" /><anchor xml:id="beg0382007" n="0382007" /><anchor xml:id="end0382007" /><anchor xml:id="nkr_note_orig_0382008" n="0382008" /><anchor xml:id="nkr_note_mod_0382008" n="0382008" /><anchor xml:id="beg0382008" n="0382008" /><anchor xml:id="end0382008" />
+<lb n="0382b27" ed="T" />The master said. You simply do not understand speech. What falling into error is there.<anchor xml:id="beg_5" type="star" /><anchor xml:id="end_5" /></p>
+<lb n="0382b28" ed="T" />
+<p xml:id="pT48p0382b2801">A monk asked. All the many words spoken earlier were merely opposing words. There has never been
+<lb n="0382b29" ed="T" />any real Dharma pointed out to people. The master said. The real Dharma has no inversion. In the place where you now question
+<pb n="0382c" xml:id="T48.2012A.0382c" ed="T" />
+<lb n="0382c01" ed="T" />inversion arises by itself. What real Dharma are you seeking. The monk said. Since inversion arises in the questioning itself,<anchor xml:id="beg_6" type="star" /><anchor xml:id="end_6" />
+<lb n="0382c02" ed="T" />then how about the master’s answer. The master said. Just take something and look at your own face. Do not
+<lb n="0382c03" ed="T" />concern yourself with others. He also said. It is like a foolish dog that
+<lb n="0382c04" ed="T" />barks wherever it sees something move. When wind moves grass and trees it cannot tell the difference. He also said. In this Chan school of ours, since ancient times
+<lb n="0382c05" ed="T" />it has never taught people to seek knowledge or understanding. We only say to study the Way, which already
+<lb n="0382c06" ed="T" />is merely a phrase for guiding beginners. Yet the Way cannot truly be studied. If feelings remain that seek learning and understanding, it instead becomes
+<lb n="0382c07" ed="T" />a delusion of the Way. The Way has no location and is called the mind of the Great Vehicle. This mind is not within, without, or in between.
+<lb n="0382c08" ed="T" />In truth it has no location. Above all do not make intellectual interpretations. It is only said because your present
+<lb n="0382c09" ed="T" />measuring mind operates through feelings. If such measuring ends, the mind has no location. This Way is naturally so and originally<anchor xml:id="nkr_note_orig_0382009" n="0382009" /><anchor xml:id="nkr_note_mod_0382009" n="0382009" /><anchor xml:id="beg0382009" n="0382009" /><anchor xml:id="end0382009" />
+<lb n="0382c10" ed="T" />has no name. Only because people do not recognize it and are lost in feelings do the Buddhas
+<lb n="0382c11" ed="T" />appear in the world and explain this matter. Fearing that you people would not understand, they provisionally establish the name Way. But
+<lb n="0382c12" ed="T" />you must not cling to the name and produce interpretations. Therefore it is said. Once the fish is caught the trap is forgotten. Body and mind then naturally realize
+<lb n="0382c13" ed="T" />the Way and recognize the mind. Realizing the source is therefore called a renunciant. The fruit of a renunciant is to<anchor xml:id="nkr_note_orig_0382010" n="0382010" /><anchor xml:id="nkr_note_mod_0382010" n="0382010" /><anchor xml:id="beg0382010" n="0382010" /><anchor xml:id="end0382010" />
+<lb n="0382c14" ed="T" />cease thoughts and accomplish it, not to obtain it through study. Now you use mind to seek mind, going to other people's houses
+<lb n="0382c15" ed="T" />merely trying to learn and obtain something. When will you ever gain it. In ancient times people had sharp faculties and upon hearing a single word<anchor xml:id="beg_7" type="star" /><anchor xml:id="end_7" />
+<lb n="0382c16" ed="T" />they immediately ended learning. Therefore they were called people of no-learning, idle practitioners of non-action. Nowadays
+<lb n="0382c17" ed="T" />people only wish for much knowledge and understanding. They widely seek scriptural meanings and call this practice.
+<lb n="0382c18" ed="T" />They do not know that much knowledge and interpretation instead become obstruction. It is like giving children much cream and milk
+<lb n="0382c19" ed="T" />to eat without knowing whether it is digested or not. Students of the three vehicles are all like this.
+<lb n="0382c20" ed="T" />They are all called those who cannot digest their food. So-called undigested knowledge and interpretations are all poison.
+<lb n="0382c21" ed="T" />They all grasp within birth and death. Within true suchness there is no such thing. Therefore it is said. In my
+<lb n="0382c22" ed="T" />royal treasury there is no such sword. All previous understandings must
+<lb n="0382c23" ed="T" />be entirely set aside and made empty, with no further discrimination. This is the empty treasury of the Tathagata.<anchor xml:id="nkr_note_orig_0382011" n="0382011" /><anchor xml:id="nkr_note_mod_0382011" n="0382011" /><anchor xml:id="beg0382011" n="0382011" /><anchor xml:id="end0382011" />
+<lb n="0382c24" ed="T" />In the treasury of the Tathagata there is not even the smallest dust. This is the Dharma king who destroys existence appearing in the world.
+<lb n="0382c25" ed="T" />It is also said. From Dipankara Buddha I obtained not the slightest Dharma. These words only
+<lb n="0382c26" ed="T" />serve to empty your conceptual understanding. When inside and outside are melted away and feelings are exhausted,<anchor xml:id="nkr_note_orig_0382012" n="0382012" /><anchor xml:id="nkr_note_mod_0382012" n="0382012" /><anchor xml:id="beg0382012" n="0382012" /><anchor xml:id="end0382012" /><anchor xml:id="nkr_note_orig_0382013" n="0382013" /><anchor xml:id="nkr_note_mod_0382013" n="0382013" /><anchor xml:id="beg0382013" n="0382013" /><anchor xml:id="end0382013" />
+<lb n="0382c27" ed="T" />with no attachment remaining, one becomes a person with nothing to do. The doctrinal nets of the three vehicles are merely medicines suited to capacities.
+<lb n="0382c28" ed="T" />They are temporary teachings given according to circumstances, each different. If one understands this,
+<lb n="0382c29" ed="T" />one will not be deluded. Above all do not cling to words in any single teaching or method. Why is this so.
+<pb n="0383a" xml:id="T48.2012A.0383a" ed="T" />
+<lb n="0383a01" ed="T" />Because in truth there is no fixed Dharma that the Tathagata can speak. In this school of ours
+<lb n="0383a02" ed="T" />we do not discuss such matters. Only know that when the mind ceases it is finished. There is no need to think before or after.</p>
+<lb n="0383a03" ed="T" />
+<p xml:id="pT48p0383a0301">A monk asked. It is often said that mind itself is Buddha. Which mind exactly is Buddha.
+<lb n="0383a04" ed="T" />The master said. How many minds do you have. The monk said. Is the ordinary mind Buddha, or
+<lb n="0383a05" ed="T" />is the holy mind Buddha. The master said. Where do you have ordinary or holy mind.
+<lb n="0383a06" ed="T" />The monk said. The three vehicles speak of ordinary and holy. How can the master say there is none.
+<lb n="0383a07" ed="T" />The master said. In the three vehicles it clearly tells you that the mind of ordinary and holy is delusion. You do not understand and instead cling
+<lb n="0383a08" ed="T" />to it as existing, taking emptiness as reality. Is this not delusion. Because of delusion the mind becomes confused. You need only remove
+<lb n="0383a09" ed="T" />ordinary feelings and holy realms. Outside the mind there is no other Buddha. When the patriarch came from the west he directly pointed out
+<lb n="0383a10" ed="T" />that all people entirely are Buddha. Yet you do not recognize this, clinging to ordinary and holy and running outward.
+<lb n="0383a11" ed="T" />In doing so you only confuse your own mind. Therefore it is said to you that mind itself is Buddha. When a single thought
+<lb n="0383a12" ed="T" />of attachment arises you fall into other paths. From beginningless time until today it has never been different.
+<lb n="0383a13" ed="T" />Since there is no different Dharma it is called perfect enlightenment. The monk asked. What principle does the master mean by the word is.
+<lb n="0383a14" ed="T" />The master said. What principle are you seeking. The moment there is a principle the mind is already different.
+<lb n="0383a15" ed="T" />The monk said. Earlier you said from beginningless time it is not different from today. What is that principle.
+<lb n="0383a16" ed="T" />The master said. Because you seek, you make it different yourself. If you did not seek, where would difference be.
+<lb n="0383a17" ed="T" />The monk said. If there is no difference, why use the word is. The master said. If you did not believe in ordinary and holy,<anchor xml:id="nkr_note_orig_0383001" n="0383001" /><anchor xml:id="nkr_note_mod_0383001" n="0383001" /><anchor xml:id="beg0383001" n="0383001" /><anchor xml:id="end0383001" />
+<lb n="0383a18" ed="T" />who would say is to you. If it neither is nor is not, the mind is also not mind. When mind and is
+<lb n="0383a19" ed="T" />are both forgotten, where would you go to seek.<anchor xml:id="nkr_note_orig_0383002" n="0383002" /><anchor xml:id="nkr_note_mod_0383002" n="0383002" /><anchor xml:id="beg0383002" n="0383002" /><anchor xml:id="end0383002" /></p>
+<lb n="0383a20" ed="T" />
+<p xml:id="pT48p0383a2001">A monk asked. Delusion obstructs the true mind. How should it now be dispelled. The master said. If you raise
+<lb n="0383a21" ed="T" />delusion to eliminate delusion, that too becomes delusion. Delusion originally has no root. It only exists because of discrimination.
+<lb n="0383a22" ed="T" />If feelings toward both ordinary and holy are exhausted, delusion naturally disappears. If you still think about how to eliminate it,<anchor xml:id="nkr_note_orig_0383003" n="0383003" /><anchor xml:id="nkr_note_mod_0383003" n="0383003" /><anchor xml:id="beg0383003" n="0383003" /><anchor xml:id="end0383003" />
+<lb n="0383a23" ed="T" />you must not have the slightest attachment. This is called letting both arms fall away and you will surely
+<lb n="0383a24" ed="T" />obtain Buddhahood. The monk said. If there is no attachment, how is it transmitted. The master said. Mind transmits mind.
+<lb n="0383a25" ed="T" />The monk said. If mind transmits mind, why say that mind also does not exist.
+<lb n="0383a26" ed="T" />The master said. Not obtaining a single Dharma is called transmission of mind. If this mind is understood, it is no mind and no Dharma.
+<lb n="0383a27" ed="T" />The monk said. If there is no mind and no Dharma, how is it called transmission.
+<lb n="0383a28" ed="T" />The master said. When you hear transmission of mind you suppose something is obtained. Therefore the patriarch said that when the nature of mind is recognized it may be said to be inconceivable.
+<lb n="0383a29" ed="T" />It is clearly without attainment. When it is attained it is not spoken of as known. If this matter were made for you
+<pb n="0383b" xml:id="T48.2012A.0383b" ed="T" />
+<anchor xml:id="nkr_note_orig_0383004" n="0383004" /><anchor xml:id="nkr_note_mod_0383004" n="0383004" /><anchor xml:id="beg0383004" n="0383004" /><anchor xml:id="end0383004" />
+<lb n="0383b01" ed="T" />to understand conceptually, it would not be possible.</p>
+<lb n="0383b02" ed="T" />
+<p xml:id="pT48p0383b0201">A monk asked. The empty space before us is an object, is it not. Is there not a way to point to the object and see the mind.
+<lb n="0383b03" ed="T" />The master said. What mind tells you to see it in objects. Even if you see it,<anchor xml:id="beg_8" type="star" /><anchor xml:id="end_8" />
+<lb n="0383b04" ed="T" />it is only a mind reflecting objects. It is like a person using a mirror to look at his face.
+<lb n="0383b05" ed="T" />Even if the eyebrows and eyes are clearly seen, they are merely reflections. What does that have to do with you.
+<lb n="0383b06" ed="T" />The monk said. Without reflection, how could one ever see. The master said. If it depends on causes, it must always rely on things.
+<lb n="0383b07" ed="T" />When will it ever end. Did you not hear it said to you. Let go like a person with nothing in hand,<anchor xml:id="nkr_note_orig_0383005" n="0383005" /><anchor xml:id="nkr_note_mod_0383005" n="0383005" /><anchor xml:id="beg0383005" n="0383005" /><anchor xml:id="end0383005" />
+<lb n="0383b08" ed="T" />and all the many explanations are useless. The monk said. If one truly understands, is even reflection unnecessary.
+<lb n="0383b09" ed="T" />The master said. If there is nothing, what need is there for reflection. Do not open your eyes<g ref="#CB01681" />
+<lb n="0383b10" ed="T" />and speak recklessly.</p>
+<lb n="0383b11" ed="T" />
+<p xml:id="pT48p0383b1101">In a sermon the master said. A hundred kinds of knowledge are inferior to having no seeking. This is foremost. A practitioner
+<lb n="0383b12" ed="T" />is a person with nothing to do. There truly are not so many kinds of mind, nor any principles to speak of. Nothing
+<lb n="0383b13" ed="T" />more to say. Disperse.</p>
+<lb n="0383b14" ed="T" />
+<p xml:id="pT48p0383b1401">A monk asked. What is worldly truth. The master said. Why speak tangled words. Originally it is pure.
+<lb n="0383b15" ed="T" />Why rely on words and answers. Simply having no mind at all is called undefiled wisdom.
+<lb n="0383b16" ed="T" />In your daily walking, standing, sitting, lying down, and all speech, simply do not cling to conditioned dharmas.
+<lb n="0383b17" ed="T" />Every word and blink of the eye can accord with the undefiled. In this latter age
+<lb n="0383b18" ed="T" />many who study Chan cling to sounds and forms. Why not let your mind be like empty space.
+<lb n="0383b19" ed="T" />Become like dry wood and stones, like cold ashes and a dead fire. Only then will there be some<anchor xml:id="nkr_note_add_0383b1901" n="0383b1901" /><anchor xml:id="beg0383b1901" n="0383b1901" /><anchor xml:id="end0383b1901" />
+<lb n="0383b20" ed="T" />small correspondence. If not, one day Yama will interrogate you.<anchor xml:id="nkr_note_orig_0383006" n="0383006" /><anchor xml:id="nkr_note_mod_0383006" n="0383006" /><anchor xml:id="beg0383006" n="0383006" /><anchor xml:id="end0383006" />
+<lb n="0383b21" ed="T" />Just leave behind all dharmas of existence and nonexistence. Let the mind be like the sun always in empty space.
+<lb n="0383b22" ed="T" />Its light naturally shines without deliberate shining. This is not something accomplished by saving effort. When you reach this
+<lb n="0383b23" ed="T" />point there is no place to rest. This is practicing the conduct of all Buddhas and means giving rise to mind without abiding anywhere.<anchor xml:id="nkr_note_orig_0383007" n="0383007" /><anchor xml:id="nkr_note_mod_0383007" n="0383007" /><anchor xml:id="beg0383007" n="0383007" /><anchor xml:id="end0383007" />
+<lb n="0383b24" ed="T" />This is your pure Dharma body and is called unsurpassed enlightenment.
+<lb n="0383b25" ed="T" />If you do not understand this meaning, even if you learn much and practice diligently, wearing grass robes
+<lb n="0383b26" ed="T" />and eating roots, if you do not know your own mind it is all deviant practice and you will become followers of demons.
+<lb n="0383b27" ed="T" />What benefit is there in such practice. Master Zhigong said that Buddha is originally made by one's own mind.<anchor xml:id="nkr_note_orig_0383008" n="0383008" /><anchor xml:id="nkr_note_mod_0383008" n="0383008" /><anchor xml:id="beg0383008" n="0383008" /><anchor xml:id="end0383008" />
+<lb n="0383b28" ed="T" />How could it be sought in written words. Even if you learn the stages of the three sages, four fruits, and ten bhumis<anchor xml:id="nkr_note_orig_0383009" n="0383009" /><anchor xml:id="nkr_note_mod_0383009" n="0383009" /><anchor xml:id="beg0383009" n="0383009" /><anchor xml:id="end0383009" />
+<lb n="0383b29" ed="T" />filling your mind, you still sit within ordinary and holy. Have you not heard that all conditioned things are impermanent.
+<pb n="0383c" xml:id="T48.2012A.0383c" ed="T" />
+<lb n="0383c01" ed="T" />They are dharmas of birth and death. When their force is exhausted the arrow falls again and brings an unsatisfactory next life.
+<lb n="0383c02" ed="T" />How could that compare with the gate of the unconditioned true reality, where with one leap one enters the ground of the Tathagata.
+<lb n="0383c03" ed="T" />Since you are not yet such a person, you must study broadly the teachings of the ancients.<anchor xml:id="beg_9" type="star" /><anchor xml:id="end_9" />
+<lb n="0383c04" ed="T" />Zhigong said that without meeting an enlightened teacher one takes the medicine of the Great Vehicle in vain.<anchor xml:id="nkr_note_orig_0383010" n="0383010" /><anchor xml:id="nkr_note_mod_0383010" n="0383010" /><anchor xml:id="beg0383010" n="0383010" /><anchor xml:id="end0383010" />
+<lb n="0383c05" ed="T" />Now at all times in walking, standing, sitting, and lying down, simply learn no mind. After a long time it will truly
+<lb n="0383c06" ed="T" />be realized. Because your strength is small you cannot leap across at once. But in three, five, or
+<lb n="0383c07" ed="T" />ten years you must gain an entry point and naturally understand.<anchor xml:id="nkr_note_orig_0383011" n="0383011" /><anchor xml:id="nkr_note_mod_0383011" n="0383011" /><anchor xml:id="beg0383011" n="0383011" /><anchor xml:id="end0383011" />
+<lb n="0383c08" ed="T" />Because you cannot do so, you must use mind to study Chan and the Way. What connection does this have with the Buddha Dharma.<anchor xml:id="nkr_note_orig_0383012" n="0383012" /><anchor xml:id="nkr_note_mod_0383012" n="0383012" /><anchor xml:id="beg0383012" n="0383012" /><anchor xml:id="end0383012" /><anchor xml:id="beg_a" type="star" /><anchor xml:id="end_a" />
+<lb n="0383c09" ed="T" />Therefore it is said that what the Tathagata taught was all for guiding people, like using yellow leaves as gold to stop a child from crying.
+<lb n="0383c10" ed="T" />It is certainly not real. If something real were obtained, that person would not belong to this school.
+<lb n="0383c11" ed="T" />What connection would it have with your own nature. Therefore the scripture says that truly there is not the slightest Dharma to obtain.
+<lb n="0383c12" ed="T" />This is called unsurpassed enlightenment. If you understand this meaning you will know that the Buddha path
+<lb n="0383c13" ed="T" />and the demon path are both mistaken. Originally it is bright and pure, with no square or round, no large or small,
+<lb n="0383c14" ed="T" />no long or short. There is no defilement, no action, no delusion, no enlightenment. Clearly seen, there is
+<lb n="0383c15" ed="T" />not a single thing. There is neither person nor Buddha. The worlds of the great cosmos are like bubbles in the sea.
+<lb n="0383c16" ed="T" />All sages and worthies are like flashes of lightning. Nothing equals the true Dharma body of the mind.
+<lb n="0383c17" ed="T" />From ancient times until now it is the same as the Buddhas and patriarchs. Nowhere is even a hair lacking.
+<lb n="0383c18" ed="T" />Having understood this meaning you must strive in this life, for the outgoing breath does not guarantee the incoming one.</p>
+<lb n="0383c19" ed="T" />
+<p xml:id="pT48p0383c1901">A monk asked. The sixth patriarch did not know the scriptures, so how did he receive the robe and become patriarch. Elder Shenxiu
+<lb n="0383c20" ed="T" />was head monk among five hundred and a teaching master who lectured on thirty two scriptures and treatises.
+<lb n="0383c21" ed="T" />Why was the robe not transmitted to him. The master said. Because he had a mind of action and cultivated
+<lb n="0383c22" ed="T" />and realized something he regarded as real. Therefore the fifth patriarch transmitted to the sixth.
+<lb n="0383c23" ed="T" />The sixth patriarch simply silently accorded and received the profound meaning of the Tathagata.
+<lb n="0383c24" ed="T" />That is why the Dharma was transmitted to him. Have you not heard that the original Dharma is no Dharma and even no Dharma is Dharma.
+<lb n="0383c25" ed="T" />When transmitting no Dharma, what Dharma is truly Dharma. If you understand this meaning you may truly be called a renunciant.
+<lb n="0383c26" ed="T" />Then you may properly practice. If you do not believe this, consider how the monk Ming ran to Dayu Ridge
+<lb n="0383c27" ed="T" />to seek the sixth patriarch. The sixth patriarch asked him whether he came for the robe or for the Dharma.
+<lb n="0383c28" ed="T" />Ming replied that he came not for the robe but for the Dharma.
+<lb n="0383c29" ed="T" />The sixth patriarch told him to gather his thoughts for a moment and think neither of good nor evil.
+<pb n="0384a" xml:id="T48.2012A.0384a" ed="T" />
+<anchor xml:id="nkr_note_orig_0383013" n="0383013" /><anchor xml:id="nkr_note_mod_0383013" n="0383013" /><anchor xml:id="beg0383013" n="0383013" /><anchor xml:id="end0383013" />
+<lb n="0384a01" ed="T" />When Ming obeyed, the patriarch said that at the moment of thinking neither good nor evil,
+<lb n="0384a02" ed="T" />bring forth the face you had before your parents were born.
+<lb n="0384a03" ed="T" />At these words Ming suddenly understood and bowed, saying that it was like a person drinking water who knows for himself whether it is warm or cold.<anchor xml:id="nkr_note_orig_0384001" n="0384001" /><anchor xml:id="nkr_note_mod_0384001" n="0384001" /><anchor xml:id="beg0384001" n="0384001" /><anchor xml:id="end0384001" />
+<lb n="0384a04" ed="T" />He said that for thirty years in the assembly of the fifth patriarch he had labored in vain.<anchor xml:id="nkr_note_orig_0384002" n="0384002" /><anchor xml:id="nkr_note_mod_0384002" n="0384002" /><anchor xml:id="beg0384002" n="0384002" /><anchor xml:id="end0384002" />
+<lb n="0384a05" ed="T" />Only today did he realize his former error. The sixth patriarch said that only at this moment does one know<anchor xml:id="nkr_note_orig_0384003" n="0384003" /><anchor xml:id="nkr_note_mod_0384003" n="0384003" /><anchor xml:id="beg0384003" n="0384003" /><anchor xml:id="end0384003" />
+<lb n="0384a06" ed="T" />that the patriarch coming from the west directly pointed to the human mind so that seeing one’s nature one becomes Buddha, not through words.
+<lb n="0384a07" ed="T" />Ananda once asked Mahakasyapa what the World Honored One transmitted besides the golden robe.<anchor xml:id="nkr_note_orig_0384004" n="0384004" /><anchor xml:id="nkr_note_mod_0384004" n="0384004" /><anchor xml:id="beg0384004" n="0384004" /><anchor xml:id="end0384004" />
+<lb n="0384a08" ed="T" />Mahakasyapa called Ananda and Ananda answered. Mahakasyapa then told him to knock down the flagpole in front of the gate.
+<lb n="0384a09" ed="T" />This was the sign of the patriarchs. For thirty years Ananda served as attendant,
+<lb n="0384a10" ed="T" />yet because of his great learning the Buddha reproached him saying that a thousand days of studying wisdom
+<lb n="0384a11" ed="T" />are not equal to one day of studying the Way. Without studying the Way even a drop of water is hard to digest.</p>
+<lb n="0384a12" ed="T" />
+<p xml:id="pT48p0384a1201">A monk asked how to avoid falling into stages. The master said to eat all day without biting<anchor xml:id="nkr_note_orig_0384005" n="0384005" /><anchor xml:id="nkr_note_mod_0384005" n="0384005" /><anchor xml:id="beg0384005" n="0384005" /><anchor xml:id="end0384005" />
+<lb n="0384a13" ed="T" />a single grain of rice, to walk all day without stepping on a single piece of ground.
+<lb n="0384a14" ed="T" />At such times there are no marks of self or others. All day one does not leave the activities of the world yet is not deluded by objects.<anchor xml:id="nkr_note_orig_0384006" n="0384006" /><anchor xml:id="nkr_note_mod_0384006" n="0384006" /><anchor xml:id="beg0384006" n="0384006" /><anchor xml:id="end0384006" />
+<lb n="0384a15" ed="T" />Only then is one called a free person. At all times and in every thought see no forms.
+<lb n="0384a16" ed="T" />Do not grasp the past, present, and future. The past does not depart, the present does not abide, the future does not arrive.
+<lb n="0384a17" ed="T" />Sit peacefully and let things follow their course without constraint. This is called liberation. Strive diligently.
+<lb n="0384a18" ed="T" />Among thousands in this gate only three or five attain it. If you do not take it seriously,
+<lb n="0384a19" ed="T" />the day of suffering will surely come. Therefore it is said that one must resolve it in this life.
+<lb n="0384a20" ed="T" />Who could endure the remaining calamities for countless kalpas.</p>
+<lb n="0384a21" ed="T" />
+<cb:juan n="001" fun="close"><cb:jhead>End of The Essentials of the Transmission of Mind by the Chan Master of Huangbo Mountain <anchor xml:id="nkr_note_orig_0384007" n="0384007" /><anchor xml:id="nkr_note_mod_0384007" n="0384007" /><anchor xml:id="beg0384007" n="0384007" /><anchor xml:id="end0384007" /></cb:jhead></cb:juan></cb:div>
 </body>
 <back>
 <cb:div type="apparatus">
@@ -524,22 +548,23 @@
 <app from="#beg0379001" to="#end0379001"><lem wit="#wit.orig">斷際心要</lem><rdg resp="#resp2" wit="#wit1">黃檗山斷際禪師傳心法要</rdg></app>
 <app from="#beg0379002" to="#end0379002"><lem wit="#wit.orig">曜</lem><rdg resp="#resp2" wit="#wit1">耀</rdg></app>
 <app from="#beg0379003" to="#end0379003"><lem wit="#wit.orig">動</lem><rdg resp="#resp2" wit="#wit1">運</rdg></app>
-<app from="#beg0379004" to="#end0379004"><lem wit="#wit.orig">如<lb n="0379c12" ed="T"/>何</lem><rdg resp="#resp2" wit="#wit1">何如</rdg></app>
+<app from="#beg0379004" to="#end0379004"><lem wit="#wit.orig">如
+<lb n="0379c12" ed="T" />何</lem><rdg resp="#resp2" wit="#wit1">何如</rdg></app>
 <app from="#beg0379005" to="#end0379005"><lem wit="#wit.orig">唐</lem><rdg resp="#resp2" wit="#wit1">時唐</rdg></app>
-<app from="#beg0379006" to="#end0379006"><lem wit="#wit.orig">一</lem><rdg resp="#resp2" wit="#wit1"><space quantity="0"/></rdg></app>
-<app from="#beg0379007" to="#end0379007"><lem wit="#wit.orig">初</lem><rdg resp="#resp2" wit="#wit1"><space quantity="0"/></rdg></app>
-<app cb:word-count="11" from="#beg0379008" to="#end0379008"><lem wit="#wit.orig">黃檗山斷際禪師傳心法要</lem><rdg resp="#resp2" wit="#wit1"><space quantity="0"/></rdg></app>
+<app from="#beg0379006" to="#end0379006"><lem wit="#wit.orig">一</lem><rdg resp="#resp2" wit="#wit1"><space quantity="0" /></rdg></app>
+<app from="#beg0379007" to="#end0379007"><lem wit="#wit.orig">初</lem><rdg resp="#resp2" wit="#wit1"><space quantity="0" /></rdg></app>
+<app cb:word-count="11" from="#beg0379008" to="#end0379008"><lem wit="#wit.orig">黃檗山斷際禪師傳心法要</lem><rdg resp="#resp2" wit="#wit1"><space quantity="0" /></rdg></app>
 <app from="#beg0380001" to="#end0380001"><lem wit="#wit.orig">陵</lem><rdg resp="#resp2" wit="#wit1">凌</rdg></app>
 <app from="#beg0380002" to="#end0380002"><lem wit="#wit.orig">尿</lem><rdg resp="#resp2" wit="#wit1">溺</rdg></app>
 <app from="#beg0380003" to="#end0380003"><lem wit="#wit.orig">者</lem><rdg resp="#resp2" wit="#wit1">者有至十地乃得無心者</rdg></app>
 <app from="#beg0380004" to="#end0380004"><lem resp="#resp4" wit="#wit.cbeta">枉<note type="cf1">T51n2076_p0271a12</note><note type="cf2">X13n0287_p0898a11</note></lem><rdg wit="#wit.orig">柱</rdg><rdg resp="#resp2" wit="#wit1">枉</rdg></app>
-<app from="#beg0380005" to="#end0380005"><lem wit="#wit.orig">自</lem><rdg resp="#resp2" wit="#wit1"><space quantity="0"/></rdg></app>
+<app from="#beg0380005" to="#end0380005"><lem wit="#wit.orig">自</lem><rdg resp="#resp2" wit="#wit1"><space quantity="0" /></rdg></app>
 <app from="#beg0380006" to="#end0380006"><lem wit="#wit.orig">秖</lem><rdg resp="#resp2" wit="#wit1">祇</rdg></app>
 <app from="#beg0380007" to="#end0380007"><lem wit="#wit.orig">者</lem><rdg resp="#resp2" wit="#wit1">知</rdg></app>
-<app from="#beg0380008" to="#end0380008"><lem wit="#wit.orig">亦</lem><rdg resp="#resp2" wit="#wit1"><space quantity="0"/></rdg></app>
+<app from="#beg0380008" to="#end0380008"><lem wit="#wit.orig">亦</lem><rdg resp="#resp2" wit="#wit1"><space quantity="0" /></rdg></app>
 <app from="#beg0380009" to="#end0380009"><lem wit="#wit.orig">惟</lem><rdg resp="#resp2" wit="#wit1">唯</rdg></app>
 <app from="#beg_1" to="#end_1" corresp="#0380006"><lem wit="#wit.orig">秖</lem><rdg resp="#resp2" wit="#wit1">祇</rdg></app>
-<app from="#beg0381001" to="#end0381001"><lem wit="#wit.orig">是</lem><rdg resp="#resp2" wit="#wit1"><space quantity="0"/></rdg></app>
+<app from="#beg0381001" to="#end0381001"><lem wit="#wit.orig">是</lem><rdg resp="#resp2" wit="#wit1"><space quantity="0" /></rdg></app>
 <app from="#beg0381002" to="#end0381002"><lem wit="#wit.orig">像</lem><rdg resp="#resp2" wit="#wit1">象</rdg></app>
 <app from="#beg0381003" to="#end0381003"><lem wit="#wit.orig">于</lem><rdg resp="#resp2" wit="#wit1">於</rdg></app>
 <app from="#beg0381004" to="#end0381004"><lem wit="#wit.orig">皆</lem><rdg resp="#resp2" wit="#wit1">並</rdg></app>
@@ -547,13 +572,13 @@
 <app from="#beg0381006" to="#end0381006"><lem wit="#wit.orig">欣</lem><rdg resp="#resp2" wit="#wit1">忻</rdg></app>
 <app from="#beg_2" to="#end_2" corresp="#0381006"><lem wit="#wit.orig">欣</lem><rdg resp="#resp2" wit="#wit1">忻</rdg></app>
 <app from="#beg0381007" to="#end0381007"><lem wit="#wit.orig">人</lem><rdg resp="#resp2" wit="#wit1">人也</rdg></app>
-<app from="#beg0381008" to="#end0381008"><lem wit="#wit.orig">終</lem><rdg resp="#resp2" wit="#wit1"><space quantity="0"/></rdg></app>
+<app from="#beg0381008" to="#end0381008"><lem wit="#wit.orig">終</lem><rdg resp="#resp2" wit="#wit1"><space quantity="0" /></rdg></app>
 <app from="#beg0382001" to="#end0382001"><lem wit="#wit.orig">引接</lem><rdg resp="#resp2" wit="#wit1">接引</rdg></app>
 <app from="#beg0382002" to="#end0382002"><lem wit="#wit.orig">即</lem><rdg resp="#resp2" wit="#wit1">既</rdg></app>
 <app from="#beg_3" to="#end_3" corresp="#0382001"><lem wit="#wit.orig">引接</lem><rdg resp="#resp2" wit="#wit1">接引</rdg></app>
 <app from="#beg0382003" to="#end0382003"><lem wit="#wit.orig">就人</lem><rdg resp="#resp2" wit="#wit1">就它</rdg></app>
 <app from="#beg0382004" to="#end0382004"><lem wit="#wit.orig">便</lem><rdg resp="#resp2" wit="#wit1">即便</rdg></app>
-<app from="#beg0382005" to="#end0382005"><lem wit="#wit.orig">即</lem><rdg resp="#resp2" wit="#wit1"><space quantity="0"/></rdg></app>
+<app from="#beg0382005" to="#end0382005"><lem wit="#wit.orig">即</lem><rdg resp="#resp2" wit="#wit1"><space quantity="0" /></rdg></app>
 <app from="#beg0382006" to="#end0382006"><lem wit="#wit.orig">者</lem><rdg resp="#resp2" wit="#wit1">這</rdg></app>
 <app from="#beg_4" to="#end_4" corresp="#0382006"><lem wit="#wit.orig">者</lem><rdg resp="#resp2" wit="#wit1">這</rdg></app>
 <app from="#beg0382007" to="#end0382007"><lem wit="#wit.orig">甚</lem><rdg resp="#resp2" wit="#wit1">什</rdg></app>
@@ -569,7 +594,7 @@
 <app from="#beg0383001" to="#end0383001"><lem wit="#wit.orig">信</lem><rdg resp="#resp2" wit="#wit1">認</rdg></app>
 <app from="#beg0383002" to="#end0383002"><lem wit="#wit.orig">便</lem><rdg resp="#resp2" wit="#wit1">更</rdg></app>
 <app from="#beg0383003" to="#end0383003"><lem wit="#wit.orig">情盡</lem><rdg resp="#resp2" wit="#wit1">情莫計念</rdg></app>
-<app from="#beg0383004" to="#end0383004"><lem wit="#wit.orig">汝</lem><rdg resp="#resp2" wit="#wit1"><space quantity="0"/></rdg></app>
+<app from="#beg0383004" to="#end0383004"><lem wit="#wit.orig">汝</lem><rdg resp="#resp2" wit="#wit1"><space quantity="0" /></rdg></app>
 <app from="#beg_8" to="#end_8" corresp="#0382007"><lem wit="#wit.orig">甚</lem><rdg resp="#resp2" wit="#wit1">什</rdg></app>
 <app from="#beg0383005" to="#end0383005"><lem resp="#resp4" wit="#wit.cbeta">撒<note type="cf1">T48n2016_p0444b28</note><note type="cf2">X13n0287_p0898c08</note></lem><rdg wit="#wit.orig">撥</rdg><rdg resp="#resp2" wit="#wit1">撒</rdg><rdg resp="#resp2" wit="#wit1" type="correctionRemark">嬈</rdg></app>
 <app from="#beg0383b1901" to="#end0383b1901"><lem wit="#wit.cbeta" resp="#resp4">寒<note type="cf1">X17n0330_p0748a02</note><note type="cf2">X24n0469_p0828c06</note></lem><rdg wit="#wit.orig">塞</rdg></app>
@@ -579,7 +604,7 @@
 <app from="#beg0383009" to="#end0383009"><lem wit="#wit.orig">饒</lem><rdg resp="#resp2" wit="#wit1">假饒</rdg></app>
 <app from="#beg_9" to="#end_9" corresp="#0383008"><lem wit="#wit.orig">志</lem><rdg resp="#resp2" wit="#wit1">誌</rdg></app>
 <app from="#beg0383010" to="#end0383010"><lem resp="#resp4" wit="#wit.cbeta">枉<note type="cf1">T48n2012Bp0386c03</note></lem><rdg wit="#wit.orig">往</rdg><rdg resp="#resp2" wit="#wit1">枉</rdg></app>
-<app from="#beg0383011" to="#end0383011"><lem wit="#wit.orig">頭</lem><rdg resp="#resp2" wit="#wit1"><space quantity="0"/></rdg></app>
+<app from="#beg0383011" to="#end0383011"><lem wit="#wit.orig">頭</lem><rdg resp="#resp2" wit="#wit1"><space quantity="0" /></rdg></app>
 <app from="#beg0383012" to="#end0383012"><lem resp="#resp4" wit="#wit.cbeta">心<note type="cf1">X68n1315_p0015c23</note></lem><rdg wit="#wit.orig">水</rdg><rdg resp="#resp2" wit="#wit1">心</rdg></app>
 <app from="#beg_a" to="#end_a" corresp="#0382007"><lem wit="#wit.orig">甚</lem><rdg resp="#resp2" wit="#wit1">什</rdg></app>
 <app from="#beg0383013" to="#end0383013"><lem wit="#wit.orig">斂</lem><rdg resp="#resp2" wit="#wit1">歛</rdg></app>
