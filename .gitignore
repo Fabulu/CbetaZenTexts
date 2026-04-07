@@ -35,3 +35,5 @@ Thumbs.db
 # --- Build / runtime junk ---
 bin/
 obj/
+# --- Local generated reference TM ---
+translation-memory.reference.jsonl
