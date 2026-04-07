@@ -48,6 +48,11 @@ jobs:
               continue
             fi
 
+            # Allow personal translation XMLs under the author's translation tree
+            if echo "$file" | grep -qE "^community/translations/${AUTHOR}/.+\.xml$"; then
+              continue
+            fi
+
             # Allow shared community files that use merge=union
             # (translation-memory.approved.jsonl, termbase.json, scholar-collections.json)
             if echo "$file" | grep -qE "^(translation-memory\.approved\.jsonl|termbase\.json|scholar-collections\.json|translation-review\.jsonl)$"; then
