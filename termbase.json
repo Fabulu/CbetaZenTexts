@@ -1,6 +1,6 @@
 [
   {
-    "SourceTerm": "\u50E7\u554F",
+    "SourceTerm": "僧問",
     "PreferredTarget": "A monk asked",
     "AlternateTargets": [
       "A monk inquired",
@@ -8,21 +8,23 @@
     ],
     "Status": "preferred",
     "Note": "",
+    "CreatedBy": null,
     "WrittenUtc": null
   },
   {
-    "SourceTerm": "\u51E1\u60C5\u8056\u898B",
-    "PreferredTarget": "dualistic thinking\u2014whether ordinary or enlightened",
+    "SourceTerm": "凡情聖見",
+    "PreferredTarget": "dualistic thinking—whether ordinary or enlightened",
     "AlternateTargets": [
       "ordinary feelings and holy views",
       "ordinary and enlightened views"
     ],
     "Status": "preferred",
     "Note": "preferred house-style rendering",
+    "CreatedBy": null,
     "WrittenUtc": null
   },
   {
-    "SourceTerm": "\u548C\u5C1A",
+    "SourceTerm": "和尚",
     "PreferredTarget": "the master",
     "AlternateTargets": [
       "Venerable",
@@ -30,10 +32,11 @@
     ],
     "Status": "preferred",
     "Note": "",
+    "CreatedBy": null,
     "WrittenUtc": null
   },
   {
-    "SourceTerm": "\u56DE\u4E92",
+    "SourceTerm": "回互",
     "PreferredTarget": "guests and hosts changing places freely",
     "AlternateTargets": [
       "mutual interchange",
@@ -42,34 +45,38 @@
     ],
     "Status": "preferred",
     "Note": "house-style preferred phrase",
+    "CreatedBy": null,
     "WrittenUtc": null
   },
   {
-    "SourceTerm": "\u5982\u4F55\u662F\u4F5B",
+    "SourceTerm": "如何是佛",
     "PreferredTarget": "What is Buddha?",
     "AlternateTargets": [
       "What is the Buddha?"
     ],
     "Status": "allowed",
     "Note": "keep consistent within a text",
+    "CreatedBy": null,
     "WrittenUtc": null
   },
   {
-    "SourceTerm": "\u5E8F",
+    "SourceTerm": "序",
     "PreferredTarget": "Preface",
     "AlternateTargets": [],
     "Status": "preferred",
     "Note": "",
+    "CreatedBy": null,
     "WrittenUtc": null
   },
   {
-    "SourceTerm": "\u91D1\u9396\u7384\u8DEF",
+    "SourceTerm": "金鎖玄路",
     "PreferredTarget": "golden shackles on the mysterious path",
     "AlternateTargets": [
       "a golden lock that blocks the mysterious path"
     ],
     "Status": "preferred",
     "Note": "",
+    "CreatedBy": null,
     "WrittenUtc": null
   }
 ]
