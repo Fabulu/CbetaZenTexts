@@ -1,7 +1,7 @@
 NOTICE
 ======
 
-This repository redistributes XML materials from the CBETA project.
+This repository redistributes unmodified XML materials from the CBETA project.
 
 Original Source
 ---------------
@@ -27,21 +27,18 @@ All users of this repository must:
 
 - Preserve the original CBETA headers in every file
 - Maintain non-commercial use of the CBETA materials
-- Respect CBETA’s ownership of the original texts
+- Respect CBETA's ownership of the original texts
 
 Translations
 ------------
 
-The English translations in the `xml-p5t` directory are collaborative
-derivative works based on CBETA XML files.
-
-They are distributed under the same non-commercial condition
-as the original CBETA materials.
+English translations are maintained in a separate repository:
+https://github.com/Fabulu/CbetaZenTranslations
 
 Independence
 ------------
 
-This project is an independent translation effort and is not an official
+This project is an independent redistribution effort and is not an official
 CBETA publication.
 
 If CBETA requests changes regarding attribution or redistribution,

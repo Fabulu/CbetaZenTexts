@@ -1,7 +1,7 @@
 CbetaZenTexts License Notice
 =============================
 
-This repository contains materials derived from the CBETA XML-P5 corpus.
+This repository contains unmodified redistributions of the CBETA XML-P5 corpus.
 
 Original Source
 ---------------
@@ -32,28 +32,23 @@ Accordingly:
 - The full CBETA header must not be removed or altered.
 - If you reuse or redistribute these files, you must preserve the CBETA header.
 
-Translations
-------------
-
-The English translations in `xml-p5t` are collaborative derivative works
-based on CBETA’s XML files.
-
-These translations are distributed under the same non-commercial condition
-as the original CBETA texts.
-
-This repository does not remove, override, or modify CBETA’s licensing terms.
-
 No Additional Commercial License Granted
-----------------------------------------
+-----------------------------------------
 
 This repository does not grant any commercial rights to CBETA content.
 
 If you wish to use CBETA materials commercially, you must contact CBETA directly.
 
+Translations
+-------------
+
+English translations of these texts are maintained in a separate repository:
+https://github.com/Fabulu/CbetaZenTranslations
+
 Disclaimer
 ----------
 
-This repository is an independent collaborative effort.
+This repository is an independent redistribution effort.
 It is not an official CBETA publication.
 
 If CBETA has concerns regarding redistribution, attribution, or presentation,
