@@ -1,69 +1,45 @@
 # CbetaZenTexts
 
-**Original CBETA XML corpus** — unmodified Chinese Buddhist texts in TEI XML format, with a focus on Zen / Chan texts.
+Original CBETA XML corpus — unmodified Chinese Buddhist texts in TEI XML format, with a focus on Zen/Chan texts. Built for the [Read Zen](https://github.com/Fabulu/ReadZen) project.
 
----
+## Why this exists
 
-## Repository Structure
+This repository hosts a curated subset of the CBETA canon focused on Zen/Chan texts. It is the non-commercial counterpart to [OpenZenTexts](https://github.com/Fabulu/OpenZenTexts), which carries an open license suitable for commercial use.
 
-### `xml-p5` — Original Chinese Texts
+## What's in here
 
-Contains **unmodified CBETA XML TEI P5 files**, mirrored from:
+```
+xml-p5/          Unmodified CBETA XML TEI P5 files (Jan 2026 snapshot)
+LICENSE          CBETA non-commercial license notice
+NOTICE           Attribution notice
+```
 
-https://github.com/cbeta-org/xml-p5
+Files in `xml-p5/` are redistributed unchanged from [cbeta-org/xml-p5](https://github.com/cbeta-org/xml-p5).
 
-**Source baseline snapshot:** January 2026
+## License
 
-- Files are redistributed **unchanged**
-- All original CBETA headers are preserved
-- These files should not be edited
+The original XML texts are provided by **CBETA — Chinese Buddhist Electronic Text Association** (財團法人佛教電子佛典基金會). CBETA permits redistribution only for non-commercial use, provided the full CBETA header remains intact in every file. See `LICENSE` and `NOTICE` for details.
 
-### `xml-p5/canons.json` — Canon Metadata
+## Contributing
 
-Index of available canons and their structure.
+Download [Read Zen](https://github.com/Fabulu/ReadZen), clone this repository using the built-in Git tab, open a text, translate or improve a section, save, commit, and submit a pull request — all from within the app.
 
----
+Machine translation is welcome as a first-pass baseline. Quality improves iteratively over time.
 
-## CBETA Non-Commercial Requirement
+**Translator annotation:** At the top of each translated file, add a short annotation so contributions can be tracked:
 
-The CBETA texts are provided under a **non-commercial use requirement**.
+```
+resp: your-name
+annotation: Machine translation using ChatGPT 5.2
+```
 
-- CBETA retains ownership of the original texts
-- Redistribution is allowed **only for non-commercial use**
-- The **full CBETA header must remain intact** in every file
+**Video walkthrough:** [Translating with ChatGPT](https://www.youtube.com/watch?v=xDwJJrbx-dA) — demonstrates the end-to-end workflow using the Blue Cliff Record as an example.
 
-Please don't sell this material, and don't remove or alter the CBETA headers.
+## Related repositories
 
----
-
-## Translations
-
-English translations of these texts are maintained in a separate repository:
-
-**[CbetaZenTranslations](https://github.com/Fabulu/CbetaZenTranslations)** — Community-contributed English translations
-
-To contribute translations, use the official desktop app:
-
-**[CBETA Translator](https://github.com/Fabulu/CBETA-Translator)** — Desktop app for reading and translating CBETA texts
-
----
-
-## License & Attribution
-
-The original XML texts are provided by:
-
-**CBETA — Chinese Buddhist Electronic Text Association**
-財團法人佛教電子佛典基金会
-
-Each file includes the official CBETA header, which contains the authoritative license and attribution language.
-
-This repository **does not modify or override** CBETA's license terms.
-
-See [LICENSE](LICENSE) for details.
-
----
-
-## Related Repositories
-
-- **[CbetaZenTranslations](https://github.com/Fabulu/CbetaZenTranslations)** — English translations + community data
-- **[CBETA-Translator](https://github.com/Fabulu/CBETA-Translator)** — Desktop app for reading and translating
+| Repository | Description |
+|---|---|
+| [OpenZenTexts](https://github.com/Fabulu/OpenZenTexts) | Open-licensed Chinese Zen source texts (commercial use OK) |
+| [OpenZenTranslations](https://github.com/Fabulu/OpenZenTranslations) | Translations of open-licensed texts (commercial use OK) |
+| [CbetaZenTranslations](https://github.com/Fabulu/CbetaZenTranslations) | Translations of CBETA texts (non-commercial) |
+| [Read Zen](https://github.com/Fabulu/ReadZen) | Desktop app for reading and translating Zen texts |
